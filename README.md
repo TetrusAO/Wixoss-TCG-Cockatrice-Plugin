@@ -12,17 +12,15 @@ I do not own anything related to the Wixoss franchise, including its anime serie
 
 2. Restart the program, then go to (Card Database -> Open Custom Sets folder).  This should take you to Cockatrice's customsets folder found in your user's AppData folder.  
 
-3. Unzip the contents of this download, then move its Wixoss TCG.xml file into that customsets folder as mentioned in step 2.
+3. Move back a folder from the customsets folder.  You should then see the customsets folder itself along with a number of other folders, including ones named pics and themes.
 
-4. Move back a folder from the customsets folder.  You should then see the customsets folder itself along with a number of other folders, including ones named pics and themes.
+4. Move the customsets, pics, and themes folders from this download into that Cockatrice folder.  If it asks you if you want to merge the contents, say yes.
 
-5. Move the pics and themes folders from this download into that Cockatrice folder.  If it asks you if you want to merge the contents, say yes.
+5. Restart the Cockatrice program.  Once the program reloads, it should notify you of new sets being added to it and will ask if you want to enable those sets.  Say yes.
 
-6. Restart the Cockatrice program.  Once the program reloads, it should notify you of new sets being added to it and will ask if you want to enable those sets.  Say yes.
+6. Go to (Card Database -> Manage Sets) then press the OK button.  This should refresh the kinds of entries that will appear in the main list of cards on the left side of the window.
 
-7. Go to (Card Database -> Manage Sets) then press the OK button.  This should refresh the kinds of entries that will appear in the main list of cards on the left side of the window.
-
-8. If you see a number of Wixoss TCG cards show up on that menu, then you have successfully added Wixoss to Cockatrice.  I hope you enjoy the game!
+7. If you see a number of Wixoss TCG cards show up on that menu, then you have successfully added Wixoss to Cockatrice.  I hope you enjoy the game!
 
 -- **OPTIONAL:  Change the theme to the Wixoss TCG theme** --
 
