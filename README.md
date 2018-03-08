@@ -22,6 +22,33 @@ I do not own anything related to the Wixoss franchise, including its anime serie
 
 7. If you see a number of Wixoss TCG cards show up on that menu, then you have successfully added Wixoss to Cockatrice.  I hope you enjoy the game!
 
+
+-- **OPTIONAL:  Safely removing sets/cards from MTG/other TCGs from the card list menu** --
+
+**Quick and easy way before moving files**: 
+1. Before moving the download's customsets folder into Cockatrice's customsets folder for merging, go open the Cockatrice program itself if it isn't open already, then enter (Card Database -> Manage Sets). There should be a large lists of sets that are enabled from MTG and other custom games you have added to Cockatrice.
+
+2. Hit "Disable all", then re-enable a single set from the menu by clicking its checkmark.  Memorize the name of the set you re-enable.
+
+3. Now you can merge the customsets folder as mentioned before on #4 in the main directions above.
+
+4. Restart Cockatrice, then say yes to the prompt that will show up for the new Wixoss TCG setfile you added.
+
+5. Enter (Card Database -> Manage Sets) again, and disable the one set you kept enabled in #2. Now the only cards that should show up on the program are Wixoss TCG cards!
+
+**Slightly less convenient way if the files were already moved**
+This method is best for completely removing the MTG database from Cockatrice.  Go with this method if you have no plans to play MTG.
+
+1. If the folders referenced in #4 in the main directions were already merged, move the cards.xml file that is seen next to all those folders to a different location on your computer. Or just delete the file, that's up to you.
+
+2. Move the Wixoss TCG.xml file that is in Cockatrice's customsets folder into the original location of the cards.xml file before you moved/deleted it.
+
+3. Rename the Wixoss TCG.xml file to cards.xml
+
+4. Restart Cockatrice, and now the program will treat your Wixoss TCG file as the main database for the program, with the original cards.xml out of sight!
+
+4a. For future updates, rename the updated Wixoss TCG.xml from the new download to cards.xml, then replace the old one you had in the Cockatrice before.
+
 -- **OPTIONAL:  Change the theme to the Wixoss TCG theme** --
 
 After successfully following through the previous steps above, go to (Cockatrice -> Settings -> Appearance). There should be a dropdown menu among its options there that will let you change the in-client theme to the Wixoss theme, featuring the game's main deck card back and a hand icon along with it.
