@@ -21285,7 +21285,7 @@ Choose up to two:
 [Life Burst]: Your opponent discards 1 card from their hand. If there is a Trap on your field, down 1 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
-			<name>§Otagame§, Great Phantom Insect</name>
+			<name>§Otagame§, Great Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-036.jpg">WX15</set>
 			<color>U</color>
 			<manacost>4</manacost>
@@ -21472,7 +21472,7 @@ Choose up to two:
 (Traps are set on SIGNI Zones facedown. A SIGNI Zone may only have 1 Trap on it at a time. When a SIGNI on your opponent's field attacks towards a SIGNI Zone with a Trap, if there is no SIGNI on that SIGNI Zone, you may flip the Trap face-up and trigger its [Trap] ability if any. Then put the flipped card into the trash.)</text>
 		</card>
 		<card>
-			<name>§Tonosama§, Phantom Insect</name>
+			<name>§Tonosama§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-050.jpg">WX15</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -21483,7 +21483,7 @@ Choose up to two:
 			<text>[Action] {Down}: Draw 1 card. Use this ability only if there is another Misfortune Insect SIGNI on your field. </text>
 		</card>
 		<card>
-			<name>§Kurumaba§, Phantom Insect</name>
+			<name>§Kurumaba§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-051.jpg">WX15</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -21496,7 +21496,7 @@ Choose up to two:
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>§Shouryou§, Phantom Insect</name>
+			<name>§Shouryou§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-052.jpg">WX15</set>
 			<color>U</color>
 			<manacost>1</manacost>
@@ -21941,7 +21941,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 [Life Burst]: [Ener Charge 1]</text>
 		</card>
 		<card>
-			<name>§Queen Ant§, Phantom Insect</name>
+			<name>§Queen Ant§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-088.jpg">WX15</set>
 			<color>U</color>
 			<manacost>4</manacost>
@@ -21952,7 +21952,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Action] {Down}, Put 1 Misfortune Insect SIGNI from your Ener Zone into the trash: Draw 2 cards. </text>
 		</card>
 		<card>
-			<name>§Soldier Ant§, Phantom Insect</name>
+			<name>§Soldier Ant§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-089.jpg">WX15</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -21963,7 +21963,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Constant]: While there is a SIGNI with 10000 power or higher on your opponent's field, this SIGNI's power becomes 12000. </text>
 		</card>
 		<card>
-			<name>§Work Ant§, Phantom Insect</name>
+			<name>§Work Ant§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-090.jpg">WX15</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -21974,7 +21974,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Constant]: While there is a SIGNI with 7000 power or higher on your opponent's field, this SIGNI's power becomes 8000. </text>
 		</card>
 		<card>
-			<name>§Child Ant§, Phantom Insect</name>
+			<name>§Child Ant§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-091.jpg">WX15</set>
 			<color>U</color>
 			<manacost>1</manacost>
@@ -24256,7 +24256,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Life Burst]: [Ener Charge 1]</text>
 		</card>
 		<card>
-			<name>§Snowsec§, Great Phantom Insect</name>
+			<name>§Snowsec§, Great Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-030.jpg">WX17</set>
 			<color>U</color>
 			<manacost>4</manacost>
@@ -24269,7 +24269,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [On-Play] {U}: Add 2 level 3 or lower Misfortune Insect SIGNI from your trash to your hand. If you do, discard 1 card from your hand. </text>
 		</card>
 		<card>
-			<name>§Yashiganira§, Great Phantom Insect</name>
+			<name>§Yashiganira§, Great Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-031.jpg">WX17</set>
 			<color>U</color>
 			<manacost>4</manacost>
@@ -24421,7 +24421,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Life Burst]: Return 1 Trap on your field to its owner's hand. If you do, return 1 SIGNI on your opponent's field to its owner's hand. </text>
 		</card>
 		<card>
-			<name>§Sakurae§, Phantom Insect</name>
+			<name>§Sakurae§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-042.jpg">WX17</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -24437,7 +24437,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 - Your opponent discards 1 card from their hand. </text>
 		</card>
 		<card>
-			<name>§Shirae§, Phantom Insect</name>
+			<name>§Shirae§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-043.jpg">WX17</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -24714,7 +24714,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 			<text>[Auto]: When this SIGNI is banished, you may pay {U}. If you do, search your deck for 1 level 2 Trick SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
-			<name>§Takaashi§, Phantom Insect</name>
+			<name>§Takaashi§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-065.jpg">WX17</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -24727,7 +24727,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Life Burst]: Down and freeze up to 2 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
-			<name>§Yakouchi§, Phantom Insect</name>
+			<name>§Yakouchi§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-066.jpg">WX17</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -24739,7 +24739,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Action] {Down}:  Draw 1 card, then discard 1 card from your hand. </text>
 		</card>
 		<card>
-			<name>§Yunohana§, Phantom Insect</name>
+			<name>§Yunohana§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-067.jpg">WX17</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -24752,7 +24752,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Life Burst]: Draw 1 card. </text>
 		</card>
 		<card>
-			<name>§Umihota§, Phantom Insect</name>
+			<name>§Umihota§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-068.jpg">WX17</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -24764,7 +24764,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Auto]: When this SIGNI is banished, draw 1 card, then discard 1 card from your hand. </text>
 		</card>
 		<card>
-			<name>§Shiomaneki§, Phantom Insect</name>
+			<name>§Shiomaneki§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-069.jpg">WX17</set>
 			<color>U</color>
 			<manacost>1</manacost>
@@ -24777,7 +24777,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [Life Burst]: [Ener Charge 1]</text>
 		</card>
 		<card>
-			<name>§Yago§, Phantom Insect</name>
+			<name>§Yago§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-070.jpg">WX17</set>
 			<color>U</color>
 			<manacost>1</manacost>
@@ -25937,7 +25937,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>§Biwakomu§, Phantom Insect</name>
+			<name>§Biwakomu§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX18/WX18-049.jpg">WX18</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -26202,7 +26202,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 [Life Burst]: Draw 1 card. </text>
 		</card>
 		<card>
-			<name>§Ibarakan§, Phantom Insect</name>
+			<name>§Ibarakan§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX18/WX18-071.jpg">WX18</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -26213,7 +26213,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<text>[Auto] [1/Turn]: When a Misfortune Insect is put from the trash onto your field (including this SIGNI), put the top card of your deck into your Ener Zone. </text>
 		</card>
 		<card>
-			<name>§Kameari§, Phantom Insect</name>
+			<name>§Kameari§, Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX18/WX18-072.jpg">WX18</set>
 			<color>U</color>
 			<manacost>1</manacost>
@@ -28553,7 +28553,7 @@ Choose up to two:
 [On-Play]: If you have a card with "Garnet Star" in its card name in your trash, banish 1 SIGNI on your opponent's center SIGNI zone with 12000 power or lower. </text>
 		</card>
 		<card>
-			<name>§Anomaris§, Great Phantom Insect</name>
+			<name>§Anomaris§, Great Phantom Insect </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX20/WX20-026.jpg">WX20</set>
 			<color>U</color>
 			<manacost>4</manacost>
