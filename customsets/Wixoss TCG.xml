@@ -30363,7 +30363,7 @@ Choose up to two:
 			<type>SIGNI - Machine Spirit: Electric Machine</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI attacks, shuffle 3 SPELLs with different total costs from your trash into your deck. If you do, draw 1 card and 1 SIGNI on your opponent's field gets -5000 power until end of turn.
+			<text>[Auto]: When this SIGNI attacks, shuffle 3 SPELLs with different total costs from your trash into your deck. If you do, draw 1 card and 1 SIGNI on your opponent's field gets -8000 power until end of turn.
 			
 [Life Burst] Search your deck for 1 SPELL, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
