@@ -2366,8 +2366,8 @@ Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. 
 			<name>Macaron Bugs</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD11/WD11-006.jpg">WD11</set>
 			<color>B</color>
-			<manacost></manacost>
-			<cmc></cmc>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
@@ -4212,8 +4212,8 @@ All Cooking SIGNI on your field get "When this SIGNI attacks, banish 1 SIGNI on 
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD18/WD18-007.jpg">WD18</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP24/SP24-007.jpg">SP24</set>
 			<color>G</color>
-			<manacost></manacost>
-			<cmc></cmc>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -28086,8 +28086,8 @@ Add the top 2 cards of your deck to your Life Cloth. You cannot use "Hammer Chan
 			<name>Macaron Bugs (WX19)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX19/WX19-Re18.jpg">WX19</set>
 			<color>B</color>
-			<manacost></manacost>
-			<cmc></cmc>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
