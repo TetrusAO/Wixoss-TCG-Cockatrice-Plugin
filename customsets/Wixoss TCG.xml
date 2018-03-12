@@ -12790,8 +12790,8 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<name>Hanayo Four, Golden Orchid Pledge</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX08/WX08-001.jpg">WX08</set>
 			<color>R</color>
-			<manacost>1 - RRR</manacost>
-			<cmc>1</cmc>
+			<manacost>4 - RRR</manacost>
+			<cmc>4</cmc>
 			<type>LRIG - Hanayo</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
