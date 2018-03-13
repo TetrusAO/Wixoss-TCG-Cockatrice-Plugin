@@ -23963,7 +23963,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 Put 1 SIGNI on your field into the trash. If you do, when a SIGNI on your opponent's field attacks this turn, if it is the first or second attack this turn, disable that attack. If you bet, if your opponent's LRIG attacks this turn, disable that attack. </text>
 		</card>
 		<card>
-			<name>Dona THIRD+</name>
+			<name>Dona THIRD+ </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-007.jpg">WX17</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
@@ -23974,7 +23974,7 @@ Put 1 SIGNI on your field into the trash. If you do, when a SIGNI on your oppone
 			<text>[On-Play] {W}: Get 1 Coin. </text>
 		</card>
 		<card>
-			<name>Dona SECOND+</name>
+			<name>Dona SECOND+ </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-008.jpg">WX17</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
@@ -23985,7 +23985,7 @@ Put 1 SIGNI on your field into the trash. If you do, when a SIGNI on your oppone
 			<text>[On-Play]: Get 1 Coin.</text>
 		</card>
 		<card>
-			<name>Dona FIRST+</name>
+			<name>Dona FIRST+ </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-009.jpg">WX17</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
@@ -28331,7 +28331,7 @@ Choose up to two:
 - Put 1 Image Spirit SIGNI from your trash onto your field. Its [On-Play] abilities do not trigger. </text>
 		</card>
 		<card>
-			<name>Dona THIRD++</name>
+			<name>Dona THIRD++ </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX20/WX20-008.jpg">WX20</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
@@ -31236,7 +31236,7 @@ Choose one:
 [Action] [1/Turn] [Attack Phase] {Exceed 2}: Shuffle 7 non-Origin Spirit SIGNI with different names from your trash into your deck. If you put 7 SIGNI that share a single common class with each other into your deck this way, put 1 SIGNI on your opponent's field into the trash." </text>
 		</card>
 		<card>
-			<name>Dona FOURTH+</name>
+			<name>Dona FOURTH+ </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX22/WX22-007.jpg">WX22</set>
 			<color>W</color>
 			<manacost>4 - WW</manacost>
