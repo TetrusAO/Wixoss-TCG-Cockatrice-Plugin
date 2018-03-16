@@ -21400,7 +21400,7 @@ Choose up to two:
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>≡Regulus≡, Natural Star</name>
+			<name>≡Regulus≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-044.jpg">WX15</set>
 			<color>R</color>
 			<manacost>3</manacost>
@@ -21411,7 +21411,7 @@ Choose up to two:
 			<text>[Action] {Down}: Draw 1 card. Use this ability only if there is a level 3 or higher SIGNI on your opponent's field. </text>
 		</card>
 		<card>
-			<name>≡Hadar≡, Natural Star</name>
+			<name>≡Hadar≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-045.jpg">WX15</set>
 			<color>R</color>
 			<manacost>2</manacost>
@@ -21424,7 +21424,7 @@ Choose up to two:
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>≡Antares≡, Natural Star</name>
+			<name>≡Antares≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-046.jpg">WX15</set>
 			<color>R</color>
 			<manacost>1</manacost>
@@ -21798,7 +21798,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Auto]: When this SIGNI is banished, you may pay {R}. If you do, search your deck for 1 level 2 Valor SIGNI, reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
-			<name>≡Almach≡, Natural Star</name>
+			<name>≡Almach≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-076.jpg">WX15</set>
 			<color>R</color>
 			<manacost>4</manacost>
@@ -21809,7 +21809,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Action] {Down}, Put 1 Space SIGNI from your Ener Zone into the trash: Banish all SIGNI on your opponent's field with 7000 power or lower. </text>
 		</card>
 		<card>
-			<name>≡Betelgeuse≡, Natural Star</name>
+			<name>≡Betelgeuse≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-077.jpg">WX15</set>
 			<color>R</color>
 			<manacost>3</manacost>
@@ -21820,7 +21820,7 @@ Choose one. If you removed 2 or more Viruses as you used this SPELL, choose two 
 			<text>[Constant]: While there are 3 SIGNI on your opponent's field, this SIGNI's power becomes 12000. </text>
 		</card>
 		<card>
-			<name>≡Sirius≡, Natural Star</name>
+			<name>≡Sirius≡, Natural Star </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-078.jpg">WX15</set>
 			<color>R</color>
 			<manacost>2</manacost>
