@@ -9283,7 +9283,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<type>SIGNI - War Spirit: Poison Fang - Iona Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for Poison Fang SIGNI on your field until end of turn.
+			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for each Poison Fang SIGNI on your field until end of turn.
 [Auto]: When a SIGNI is put from your opponent's field into the trash during your turn, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: 1 SIGNI on the field gets -10000 power until end of turn. If you have a Poison Fang SIGNI on your field, 1 SIGNI on the field gets −7000 power until end of turn. (You may choose the same SIGNI twice.)</text>
@@ -17195,7 +17195,7 @@ Your opponent discards 3 cards from their hand.
 			<type>SIGNI - Nature Spirit: Plant</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Choose white, red, blue, or black, then reveal the top card of your deck. If it is a SIGNI of the chosen color, add it to your hand. </text>
+			<text>[Action] {Down}: Choose white, red, blue, or black, then reveal the top card of your deck. If it is a SIGNI of the chosen color, put it into your Ener Zone. </text>
 		</card>
 		<card>
 			<name>Ninbaruf, Accompanying Devil Elephant</name>
@@ -29304,7 +29304,7 @@ Your LRIG gets these abilities until end of turn:
 			<type>SIGNI - War Spirit: Poison Fang - Iona Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for Poison Fang SIGNI on your field until end of turn.
+			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for each Poison Fang SIGNI on your field until end of turn.
 [Auto]: When a SIGNI is put from your opponent's field into the trash during your turn, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: 1 SIGNI on the field gets -10000 power until end of turn. If you have a Poison Fang SIGNI on your field, 1 SIGNI on the field gets −7000 power until end of turn. (You may choose the same SIGNI twice.)</text>
@@ -36084,7 +36084,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI - War Spirit: Poison Fang - Iona Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for Poison Fang SIGNI on your field until end of turn.
+			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for each Poison Fang SIGNI on your field until end of turn.
 [Auto]: When a SIGNI is put from your opponent's field into the trash during your turn, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: 1 SIGNI on the field gets -10000 power until end of turn. If you have a Poison Fang SIGNI on your field, 1 SIGNI on the field gets −7000 power until end of turn. (You may choose the same SIGNI twice.)</text>
