@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Connection"/>
+        <card number="4" name="Servant O"/>
+        <card number="4" name="Servant D4"/>
+        <card number="4" name="Tinbell, Phantom Apparition"/>
+        <card number="4" name="Peter, Phantom Apparition"/>
+        <card number="4" name="Nekomusu, Phantom Apparition"/>
+        <card number="4" name="Kyuuso, Phantom Apparition"/>
+        <card number="4" name="Nurikabe, Phantom Apparition"/>
+        <card number="4" name="Ittanmomen, Phantom Apparition"/>
+        <card number="4" name="Goblin, Phantom Apparition"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Midoriko, Golden Girl Type Two"/>
+        <card number="1" name="Midoriko, Golden Girl Type One"/>
+        <card number="1" name="Midoriko, Golden Combat Girl Type Three"/>
+        <card number="1" name="Midoriko, Combat Girl (WDK03)"/>
+        <card number="1" name="Midoriko, Bond Girl Type Four"/>
+        <card number="1" name="Hanayo, Acting in Perfect Harmony"/>
+        <card number="1" name="Realization of a Great Ambition"/>
+        <card number="1" name="Phantom Garden"/>
+        <card number="1" name="Cleared of All Charges"/>
+        <card number="1" name="Circle of Transmigration (WDK03)"/>
+    </zone>
+</cockatrice_deck>

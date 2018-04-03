@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Crushing Your Own Bones to Ash"/>
+        <card number="1" name="Burning and Simmering Tension (WDK01)"/>
+        <card number="1" name="Phantom Garden"/>
+        <card number="1" name="With Fortitude and Roaring Vigor"/>
+        <card number="1" name="Equal Fiery Flags"/>
+        <card number="1" name="Layla=Full Throttle"/>
+        <card number="1" name="Layla=Brake"/>
+        <card number="1" name="Layla=Corner"/>
+        <card number="1" name="Layla=Clutch"/>
+        <card number="1" name="Layla=Neutral"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Code Ride Futsuji"/>
+        <card number="4" name="Code Ride Yamate"/>
+        <card number="4" name="Code Ride Romen"/>
+        <card number="4" name="Code Ride Tokkyuu"/>
+        <card number="4" name="Code Ride Shinkan"/>
+        <card number="4" name="Code Ride Wagon"/>
+        <card number="4" name="Code Ride Go-Kart"/>
+        <card number="4" name="Servant O"/>
+        <card number="4" name="Servant D4"/>
+        <card number="4" name="Meteor of Bright Light"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Don't Leave Me"/>
+        <card number="1" name="Phantom Garden"/>
+        <card number="1" name="Three Dust"/>
+        <card number="1" name="Worst Condition (WDK02)"/>
+        <card number="1" name="Code Piruluk KEY"/>
+        <card number="1" name="Allos Piruluk (WDK02)"/>
+        <card number="1" name="Allos Piruluk DI"/>
+        <card number="1" name="Allos Piruluk MONO"/>
+        <card number="1" name="Allos Piruluk TET"/>
+        <card number="1" name="Allos Piruluk TRI"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Armored Slime, Sticky Figure of Hell"/>
+        <card number="4" name="Shakko, Blue Spear of Demonic Seas"/>
+        <card number="4" name="Slime, Sticky Figure of Hell"/>
+        <card number="4" name="Manomin, Hoodlum of Demonic Seas"/>
+        <card number="4" name="Screw Carmilla, Crimson Spear of Demonic Seas"/>
+        <card number="4" name="Shark Spear, Black Spear of Demonic Seas"/>
+        <card number="4" name="Slime Queen, Sticky Figure of Hell"/>
+        <card number="4" name="Servant D"/>
+        <card number="4" name="Servant O4"/>
+        <card number="4" name="DEVIL SEAL"/>
+    </zone>
+</cockatrice_deck>
