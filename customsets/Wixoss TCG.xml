@@ -6187,7 +6187,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<type>LRIG - Layla</type> 
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
 [On-Play] {R}: Banish 1 SIGNI on your opponent's field.
 [Action] Pay 1 Coin: Search your deck for 1 Riding Machine SIGNI, put it onto your field, then shuffle your deck. </text>
 		</card>
@@ -6200,7 +6200,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<type>LRIG - Layla</type> 
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
 [On-Play] {R}: Get 1 Coin.</text>
 		</card>
 		<card>
@@ -6212,7 +6212,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<type>LRIG - Layla</type> 
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
 [On-Play] Pay 1 Coin: Draw 1 card.</text>
 		</card>
 		<card>
@@ -6224,7 +6224,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<type>LRIG - Layla</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+			<text>[Ride] ([Action] {0}: This LRIG enters [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
 [On-Play] Discard 1 card from your hand: Get 1 Coin.</text>
 		</card>
 		<card>
