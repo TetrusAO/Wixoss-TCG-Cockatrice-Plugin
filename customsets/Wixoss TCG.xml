@@ -7348,7 +7348,7 @@ Put the top card of your deck into the Ener Zone.</text>
 			<type>SIGNI - Living Spirit: Water Beast - Piruluk Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Action] {R},{Down}: Draw 2 cards.</text>
+			<text>[Action] {U},{Down}: Draw 2 cards.</text>
 		</card>
 		<card>
 			<name>Code Art PZL</name>
@@ -18950,7 +18950,9 @@ If green was a chosen color, banish 1 SIGNI on your opponent's field with power 
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 7 or more Atom SIGNI with different names in your trash, this SIGNI's power becomes 15000.
 [Constant]: All Atom SIGNI on your field are unaffected by the effects of your opponent's SPELLs.
-[Action] {U}: Put 1 SPELL from your opponent's trash on top of your opponent's deck.</text>
+[Action] {U}: Put 1 SPELL from your opponent's trash on top of your opponent's deck.
+
+[Life Burst]: Draw 2 cards, then discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>Code Art DTP</name>
@@ -34063,7 +34065,9 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 7 or more Atom SIGNI with different names in your trash, this SIGNI's power becomes 15000.
 [Constant]: All Atom SIGNI on your field are unaffected by the effects of your opponent's SPELLs.
-[Action] {U}: Put 1 SPELL from your opponent's trash on top of your opponent's deck.</text>
+[Action] {U}: Put 1 SPELL from your opponent's trash on top of your opponent's deck.
+
+[Life Burst]: Draw 2 cards, then discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>Manganese, Natural Source (SP06)</name>
