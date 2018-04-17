@@ -23778,7 +23778,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all Viruses
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets +1000 power for each Virus on your opponent's field.
-[Auto]: At the end of your opponent's turn, banish 1 SIGNI on your opponent's field. (SIGNI that are on the same SIGNI Zone as a Virus are infected.)
+[Auto]: At the end of your opponent's turn, banish infected 1 SIGNI on your opponent's field. (SIGNI that are on the same SIGNI Zone as a Virus are infected.)
 
 [Life Burst]: Choose one:
 - Draw 1 card.
@@ -25497,7 +25497,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 		<card>
 			<name>#Venndia#, Set of Circular Wisdom</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-072.jpg">WX17</set>
-			<color>U</color>
+			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Image Spirit: Wisdom</type>
@@ -31121,8 +31121,8 @@ Choose up to two:
 			<name>≡Hera≡, Flame Blade of Jealousy</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX21/WX21-052.jpg">WX21</set>
 			<color>R</color>
-			<manacost>2</manacost>
-			<cmc>2</cmc>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
 			<type>SIGNI - Image Spirit: Angel - Tawil Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
