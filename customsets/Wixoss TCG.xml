@@ -1432,7 +1432,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 		</card>
 		<!-- WD06 -->
 		<card>
-			<name>Eldora=Mark IV'</name>
+			<name>Eldora=Mark IV' </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD06/WD06-001.jpg">WD06</set>
 			<color>U</color>
 			<manacost>4 - UUU</manacost>
@@ -1444,7 +1444,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 [Constant]: When a card is added to your Life Cloth, you may pay {U}{U}{U}. If you do, banish 1 SIGNI on your opponent's field.</text>
 		</card>
 		<card>
-			<name>Eldora=Mark III'</name>
+			<name>Eldora=Mark III' </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD06/WD06-002.jpg">WD06</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
@@ -1455,7 +1455,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<text>[On-Play]: Look at the top 2 cards of your Life Cloth, then put them back in any order.</text>
 		</card>
 		<card>
-			<name>Eldora=Mark II'</name>
+			<name>Eldora=Mark II' </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD06/WD06-003.jpg">WD06</set>
 			<color>U</color>
 			<manacost>2 - U</manacost>
@@ -1466,7 +1466,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<text>[Constant]: All blue SIGNI on your field get +1000 power.</text>
 		</card>
 		<card>
-			<name>Eldora=Mark I'</name>
+			<name>Eldora=Mark I' </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD06/WD06-004.jpg">WD06</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
@@ -11021,11 +11021,11 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 			<type>SIGNI - Machine Spirit: Labyrinth - Iona Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: The SIGNI in front of this SIGNI loses all of its abilities.
-[Constant]: While your opponent has 2 or more SIGNI with no abilities on their, this SIGNI gets +3000 power.
-[Auto]: When 1 SIGNI on your opponent's field is put into the owner's deck from the field, search your deck for 1 Labyrinth SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
+			<text>[Constant]: The SIGNI in front of this SIGNI loses its abilities.
+[Constant]: While there are 2 or more SIGNI with no abilities on your opponent's field, this SIGNI gets +3000 power.
+[Auto]: When a SIGNI on your opponent's field is put from the field into its owner's deck, search your deck for 1 Labyrinth SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
 
-[Life Burst]: All SIGNI on your opponent's field lose all of their abilities during your next turn. Draw 1 card. </text>
+[Life Burst]: All SIGNI on your opponent's field lose their abilities during your next turn. Draw 1 card. </text>
 		</card>
 		<card>
 			<name>Diabride, Natural Pyroxene</name>
@@ -29942,7 +29942,7 @@ Choose up to two:
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All RESONAs on your field cannot be banished by your opponent's card effects.
-[Auto]: When this SIGNI attacks, if there is a SIGNI with "Arachne Pider" in its card name on your field, 1 SIGNI with a Charm attached to it on your opponent's field gets -7000 power until end of turn.</text>
+[Auto]: When this SIGNI attacks, if there is a SIGNI with "Arachne Pider" in its card name on your field, 1 SIGNI on your opponent's field with a Charm attached gets -7000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Karehachou, Phantom Insect</name>
