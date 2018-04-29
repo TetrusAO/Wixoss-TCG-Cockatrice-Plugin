@@ -31940,7 +31940,7 @@ Choose one:
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY</type>
+			<type>KEY (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following abilities:
 "[Action] [1/Turn] [Attack Phase] {Exceed 2}: Search your deck for 1 level 4 or lower SIGNI and put it onto the field. Its [On-Play] abilities do not trigger. Then shuffle your deck.
@@ -32126,7 +32126,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine</type>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI enters [Drive], you may pay {R}{R}. If you do, banish 1 SIGNI on your opponent's field.
@@ -32523,7 +32523,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY</type>
+			<type>KEY (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following abilities:
 "[Action] [1/Turn] [Attack Phase] {Exceed 2}: Search your deck for 1 level 4 or lower SIGNI and put it onto the field. Its [On-Play] abilities do not trigger. Then shuffle your deck.
