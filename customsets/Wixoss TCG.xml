@@ -290,6 +290,12 @@
 			<releasedate>2018-02-22</releasedate>
 		</set>
 		<set>
+			<name>WXK01</name>
+			<longname>WXK-P01 Klaxon</longname>
+			<settype>Expansion</settype>
+			<releasedate>2018-04-26</releasedate>
+		</set>
+		<set>
 			<name>SP01</name>
 			<longname>SP-01 spec selector: Rūko Kominato</longname>
 			<settype>Special</settype>
@@ -675,10 +681,10 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -700,10 +706,10 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -787,6 +793,7 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD02/WD02-006.jpg">WD02</set>
 			<color>R</color>
 			<manacost>RRR</manacost>
+			<cmc>3</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -799,6 +806,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or lower.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD02/WD02-007.jpg">SP05</set>
 			<color>R</color>
 			<manacost>RR</manacost>
+			<cmc>2</cmc>
 			<type>ARTS - Hanayo Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -810,6 +818,7 @@ Discard 3 cards from your hand. If you do, banish all SIGNI. (Your SIGNI are als
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD02/WD02-008.jpg">WD02</set>
 			<color>R</color>
 			<manacost>1R</manacost>
+			<cmc>2</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -891,6 +900,7 @@ Banish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD02/WD02-015.jpg">WD02</set>
 			<color>R</color>
 			<manacost>R</manacost>
+			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
@@ -957,6 +967,7 @@ Banish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD03/WD03-006.jpg">WD03</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
+			<cmc>3</cmc>
 			<type>ARTS - Piruluk Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -969,7 +980,8 @@ Declare 1 number. Look at your opponent's hand, then discard all SIGNI with the 
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD03/WD03-007.jpg">SP05</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
-			<type>ARTS</type>
+			<cmc>3</cmc>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -980,6 +992,7 @@ Down up to 2 SIGNI on your opponent's field.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD03/WD03-008.jpg">WD03</set>
 			<color>U</color>
 			<manacost>1U</manacost>
+			<cmc>2</cmc>
 			<type>ARTS</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -1061,6 +1074,7 @@ Draw 2 cards.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD03/WD03-015.jpg">WD03</set>
 			<color>U</color>
 			<manacost>U</manacost>
+			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
 			<text>Discard 1 card from your opponent's hand at random.</text>
@@ -1213,10 +1227,10 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -1228,10 +1242,10 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -1941,10 +1955,10 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -1955,10 +1969,10 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -2706,10 +2720,10 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -2718,10 +2732,10 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -3003,10 +3017,10 @@ Choose one:
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -3017,10 +3031,10 @@ Choose one:
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -3305,7 +3319,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -3319,7 +3333,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -3598,10 +3612,10 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -3612,10 +3626,10 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -3726,7 +3740,7 @@ Declare 1 number. Look at your opponent's hand, then discard all SIGNI with the 
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS -  Piruluk Limited</type>
+			<type>ARTS -  Piruluk Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -3879,10 +3893,10 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -3891,10 +3905,10 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -4001,7 +4015,7 @@ Banish all SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -4122,10 +4136,10 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -4137,10 +4151,10 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -4359,10 +4373,10 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD18/WD18-016.jpg">SP24</set>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -4374,10 +4388,10 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -4583,7 +4597,7 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -4597,7 +4611,7 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card.	</text>
@@ -4691,7 +4705,7 @@ If you activate this ARTS during your opponent's turn and you did not bet, skip 
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -4809,7 +4823,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>&gt;
@@ -4823,7 +4837,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -5074,10 +5088,10 @@ Choose one:
             <color></color>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <type>SIGNI - Origin Spirit</type>
+            <type>SIGNI - Origin Spirit (KS)</type>
             <pt>3000/*</pt>
             <tablerow>2</tablerow>
-            <text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+            <text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
         </card>
         <card>
@@ -5086,10 +5100,10 @@ Choose one:
             <color></color>
             <manacost>1</manacost>
             <cmc>1</cmc>
-            <type>SIGNI - Origin Spirit</type>
+            <type>SIGNI - Origin Spirit (KS)</type>
             <pt>1000/*</pt>
             <tablerow>2</tablerow>
-            <text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+            <text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
         </card>
         <card>
@@ -5201,7 +5215,7 @@ Choose one:
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Guzuko</type> 
+			<type>LRIG - Guzuko (KS)</type> 
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -5212,7 +5226,7 @@ Choose one:
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Guzuko</type> 
+			<type>LRIG - Guzuko (KS)</type> 
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -5594,10 +5608,10 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -5606,10 +5620,10 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -5767,7 +5781,7 @@ When your card's [Life Burst] would trigger this turn, it triggers twice instead
 Choose one. If your LRIG is Aya choose up to two instead:
 - Down and freeze 1 SIGNI on your opponent's field.
 - Cancel the effect of 1 SPELL being used with total cost 5 or lower.
-- Put 2 cards from under your opponent's LRIG into their LRIG trash. </text>
+- Put 2 cards from under your opponent's LRIG into their LRIG Trash. </text>
 		</card>
 		<card>
 			<name>One More Call</name>
@@ -5811,7 +5825,7 @@ Flip 1 Trap on your field face-up then trigger its [Trap] ability if any. (Put t
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -6146,10 +6160,10 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -6158,10 +6172,10 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -6184,7 +6198,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>4 - 0</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Layla</type> 
+			<type>LRIG - Layla (KS)</type> 
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI until end of turn.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
@@ -6197,7 +6211,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Layla</type> 
+			<type>LRIG - Layla (KS)</type> 
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
@@ -6209,7 +6223,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>2 - R</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Layla</type> 
+			<type>LRIG - Layla (KS)</type> 
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
@@ -6221,7 +6235,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Layla</type> 
+			<type>LRIG - Layla (KS)</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
@@ -6233,7 +6247,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Layla</type> 
+			<type>LRIG - Layla (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -6244,7 +6258,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>3RRR</manacost>
 			<cmc>6</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -6256,7 +6270,7 @@ Banish 2 SIGNI on your opponent's field. (This ARTS cannot be used unless there 
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS - Layla Limited</type>
+			<type>ARTS - Layla Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -6271,7 +6285,7 @@ If you bet, this ARTS's cost becomes {0}.
 			<color>R</color>
 			<manacost>R</manacost>
 			<cmc>1</cmc>
-			<type>ARTS - Layla Limited</type>
+			<type>ARTS - Layla Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -6285,7 +6299,7 @@ Choose one:
 			<color>R</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
@@ -6300,7 +6314,7 @@ Banish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
@@ -6313,7 +6327,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Drive Constant]: This SIGNI gets +3000 power and "[Auto]: When this SIGNI attacks, banish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power." (This ability is active while this card is in [Drive].)
@@ -6326,7 +6340,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI starts [Drive], banish 1 SIGNI on your opponent's field.</text>
@@ -6337,7 +6351,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there is a SIGNI in [Drive] on your field, this SIGNI gets +4000 power. (A SIGNI is in [Drive] if an LRIG is on top of it.)</text>
@@ -6348,7 +6362,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI starts [Drive], banish 1 SIGNI on your opponent's field with 10000 power or lower.
@@ -6361,7 +6375,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>2</color>
 			<manacost>2</manacost>
 			<cmc>5000</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Drive Constant]: This SIGNI gets +7000 power. (This ability is active while this card is in [Drive].)</text>
@@ -6372,7 +6386,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine</type>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -6383,7 +6397,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI starts [Drive], banish 1 SIGNI on your opponent's field with 3000 power or lower.
@@ -6394,13 +6408,14 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<name>Servant D4</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-018.jpg">WDK01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-018.jpg">WDK03</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-121.jpg">WXK01</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Add 1 Origin Spirit SIGNI from your trash to your hand.</text>
@@ -6411,7 +6426,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>R</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Layla Limited</type>
+			<type>SPELL - Layla Limited (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Put 1 Riding Machine SIGNI on your field into the trash. If you do, banish 1 SIGNI on your opponent's field with 12000 power or lower.
@@ -6424,7 +6439,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>4 - 0</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
@@ -6437,7 +6452,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {U}: Get 1 Coin.</text>
@@ -6448,7 +6463,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>2 - U</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
@@ -6459,7 +6474,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] Discard 1 card from your hand: Get 1 Coin.</text>
@@ -6470,7 +6485,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -6481,7 +6496,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS -  Piruluk Limited</type>
+			<type>ARTS -  Piruluk Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -6494,7 +6509,7 @@ Banish up to 2 SIGNI on your opponent's field. </text>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -6507,7 +6522,7 @@ Discard 3 cards from your opponent's hand at random.</text>
 			<color>U</color>
 			<manacost>U</manacost>
 			<cmc>1</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -6520,7 +6535,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY</type>
+			<type>KEY (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following abilities if it is level 2 or higher:
 "[Action] [1/Turn] {Exceed 1} (Put 1 card from under this LRIG into the LRIG Trash): Draw 1 card. Your opponent discards 1 card from their hand.
@@ -6534,7 +6549,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Piruluk Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, if you have 1 or less cards in your hand, your opponent discards 1 card from their hand.
@@ -6547,7 +6562,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Piruluk Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play] Discard 2 cards from your hand: Banish 1 SIGNI on your opponent's field.</text>
@@ -6558,7 +6573,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil</type>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 1 or less cards in your hand, this SIGNI gets +4000 power. </text>
@@ -6569,7 +6584,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Piruluk Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: If there are 2 or less cards in your hand, 1 SIGNI on your opponent's field gets -1000 power until end of turn. If there 0 cards in your hand, it gets −5000 power until end of turn instead.
@@ -6582,7 +6597,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil</type>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 1 or less cards in your hand, this SIGNI gets +3000 power. </text>
@@ -6593,7 +6608,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil</type>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -6604,7 +6619,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Piruluk Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Each player discards 1 card from their hand.
@@ -6614,13 +6629,14 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 		<card>
 			<name>Servant O4</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-019.jpg">WDK02</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-122.jpg">WXK01</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Add 1 Origin Spirit SIGNI from your trash to your hand.</text>
@@ -6631,7 +6647,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Piruluk Limited</type>
+			<type>SPELL - Piruluk Limited (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Put 1 Devil SIGNI on your field into the trash. If you do, your opponent discards 1 card from their hand.
@@ -6644,7 +6660,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>4 - 0</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Midoriko</type> 
+			<type>LRIG - Midoriko (KS)</type> 
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
@@ -6657,7 +6673,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Midoriko</type> 
+			<type>LRIG - Midoriko (KS)</type> 
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {G}: Get 1 Coin.</text>
@@ -6668,7 +6684,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>2 - G</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Midoriko</type> 
+			<type>LRIG - Midoriko (KS)</type> 
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
@@ -6679,7 +6695,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Midoriko</type> 
+			<type>LRIG - Midoriko (KS)</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] Discard 1 card from your hand: Get 1 Coin.</text>
@@ -6690,7 +6706,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Midoriko</type> 
+			<type>LRIG - Midoriko (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -6701,7 +6717,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>R</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY</type>
+			<type>KEY (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following ability:
 "[Action] [Attack Phase] {Exceed 2} (Put 2 cards from under this LRIG into the LRIG Trash): Banish 1 SIGNI on your opponent's field."
@@ -6713,7 +6729,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>G</color>
 			<manacost>1GGG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS - Midoriko Limited</type>
+			<type>ARTS - Midoriko Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -6725,7 +6741,7 @@ Put all SIGNI on your opponent's field into the trash.</text>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -6739,7 +6755,7 @@ Add the top card of your deck to your Life Cloth. </text>
 			<color>G</color>
 			<manacost>GG</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -6753,7 +6769,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited</type>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When you use an ARTS, all Apparition SIGNI on your field get [Lancer] until end of turn. (When a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)
@@ -6766,7 +6782,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited</type>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: When this SIGNI is put onto your left SIGNI Zone, [Ener Charge 1].
@@ -6778,7 +6794,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Living Spirit: Apparition</type>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 2 or more ARTS in your LRIG Trash, this SIGNI gets +7000 power.</text>
@@ -6789,7 +6805,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited</type>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: Your green ARTSs with total cost 3 or more cost {G} less to use.
@@ -6802,7 +6818,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Living Spirit: Apparition</type>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there is an ARTS in your LRIG Trash, this SIGNI gets +5000 power.</text>
@@ -6813,7 +6829,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Living Spirit: Apparition</type>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -6824,7 +6840,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited</type>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]: When you use an ARTS, this SIGNI gets [Lancer] until end of turn. (When a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)
@@ -6837,7 +6853,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Midoriko Limited</type>
+			<type>SPELL - Midoriko Limited (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Put 1 Apparition SIGNI on your field into the trash. If you do, banish 1 SIGNI on your opponent's field with 8000 power or higher.
@@ -7439,10 +7455,10 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -8004,10 +8020,10 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -8908,10 +8924,10 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -8921,10 +8937,10 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<!-- WX03 -->
@@ -9346,7 +9362,7 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SPELL</type>
+			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Draw 3 cards.</text>
 		</card>
@@ -13422,10 +13438,10 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX07/WX07-079.jpg">WX07</set>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -13436,10 +13452,10 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -13450,10 +13466,10 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -13464,10 +13480,10 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -14479,10 +14495,10 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -14491,10 +14507,10 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -14503,10 +14519,10 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -14515,10 +14531,10 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<!-- WX09 -->
@@ -15715,7 +15731,7 @@ Your LRIG gets [Double Crush] and you cannot grow for the rest of the game. </te
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS -  Piruluk Limited</type>
+			<type>ARTS -  Piruluk Limited (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -16745,7 +16761,7 @@ Choose one:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -16759,7 +16775,7 @@ Choose one:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -16773,7 +16789,7 @@ Choose one:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -16787,7 +16803,7 @@ Choose one:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -19040,7 +19056,7 @@ If green was a chosen color, banish 1 SIGNI on your opponent's field with power 
 			<cmc>0</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG trash this way:
+			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG Trash this way:
 - 1 SIGNI on your opponent's field loses all abilities until end of turn.
 - Draw 1 card.
 - Put the top card of your deck into the Ener Zone.
@@ -19360,7 +19376,7 @@ Cancel the effect of 1 SPELL being used with total cost 1 or less. </text>
 			<color>G</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 		
@@ -20312,49 +20328,53 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 		<card>
 			<name>Servant Q2 (WX13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX13/WX13-097.jpg">WX13</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-115.jpg">WXK01</set>
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
 			<name>Servant T2 (WX13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX13/WX13-098.jpg">WX13</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-116.jpg">WXK01</set>
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
 			<name>Servant D2 (WX13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX13/WX13-099.jpg">WX13</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-117.jpg">WXK01</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
 			<name>Servant O2 (WX13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX13/WX13-100.jpg">WX13</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-118.jpg">WXK01</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -23246,7 +23266,7 @@ Choose one. If you bet, choose up to three instead:
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -23254,7 +23274,7 @@ The colorless cost of this ARTS can only be paid with ener that share a color wi
 Choose up to two:
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.
 - Down and freeze 1 SIGNI on your opponent's field.
-- 1 of your SIGNI gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
 - Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand. </text>
 		</card>
 		<card>
@@ -24760,7 +24780,7 @@ Look at the top 4 cards of your deck, return them to the top of your deck in any
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Piruluk</type>
+			<type>LRIG - Piruluk (KS)</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -24771,7 +24791,7 @@ Look at the top 4 cards of your deck, return them to the top of your deck in any
 			<color>U</color>
 			<manacost>2 - U</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Piruluk</type>
+			<type>LRIG - Piruluk (KS)</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -24847,7 +24867,7 @@ Any number of SIGNI get +20000 power total until end of turn, distributed in inc
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -25878,9 +25898,11 @@ Choose one:
 		<card>
 			<name>Don't Move (WX17)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-Re06.jpg">WX17</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-018.jpg">WXK01</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
-			<type>ARTS</type>
+			<cmc>3</cmc>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -33176,6 +33198,1370 @@ All Ore and Gem SIGNI on your field get [Double Crush] until end of turn.
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
+		<!-- WXK01 -->
+		<card>
+			<name>Layla=Dead End</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-001.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+[Constant]: All SIGNI in [Drive] on your field get +3000 power and [Double Crush].
+[Action] [1/Game] ((Doping)) Pay 2 Coins: Discard 2 cards from your hand. If you do, this LRIG gets "This LRIG is unaffected by your opponent's card effects." until end of turn and your opponent cannot [Guard] until end of turn.</text>
+		</card>
+		<card>
+			<name>Allos Piruluk TETRA</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-002.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Piruluk (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+[Constant]: While there are 0 cards in your hand, if you would be damaged by your opponent's LRIG, this LRIG loses this ability until end of turn instead.
+[Action] [1/Game] ((Catharsis)) Pay 1 Coin: This LRIG's limit becomes 12 until your next main phase. You cannot be damaged by your opponent's LRIG until your next main phase. If you would draw 1 card during your next draw phase, draw 2 cards instead.</text>
+		</card>
+		<card>
+			<name>Midoriko, Golden Girl Type Four</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-003.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Midoriko (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+[Constant] The Apparition SIGNI on your center SIGNI Zone gets +2000 power.
+[On-Play] {G}: Add 1 green ARTS from your LRIG Trash to your LRIG Deck.
+[Action] [1/Game] ((Tentacle)) Pay 1 Coin: At the beginning of your opponent's attack phase, 1 SIGNI on your opponent's field and your opponent's LRIG get "This card cannot attack." until end of turn.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Cheering</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-004.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Reveal the top card of your deck. If it is a SIGNI with an odd-numbered level, draw 2 cards.
+[Action] {Down}: Put 1 Trick SIGNI from your trash on top of your deck.
+[Action] [1/Game] ((Direct)) Pay 2 Coins: During this turn, this LRIG deals damage 3 times with its attack. (Your opponent may [Guard] for each damage that would be dealt to them.)</text>
+		</card>
+		<card>
+			<name>Insider Salvage (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-005.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] 
+
+Add 1 SIGNI from your trash to your hand. If you added a black SIGNI to your hand this way, return this card to your LRIG Deck, then you cannot use "Insider Salvage" for the rest of this turn. </text>
+		</card>
+		<card>
+			<name>Innocent Defense (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-006.jpg">WXK01</set>
+			<color></color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+The colorless cost of this ARTS can only be paid with ener that share a color with your LRIG.
+Choose up to two:
+- Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.
+- Down and freeze 1 SIGNI on your opponent's field.
+- 1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+- Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand. </text>
+		</card>
+		<card>
+			<name>Dona CHEER</name>
+			<set picURL="">WXK01</set>
+			<color>W</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gains the following abilities:
+"[Action] [Attack Phase] {Exceed 4}: Skip your opponent's next SIGNI attack step.
+[Action] [Attack Phase] {Exceed 4}: Skip your opponent's next LRIG attack step."
+[On-Play]: 1 SIGNI on your field gets "This SIGNI cannot be banished" until end of turn. 
+[Action] Put this KEY from your field into your LRIG Trash: Search your deck 1 SIGNI, reveal it, then add it to your hand. Then shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Layla=Drift</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-008.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>3 - RR</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)</text>
+		</card>
+		<card>
+			<name>Layla=Curve</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-009.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>2 - R</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)</text>
+		</card>
+		<card>
+			<name>Layla=Accel</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-010.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Ride] ([Action] {0}: This LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (Put that LRIG on top of that SIGNI.) Use this ability only once per turn and only if this LRIG is not in [Drive].)
+[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Mighty Flash (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-011.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>RR</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+[Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
+Banish 1 SIGNI on your opponent's field with 7000 power or lower. If you bet, banish 1 SIGNI on your opponent's field with 20000 power or lower instead. </text>
+		</card>
+		<card>
+			<name>Thunderclap of Violent Supremacy</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-012.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>RR</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Banish 1 SIGNI on your opponent's field with 12000 power or lower.</text>
+		</card>
+		<card>
+			<name>Burn for a Righteous Cause</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-013.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+Draw 4 cards, then discard 1 card from your hand at random.</text>
+		</card>
+		<card>
+			<name>Lalaru "Start"</name>
+			<set picURL="">WXK01</set>
+			<color>R</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Action] [1/Turn] {1}{R}: Banish 1 SIGNI on your opponent's field.
+[Action] Put this KEY from your field into your LRIG Trash: Banish 2 SIGNI on your opponent's field. (This ability cannot be used if there is exactly 1 SIGNI on your opponent's field.)</text>
+		</card>
+		<card>
+			<name>Allos Piruluk G (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-015.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Piruluk (KS)</type>
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Allos Piruluk M (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-016.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>2 - U</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Piruluk (KS)</type>
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Allos Piruluk Alpha</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-017.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Piruluk (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Draw Four</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-019.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Draw 4 cards.</text>
+		</card>
+		<card>
+			<name>Better Condition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-020.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>UU</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+This ARTS cannot be used unless there are 1 or less cards in your hand.
+Banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Milulun Add</name>
+			<set picURL="">WXK01</set>
+			<color>U</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gains the following ability:
+"[Action] [1/Turn] {Exceed 2}: Use 1 SPELL with total cost 3 or less from your hand without paying its costs."
+[On-Play]: Add 1 SPELL from your trash to your hand.
+[Action] [Spell Cut-In] {1}{U}: Cancel the effect of 1 SPELL being used.</text>
+		</card>
+		<card>
+			<name>Midoriko, Third Girl (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-022.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>3 - GG</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Midoriko (KS)</type>
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Midoriko, Second Girl (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-023.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>2 - G</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Midoriko (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Midoriko, Dancing Combat Girl Type One</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-024.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Midoriko (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Small Gain, Big Loss</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-025.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>GG</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Banish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
+		</card>
+		<card>
+			<name>Three Orders, Five Explanations</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-026.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+Add up to 3 cards from your Ener Zone to your hand. </text>
+		</card>
+		<card>
+			<name>In High Spirits (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-027.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
+		
+[Encore] {1}{G} (You may pay an additional {1}{G} as you use this ARTS. If you do, this ARTS gets "Return this ARTS to the LRIG Deck.")
+1 SIGNI gets +4000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Mama♥MODE LOVE</name>
+			<set picURL="">WXK01</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [1/Turn] {Exceed 2}: [Ener Charge 2]"
+[On-Play] {1}{G}: Add the top card of your deck to your Life Cloth.
+[Action] [Attack Phase] Put this KEY from your field into your LRIG Trash: Disable the next attack done by a SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Transience (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-029.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Wicked Encounters (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-030.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Secrecy</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-031.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Tornado Salvage</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-032.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Add up to 3 black SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Blind Punish</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-033.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Banish 1 level 3 or lower SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Dark Twinkle</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-034.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>BBB</manacost>
+			<cmc>3</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
+If you bet, this ARTS's cost becomes {B}.
+1 SIGNI on your opponent's field gets -15000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Iona, Save/Maiden</name>
+			<set picURL="">WXK01</set>
+			<color>B</color>
+			<manacost>1 Coin</manacost>
+			<cmc>1</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gains the following ability:
+"[Action] [Attack Phase] {Exceed 3}: All SIGNI on your opponent's field must attack this turn if able. At the end of this turn, banish all SIGNI on the field that attacked this turn."
+[On-Play]: Add 1 SIGNI from your trash to your hand.
+[Action] [1/Turn] {B}: 1 SIGNI on your opponent's field gets -3000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Accel F1</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-036.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Drive Constant]: [Assassin]
+[Constant]: All red SIGNI on your field get +2000 power during your turn.
+[On-Play] {R}{R}: Search your deck for 1 Riding Machine SIGNI other than "Code Accel F1" and put it onto your field. Then shuffle your deck.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Code Accel Road Roller</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-037.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a SIGNI on your field crushes a card in your opponent's Life Cloth, you may banish that SIGNI. If you do, draw 2 cards.
+[Auto]: At the end of your turn, you may discard 1 card from your hand. If you do, reveal cards from the top of your deck until you reveal a SIGNI. Put that SIGNI onto your field, then put the rest of the cards revealed this way into the trash.
+
+[Life Burst]: Draw 1 card, then if you have 4 or less cards in your Life Cloth, [Ener Charge 1]. </text>
+		</card>
+		<card>
+			<name>Ark of Robbery</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-038.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>RRR</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - Layla Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Your LRIG starts [Drive] with all Riding Machine SIGNI on your field.
+Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any number of SIGNI from your field into the trash. Your opponent discards 1 card from their hand at random for each SIGNI put into the trash this way." until end of turn.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field with 12000 power or lower. </text>
+		</card>
+		<card>
+			<name>Captain Hook, Claw of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-039.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 0 cards in your hand, this SIGNI cannot be banished by your opponent's card effects.
+[On-Play] Discard 2 cards from your hand: Reveal the top 5 cards of your deck. Put up to 2 Devil SIGNI from among them onto your field, then put the rest of the cards revealed this way into the trash.
+
+[Life Burst]: Down and freeze up to 2 SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Shutendo, Alcoholic Oni of Hell</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-040.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {U}: If there are 0 cards in your hand and it is currently your turn, banish 1 SIGNI on your opponent's field.
+[Action] [1/Turn] {U}: Draw 1 card.
+
+[Life Burst]: Draw 1 card, then if you have 4 or less cards in your Life Cloth, [Ener Charge 1]. </text>
+		</card>
+		<card>
+			<name>MIRACLE</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-041.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Piruluk Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Draw 1 card.
+- Your opponent discards 1 card from their hand.
+- Freeze all SIGNI on your opponent's field.
+[Auto]: At the end of your opponent's turn, if there are 0 cards in your hand, you may pay {U}. If you do, add this card from your trash to your hand.
+
+[Life Burst]: Choose one:
+- Draw 1 card. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Ibarahime, Phantom Apparition Princess</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-042.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When you use an ARTS during your turn, if it was the second ARTS you used this turn, put 1 SIGNI on your opponent's field into its owner's Ener Zone.
+[On-Play]: Put 1 "Thorny Maze" into your LRIG deck.
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with 8000 power or higher. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Unicarn, Phantom Apparition Princess</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-043.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When you use a green ARTS, [Ener Charge 1].
+[Auto]: When this SIGNI banishes a SIGNI on your opponent's field, you may pay {G}{G}. If you do, add 1 green ARTS from your LRIG Trash to your LRIG deck.
+
+[Life Burst]: Draw 1 card, then if you have 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>J Ripper, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-044.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, declare 1 number, then put the top card of your deck into the trash. If it is a SIGNI with the same level as the declared number, 1 SIGNI on your opponent's field gets -10000 power until end of turn.
+[On-Play]: 1 SIGNI on your opponent's field with an even-numbered level gets -5000 power until end of turn.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Yamigane, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-045.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {B}. If you do, banish 1 SIGNI on your opponent's field that was put onto the field this turn.
+[On-Play] {B}: Put 1 SIGNI on your opponent's field into the trash. Your opponent reveals cards from the top of their deck until they reveal a SIGNI with a level lower than or equal to that SIGNI's. Your opponent puts that SIGNI onto their field, then puts the rest of the cards revealed this way on the bottom of their owner's deck in a random order. Its [On-Play] abilities do not trigger. 
+
+[Life Burst]: Draw 1 card, then if you have 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Code Ride Zero Fighter</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-046.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 10000 or higher, banish 1 SIGNI on your opponent's field with 7000 power or lower.
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with 3000 power or lower. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Code Ride Fubuki</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-047.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Riding Machine SIGNI on your field get +1000 power.
+[Auto] [1/Turn]: When a SIGNI on your field starts [Drive], all Riding Machine SIGNI on your field get +2000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Code Ride Autobi</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-048.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Drive Auto]: When this SIGNI attacks, banish all SIGNI on your opponent's field with 1000 power or lower.
+(A SIGNI's [Drive Auto] abilities are active while it is in [Drive].)</text>
+		</card>
+		<card>
+			<name>Code Ride Segway</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-049.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {R}: 1 SIGNI in [Drive] on your field gets [Double Crush] until end of turn.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Code Ride Shopping</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-050.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Riding Machine SIGNI, put it into your Ener Zone.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Powerful Claw of Severance</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-051.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>RRR</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - Layla Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>If your opponent has 2 or more cards in their Life Cloth, crush 1 card in your opponent's Life Cloth. If there is a SIGNI in [Drive] on your field, the [Life Burst] ability of the card crushed by this effect does not trigger. </text>
+		</card>
+		<card>
+			<name>Rackham, Sailor of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-052.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may discard 1 card from your hand. If you do, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
+[On-Play]: If you have 0 cards in your hand, draw 1 card.
+
+[Life Burst]: Choose one:
+- Down and freeze 1 SIGNI on your opponent's field. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Anne Bonny, Sailor of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-053.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Devil SIGNI on your field get +1000 power.
+[Constant]: While there are 0 cards in your hand, all Devil SIGNI on your field get +2000 power. </text>
+		</card>
+		<card>
+			<name>Drake, Sailor of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-054.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 2 cards from your hand: At the end of this turn, draw 2 cards. (Even if this SIGNI is not on your field during the end of this turn.)</text>
+		</card>
+		<card>
+			<name>Teach, Sailor of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-055.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this card is put from your hand into your trash during your main phase, if there are 2 or less cards in your hand, you may put this SIGNI from your trash onto your field.
+
+[Life Burst]: Draw 1 card. </text>
+		</card>
+		<card>
+			<name>Forneus, Marquis of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-056.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Devil SIGNI, put it into your Ener Zone.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>CIRCLE</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-057.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>UUU</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - Piruluk Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top 5 cards of your deck. Put up to 3 SIGNI from among them onto your field, then put the rest into the trash. </text>
+		</card>
+		<card>
+			<name>Chiron, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-058.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 10000 or higher, draw 1 card and this SIGNI gets [Lancer] until end of turn. (If a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with 12000 power or higher. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Daidara, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-059.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Apparition SIGNI on your field get +1000 power.
+[Auto] [1/Turn]: When you use an ARTS, all Apparition SIGNI on your field get +2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Alraune, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-060.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Choose one:
+- The next green ARTS you use this turn costs {1} less to use.
+- Up to 2 SIGNI on your field adjacent to this SIGNI get +3000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Yamabiko, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-061.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 3000 or higher, [Ener Charge 1].
+			
+[Life Burst]: Draw 1 card. </text>
+		</card>
+		<card>
+			<name>Kodama, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-062.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is an Apparition SIGNI, put it into your Ener Zone.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Pierce</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-063.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Midoriko Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>1 green SIGNI on your field gets +2000 power and [S Lancer] until end of turn. (When a SIGNI with [S Lancer] banishes a SIGNI on your opponent's field by battle, it crushes 1 card in your opponent's Life Cloth. If there are 0 cards in your opponent's Life Cloth, damage your opponent instead.)</text>
+		</card>
+		<card>
+			<name>Hariten, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-064.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, put the top 2 cards of your deck into the trash, then 1 SIGNI on your opponent's field gets -1000 power multiplied by the total combined level of the SIGNI put into the trash this way until end of turn.
+
+[Life Burst]: Choose one:
+- 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Tamanori, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-065.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Trick SIGNI on your field get +1000 power.
+[Auto] [1/Turn]: When a card is put from your deck into the trash, all Trick SIGNI on your field get +2000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Tsunawata, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-066.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: The original power of 1 level 3 or lower SIGNI on your opponent's field becomes 2000 until end of turn. </text>
+		</card>
+		<card>
+			<name>Oreore, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-067.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your deck into the trash, if it is your turn, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
+
+[Life Burst]: Draw 1 card. </text>
+		</card>
+		<card>
+			<name>Kakuzuke, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-068.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Trick SIGNI, put it into your Ener Zone.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Pandora Box</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-069.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Guzuko Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top 3 cards of your deck. Put 1 of them into your hand, 1 of them into the trash, then put the rest on top of your deck. </text>
+		</card>
+		<card>
+			<name>Overflowing Knowledge (WXK01)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-070.jpg">WXK01</set>
+			<color></color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Draw 3 cards.</text>
+		</card>
+		<card>
+			<name>Code Ride Solar</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-071.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Code Ride Shiropato</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-072.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] {R}{R}: If there is a SIGNI in [Drive] on your field, banish 1 SIGNI on your opponent's field with 12000 power or lower.
+(A SIGNI with an LRIG on top of it is in [Drive].)</text>
+		</card>
+		<card>
+			<name>Code Ride Buggy</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-073.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Code Ride Taxi</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-074.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Drive Constant]: [Double Crush]
+[Auto]: When this SIGNI starts [Drive], 1 SIGNI on your field gets +5000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Ride Cage</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-075.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Code Ride Assist</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-076.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a SIGNI on your field starts [Drive], you may pay {R}. If you do, banish 1 SIGNI on your opponent's field with 3000 power or lower. </text>
+		</card>
+		<card>
+			<name>Code Ride Mamacha</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-077.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI starts [Drive], reveal the top card of your deck. If it is a Riding Machine SIGNI, add it to your hand.</text>
+		</card>
+		<card>
+			<name>Code Ride Pockebi</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-078.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI starts [Drive], draw 1 card, then discard 1 card from your hand. </text>
+		</card>
+		<card>
+			<name>Code Ride Tachisuku</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-079.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>When a SIGNI on your field starts [Drive], you may pay {R}. If you do, banish 1 SIGNI on your opponent's field with 1000 power or lower. </text>
+		</card>
+		<card>
+			<name>Destructive Flame of Insane Thoughts</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-080.jpg">WXK01</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<type>SPELL (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Banish 1 SIGNI on your opponent's field with 10000 power or lower.
+- All SIGNI on your field get +3000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Merrow, Mermaid of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-081.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Kraken, Suction Cups of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-082.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [2/Turn] When you discard a card from your hand, if it is currently your turn, 1 SIGNI on your opponent's field gets -4000 power until end of turn. (This ability triggers twice if you discarded more than 1 card at once.)</text>
+		</card>
+		<card>
+			<name>Undine, Water Spirit of Hell</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-083.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Octopus, Suction Cups of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-084.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the end of your turn, if there are 1 or less cards in your hand and this SIGNI is on your center SIGNI zone, draw 1 card. </text>
+		</card>
+		<card>
+			<name>Tick-Tock, Alarm Clock of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-085.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rahab, Noise of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-086.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: 1 SIGNI on your opponent's field gets -3000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Aspidochelone, Snake Turtle of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-087.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if there are 1 or less cards in your hand, 1 SIGNI on your opponent's field gets -2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Blue Oni, Village Attacker of Hell</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-088.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 1 or less cards in your hand, this SIGNI gets +3000 power. </text>
+		</card>
+		<card>
+			<name>Leviathan, Sea Snake of Demonic Seas</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-089.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: At the end of this turn, draw 1 card. (Even if this SIGNI is not on your field at the end of the turn.)</text>
+		</card>
+		<card>
+			<name>PRAYING</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-090.jpg">WXK01</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<type>SPELL (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Draw 2 cards, then discard 1 card from your hand.
+- Your opponent discards 1 card from their hand. </text>
+		</card>
+		<card>
+			<name>Minotaur, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-091.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Behemoth, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-092.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if you used an ARTS this turn, you may pay {G}{G}{G}. If you do, add the top card of your deck to your Life Cloth. </text>
+		</card>
+		<card>
+			<name>Centaur, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-093.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Piskie, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-094.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI zone, this SIGNI gets +2000 power.
+[Constant]: While this SIGNI is on your right SIGNI zone, this SIGNI cannot be banished by the effects of your opponent's SIGNI. (It still gets banished by battle or when its power becomes 0 or lower.) </text>
+		</card>
+		<card>
+			<name>Gnome, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-095.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Kobol, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-096.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI zone, this SIGNI gets +2000 power.
+[Constant]: While this SIGNI is on your left SIGNI zone, this SIGNI cannot be banished by the effects of your opponent's SIGNI. (It still gets banished by battle or when its power becomes 0 or lower.) </text>
+		</card>
+		<card>
+			<name>Doarf, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-097.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if you used an ARTS this turn, draw 1 card, then [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Dryad, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-098.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there is an ARTS in your LRIG Trash, this SIGNI gets +5000 power. </text>
+		</card>
+		<card>
+			<name>Trolled, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-099.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Apparition (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your left or right SIGNI zone, this SIGNI gets +1000 power.
+[Constant]: While this SIGNI is on your center SIGNI zone, this SIGNI cannot be banished by the effects of your opponent's SIGNI. (It still gets banished by battle or when its power becomes 0 or lower.)</text>
+		</card>
+		<card>
+			<name>Germination</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-100.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<type>SPELL (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Add 1 SIGNI from your Ener Zone to your hand.
+- [Ener Charge 2]</text>
+		</card>
+		<card>
+			<name>Dronco, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-101.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Mimic, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-102.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Draw 3 cards, then put 3 cards from your hand on top of your deck in any order. (If you have 2 or less cards in your deck, draw all of them.)</text>
+		</card>
+		<card>
+			<name>Nakamiate, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-103.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ishigoe, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-104.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your deck into the trash, if it is currently your main phase, you may put this SIGNI from the trash onto your field. </text>
+		</card>
+		<card>
+			<name>Heiten, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-105.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Alu Baba, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-106.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top 2 cards of your deck into the trash. Then, if 2 SIGNI with even-numbered levels were put into the trash this way, put 1 level 2 or lower SIGNI from your trash onto your field. </text>
+		</card>
+		<card>
+			<name>Pianosen, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-107.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top card of your deck into the trash. Then, if it is a SIGNI with an even-numbered level, you may pay {B}. If you do, banish 1 level 2 or lower SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Antlio, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-108.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top 2 cards of your deck into the trash.</text>
+		</card>
+		<card>
+			<name>Nezumiko, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-109.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put up to 1 level 2 or lower Trick SIGNI from your trash on the top of your deck. </text>
+		</card>
+		<card>
+			<name>Bad Switch</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-110.jpg">WXK01</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>SPELL (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Add 1 black SIGNI from your trash to your hand.
+- 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Servant Q4</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-119.jpg">WXK01</set>
+			<color></color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Add 1 Origin Spirit SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Servant T4</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-120.jpg">WXK01</set>
+			<color></color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Add 1 Origin Spirit SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Thorny Maze</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-TK-01A.jpg">WXK01</set>
+			<color>G</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - CRAFT (KS)</type>
+			<token>1</token>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase] 
+
+1 SIGNI on the field gets +2000 power until end of turn.
+(If this card would be placed outside of the LRIG Deck or Check Zone, exclude it from the game instead.)</text>
+		</card>
 		<!-- SP01 -->
 		<card>
 			<name>Tama, Full Moon Miko</name>
@@ -33377,10 +34763,10 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -33393,10 +34779,10 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -34000,7 +35386,8 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP06/SP06-006.jpg">SP06</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
-			<type>ARTS</type>
+			<cmc>3</cmc>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -34145,10 +35532,10 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -34160,10 +35547,10 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<!-- SP06 -->
@@ -34633,7 +36020,8 @@ Down 1 upped Dragon Beast SIGNI on your field. If you do, banish 1 SIGNI on your
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP11/SP11-005.jpg">SP11</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
-			<type>ARTS</type>
+			<cmc>3</cmc>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -35544,7 +36932,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type>
+			<type>LRIG - Piruluk (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -35577,7 +36965,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type>
+			<type>LRIG - Guzuko (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -35642,12 +37030,13 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 		<card>
 			<name>Servant Q (SP22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP22/SP22-001.jpg">SP22</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-111.jpg">WXK01</set>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -35655,13 +37044,14 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 		<card>
 			<name>Servant T (SP22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP22/SP22-002.jpg">SP22</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-112.jpg">WXK01</set>
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -35669,13 +37059,14 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 		<card>
 			<name>Servant D (SP22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP22/SP22-003.jpg">SP22</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-113.jpg">WXK01</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -35683,13 +37074,14 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 		<card>
 			<name>Servant O (SP22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP22/SP22-004.jpg">SP22</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-114.jpg">WXK01</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -35771,7 +37163,7 @@ Choose one:
 			<color>R</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
@@ -35956,7 +37348,7 @@ Any number of your opponent's SIGNI get a total of −20000 power until end of t
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -36316,7 +37708,7 @@ Choose one:
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36360,7 +37752,7 @@ Choose one:
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type> 
+			<type>LRIG - Guzuko (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -36436,7 +37828,7 @@ Choose one:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -36846,10 +38238,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -36863,7 +38255,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI - Origin Spirit</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -36874,10 +38266,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -36886,10 +38278,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -36903,7 +38295,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI - Origin Spirit</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -36914,10 +38306,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -36926,10 +38318,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -36943,7 +38335,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -36954,10 +38346,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -36966,10 +38358,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -36983,7 +38375,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -36994,10 +38386,10 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -37462,7 +38854,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type> 
+			<type>LRIG - Piruluk (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -37594,7 +38986,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type> 
+			<type>LRIG - Guzuko (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -38075,7 +39467,7 @@ Choose one:
 			<cmc>0</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG trash this way:
+			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG Trash this way:
 - 1 SIGNI on your opponent's field loses all abilities until end of turn.
 - Draw 1 card.
 - Put the top card of your deck into the Ener Zone.
@@ -38322,10 +39714,10 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -38553,10 +39945,10 @@ Choose one:
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -38567,10 +39959,10 @@ Choose one:
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -38581,10 +39973,10 @@ Choose one:
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -39884,10 +41276,10 @@ Choose one:
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -39896,10 +41288,10 @@ Choose one:
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -39908,10 +41300,10 @@ Choose one:
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -39920,10 +41312,10 @@ Choose one:
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -40326,7 +41718,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<cmc>0</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG trash this way:
+			<text>Put any number of cards from under your LRIG into the LRIG Trash. Then choose one for each card put into the LRIG Trash this way:
 - 1 SIGNI on your opponent's field loses all abilities until end of turn.
 - Draw 1 card.
 - Put the top card of your deck into the Ener Zone.
@@ -40546,7 +41938,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<type>SIGNI - Origin Spirit</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -40560,7 +41952,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<type>SIGNI - Origin Spirit</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -40574,7 +41966,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<type>SIGNI - Origin Spirit</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -40588,7 +41980,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -40917,7 +42309,7 @@ Put 1 black SIGNI from your trash onto your field. If you bet, put 2 black SIGNI
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type>
+			<type>LRIG - Piruluk (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -41049,10 +42441,10 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41063,10 +42455,10 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41089,7 +42481,7 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type>
+			<type>LRIG - Guzuko (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -41163,7 +42555,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Piruluk</type>
+			<type>LRIG - Piruluk (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -41185,7 +42577,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type>
+			<type>LRIG - Guzuko (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -41232,7 +42624,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Guzuko</type>
+			<type>LRIG - Guzuko (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
@@ -41747,10 +43139,10 @@ Choose up to two:
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
 		</card>
 		<card>
@@ -41759,10 +43151,10 @@ Choose up to two:
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41776,7 +43168,7 @@ Choose up to two:
 			<type>SIGNI - Origin Spirit</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: Draw 1 card. </text>
@@ -41798,10 +43190,10 @@ Choose up to two:
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41812,10 +43204,10 @@ Choose up to two:
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41826,10 +43218,10 @@ Choose up to two:
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41839,10 +43231,10 @@ Choose up to two:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-456.jpg">PR</set>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Origin Spirit</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Guard] (By discarding this card from your hand, disable 1 LRIG attack.)
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -41869,7 +43261,7 @@ Choose up to two:
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -42049,6 +43441,63 @@ Choose one. If you bet, choose up to three instead:
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may put 2 LRIGs that share an LRIG type with your LRIG from your LRIG Deck into the LRIG Trash. If you do, put 2 cards under your opponent's LRIG into the LRIG Trash.
 [On-Play]: Add 1 level 4 or lower LRIG from your LRIG Trash to your LRIG Deck. </text>
+		</card>
+		<card>
+			<name>Gor☆geous</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K009.jpg">PR</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Piruluk (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Bloody Out (PR-K10)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K010.jpg">PR</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
+
+[Bet]: 2 Coins. (You may pay 1 Coins as you use this ARTS.)
+Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower SIGNI on your opponent's field. If you bet, banish 1 more SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Ril, Memory of Twin Attacks</name>
+			<set picURL="">PR</set>
+			<color>R</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the beginning of your main phase, reveal the top card of your deck. If it is a SIGNI that shares a color with your LRIG, add it to your hand.
+[Action] Put this KEY from your field into the LRIG Trash: Get 2 Coins. </text>
+		</card>
+		<card>
+			<name>Layla=Neutral (PR-K12)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K012.jpg">PR</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Midoriko, Combat Girl (PR-K13)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K014.jpg">PR</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Midoriko (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
 		</card>
 	<!-- Other -->
 		<card>
