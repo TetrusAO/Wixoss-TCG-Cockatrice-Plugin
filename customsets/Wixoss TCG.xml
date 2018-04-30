@@ -488,6 +488,30 @@
 			<releasedate>2017-08-06</releasedate>
 		</set>
 		<set>
+			<name>SPK01</name>
+			<longname>SPK-01 WIXOSS Party Pack</longname>
+			<settype>Special</settype>
+			<releasedate>2018-04-26</releasedate>
+		</set>
+		<set>
+			<name>SPK02</name>
+			<longname>SPK-02</longname>
+			<settype>Special</settype>
+			<releasedate>2018</releasedate>
+		</set>
+		<set>
+			<name>SPK04</name>
+			<longname>SPK-04</longname>
+			<settype>Special</settype>
+			<releasedate>2018</releasedate>
+		</set>
+		<set>
+			<name>SPK05</name>
+			<longname>SPK-05</longname>
+			<settype>Special</settype>
+			<releasedate>2018</releasedate>
+		</set>
+		<set>
 			<name>PR</name>
 			<longname>Promos</longname>
 			<settype>Promotional</settype>
@@ -548,7 +572,7 @@
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -1856,7 +1880,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -3988,7 +4012,7 @@ Banish 1 SIGNI on your opponent's field.
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -6372,7 +6396,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 		<card>
 			<name>Code Ride Wagon</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-015.jpg">WDK01</set>
-			<color>2</color>
+			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>5000</cmc>
 			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
@@ -6540,8 +6564,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<text>[Constant]: Your LRIG gets the following abilities if it is level 2 or higher:
 "[Action] [1/Turn] {Exceed 1} (Put 1 card from under this LRIG into the LRIG Trash): Draw 1 card. Your opponent discards 1 card from their hand.
 [Action] [1/Turn] [Attack Phase] {Exceed 2} (Put 2 cards from under this LRIG into the LRIG Trash): Down and freeze 1 SIGNI on your opponent's field."
-(Frozen SIGNI do not up during their user's next up phase.)
-</text>
+(Frozen SIGNI do not up during their user's next up phase.)</text>
 		</card>
 		<card>
 			<name>Screw Carmilla, Crimson Spear of Demonic Seas</name>
@@ -33237,7 +33260,7 @@ All Ore and Gem SIGNI on your field get [Double Crush] until end of turn.
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
 [Constant] The Apparition SIGNI on your center SIGNI Zone gets +2000 power.
 [On-Play] {G}: Add 1 green ARTS from your LRIG Trash to your LRIG Deck.
-[Action] [1/Game] ((Tentacle)) Pay 1 Coin: At the beginning of your opponent's attack phase, 1 SIGNI on your opponent's field and your opponent's LRIG get "This card cannot attack." until end of turn.</text>
+[Action] [1/Game] ((Tentacle)) Pay 1 Coin: At the beginning of your opponent's next attack phase, 1 SIGNI on your opponent's field and your opponent's LRIG get "This card cannot attack." until end of turn.</text>
 		</card>
 		<card>
 			<name>Guzuko, Useless Princess of Cheering</name>
@@ -35197,7 +35220,7 @@ Choose one:
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -35253,7 +35276,7 @@ Choose one:
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36118,7 +36141,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36228,7 +36251,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36295,7 +36318,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36306,7 +36329,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36617,7 +36640,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36721,7 +36744,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36776,7 +36799,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -36855,7 +36878,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -36988,7 +37011,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -37138,7 +37161,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -37675,7 +37698,7 @@ Choose one:
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type> 
+			<type>LRIG - Ril (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -38909,7 +38932,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type> 
+			<type>LRIG - Tama (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -38920,7 +38943,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type> 
+			<type>LRIG - Ril (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -38964,7 +38987,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type> 
+			<type>LRIG - Umr (KS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -38990,6 +39013,189 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<!-- SPK01 -->
+		<card>
+			<name>Code Ride Shimakaze</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK01/SPK01-01.jpg">SPK01</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] {R}: Your LRIG starts [Drive] with 1 Riding Machine SIGNI on your field until end of turn. (If it is already on another SIGNI, move it.)</text>
+		</card>
+		<card>
+			<name>Dante, Literary Work of Hell</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK01/SPK01-02.jpg">SPK01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put up to 2 cards from your hand under this SIGNI.
+[Auto]: When this SIGNI leaves the field, add up to 2 cards that were under this SIGNI from your trash to your hand. </text>
+		</card>
+		<card>
+			<name>Kamaitachi, Phantom Apparition</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK01/SPK01-03.jpg">SPK01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {G}, Put 1 ARTS from your LRIG Deck into the LRIG Trash: Put 1 level 3 or higher SIGNI on your opponent's field into its owner's Ener Zone. </text>
+		</card>
+		<!-- SPK02 -->
+		<card>
+			<name>Code Piruluk KEY (SPK02)</name>
+			<set picURL="">SPK02</set>
+			<color>U</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following abilities if it is level 2 or higher:
+"[Action] [1/Turn] {Exceed 1} (Put 1 card from under this LRIG into the LRIG Trash): Draw 1 card. Your opponent discards 1 card from their hand.
+[Action] [1/Turn] [Attack Phase] {Exceed 2} (Put 2 cards from under this LRIG into the LRIG Trash): Down and freeze 1 SIGNI on your opponent's field."
+(Frozen SIGNI do not up during their user's next up phase.)</text>
+		</card>
+		<!-- SPK04 -->
+		<card>
+			<name>Layla=Neutral (SPK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK04/SPK04-01.jpg">SPK04</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Allos Piruluk (SPK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK04/SPK04-02.jpg">SPK04</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Piruluk (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<!-- SPK05 -->
+		<card>
+			<name>Tamayorihime, New Moon Miko (SPK05A)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-01.jpg">SPK05</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Tama (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Tamayorihime, New Moon Miko (SPK05B)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-02.jpg">SPK05</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Tama (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ril, Memory of Innocence (SPK05A)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-03.jpg">SPK05</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Ril, Memory of Innocence (SPK05B)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-04.jpg">SPK05</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Layla=Neutral (SPK05A)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-05.jpg">SPK05</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Layla=Neutral (SPK05B)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-06.jpg">SPK05</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Layla (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Allos Piruluk (SPK05A)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-07.jpg">SPK05</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Piruluk (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Allos Piruluk (SPK05B)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-08.jpg">SPK05</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Piruluk (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Umr=Noll, Wielder of the Key of Creation (SPK05A)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-09.jpg">SPK05</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Umr (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Umr=Noll, Wielder of the Key of Creation (SPK05B)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SPK05/SPK05-10.jpg">SPK05</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Umr (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
 		</card>
 		<!-- PR -->
 		<card>
@@ -39042,7 +39248,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -39086,7 +39292,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -39433,7 +39639,7 @@ Choose one:
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -39580,7 +39786,7 @@ Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.</te
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Umr</type>
+			<type>LRIG - Umr (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -40060,7 +40266,7 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -40253,7 +40459,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -40890,7 +41096,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -41265,7 +41471,7 @@ Choose one:
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -42024,7 +42230,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
@@ -42188,7 +42394,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
