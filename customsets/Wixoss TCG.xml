@@ -158,6 +158,12 @@
 			<releasedate>2018-04-26</releasedate>
 		</set>
 		<set>
+			<name>WDK04</name>
+			<longname>WXK-D04 Black Direct</longname>
+			<settype>Starter</settype>
+			<releasedate>2018-05-24</releasedate>
+		</set>
+		<set>
 			<name>WX01</name>
 			<longname>WX-01 Served Selector</longname>
 			<settype>Expansion</settype>
@@ -5261,10 +5267,10 @@ Choose one:
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Guzuko</type> 
+			<type>LRIG - Guzuko (KS)</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
-			<text>[On-Play] Discard 1 card from your hand. Get 1 Coin. </text>
+			<text>[On-Play] Discard 1 card from your hand: Get 1 Coin. </text>
 		</card>
 		<card>
 			<name>Foolish Miasma</name>
@@ -6335,6 +6341,7 @@ Banish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-010.jpg">WDK01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg">WDK02</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg">WDK03</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg">WDK04</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -6653,6 +6660,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<name>Servant O4</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-019.jpg">WDK02</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-122.jpg">WXK01</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-122.jpg">WDK04</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -6881,6 +6889,207 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<text>Choose one:
 - Put 1 Apparition SIGNI on your field into the trash. If you do, banish 1 SIGNI on your opponent's field with 8000 power or higher.
 - [Ener Charge 1] (Put the top card of your deck into your Ener Zone.)</text>
+		</card>
+		<!-- WDK03 -->
+		<card>
+			<name>Guzuko, Useless Princess of Returning</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-001.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When this LRIG attacks, if there is a "Together with Aya!" on your field, you may pay {B}{B}. If you do, your opponent cannot [Guard] this turn unless they discard 1 additional card with [Guard] from their hand.
+[On-Play]: Add 1 SIGNI from your trash to your hand.
+[Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put the top card of your deck into the trash.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of the Next Dream</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-002.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>7</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] {B}: Get 1 Coin.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Mercy</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-003.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>4</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Sorrow (WDK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-004.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Guzuko (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Get 1 Coin. </text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess (WDK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-005.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Guzuko (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Together with Aya!</name>
+			<set picURL="">WDK04</set>
+			<color>U</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Auto]: When your opponent's LRIG attacks, your opponent chooses even or odd. Reveal cards from the top of your deck until you reveal a SIGNI. If that SIGNI's level is not of the chosen property, disable that LRIG's attack, then return all cards revealed this way on the bottom of your deck in a random order."</text>
+		</card>
+		<card>
+			<name>Bad Bomber</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-007.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>ARTS - Guzuko Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+All SIGNI on your opponent's field get -12000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Bloody Out (WDK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-008.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
+
+[Bet]: 2 Coins. (You may pay 1 Coin as you use this ARTS.)
+Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower SIGNI on your opponent's field. If you bet, banish 1 more SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Grave Awake (WDK04)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-009.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<type>ARTS (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+		
+This ARTS's cost becomes {B}{B}{B} during your opponent's turn.
+Put 1 SIGNI from your trash onto your field. </text>
+		</card>
+		<card>
+			<name>Dark Alice, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-011.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] {B}: Reveal the top card of your deck. If it is a SIGNI with an even-numbered level, add it to your hand. If it is a SIGNI with an odd-numbered level, put it into the trash, then 1 SIGNI on your opponent's field gets -8000 power until end of turn.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -10000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Daisharin, Super Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-012.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Reveal the top card of your deck. If it is a SIGNI with an even-numbered level, put it into your Ener Zone. </text>
+		</card>
+		<card>
+			<name>Barabara, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-013.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Look at the top 3 cards of your deck. Put any number of them into the trash, then return the rest to the top of your deck in any order. (If there are 2 or less cards in your deck, look at all of them.)</text>
+		</card>
+		<card>
+			<name>Jabberwock, Large Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-014.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if this SIGNI is on your center SIGNI zone, reveal the top card of your deck, then you may put that card on the bottom of your deck. If the card revealed this way was a SIGNI with an odd-numbered level, this SIGNI gets +5000 power and [Lancer] until end of turn.
+(If a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)</text>
+		</card>
+		<card>
+			<name>Mad Hatter, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-015.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Reveal the top card of your deck, then you may put it on the bottom of your deck. If the card revealed this way was a SIGNI with an odd-numbered level, you may pay {B}. If you do, until end of turn, this SIGNI gets +7000 power and "[Auto]: When this SIGNI attacks, 1 SIGNI on your opponent's field gets −2000 power until end of turn." </text>
+		</card>
+		<card>
+			<name>Clown Cannon, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-016.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Cheshire, Small Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-017.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Look at the top 3 cards of your deck, then return them to the top of your deck in any order. (If there are 2 or less cards in your deck, look at all of them.)
+
+[Life Burst]: Draw 1 card. </text>
+		</card>
+		<card>
+			<name>Witch Niche</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-020.jpg">WDK04</set>
+			<color>B</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Guzuko Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Trick SIGNI from your field into the trash. If you do, add 1 Trick SIGNI from your trash to your hand.
+- [Ener Charge 1] (Put the top card of your deck into the Ener Zone)</text>
 		</card>
 		<!-- WX01 -->
 		<card>
@@ -8527,7 +8736,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Living Spirit: Sky Beast</type>
+			<type>SIGNI - Living Spirit: Earth Beast</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Reveal the top card of your deck. If it is a Sky Beast or Earth Beast SIGNI, add it to your hand.
@@ -13486,6 +13695,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 		<card>
 			<name>Servant D (WX07)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX07/WX07-081.jpg">WX07</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK04/WDK04-018.jpg">WDK04</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -14633,7 +14843,7 @@ Banish all SIGNI on your opponent's field with 15000 power or higher.</text>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -20832,7 +21042,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<tablerow>2</tablerow>
 			<text>[Constant]: When an Atom SIGNI leaves your field by your opponent's card effect, discard 1 card from your opponent's hand at random.
 [Constant]: When you use an opponent's SPELL, either banish 1 SIGNI on your opponent's field or your opponent discards 1 card from their hand.
-[On-Play] {U}: You may use 1 SPELL from your opponent's trash by paying its cost.
+[On-Play] {U}: You may use 1 SPELL from your opponent's trash by paying its cost. (Limiting conditions are not ignored.)
 
 [Life Burst]: Look at your opponent's hand. Choose 1 card from it, then discard it. </text>
 		</card>
@@ -27332,7 +27542,7 @@ Choose up to two. If you bet, choose up to three instead:
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Living Spirit: Sky Beast</type>
+			<type>SIGNI - Living Spirit: Earth Beast</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Reveal the top card of your deck. If it is a Sky Beast or Earth Beast SIGNI, add it to your hand.
@@ -28110,7 +28320,7 @@ Put 1 Water Beast SIGNI from your hand onto your field. </text>
 			<type>SIGNI - Living Spirit: Sky Beast - Midoriko Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[On-Play]: 1 Sky Beast or Earth Beast SIGNI with a lower level opponent's LRIG on your field gets [Lancer] until end of turn. (When a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)</text>
+			<text>[On-Play]: 1 Sky Beast or Earth Beast SIGNI on your field with a lower level than your opponent's LRIG gets [Lancer] until end of turn. (When a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)</text>
 		</card>
 		<card>
 			<name>†Chinchiro†, Imitating Play</name>
