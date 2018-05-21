@@ -1211,7 +1211,9 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<type>SIGNI - Living Spirit: Earth Beast - Midoriko Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While there are 3 SIGNI with 15000 power or higher on your field, this SIGNI gets [Lancer] and "When this SIGNI attacks, banish 1 SIGNI on your opponent's field."</text>
+			<text>[Constant]: While there are 3 SIGNI with 15000 power or higher on your field, this SIGNI gets [Lancer] and "When this SIGNI attacks, banish 1 SIGNI on your opponent's field."
+			
+[Life Burst]: Banish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
 		</card>
 		<card>
 			<name>Misuzaku, Phantom Beast</name>
@@ -19695,7 +19697,7 @@ Cancel the effect of 1 SPELL being used with total cost 1 or less. </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-As you use this ARTS, you may discard up to 2 Poison Fang SIGNI from your hand. This ARTS costs {2}{B} less to use for each SIGNI discarded this way.
+As you use this ARTS, you may discard up to 2 Poison Fang SIGNI from your hand. This ARTS costs {1}{B}{B} less to use for each SIGNI discarded this way.
 1 SIGNI on your opponent's field gets -12000 power until end of turn. Then if you have a Hanare LRIG, put 1 level 3 or lower Poison Fang SIGNI from your trash onto the field. </text>
 		</card>
 		<card>
@@ -23385,7 +23387,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTS or SPELLs for the rest of this turn.</text>
+			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTSs or SPELLs for the rest of this turn.</text>
 		</card>
 		<card>
 			<name>Ein=Dagger (WX15)</name>
@@ -28988,7 +28990,9 @@ Add the top 2 cards of your deck to your Life Cloth. You cannot use "Hammer Chan
 			<type>SIGNI - Living Spirit: Earth Beast - Midoriko Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While there are 3 SIGNI with 15000 power or higher on your field, this SIGNI gets [Lancer] and "When this SIGNI attacks, banish 1 SIGNI on your opponent's field."</text>
+			<text>[Constant]: While there are 3 SIGNI with 15000 power or higher on your field, this SIGNI gets [Lancer] and "When this SIGNI attacks, banish 1 SIGNI on your opponent's field."
+			
+[Life Burst]: Banish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
 		</card>
 		<card>
 			<name>Kiji, Phantom Beast (WX19)</name>
@@ -38012,7 +38016,7 @@ Choose one:
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTS or SPELLs for the rest of this turn.</text>
+			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTSs or SPELLs for the rest of this turn.</text>
 		</card>
 		<card>
 			<name>Cerberun, Three-Headed Barrage (SP31)</name>
@@ -41152,7 +41156,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<type>LRIG - Alfou</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Constant]: When this LRIG crushes 1 of your opponent's Life Cloth, each player puts the top 5 cards of their decks into the trash. </text>
+			<text>[Constant]: When this LRIG crushes a card in your opponent's Life Cloth, each player puts the top 5 cards of their decks into the trash. </text>
 		</card>
 		<card>
 			<name>Three Swords (PR207)</name>
@@ -41162,7 +41166,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTS or SPELLs for the rest of this turn.</text>
+			<text>Put the top 3 cards of your deck into your Ener Zone. You cannot use ARTSs or SPELLs for the rest of this turn.</text>
 		</card>
 		<card>
 			<name>Grave Rush (PR208)</name>
@@ -43805,6 +43809,20 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 			
 This ARTS costs {B} less to use if you have a Tawil LRIG. This ARTS costs {W} less to use if you have an Umr LRIG.
 Your opponent's LRIG gets "This LRIG cannot attack." until end of turn. 1 SIGNI on your opponent's field gets -15000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Tamayorihime, Miko of Nature's Beauty</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-461.jpg">PR</set>
+			<color>W</color>
+			<manacost>5 - 0</manacost>
+			<cmc>5</cmc>
+			<type>LRIG - Tama</type> 
+			<loyalty>12</loyalty>
+			<tablerow>0</tablerow>
+			<text>(Grow): You cannot grow into this card unless you have 0 cards in your Life Cloth.
+[Constant]: [Double Crush]
+[Auto]: When this LRIG attacks, you may put 1 SIGNI on your field into the trash. If you do, up this LRIG.
+[On-Play]: Search your deck for up to 3 SIGNI and put them onto your field. Then shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Angel Awake (PR462)</name>
