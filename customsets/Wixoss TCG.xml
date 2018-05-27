@@ -7459,7 +7459,7 @@ Choose one. If you bet, choose two instead:
 			<text>[On-Play] {W}, Put 1 other SIGNI on your field on top of its owner's deck: Return 1 SIGNI on your opponent's field on top of its owner's deck.</text>
 		</card>
 		<card>
-			<name>Pacchancho, Praise Play</name>
+			<name>Pakkuncho, Praiseworthy Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T13.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>3</manacost>
@@ -7470,7 +7470,7 @@ Choose one. If you bet, choose two instead:
 			<text>[Auto]: When this SIGNI attacks, you may return this SIGNI from your field to its owner's hand. If you do, reveal the top card of your deck. If it is a SIGNI, put it onto your field.</text>
 		</card>
 		<card>
-			<name>Yukigassen, Praise Play</name>
+			<name>Snowball Fight, Praiseworthy Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T14.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>3</manacost>
@@ -7483,7 +7483,7 @@ Choose one. If you bet, choose two instead:
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Kamakura, Virtue Play</name>
+			<name>Kamakura, Benevolent Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T15.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>2</manacost>
