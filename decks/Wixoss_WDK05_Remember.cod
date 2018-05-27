@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Servant D (WD08)"/>
+        <card number="4" name="Servant O4"/>
+        <card number="4" name="Nobel, Pursuit of Colorful Wisdom"/>
+        <card number="4" name="Horos Chart, Star Arts of Divining Wisdom"/>
+        <card number="4" name="Kabuken, Performance of Company Wisdom"/>
+        <card number="4" name="Ig Bananan, Slipperiness of Peel Wisdom"/>
+        <card number="4" name="Cheap Yen, Fluctuation of Country Wisdom"/>
+        <card number="4" name="Shouhize, Purchase of Cost Wisdom"/>
+        <card number="4" name="Expensive Yen, Fluctuation of Country Wisdom"/>
+        <card number="4" name="FROZEN FINGER"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Remember Night, Next Dream Miko"/>
+        <card number="1" name="Remember Dusk, Next Dream Miko"/>
+        <card number="1" name="Remember After, Next Dream Miko"/>
+        <card number="1" name="Remember Arimo, Next Dream Miko"/>
+        <card number="1" name="Remember, Next Dream Miko"/>
+        <card number="1" name="Draw Perfect"/>
+        <card number="1" name="Equal Prize"/>
+        <card number="1" name="Blue Jamming"/>
+        <card number="1" name="Freeze Sad"/>
+        <card number="1" name="Phantom Garden"/>
+    </zone>
+</cockatrice_deck>

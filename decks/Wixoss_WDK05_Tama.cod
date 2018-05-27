@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Flying Trigger"/>
+        <card number="4" name="Snow Sled, Great Knowledge Play"/>
+        <card number="4" name="Itdewa, Gift Play"/>
+        <card number="4" name="Kamakura, Virtue Play"/>
+        <card number="4" name="Yukigassen, Praise Play"/>
+        <card number="4" name="Pacchancho, Praise Play"/>
+        <card number="4" name="Keropachin, Master's Play"/>
+        <card number="4" name="Snow Daruma, Master's Play"/>
+        <card number="4" name="Servant D4"/>
+        <card number="4" name="Servant O (WD13)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Victim Defense"/>
+        <card number="1" name="Yuzuki Key, Prospering Flame"/>
+        <card number="1" name="Erase Refrain"/>
+        <card number="1" name="Clean Boundary"/>
+        <card number="1" name="Modern Boundary (WDK05)"/>
+        <card number="1" name="Tamayorihime, New Moon Miko (WDK05)"/>
+        <card number="1" name="Tamayorihime, First Moon Miko"/>
+        <card number="1" name="Tamayorihime, Young Moon Miko"/>
+        <card number="1" name="Tamayorihime, Thunder Miko (WDK05)"/>
+        <card number="1" name="Tamayorihime, Daybreak Miko"/>
+    </zone>
+</cockatrice_deck>
