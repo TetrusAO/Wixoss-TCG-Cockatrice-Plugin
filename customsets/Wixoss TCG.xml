@@ -1017,7 +1017,7 @@ Declare 1 number. Look at your opponent's hand, then discard all SIGNI with the 
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -4055,7 +4055,7 @@ Banish all SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -4745,7 +4745,7 @@ If you activate this ARTS during your opponent's turn and you did not bet, skip 
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -5865,7 +5865,7 @@ Flip 1 Trap on your field face-up then trigger its [Trap] ability if any. (Put t
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -6298,7 +6298,7 @@ Choose one. If you discarded a card when using this SPELL, choose two:
 			<color>R</color>
 			<manacost>3RRR</manacost>
 			<cmc>6</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -6339,7 +6339,7 @@ Choose one:
 			<color>R</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
@@ -6356,7 +6356,7 @@ Banish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
@@ -6552,7 +6552,7 @@ Banish up to 2 SIGNI on your opponent's field. </text>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -6565,7 +6565,7 @@ Discard 3 cards from your opponent's hand at random.</text>
 			<color>U</color>
 			<manacost>U</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -6578,7 +6578,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following abilities if it is level 2 or higher:
 "[Action] [1/Turn] {Exceed 1} (Put 1 card from under this LRIG into the LRIG Trash): Draw 1 card. Your opponent discards 1 card from their hand.
@@ -6761,7 +6761,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<color>R</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following ability:
 "[Action] [Attack Phase] {Exceed 2} (Put 2 cards from under this LRIG into the LRIG Trash): Banish 1 SIGNI on your opponent's field."
@@ -6785,7 +6785,7 @@ Put all SIGNI on your opponent's field into the trash.</text>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -6799,7 +6799,7 @@ Add the top card of your deck to your Life Cloth. </text>
 			<color>G</color>
 			<manacost>GG</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -6967,7 +6967,7 @@ Banish 1 level 4 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following ability:
 "[Auto]: When your opponent's LRIG attacks, your opponent chooses even or odd. Reveal cards from the top of your deck until you reveal a SIGNI. If that SIGNI's level is not of the chosen property, disable that LRIG's attack, then return all cards revealed this way on the bottom of your deck in a random order."</text>
@@ -6990,7 +6990,7 @@ All SIGNI on your opponent's field get -12000 power until end of turn.</text>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -7003,7 +7003,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 			<color>B</color>
 			<manacost>1B</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -7167,7 +7167,7 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<color>U</color>
 			<manacost>UUUU</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -7179,7 +7179,7 @@ Draw 7 cards.</text>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -7192,7 +7192,7 @@ Discard up to 3 SIGNI with different levels from your hand. For each SIGNI disca
 			<color>U</color>
 			<manacost>1U</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
@@ -7397,7 +7397,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<color>W</color>
 			<manacost>W</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -7411,7 +7411,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<color>R</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following ability:
 "[Action] {Exceed 1}: Your opponent cannot [Guard] with level 1 SIGNI this turn."
@@ -7424,7 +7424,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -15281,7 +15281,7 @@ Banish all SIGNI on your opponent's field with 15000 power or higher.</text>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -20047,7 +20047,7 @@ Cancel the effect of 1 SPELL being used with total cost 1 or less. </text>
 			<color>G</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 		
@@ -23937,7 +23937,7 @@ Choose one. If you bet, choose up to three instead:
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -25538,7 +25538,7 @@ Any number of SIGNI get +20000 power total until end of turn, distributed in inc
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -26573,7 +26573,7 @@ Choose one:
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -32613,7 +32613,7 @@ Choose one:
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following abilities:
 "[Action] [1/Turn] [Attack Phase] {Exceed 2}: Search your deck for 1 level 4 or lower SIGNI and put it onto the field. Its [On-Play] abilities do not trigger. Then shuffle your deck.
@@ -33196,7 +33196,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following abilities:
 "[Action] [1/Turn] [Attack Phase] {Exceed 2}: Search your deck for 1 level 4 or lower SIGNI and put it onto the field. Its [On-Play] abilities do not trigger. Then shuffle your deck.
@@ -33931,7 +33931,7 @@ All Ore and Gem SIGNI on your field get [Double Crush] until end of turn.
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -33943,7 +33943,7 @@ Add 1 SIGNI from your trash to your hand. If you added a black SIGNI to your han
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -33960,7 +33960,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following abilities:
 "[Action] [Attack Phase] {Exceed 4}: Skip your opponent's next SIGNI attack step.
@@ -34008,7 +34008,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -34021,7 +34021,7 @@ Banish 1 SIGNI on your opponent's field with 7000 power or lower. If you bet, ba
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -34033,7 +34033,7 @@ Banish 1 SIGNI on your opponent's field with 12000 power or lower.</text>
 			<color>R</color>
 			<manacost>R</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -34045,7 +34045,7 @@ Draw 4 cards, then discard 1 card from your hand at random.</text>
 			<color>R</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Action] [1/Turn] {1}{R}: Banish 1 SIGNI on your opponent's field.
 [Action] Put this KEY from your field into your LRIG Trash: Banish 2 SIGNI on your opponent's field. (This ability cannot be used if there is exactly 1 SIGNI on your opponent's field.)</text>
@@ -34089,7 +34089,7 @@ Draw 4 cards, then discard 1 card from your hand at random.</text>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -34101,7 +34101,7 @@ Draw 4 cards.</text>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -34114,7 +34114,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following ability:
 "[Action] [1/Turn] {Exceed 2}: Use 1 SPELL with total cost 3 or less from your hand without paying its costs."
@@ -34160,7 +34160,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color>G</color>
 			<manacost>GG</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -34172,7 +34172,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
 			<color>G</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
@@ -34184,7 +34184,7 @@ Add up to 3 cards from your Ener Zone to your hand. </text>
 			<color>G</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 		
@@ -34197,7 +34197,7 @@ Add up to 3 cards from your Ener Zone to your hand. </text>
 			<color>G</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following ability:
 "[Action] [1/Turn] {Exceed 2}: [Ener Charge 2]"
@@ -34243,7 +34243,7 @@ Add up to 3 cards from your Ener Zone to your hand. </text>
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -34255,7 +34255,7 @@ Add up to 3 black SIGNI from your trash to your hand.</text>
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -34267,7 +34267,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field.</text>
 			<color>B</color>
 			<manacost>BBB</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -34281,7 +34281,7 @@ If you bet, this ARTS's cost becomes {B}.
 			<color>B</color>
 			<manacost>1 Coin</manacost>
 			<cmc>1</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gains the following ability:
 "[Action] [Attack Phase] {Exceed 3}: All SIGNI on your opponent's field must attack this turn if able. At the end of this turn, banish all SIGNI on the field that attacked this turn."
@@ -34851,7 +34851,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<color>R</color>
 			<manacost>R</manacost>
 			<cmc>1</cmc>
-			<type>SPELL (KS)</type>
+			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Banish 1 SIGNI on your opponent's field with 10000 power or lower.
@@ -34962,7 +34962,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<color>U</color>
 			<manacost>U</manacost>
 			<cmc>1</cmc>
-			<type>SPELL (KS)</type>
+			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Draw 2 cards, then discard 1 card from your hand.
@@ -35076,7 +35076,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<color>G</color>
 			<manacost>G</manacost>
 			<cmc>1</cmc>
-			<type>SPELL (KS)</type>
+			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Add 1 SIGNI from your Ener Zone to your hand.
@@ -35187,7 +35187,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
-			<type>SPELL (KS)</type>
+			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Add 1 black SIGNI from your trash to your hand.
@@ -36060,7 +36060,7 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -36694,7 +36694,7 @@ Down 1 upped Dragon Beast SIGNI on your field. If you do, banish 1 SIGNI on your
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
@@ -37836,7 +37836,7 @@ Choose one:
 			<color>R</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
@@ -38021,7 +38021,7 @@ Any number of your opponent's SIGNI get a total of −20000 power until end of t
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -39706,7 +39706,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: Your LRIG gets the following abilities if it is level 2 or higher:
 "[Action] [1/Turn] {Exceed 1} (Put 1 card from under this LRIG into the LRIG Trash): Draw 1 card. Your opponent discards 1 card from their hand.
@@ -44117,7 +44117,7 @@ Choose up to two:
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<cmc>4</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -44329,7 +44329,7 @@ Choose one. If you bet, choose up to three instead:
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS (KS)</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
@@ -44342,7 +44342,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 			<color>R</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
-			<type>KEY (KS)</type>
+			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Auto]: At the beginning of your main phase, reveal the top card of your deck. If it is a SIGNI that shares a color with your LRIG, add it to your hand.
 [Action] Put this KEY from your field into the LRIG Trash: Get 2 Coins. </text>
