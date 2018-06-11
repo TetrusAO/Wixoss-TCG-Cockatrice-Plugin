@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Carnival †QA† "/>
+        <card number="1" name="Carnival †TA† "/>
+        <card number="1" name="Carnival †SA† "/>
+        <card number="1" name="Carnival †PA† "/>
+        <card number="1" name="Carnival †0† "/>
+        <card number="1" name="Fate Struggle"/>
+        <card number="1" name="Bad End"/>
+        <card number="1" name="Tactical Punish"/>
+        <card number="1" name="Nanashi, That Hook"/>
+        <card number="1" name="Phantom Garden"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Xiahou Dun, One Eye of the Wei Army"/>
+        <card number="4" name="Lancelot, Immorality of the Round Table"/>
+        <card number="4" name="Gaain, Hawk Catcher of the Round Table"/>
+        <card number="4" name="Xiahou Yuan, Red Bow of the Wei Army"/>
+        <card number="4" name="Parsifal, Thrown Spear of the Round Table"/>
+        <card number="4" name="Cao Ren, Court Advisor of the Wei Army"/>
+        <card number="4" name="Zhang Liao, Two-Handed Axe of the Wei Army"/>
+        <card number="4" name="Recycle Deads"/>
+        <card number="4" name="Servant O4"/>
+        <card number="4" name="Servant D (WD13)"/>
+    </zone>
+</cockatrice_deck>

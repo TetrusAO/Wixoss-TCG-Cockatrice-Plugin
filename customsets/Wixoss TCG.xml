@@ -167,7 +167,13 @@
 			<name>WDK05</name>
 			<longname>WXK-D05 Dual Paleness</longname>
 			<settype>Starter</settype>
-			<releasedate>2018-05-24</releasedate>
+			<releasedate>2018-06-21</releasedate>
+		</set>
+		<set>
+			<name>WDK06</name>
+			<longname>WXK-D06 Dual Blood</longname>
+			<settype>Starter</settype>
+			<releasedate>2018-06-21</releasedate>
 		</set>
 		<set>
 			<name>WX01</name>
@@ -3053,6 +3059,7 @@ Choose one:
 		<card>
 			<name>Servant D (WD13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD13/WD13-022.jpg">WD13</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C18.jpg">WDK06</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -3477,7 +3484,7 @@ All Dragon Beast SIGNI on your field get [Assassin] until end of turn. You canno
 			<color>R</color>
 			<manacost>2RRR</manacost>
 			<cmc>5</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -3995,7 +4002,7 @@ Banish 1 SIGNI on your opponent's field.
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {R}: Get 2 Coins.</text>
@@ -4188,6 +4195,7 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<name>Servant O (WD17)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD17/WD17-017.jpg">WD17</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD17/WD17-017.jpg">SP23</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R19.jpg">WDK06</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -6353,6 +6361,7 @@ Banish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg">WDK03</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg">WDK04</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-R10.jpg">WDK05</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C10.jpg">WDK06</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -6452,6 +6461,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-018.jpg">WDK03</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-121.jpg">WXK01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T18.jpg">WDK05</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R18.jpg">WDK06</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -6674,6 +6684,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-122.jpg">WXK01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-122.jpg">WDK04</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-R19.jpg">WDK05</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C19.jpg">WDK06</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -7115,6 +7126,7 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 2 (You get 2 Coins as this card is put onto your field.)
+[On-Play]: Freeze all SIGNI on your opponent's field.
 [Action] [1/Turn] Pay 1 Coin: Draw 3 cards, then put 2 cards from your hand on the bottom of your deck in any order.</text>
 		</card>
 		<card>
@@ -7421,6 +7433,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 		<card>
 			<name>Victim Defense</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T10.jpg">WDK05</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R10.jpg">WDK06</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -7527,6 +7540,417 @@ Choose one. If you bet, choose two instead:
 			<tablerow>3</tablerow>
 			<text>Choose one:
 - Put 1 Playground Equipment SIGNI from your field into the trash. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Carnival †QA† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C01.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: If there are 10 or more Valor SIGNI in your trash, put 1 SIGNI on your opponent's field into the trash.
+[Action] [1/Turn] Put the top 3 cards of your deck into the trash: 1 SIGNI on your opponent's field gets -5000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Carnival †TA† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C02.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>7</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] {B}: Get 1 Coin.</text>
+		</card>
+		<card>
+			<name>Carnival †SA† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C03.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>4</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Carnival †PA† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C04.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Get 1 Coin.</text>
+		</card>
+		<card>
+			<name>Carnival †0† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C05.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>Fate Struggle</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C06.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<type>ARTS - Carnival Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+This ARTS cannot be used unless there are 20 or more cards in your trash.
+Banish up to 2 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Bad End</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C07.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - Carnival Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[Encore] Pay 1 Coin. (You may pay 1 Coin as you use this ARTS. If you do, this ARTS gets "Return this card to your LRIG Deck.")
+Put the top 5 cards of your deck into the trash. If 5 black cards were put into the trash this way, add 1 black SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Tactical Punish</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C08.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+1 SIGNI on your opponent's field gets -3000 power until end of turn. If there are 15 or more cards in your trash, that SIGNI gets -8000 power instead.</text>
+		</card>
+		<card>
+			<name>Nanashi, That Hook</name>
+			<set picURL="">WDK06</set>
+			<color>B</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Each player puts the top 5 cards of their deck into the trash.
+[Action] [1/Turn] {B}{B}: Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.
+[Action] [Attack Phase] Put this KEY from your field into the LRIG Trash: All SIGNI on your opponent's field get -2000 power multiplied by the level of your opponent's LRIG until end of turn.</text>
+		</card>
+		<card>
+			<name>Xiahou Dun, One Eye of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C11.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a Valor SIGNI if put from your trash onto your field, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+[Auto]: When this SIGNI attacks, 1 SIGNI on your opponent's field gets -5000 power until end of turn. If there are 20 or more cards in your trash, that SIGNI gets -8000 power instead.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -10000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Lancelot, Immorality of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C12.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] {B}, {Down}: Put 1 black SIGNI from your trash onto your field.</text>
+		</card>
+		<card>
+			<name>Gaain, Hawk Catcher of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C13.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 5 or more Valor SIGNI in your trash, this SIGNI gets +4000 power.</text>
+		</card>
+		<card>
+			<name>Xiahou Yuan, Red Bow of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C14.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: If it is currently your turn, put 1 level 3 or lower Valor SIGNI from your trash onto your field.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Parsifal, Thrown Spear of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C15.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 3 or more Valor SIGNI in your trash, this SIGNI gets +3000 power.</text>
+		</card>
+		<card>
+			<name>Cao Ren, Court Advisor of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C16.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Zhang Liao, Two-Handed Axe of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C17.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: 1 other Valor SIGNI on your field gets +1000 power for every 2 Valor SIGNI in your trash until end of turn, with a maximum of 20 Valor SIGNI.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Recycle Deads</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C20.jpg">WDK06</set>
+			<color>B</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Carnival Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Valor SIGNI on your field into the trash. If you do, put the top 2 cards of your deck into the trash, then put 1 Valor SIGNI from your trash onto your field.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Ril, Memory of Dignified Valor</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R01.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Ril (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: All Arm SIGNI on your field get +3000 power during your turn.
+[On-Play]: Look at the top 3 cards of your deck. Put 1 Arm SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order. Then banish 1 SIGNI on your opponent's field with power lower than or equal to the SIGNI put onto your field this way.
+[On-Play]: If there is a "Mel=Muddler" on your field, [Ener Charge 2].</text>
+		</card>
+		<card>
+			<name>Ril, Memory of the Blue Sky (WDK06)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R02.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>3 - RR</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>7</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] {R}: Get 2 Coins.</text>
+		</card>
+		<card>
+			<name>Ril, Memory of Swordpoint</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R03.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>2 - R</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Ril (KS)</type> 
+			<loyalty>4</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Ril, Memory of Mutual Favor (WDK06)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R04.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Get 1 Coin. </text>
+		</card>
+		<card>
+			<name>Ril, Memory of Innocence (WDK06)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R05.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)</text>
+		</card>
+		<card>
+			<name>See Through the Fiery Ambition (WDK06)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R06.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>2RRR</manacost>
+			<cmc>5</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] 
+
+All SIGNI on your field get [Assassin] while the SIGNI in front of it has 12000 power or higher until end of turn. (When a SIGNI with [Assassin] attacks, it ignores any SIGNI in front of it and damages your opponent instead.)
+</text>
+		</card>
+		<card>
+			<name>Fiery Morning, Moonlit Night</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R07.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<cmc>4</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[Bet]: 1 Coin. (You may pay 1 Coin has you use this ARTS.)
+If you bet, this ARTS's cost becomes {1}{R}.
+Banish 1 SIGNI on your opponent's field. add 1 red SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Pulling Chestnuts Out of the Fire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R08.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - Ril Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
+Choose one. If you bet, choose two instead:
+- Banish 1 SIGNI on your opponent's field with power lower than the power of a SIGNI with (Rise) on your field.
+- Search your deck for 1 SIGNI with (Rise) and 1 Arm SIGNI, reveal them, then add them to your hand. Then shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Mel=Muddler</name>
+			<set picURL="">WDK06</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the end of your opponent's turn, you may put this KEY from your field into the LRIG Trash. If you do, banish up to 2 SIGNI on your opponent's field that attacked this turn.
+[On-Play]: [Ener Charge 2]
+[Action] [1/Turn] [Attack Phase] {0}: 1 SIGNI on the field gets +2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Highmail, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R11.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>13000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Rise) 1 red SIGNI (This SIGNI cannot be put onto the field unless you put it on top of 1 red SIGNI on your field.)
+			
+[Auto]: When this SIGNI attacks, if you discarded 2 or more cards from your hand this turn, banish 1 SIGNI on your opponent's field.
+[Action] [1/Turn] Discard 1 card from your hand: Draw 1 card.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field with 13000 power or lower.</text>
+		</card>
+		<card>
+			<name>Tonfa, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R12.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {R}{R}: If you discarded 1 or more cards from your hand this turn, draw 2 cards.</text>
+		</card>
+		<card>
+			<name>Sansetsukon, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R13.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If you discarded 1 or more cards from your hand this turn, this SIGNI gets +7000 power.</text>
+		</card>
+		<card>
+			<name>Tlet, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R14.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 Arm SIGNI from your hand: Search your deck for up to 1 SIGNI with (Rise), reveal it, then add it it your hand. Then shuffle your deck.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Flambe, Medium Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R15.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Arm</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If you discarded 1 or more cards from your hand this turn, this SIGNI gets +5000 power.</text>
+		</card>
+		<card>
+			<name>Kukri, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R16.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Nuncha, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R17.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Discard 1 Arm SIGNI from your hand: Banish 1 SIGNI on your opponent's field with 3000 power or lower.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Sword Line Ascertainment</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R20.jpg">WDK06</set>
+			<color>R</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Ril Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Arm SIGNI from your field into the trash. If you do, discard 1 card from your hand, then draw 2 cards.
 - [Ener Charge 1]</text>
 		</card>
 		<!-- WX01 -->
@@ -22337,7 +22761,7 @@ When a SIGNI on your field is banished this turn, if it was not by your own card
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Get 1 Coin. </text>
@@ -30151,7 +30575,7 @@ Choose up to two:
 			<type>SIGNI - Nature Spirit: Atom</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[On-Play]: Put up to 3 Atom SIGNI and up to 1 SPELL from your trash under this SIGNI.
+			<text>[On-Play]: Put up to 3 Atom SIGNI and up to 1 blue SPELL from your trash under this SIGNI.
 [Auto]: At the beginning of your attack phase, you may put 1 card from under this SIGNI into the trash. If you do, draw 1 card.
 [Auto]: When this SIGNI attacks, you may put 2 cards from under this SIGNI into the trash. If you do, banish 1 SIGNI on the field.
 
@@ -35567,7 +35991,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color>R</color>
 			<manacost>2RRR</manacost>
 			<cmc>5</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -37778,7 +38202,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {R}: Get 2 Coins.</text>
