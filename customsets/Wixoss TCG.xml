@@ -314,6 +314,12 @@
 			<releasedate>2018-04-26</releasedate>
 		</set>
 		<set>
+			<name>WXK02</name>
+			<longname>WXK-P02 Full Scratch</longname>
+			<settype>Expansion</settype>
+			<releasedate>2018-06-21</releasedate>
+		</set>
+		<set>
 			<name>SP01</name>
 			<longname>SP-01 spec selector: Rūko Kominato</longname>
 			<settype>Special</settype>
@@ -556,13 +562,13 @@
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Tamayorihime, Waxing Crescent Moon Miko</name>
+			<name>Tamayorihime, Half Moon Miko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD01/WD01-003.jpg">WD01</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
@@ -573,12 +579,12 @@
 			<text></text>
 		</card>
 		<card>
-			<name>Tamayorihime, Half Moon Miko</name>
+			<name>Tamayorihime, Waxing Crescent Moon Miko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD01/WD01-004.jpg">WD01</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -2850,10 +2856,10 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<name>Tama, Half Moon Miko (WD13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD13/WD13-005.jpg">WD13</set>
 			<color>W</color>
-			<manacost>1 - 0</manacost>
-			<cmc>1</cmc>
+			<manacost>2 - W</manacost>
+			<cmc>2</cmc>
 			<type>LRIG - Tama</type>
-			<loyalty>2</loyalty>
+			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
@@ -2861,10 +2867,10 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<name>Tama, Waxing Crescent Moon Miko (WD13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD13/WD13-006.jpg">WD13</set>
 			<color>W</color>
-			<manacost>2 - W</manacost>
-			<cmc>2</cmc>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
 			<type>LRIG - Tama</type>
-			<loyalty>5</loyalty>
+			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
@@ -2889,7 +2895,7 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with the same level as the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
+Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with a level equal to the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Spirit Salvage (WD13)</name>
@@ -7389,7 +7395,7 @@ Banish all frozen SIGNI on your opponent's field.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with the same level as the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
+Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with a level equal to the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Clean Boundary</name>
@@ -7447,7 +7453,7 @@ Choose one. If you bet, choose two instead:
 - Add 1 SIGNI from your trash to your hand.</text>
 		</card>
 		<card>
-			<name>Snow Daruma, Master's Play</name>
+			<name>Snow Daruma, Master Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T11.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>4</manacost>
@@ -7461,7 +7467,7 @@ Choose one. If you bet, choose two instead:
 [Life Burst]: Return 1 level 4 or lower SIGNI on your opponent's field to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Keropachin, Master's Play</name>
+			<name>Keropachin, Master Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T12.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>4</manacost>
@@ -7507,7 +7513,7 @@ Choose one. If you bet, choose two instead:
 			<text>[Auto]: When this SIGNI attacks, you may return this SIGNI from your field to its owner's hand. If you do, reveal the top card of your deck. If it is a SIGNI, put it onto your field downed and attacking.</text>
 		</card>
 		<card>
-			<name>Itdewa, Gift Play</name>
+			<name>String Phone, Great Knowledge Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T16.jpg">WDK05</set>
 			<color>W</color>
 			<manacost>1</manacost>
@@ -13685,7 +13691,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -16875,7 +16881,7 @@ Look at the top card of your opponent's Life Cloth. You may put it into the tras
 			<color>G</color>
 			<manacost>GG</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 
@@ -22691,7 +22697,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<tablerow>0</tablerow>
 			<text>[Auto]: When an accessorized SIGNI on your field is banished, if it was not by your own card effect, you may draw 1 card.
 [Auto]: At the beginning of your main phase, you may reveal the top 3 cards of your deck. Put a card with (Accessory) from among them into your Ener Zone, then put the rest on the bottom of your deck in any order.
-[Action] ((Berserk)) Pay 3 Coins: During this turn, your opponent cannot use ARTS, SPELLs, or [Action] abilities, and SIGNI on their field must attack if able. </text>
+[Action] ((Berserk)) Pay 3 Coins: During your opponent's next turn, your opponent cannot use ARTS, SPELLs, or [Action] abilities, and SIGNI on their field must attack if able. </text>
 		</card>
 		<card>
 			<name>Nanashi, That Four Another</name>
@@ -22739,7 +22745,7 @@ When a SIGNI on your field is banished this turn, if it was not by your own card
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -22750,7 +22756,7 @@ When a SIGNI on your field is banished this turn, if it was not by your own card
 			<color>R</color>
 			<manacost>2 - R</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ril</type>
+			<type>LRIG - Ril (KS)</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -24126,7 +24132,7 @@ Choose up to two:
 			<color>G</color>
 			<manacost>GG</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 
@@ -24135,10 +24141,11 @@ When your opponent attacks with a SIGNI or LRIG, if it is the first or second at
 		<card>
 			<name>Flaming Stubbornness (WX15)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX15/WX15-Re01.jpg">WX15</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-015.jpg">WXK02</set>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -25905,10 +25912,11 @@ Look at the top 4 cards of your deck, return them to the top of your deck in any
 		<card>
 			<name>Refuse Spell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-019.jpg">WX17</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-019.jpg">WXK02</set>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Spell Cut-In] 
 		
@@ -27150,7 +27158,7 @@ Banish exactly 3 SIGNI with the same power as each other.</text>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 			
@@ -28279,7 +28287,7 @@ Choose up to two. If you have a Ulith LRIG, choose up to three instead:
 			<color>W</color>
 			<manacost>1W</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 			
@@ -31560,11 +31568,11 @@ Return 1 SIGNI with a level lower than or equal to your LRIG's level to its owne
 			<color>W</color>
 			<manacost>W</manacost>
 			<cmc>1</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-Choose up to two. If you do choose two, this ARTS then costs {2} more to use.
+Choose up to two. If you do choose two, this ARTS costs {2} more to use.
 - Search your deck for up to 3 SIGNI with no abilities, reveal them, then add them to your hand. Then shuffle your deck.
 - Put any number of SIGNI with no abilities from your hand onto your field. At the end of the turn, put those SIGNI from the field into the trash. </text>
 		</card>
@@ -35659,6 +35667,1444 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 1 SIGNI on the field gets +2000 power until end of turn.
 (If this card would be placed outside of the LRIG Deck or Check Zone, exclude it from the game instead.)</text>
 		</card>
+		<card>
+			<name>Allos Piruluk TETRA (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Piruluk (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+[Constant]: While there are 0 cards in your hand, if you would be damaged by your opponent's LRIG, this LRIG loses this ability until end of turn instead.
+[Action] [1/Game] ((Catharsis)) Pay 1 Coin: This LRIG's limit becomes 12 until your next main phase. You cannot be damaged by your opponent's LRIG until your next main phase. If you would draw 1 card during your next draw phase, draw 2 cards instead.</text>
+		</card>
+		<card>
+			<name>Lalaru "Start" (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>R</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Action] [1/Turn] {1}{R}: Banish 1 SIGNI on your opponent's field.
+[Action] Put this KEY from your field into your LRIG Trash: Banish 2 SIGNI on your opponent's field. (This ability cannot be used if there is exactly 1 SIGNI on your opponent's field.)</text>
+		</card>
+		<card>
+			<name>Milulun Add (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>U</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gains the following ability:
+"[Action] [1/Turn] {Exceed 2}: Use 1 SPELL with total cost 3 or less from your hand without paying its costs."
+[On-Play]: Add 1 SPELL from your trash to your hand.
+[Action] [Spell Cut-In] {1}{U}: Cancel the effect of 1 SPELL being used.</text>
+		</card>
+		<card>
+			<name>Mama♥MODE LOVE (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [1/Turn] {Exceed 2}: [Ener Charge 2]"
+[On-Play] {1}{G}: Add the top card of your deck to your Life Cloth.
+[Action] [Attack Phase] Put this KEY from your field into your LRIG Trash: Disable the next attack done by a SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Iona, Save/Maiden (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>B</color>
+			<manacost>1 Coin</manacost>
+			<cmc>1</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gains the following ability:
+"[Action] [Attack Phase] {Exceed 3}: All SIGNI on your opponent's field must attack this turn if able. At the end of this turn, banish all SIGNI on the field that attacked this turn."
+[On-Play]: Add 1 SIGNI from your trash to your hand.
+[Action] [1/Turn] {B}: 1 SIGNI on your opponent's field gets -3000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Accel F1 (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Drive Constant]: [Assassin]
+[Constant]: All red SIGNI on your field get +2000 power during your turn.
+[On-Play] {R}{R}: Search your deck for 1 Riding Machine SIGNI other than "Code Accel F1" and put it onto your field. Then shuffle your deck.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Captain Hook, Claw of Demonic Seas (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Devil - Piruluk Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 0 cards in your hand, this SIGNI cannot be banished by your opponent's card effects.
+[On-Play] Discard 2 cards from your hand: Reveal the top 5 cards of your deck. Put up to 2 Devil SIGNI from among them onto your field, then put the rest of the cards revealed this way into the trash.
+
+[Life Burst]: Down and freeze up to 2 SIGNI on your opponent's field. </text>
+		</card>
+		<card>
+			<name>Ibarahime, Phantom Apparition Princess (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Midoriko Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When you use an ARTS during your turn, if it was the second ARTS you used this turn, put 1 SIGNI on your opponent's field into its owner's Ener Zone.
+[On-Play]: Put 1 "Thorny Maze" into your LRIG deck.
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with 8000 power or higher. 
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>J Ripper, Super Trap (alt)</name>
+			<set picURL="">WXK01</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, declare 1 number, then put the top card of your deck into the trash. If it is a SIGNI with the same level as the declared number, 1 SIGNI on your opponent's field gets -10000 power until end of turn.
+[On-Play]: 1 SIGNI on your opponent's field with an even-numbered level gets -5000 power until end of turn.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn. </text>
+		</card>
+		<!-- WXK02 -->
+		<card>
+			<name>Tamayorihime, Miko of White Destruction</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-001.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Tama (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When a SIGNI is put from your field into your hand during your Attack Phase, [Ener Charge 1].
+[Auto] [1/Turn]: When this LRIG attacks, you may pay {W}. If you do, reveal the top card of your deck. If it is a SIGNI, either add that SIGNI to your hand or put it onto your field.
+[Action] [1/Game] ((Innocence)) [Attack Phase] Pay 1 Coin: All of your opponent's currently active abilities lose their effects until end of turn.</text>
+		</card>
+		<card>
+			<name>Ril, Memory of True Feelings</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-002.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Ril (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)
+[On-Play]: Add 1 SIGNI with (Rise) and 1 Arm SIGNI from your trash to your hand.
+[Action] [1/Turn] {0}: 1 SIGNI on your field with (Rise) gets [Double Crush] until end of turn.
+[Action] [1/Game] ((Honest)) Pay 1 Coin: Your opponent declares 1 number. At the end of the turn, if the number of ARTS your opponent used this turn is not equal to the declared number, your opponent loses the game.</text>
+		</card>
+		<card>
+			<name>Remember Midnight, Next Dream Miko</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-003.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Remember (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto]: At the beginning of your attack phase, look at the top 3 cards of your deck. Put any number of them on the bottom of your deck in any order, then put the rest on top of your deck in any order.
+[On-Play] {U}: Freeze up to 2 SIGNI on your opponent's field. Draw 2 cards.
+[Action] [1/Game] ((Astrology)) Pay 1 Coin: Look at your opponent's hand and the top card of their Life Cloth. Draw 2 cards.</text>
+		</card>
+		<card>
+			<name>Carnival †Q† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-004.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When this LRIG attacks, if there are 25 or more cards in your trash, your opponent discards 1 card from their hand, puts 1 SIGNI on their field into the trash, and puts 1 card from their Ener Zone into the trash.
+[On-Play]: Banish 1 SIGNI on your opponent's field. Put a number of cards equal to that SIGNI's level from the top of your deck into the trash.
+[Action] [1/Game] ((Joker)) Pay 2 Coins: You may have up to 2 KEYs on your field for the rest of the game. Put 1 KEY from your LRIG Deck onto your field.</text>
+		</card>
+		<card>
+			<name>Gold Defense (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-005.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase] 
+			
+[Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
+Choose one. If you bet, choose up to two instead:
+- 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.
+- Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.</text>
+		</card>
+		<card>
+			<name>Yuki, Earnest Miko</name>
+			<set picURL="">WXK02</set>
+			<color>W</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [Attack Phase] {Exceed 2}: 1 SIGNI on your opponent's field loses its abilities until end of turn."
+[On-Play]: Search your deck for up to 2 SIGNI with no abilities, reveal them, then add them to your hand. Then shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Tamayorihime, Waxing Gibbous Moon Miko (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-007.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>3 - WW</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Tama (KS)</type>
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Tamayorihime, Half Moon Miko (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-008.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>2 - W</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Tama (KS)</type>
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Tamayorihime, Crescent Moon Miko</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-009.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Tama (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Xeno Kind</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-010.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Search your deck for up to 3 non-colorless SIGNI, reveal them, then add them to your hand. Then shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Vanilla Scramble (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-011.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+Choose up to two. If you do choose two, this ARTS costs {2} more to use.
+- Search your deck for up to 3 SIGNI with no abilities, reveal them, then add them to your hand. Then shuffle your deck.
+- Put any number of SIGNI with no abilities from your hand onto your field. At the end of the turn, put those SIGNI from the field into the trash. </text>
+		</card>
+		<card>
+			<name>Ril, Memory of Decadence (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-012.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>3 - RR</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ril, Flickering Memory (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-013.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>2 - R</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Ril (KS)</type>
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ril, Revisited Memory</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-014.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Ril (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Remember Dawn, Next Dream Miko</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-016.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Remember (KS)</type> 
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Remember Noon, Next Dream Miko</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-017.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>2 - U</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Remember (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Remember Morni, Next Dream Miko</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-018.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Remember (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card. </text>
+		</card>
+		<card>
+			<name>Soui=Key</name>
+			<set picURL="">WXK02</set>
+			<color>U</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Draw 2 cards.
+[Action] [Attack Phase] Put this KEY on your field into the LRIG Trash: Down 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Storm Warning (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-021.jpg">WXK02</set>
+			<color>G</color>
+			<manacost>GG</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase]
+
+When your opponent attacks with a SIGNI or LRIG, if it is the first or second attack this turn, disable that attack.</text>
+		</card>
+		<card>
+			<name>Aiyai★Deal</name>
+			<set picURL="">WXK02</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: While your opponent's LRIG is level 2 or higher, your LRIG gets the following ability:
+"[Action] [1/Turn] {Exceed 2}: 1 SIGNI on your field gets "[Auto] [1/Turn]: When this SIGNI attacks, up this SIGNI." until end of turn."
+[Constant]: When you would pay an ener cost, you may put this KEY from your field into the LRIG Trash to pay for two ener of any color.</text>
+		</card>
+		<card>
+			<name>Anne, Pilgrimage of Friendship</name>
+			<set picURL="">WXK02</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: All cards in your Ener Zone get [Multi Ener].
+[Action] [Attack Phase] {W}{R}{U}{G}{B}, Put this KEY from your field into the LRIG Trash: Put 1 SIGNI on your opponent's field into the trash, then draw 2 cards. You cannot be damaged by your opponent's LRIG this turn.</text>
+		</card>
+		<card>
+			<name>Carnival †T† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-024.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Carnival †S† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-025.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Carnival †P† </name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-026.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Carnival (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Dead Gate (WXK02)</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-027.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+You may pay an additional {B} as you use this ARTS.
+Put 1 SIGNI on your opponent's field that is 1 level higher than your LRIG's level into the trash.
+If you paid an additional {B} as you used this ARTS, put 1 SIGNI that is 1 level lower than your LRIG's level from your trash onto your field. </text>
+		</card>
+		<card>
+			<name>Myuu=Velvet</name>
+			<set picURL="">WXK02</set>
+			<color>B</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following abilities:
+"[Auto]: When this LRIG attacks, you may pay {1}. If you do, add 1 SIGNI with the same level as your LRIG from your trash to your hand.
+[Action] [1/Turn] {Exceed 1}: Search your deck for 4 SIGNI with different levels, put them into the trash, then shuffle your deck. If you do, 1 SIGNI on your opponent;s field gets -12000 power until end of turn."</text>
+		</card>
+		<card>
+			<name>Become You</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-029.jpg">WXK02</set>
+			<color></color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Choose one:
+- If your LRIG's level is lower than or equal to your opponent's LRIG's level, grow your LRIG. All KEYs on your field lose their abilities until end of turn. (Your LRIG's grow cost is not ignored.)
+- Add 1 SIGNI that shares a color with your LRIG from your trash to your hand, then draw 1 card.</text>
+		</card>
+		<card>
+			<name>Arcgain, Master Play Princess</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-030.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {W}. If you do, reveal the top card of your deck. If it is a SIGNI, return 1 SIGNI on your opponent's field with the same level as the SIGNI revealed this way to its owner's hand.
+[On-Play] {W}: Look at the top 3 cards of your deck. Put 1 SIGNI from among them onto your field, then put the rest on top of your deck in any order.
+
+[Life Burst]: Return 1 SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Yariho, Master Play Princess</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-031.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: If SIGNI leaves the field during the Attack Phase, look at the top 3 cards of your deck. Add 1 card from among them to your hand, then put the rest on top of your deck in any order.
+[On-Play]: Search your deck for 1 SIGNI and reveal it. Shuffle your deck, then put that card on top your deck.
+
+[Life Burst]: Draw 1 card, then if there are 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Strategy Gale</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-032.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Tama Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top X cards of your deck, where X is 7 minus the number of cards in your Life Cloth. Add 1 card from among them to your hand, then put any number of them on the bottom of your deck in any order, then put the rest on top of your deck in any order.
+
+[Life Burst]: Choose one:
+- Down your opponent's LRIG or 1 SIGNI on your opponent's field.
+- Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Longinus, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-033.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>13000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Rise): 1 red SIGNI (This SIGNI cannot be put onto your field unless you put it on top of 1 red SIGNI on your field.)
+
+[Auto]: When this SIGNI attacks, you may discard 1 card from your hand. If you do, draw 2 cards.
+[On-Play] {R}: Banish 1 SIGNI on your opponent's field with 12000 power or lower.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Balmung, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-034.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, if 2 or more SIGNI were banished from your opponent's field by your card effects this turn, draw 1 card.
+[On-Play] {R}: Banish 1 SIGNI on your opponent's field with 8000 power or lower.
+
+[Life Burst]: Draw 1 card, then if there are 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Archimes, Discovery of Bath Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-035.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {U}. If you do, banish 1 frozen SIGNI on your opponent's field.
+[On-Play] {U}: Put 1 card from the bottom of your deck into the Check Zone. If it is a SIGNI, you may put it onto your field. If you do not put the card onto the field, put it into the trash.
+
+[Life Burst]: Down and freeze up to 2 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Smith Hands, Distribution of Wealth Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-036.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, if you drew 3 or more cards outside of your Draw Phase this turn, you may pay {U}. If you do, banish 1 SIGNI on your opponent's field.
+
+[Life Burst]: Draw 1 card, then if there are 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Merlin, Prophecy of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-037.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: All SIGNI on your opponent's field get -2000 power until end of turn. If this SIGNI was put from the trash onto your field, they get -4000 power instead.
+[Action] {1}{B}{B}: Put this SIGNI from your trash onto your field.
+
+[Life Burst]: Draw 1 card, then if there are 4 or less cards in your Life Cloth, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Sima Yi, Strategist of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-038.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 15 or more cards in your trash, this SIGNI gets +3000 power. While there are 25 or more cards in your trash, this SIGNI gets +5000 power instead.
+[Auto]: When this SIGNI attacks, you may pay {B}{B}. If you do, 1 SIGNI on your opponent's field gets -X power, where X is equal to this SIGNI's power.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn. </text>
+		</card>
+		<card>
+			<name>Mail Stream</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-039.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>BBB</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - Carnival Limited</type>
+			<tablerow>3</tablerow>
+			<text>Shuffle all Valor SIGNI from your trash into your deck. If you shuffled 15 or more cards into your deck this way, add the top card of your deck to your Life Cloth.
+			
+[Life Burst]: Add 1 card from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Takeuma, Praiseworthy Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-040.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if 2 or more SIGNI were put from the field into their owner's hands this turn, this SIGNI gets [Assassin] until end of turn. (When a SIGNI with [Assassin] attacks, it ignores any SIGNI in front of it and damages your opponent instead.)
+
+[Life Burst]: Choose one:
+- Return 1 level 1 SIGNI on your opponent's field to its owner's hand.
+- [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Drawing Board, Praiseworthy Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-041.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Playground Equipment SIGNI on your field get +1000 power.
+[Auto]: When a SIGNI is put from the field into its owner's hand, 1 Playground Equipment SIGNI on your field gets +2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Yomifuda, Benevolent Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-042.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if a SIGNI was put from the field into its owner's hand this turn, return 1 level 2 or lower SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Yukiato, Great Knowledge Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-043.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If this SIGNI was put from your deck onto your field, [Ener Charge 1].
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Yubinin, Great Knowledge Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-044.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Playground Equipment SIGNI, put it into your Ener Zone.
+			
+[Life Burst]: [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Get Charge</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-045.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Tama Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top 4 cards of your deck. Put up to 2 Playground Equipment SIGNI from among them into your Ener Zone, then put the rest on top of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Sangansou, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-046.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if your LRIG's level is equal to your opponent's LRIG's level, this SIGNI gets [Double Crush] until end of turn.
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with 3000 power or lower.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Claíomh Solai, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-047.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Arm SIGNI on your field get +1000 power.
+[Auto]: When a SIGNI on your opponent's field is banished, 1 Arm SIGNI on your field gets +2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Shishiou, Medium Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-048.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down}, Discard 1 Arm SIGNI from your hand: Banish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
+		</card>
+		<card>
+			<name>Jitte, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-049.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If you discarded 1 or more cards from your hand this turn, banish 1 SIGNI on your opponent's field with 1000 power or lower.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Ichihito, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-050.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is an Arm SIGNI, put it into your Ener Zone.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Arc of Spiritual Flame</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-051.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Ril Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Search your deck for 1 SIGNI with (Rise), put it onto your field, then shuffle your deck. Then banish 1 SIGNI on your opponent's field with power lower than or equal to the power of the SIGNI put onto your field this way. (That SIGNI's (Rise) condition is not ignored.)</text>
+		</card>
+		<card>
+			<name>Risokita, Hypothesis of Sky Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-052.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, freeze 1 SIGNI on your opponent's field. If that SIGNI was already frozen, draw 1 card instead.
+			
+[Life Burst]: Choose one:
+- Down and freeze 1 SIGNI on your opponent's field.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Downforce, Aerodynamics of Running Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-053.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Wisdom SIGNI on your field get +1000 power.
+[Constant]: While there is a frozen SIGNI on your opponent's field, all Wisdom SIGNI on your field get +2000 power.</text>
+		</card>
+		<card>
+			<name>Magnus, Lift of Floating Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-054.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI banishes a frozen SIGNI by battle, crush 1 card in your opponent's Life Cloth.</text>
+		</card>
+		<card>
+			<name>Air Cannon, Firing of Box Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-055.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {U}. If you do, put the bottom card of your deck into the trash. If that card is a level 2 SIGNI, banish 1 level 2 or lower SIGNI on your opponent's field.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Engel, Coefficient of Food Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-056.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Wisdom SIGNI, put it into your Ener Zone.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>UNFORGETTABLE</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-057.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>UUU</manacost>
+			<cmc>3</cmc>
+			<type>SPELL - Remember Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Up to 2 SIGNI on your field get "While there is a frozen SIGNI in front of this SIGNI, this SIGNI gets [Assassin]." until end of turn.
+(When a SIGNI with [Assassin] attacks, it ignores any SIGNI in front of it and damages your opponent instead.)</text>
+		</card>
+		<card>
+			<name>Akemitsu, Honnō-ji Rebellion</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-058.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 12000 or higher, 1 SIGNI on your opponent's field gets -8000 power until end of turn.
+
+[Life Burst]: Choose one:
+- 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Kirizo, Concealment of the Ten Braves</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-059.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Valor SIGNI on your field get +1000 power.
+[Auto] [1/Turn]: When a card is put from your deck into the trash, 1 Valor SIGNI on your field gets +4000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Danzo, Kite Ninja of Genjutsu</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-060.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if there are 5 or more Valor SIGNI in your trash, you may pay {B}. If you do, 1 SIGNI on your opponent's field gets -3000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Morgan, Apparition of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-061.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: 1 SIGNI on your opponent's field gets -1000 power for every 5 Valor SIGNI in your trash until end of turn.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Guinevere, Queen of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-062.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a Valor SIGNI, put it into your Ener Zone.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Melt Death Size</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-063.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - Carnival Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Put the top 5 cards of your deck into the trash. If 5 cards were put into the trash this way, 1 SIGNI on your opponent's field gets -15000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Paper Shuri, Master Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-064.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Kawarie, Master Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-065.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if 2 or more SIGNI were put from the field into their owners' hands this turn, [Ener Charge 2].</text>
+		</card>
+		<card>
+			<name>Paper Plane, Praiseworthy Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-066.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Bamboo-Copter, Praiseworthy Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-067.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If a SIGNI was put from the field into its owner's hand this turn, this SIGNI gets +7000 power during that turn.</text>
+		</card>
+		<card>
+			<name>Paper Balloon, Benevolent Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-068.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rattle, Benevolent Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-069.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If a SIGNI was put from the field into its owner's hand this turn, this SIGNI gets +5000 power during that turn.</text>
+		</card>
+		<card>
+			<name>Hengao, Benevolent Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-070.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: You may search your deck for 1 level 2 or lower SIGNI and reveal it. If you do, shuffle your deck, then put that card on top of your deck.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Sanpoke, Great Knowledge Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-071.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may return this SIGNI from the field to its owner's hand. If you do, reveal the top card of your deck. If it is a SIGNI, put it onto your field downed and attacking.</text>
+		</card>
+		<card>
+			<name>Mojiawase, Great Knowledge Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-072.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI -  War Spirit: Playground Equipment (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>Constant]: If a SIGNI was put from the field into its owner's hand this turn, this SIGNI gets +5000 power during that turn.</text>
+		</card>
+		<card>
+			<name>Get Avalon</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-073.jpg">WXK02</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<type>SPELL - (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand.
+- Search your deck for up to 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Heshikiri, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-074.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Lamberge, Ultimate Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-075.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {R}, Discard 1 Arm SIGNI from your hand: Draw 2 cards.</text>
+		</card>
+		<card>
+			<name>Tonbokiri, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-076.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Kijinmaru, Great Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-077.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a SIGNI with (Rise) is put on top of this SIGNI, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Sengomura, Medium Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-078.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Nuadha, Medium Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-079.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 Arm SIGNI from your hand: This SIGNI gets [Double Crush] until end of turn.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Kitsunesaki, Medium Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-080.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When you discard an Arm SIGNI from your hand, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Fiax, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-081.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If you discarded 1 or more cards from your hand this turn, this SIGNI gets +5000 power during that turn.</text>
+		</card>
+		<card>
+			<name>Hanayari, Small Attire</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-082.jpg">WXK02</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Arm (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 Arm SIGNI from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Treof, Selection of Choice Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-083.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Flask, Equipment of Experiment Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-084.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {U}: 1 SIGNI on your field gets "While there is a frozen SIGNI in front of this SIGNI, this SIGNI gets [Assassin]." until end of turn.</text>
+		</card>
+		<card>
+			<name>Sunkco, Burial of Expense Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-085.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pipette, Equipment of Experiment Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-086.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {U}: If there is a frozen SIGNI on your opponent's field, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Lemonshi, Quality of Car Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-087.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Beaker, Equipment of Experiment Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-088.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Freeze 1 SIGNI on your opponent's field. 
+(Frozen SIGNI do not up during their user's next up phase.)</text>
+		</card>
+		<card>
+			<name>Table Salt, Concentration of Mixture Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-089.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Draw 2 cards, then put 2 cards from your hand on the bottom of your deck in any order.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Flowing Water, Speed of Boat Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-090.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When you draw a card, this SIGNI gets +5000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Suisoza, Faucet of Accumulating Wisdom</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-091.jpg">WXK02</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI gets banished, freeze 1 SIGNI on your opponent's field.
+(Frozen SIGNI do not up during their user's next up phase.)</text>
+		</card>
+		<card>
+			<name>Dian Wei, Super Strength of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-092.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Mordred, Rebellion of the Round Table</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-093.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited(KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] {0}: 1 SIGNI on your opponent's field gets -15000 power until end of turn. This ability cannot be used unless this SIGNI has 15000 power or higher.</text>
+		</card>
+		<card>
+			<name>Xu Chu, Herculean Strength of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-094.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Elizabeth, the Blood Countess</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-095.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If this SIGNI was put from your trash onto your field, 1 SIGNI on your opponent's field gets -5000 power until end of turn.
+			
+[Life Burst]: Choose one:
+- Draw 1 card.
+- [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Xu Huang, Reliability of the Wei Army</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-096.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Charlotte, Ruthless Daughter</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-097.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If this SIGNI was put from your trash onto your field, [Ener Charge 1].
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Vlad, Prince of Impalement</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-098.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top 3 cards of your deck into the trash. 1 Valor SIGNI on your field gets +2000 power for each black card put into your trash this way until end of turn.</text>
+		</card>
+		<card>
+			<name>Sanson, Executor of Executions</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-099.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 2 or more Valor SIGNI in your trash, this SIGNI gets +3000 power.</text>
+		</card>
+		<card>
+			<name>Semiramis, Black Mage of Doves</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK02/WXK02-100.jpg">WXK02</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Valor (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top 3 cards of your deck into the trash. This SIGNI gets +2000 power for each black card put into your trash this way until end of turn.</text>
+		</card>
+		<card>
+			<name>Tamayorihime, Miko of White Destruction (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Tama (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When a SIGNI is put from your field into your hand during your Attack Phase, [Ener Charge 1].
+[Auto] [1/Turn]: When this LRIG attacks, you may pay {W}. If you do, reveal the top card of your deck. If it is a SIGNI, either add that SIGNI to your hand or put it onto your field.
+[Action] [1/Game] ((Innocence)) [Attack Phase] Pay 1 Coin: All of your opponent's currently active abilities lose their effects until end of turn.</text>
+		</card>
+		<card>
+			<name>Yuzuki Key, Prospering Flame (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>R</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] {Exceed 1}: Your opponent cannot [Guard] with level 1 SIGNI this turn."
+[On-Play]: Put up to 2 colorless cards from your opponent's Ener Zone into the trash.
+[Action] Put this KEY from the field into the LRIG Trash: Put 1 card from your opponent's Ener Zone into the trash.</text>
+		</card>
+		<card>
+			<name>Soui=Key (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>U</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Draw 2 cards.
+[Action] [Attack Phase] Put this KEY on your field into the LRIG Trash: Down 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Anne, Pilgrimage of Friendship (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: All cards in your Ener Zone get [Multi Ener].
+[Action] [Attack Phase] {W}{R}{U}{G}{B}, Put this KEY from your field into the LRIG Trash: Put 1 SIGNI on your opponent's field into the trash, then draw 2 cards. You cannot be damaged by your opponent's LRIG this turn.</text>
+		</card>
+		<card>
+			<name>Aiyai★Deal (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>G</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: While your opponent's LRIG is level 2 or higher, your LRIG gets the following ability:
+"[Action] [1/Turn] {Exceed 2}: 1 SIGNI on your field gets "[Auto] [1/Turn]: When this SIGNI attacks, up this SIGNI." until end of turn."
+[Constant]: When you would pay an ener cost, you may put this KEY from your field into the LRIG Trash to pay for two ener of any color.</text>
+		</card>
+		<card>
+			<name>Myuu=Velvet (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>B</color>
+			<manacost>2 Coins</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following abilities:
+"[Auto]: When this LRIG attacks, you may pay {1}. If you do, add 1 SIGNI with the same level as your LRIG from your trash to your hand.
+[Action] [1/Turn] {Exceed 1}: Search your deck for 4 SIGNI with different levels, put them into the trash, then shuffle your deck. If you do, 1 SIGNI on your opponent;s field gets -12000 power until end of turn."</text>
+		</card>
+		<card>
+			<name>Arcgain, Master Play Princess (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Tama Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {W}. If you do, reveal the top card of your deck. If it is a SIGNI, return 1 SIGNI on your opponent's field with the same level as the SIGNI revealed this way to its owner's hand.
+[On-Play] {W}: Look at the top 3 cards of your deck. Put 1 SIGNI from among them onto your field, then put the rest on top of your deck in any order.
+
+[Life Burst]: Return 1 SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Longinus, Ultimate Attire (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Arm - Ril Limited (KS)</type>
+			<pt>13000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Rise): 1 red SIGNI (This SIGNI cannot be put onto your field unless you put it on top of 1 red SIGNI on your field.)
+
+[Auto]: When this SIGNI attacks, you may discard 1 card from your hand. If you do, draw 2 cards.
+[On-Play] {R}: Banish 1 SIGNI on your opponent's field with 12000 power or lower.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Archimes, Discovery of Bath Wisdom (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Remember Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {U}. If you do, banish 1 frozen SIGNI on your opponent's field.
+[On-Play] {U}: Put 1 card from the bottom of your deck into the Check Zone. If it is a SIGNI, you may put it onto your field. If you do not put the card onto the field, put it into the trash.
+
+[Life Burst]: Down and freeze up to 2 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Sima Yi, Strategist of the Wei Army (alt)</name>
+			<set picURL="">WXK02</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Carnival Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 15 or more cards in your trash, this SIGNI gets +3000 power. While there are 25 or more cards in your trash, this SIGNI gets +5000 power instead.
+[Auto]: When this SIGNI attacks, you may pay {B}{B}. If you do, 1 SIGNI on your opponent's field gets -X power, where X is equal to this SIGNI's power.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn. </text>
+		</card>
 		<!-- SP01 -->
 		<card>
 			<name>Tama, Full Moon Miko</name>
@@ -35677,13 +37123,13 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Tama</type>
+			<type>LRIG - Tama (KS)</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Tama, Waxing Crescent Moon Miko</name>
+			<name>Tama, Half Moon Miko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP01/SP01-003.jpg">SP01</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
@@ -35694,7 +37140,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<text></text>
 		</card>
 		<card>
-			<name>Tama, Half Moon Miko</name>
+			<name>Tama, Waxing Crescent Moon Miko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP01/SP01-004.jpg">SP01</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
@@ -35770,7 +37216,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with the same level as the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
+Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with a level equal to the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Romail, Helmet Armor (SP01)</name>
@@ -39521,7 +40967,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>W</color>
 			<manacost>2 - W</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Tama</type> 
+			<type>LRIG - Tama (KS)</type> 
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -41332,7 +42778,7 @@ Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with the same level as the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
+Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with a level equal to the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Tamayorihime, New Moon Miko (PR137)</name>
@@ -43479,12 +44925,12 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS</type>
+			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
 You may pay an additional {B} as you use this ARTS.
-Put 1 SIGNI that is 1 level higher than your LRIG's level on your opponent's field into the trash.
+Put 1 SIGNI on your opponent's field that is 1 level higher than your LRIG's level into the trash.
 If you paid an additional {B} as you used this ARTS, put 1 SIGNI that is 1 level lower than your LRIG's level from your trash onto your field. </text>
 		</card>
 		<card>
@@ -44783,7 +46229,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
 		</card>
 		<card>
-			<name>Midoriko, Combat Girl (PR-K13)</name>
+			<name>Midoriko, Combat Girl (PR-K14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K014.jpg">PR</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
@@ -44792,6 +46238,30 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
+		</card>
+		<card>
+			<name>Humpty Dumpty, Medium Trap</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K018.jpg">PR</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<pt>4000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if the levels of all SIGNI on your field are even-numbered, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
+
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Tamayorihime, Modern Miko</name>
+			<set picURL="">PR</set>
+			<color>W</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [1/Turn] [Main Phase] [Attack Phase] {Exceed 2}: Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI with a level equal to the declared number among them, return 1 SIGNI on your opponent's field to its owner's hand, then put the cards revealed by this effect on top of your deck in any order."</text>
 		</card>
 	<!-- Other -->
 		<card>
