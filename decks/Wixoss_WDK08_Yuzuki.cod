@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Servant D4"/>
+        <card number="4" name="Servant O (WD15)"/>
+        <card number="4" name="Spino, Water Phantom"/>
+        <card number="4" name="Dunkleteus, Water Phantom"/>
+        <card number="4" name="Kababan, Water Phantom"/>
+        <card number="4" name="Glasses Crocodile, Water Phantom"/>
+        <card number="4" name="Amakero, Water Phantom"/>
+        <card number="4" name="Water Buffalo, Water Phantom"/>
+        <card number="4" name="Keromodoki, Water Phantom"/>
+        <card number="4" name="Cutting Stab"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yuzuki Four, Claw and Fang"/>
+        <card number="1" name="Yuzuki Three, Claw and Fang"/>
+        <card number="1" name="Yuzuki Two, Claw and Fang"/>
+        <card number="1" name="Yuzuki One, Claw and Fang"/>
+        <card number="1" name="Yuzuki Zero, Claw and Fang"/>
+        <card number="1" name="Blockade Armor"/>
+        <card number="1" name="Vacuum Slash"/>
+        <card number="1" name="Violent Succession"/>
+        <card number="1" name="Midoriko, Type Key Combat Girl"/>
+        <card number="1" name="Phantom Garden"/>
+    </zone>
+</cockatrice_deck>

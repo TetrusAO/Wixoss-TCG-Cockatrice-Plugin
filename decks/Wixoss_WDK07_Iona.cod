@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Servant O (WD18)"/>
+        <card number="4" name="Servant D4"/>
+        <card number="4" name="Anemone, Natural Plant"/>
+        <card number="4" name="Ume, Natural Plant"/>
+        <card number="4" name="Kujakusou, Natural Plant"/>
+        <card number="4" name="Abelia, Natural Plant"/>
+        <card number="4" name="Sanzaka, Natural Plant"/>
+        <card number="4" name="Pansy, Natural Plant"/>
+        <card number="4" name="Marguerite, Natural Plant"/>
+        <card number="4" name="Plant Arrange"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Victim Defense"/>
+        <card number="1" name="Yuki, Flower Army Miko"/>
+        <card number="1" name="Yuki, Flower Weather Miko"/>
+        <card number="1" name="Yuki, Flower Garden Miko"/>
+        <card number="1" name="Yuki, Flower Shadow Miko"/>
+        <card number="1" name="Yuki, Flower Bud Miko"/>
+        <card number="1" name="Harvest Force"/>
+        <card number="1" name="White Seeding"/>
+        <card number="1" name="Eques Defense"/>
+        <card number="1" name="Tamayorihime, Moon Key Miko"/>
+    </zone>
+</cockatrice_deck>

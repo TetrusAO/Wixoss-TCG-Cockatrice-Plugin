@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Servant D (WD15)"/>
+        <card number="4" name="Servant O4"/>
+        <card number="4" name="Tsukuyomi, Vermilion Familiar"/>
+        <card number="4" name="Izanami, Vermilion Familiar"/>
+        <card number="4" name="Amaterasu, Vermilion Familiar"/>
+        <card number="4" name="Kiyohime, Vermilion Familiar"/>
+        <card number="4" name="Konohana Sakuya, Vermilion Familiar"/>
+        <card number="4" name="Amadeus, Vermilion Familiar"/>
+        <card number="4" name="Cerdid, Vermilion Familiar"/>
+        <card number="4" name="Axe Attack of Blood Crystal"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Victim Defense"/>
+        <card number="1" name="Yuri Lv4, Vessel of Wisdom Blood"/>
+        <card number="1" name="Yuri Lv3, Vessel of Wisdom Blood"/>
+        <card number="1" name="Yuri Lv2, Vessel of Wisdom Blood"/>
+        <card number="1" name="Yuri Lv1, Vessel of Wisdom Blood"/>
+        <card number="1" name="Yuri Lv0, Vessel of Wisdom Blood"/>
+        <card number="1" name="Vermilion Shield of Blood Crystal"/>
+        <card number="1" name="Expansion of Blood Crystal"/>
+        <card number="1" name="Magic Wand of Blood Crystal"/>
+        <card number="1" name="AVAL Foundation for Science"/>
+    </zone>
+</cockatrice_deck>

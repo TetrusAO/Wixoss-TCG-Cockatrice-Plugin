@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Phantom Garden"/>
+        <card number="1" name="Eldora TYPE×IV"/>
+        <card number="1" name="Eldora TYPE×III"/>
+        <card number="1" name="Eldora TYPE×II"/>
+        <card number="1" name="Eldora TYPE×I"/>
+        <card number="1" name="Eldora Boot"/>
+        <card number="1" name="Don't Eat"/>
+        <card number="1" name="Power Decorate"/>
+        <card number="1" name="Candy Rain"/>
+        <card number="1" name="Ibericorna II ~Key Chapter~"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Servant D (WD18)"/>
+        <card number="4" name="Servant O4"/>
+        <card number="4" name="Code Eat Poppin' Ice"/>
+        <card number="4" name="Code Eat Ujikintoki"/>
+        <card number="4" name="Code Eat Pokkin"/>
+        <card number="4" name="Code Eat Rum Raisin"/>
+        <card number="4" name="Code Eat Coro Ice"/>
+        <card number="4" name="Code Eat Grajelly"/>
+        <card number="4" name="Code Eat Watermelon Ice"/>
+        <card number="4" name="SWEET CHARGE"/>
+    </zone>
+</cockatrice_deck>

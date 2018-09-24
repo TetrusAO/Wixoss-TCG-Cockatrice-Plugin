@@ -5,14 +5,14 @@
     <zone name="main">
         <card number="4" name="Flying Trigger"/>
         <card number="4" name="Snow Sled, Great Knowledge Play"/>
-        <card number="4" name="Itdewa, Gift Play"/>
-        <card number="4" name="Kamakura, Virtue Play"/>
-        <card number="4" name="Yukigassen, Praise Play"/>
-        <card number="4" name="Pacchancho, Praise Play"/>
-        <card number="4" name="Keropachin, Master's Play"/>
-        <card number="4" name="Snow Daruma, Master's Play"/>
         <card number="4" name="Servant D4"/>
         <card number="4" name="Servant O (WD13)"/>
+        <card number="4" name="Snow Daruma, Master Play"/>
+        <card number="4" name="Keropachin, Master Play"/>
+        <card number="4" name="Pakkuncho, Praiseworthy Play"/>
+        <card number="4" name="Snowball Fight, Praiseworthy Play"/>
+        <card number="4" name="Kamakura, Benevolent Play"/>
+        <card number="4" name="String Phone, Great Knowledge Play"/>
     </zone>
     <zone name="side">
         <card number="1" name="Victim Defense"/>
