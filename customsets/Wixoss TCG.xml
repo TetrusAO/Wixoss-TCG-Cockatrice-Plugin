@@ -39110,7 +39110,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 [Action] [1/Game] [Attack Phase] ((Truth)) Pay 1 Coin: Bloom 1 Seed on your field.</text>
 		</card>
 		<card>
-			<name>Yuri Lv4', Vessel of Wisdom Blood</name>
+			<name>Yuri Lv4', Vessel of Wisdom Blood </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-002.jpg">WXK04</set>
 			<color>R</color>
 			<manacost>4 - 0</manacost>
@@ -39236,7 +39236,7 @@ Look at the top 4 cards of your deck. You may place up to 2 cards from among the
 (A SIGNI Zone may have up to 1 Seed on it at a time. If you would place a Seed onto a SIGNI Zone with a Seed already on it, put its previous Seed into the trash before placing the new Seed.)</text>
 		</card>
 		<card>
-			<name>Yuri Lv3', Vessel of Wisdom Blood</name>
+			<name>Yuri Lv3', Vessel of Wisdom Blood </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-011.jpg">WXK04</set>
 			<color>R</color>
 			<manacost>3 - RR</manacost>
@@ -39248,7 +39248,7 @@ Look at the top 4 cards of your deck. You may place up to 2 cards from among the
 (To blood crystal arm a SIGNI, put 1 card with the same name as it from the specified zone in {} under that SIGNI.)</text>
 		</card>
 		<card>
-			<name>Yuri Lv2', Vessel of Wisdom Blood</name>
+			<name>Yuri Lv2', Vessel of Wisdom Blood </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-012.jpg">WXK04</set>
 			<color>R</color>
 			<manacost>2 - R</manacost>
@@ -39260,7 +39260,7 @@ Look at the top 4 cards of your deck. You may place up to 2 cards from among the
 (To blood crystal arm a SIGNI, put 1 card with the same name as it from the specified zone in {} under that SIGNI.)</text>
 		</card>
 		<card>
-			<name>Yuri Lv1', Vessel of Wisdom Blood</name>
+			<name>Yuri Lv1', Vessel of Wisdom Blood </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-013.jpg">WXK04</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
