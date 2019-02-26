@@ -350,6 +350,12 @@
 			<releasedate>2018-12-20</releasedate>
 		</set>
 		<set>
+			<name>WXEX1</name>
+			<longname>WXEX-1 Unlimited Selector</longname>
+			<settype>Expansion</settype>
+			<releasedate>2019-02-14</releasedate>
+		</set>
+		<set>
 			<name>SP01</name>
 			<longname>SP-01 spec selector: Rūko Kominato</longname>
 			<settype>Special</settype>
@@ -1370,56 +1376,56 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 		</card>
 		<!-- WD05 -->
 		<card>
-			<name>Ulith, Jailer Enma</name>
+			<name>Urith, Jailer Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD05/WD05-001.jpg">WD05</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: While "Metsum, Fallen Cannon Girl" is on your field, if you have 20 or more cards in your trash, all SIGNI on your field get +2000 power. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Eternal Hell</name>
+			<name>Urith, Enma of Eternal Hell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD05/WD05-002.jpg">WD05</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Crushing Hell</name>
+			<name>Urith, Enma of Crushing Hell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD05/WD05-003.jpg">WD05</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Burning Eye Enma</name>
+			<name>Urith, Burning Eye Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD05/WD05-004.jpg">WD05</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma</name>
+			<name>Urith, Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD05/WD05-005.jpg">WD05</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -1455,7 +1461,7 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<color>B</color>
 			<manacost>BBBBB</manacost>
 			<cmc>5</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 		
@@ -1467,7 +1473,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Each player puts the top 7 cards of their deck into the trash.
@@ -1491,7 +1497,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 10 or more cards in your trash, this SIGNI gets +5000 power.
@@ -1526,7 +1532,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put the top 3 cards of your deck into the trash. </text>
@@ -3178,12 +3184,12 @@ Choose one:
 		</card>
 		<!-- WD14 -->
 		<card>
-			<name>Ulith, Enma of Empty Fortune</name>
+			<name>Urith, Enma of Empty Fortune</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-001.jpg">WD14</set>
 			<color>B</color>
 			<manacost>5 - BBB</manacost>
 			<cmc>5</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>12</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: This LRIG costs {B} less to grow into for every 6 Devil SIGNI in your trash.
@@ -3191,57 +3197,57 @@ Choose one:
 [Constant]: All of your cards without [Life Burst] get "[Life Burst]: Banish 1 SIGNI on your opponent's field." </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Immorality</name>
+			<name>Urith, Enma of Immorality</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-002.jpg">WD14</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: All Devil SIGNI on your field get +1000 power.
 [Action] {Exceed 2} (Put 2 cards from under this LRIG into the LRIG Trash): Look at the top 4 cards of your deck. Add 1 card from among them to your hand, then put the rest into the trash. </text>
 		</card>
 		<card>
-			<name>Ulith, Ashen River Enma</name>
+			<name>Urith, Ashen River Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-003.jpg">WD14</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {B}: Add 1 Devil SIGNI from your trash to your hand. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Crushing Hell (WD14)</name>
+			<name>Urith, Enma of Crushing Hell (WD14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-004.jpg">WD14</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Burning Eye Enma (WD14)</name>
+			<name>Urith, Burning Eye Enma (WD14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-005.jpg">WD14</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith (WD14)</name>
+			<name>Urith (WD14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD14/WD14-006.jpg">WD14</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -3252,7 +3258,7 @@ Choose one:
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<cmc>3</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 		
@@ -3264,7 +3270,7 @@ Banish 1 Devil SIGNI on your field. If you do, add the top card of your deck to 
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -3290,7 +3296,7 @@ Put any number of Devil SIGNI from your Ener Zone into the trash. Then put 1 Dev
 			<color>B</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 		
@@ -3303,7 +3309,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: Whenever a Devil SIGNI on your field is banished, put 1 SIGNI with a lower level than that SIGNI from your trash onto your field.
@@ -3319,7 +3325,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: When this SIGNI is banished, you may put this SIGNI from your Ener Zone onto your field.
@@ -3331,7 +3337,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 SIGNI from your field into the trash.
@@ -3345,7 +3351,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI crushes 1 of your opponent's Life Cloth, 1 SIGNI on your opponent's field gets −10000 power until end of turn.
@@ -3372,7 +3378,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play] Discard 1 Devil SIGNI from your hand: 1 SIGNI on your opponent's field gets -5000 power until end of turn.
@@ -3385,7 +3391,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 other SIGNI on your field into the trash. </text>
@@ -3407,7 +3413,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 other SIGNI on your field into the trash. </text>
@@ -3459,7 +3465,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Your LRIG gets "When this LRIG attacks, you may put any number of SIGNI from your field into the trash. Then add the top card of your deck to your Life Cloth for each SIGNI put into the trash this way." until end of turn.
 		
@@ -3471,7 +3477,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 			<color>B</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
@@ -5242,12 +5248,12 @@ Choose one:
         </card>
 		<!-- WD22 -->
 		<card>
-			<name>Ulith, Vermilion Enma (WD22)</name>
+			<name>Urith, Vermilion Enma (WD22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-001-U.jpg">WD22</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {B}: Add 1 SIGNI from your trash to your hand.
@@ -5255,34 +5261,34 @@ Choose one:
 [Action] [1/Turn] {Exceed 2}: (Put 2 cards from under this LRIG into the LRIG Trash): Put 1 black SIGNI from your field into the trash. If you do, add the top card of your deck to your Life Cloth.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Elegant Fall</name>
+			<name>Urith, Enma of Elegant Fall</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-002-U.jpg">WD22</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Get 2 Coins. </text>
 		</card>
 		<card>
-			<name>Ulith, Gold-Dyed Enma</name>
+			<name>Urith, Gold-Dyed Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-003-U.jpg">WD22</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Get 1 Coin.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Favorable Meetings</name>
+			<name>Urith, Enma of Favorable Meetings</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-004-U.jpg">WD22</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Get 1 Coin. Then discard 1 card.</text>
@@ -5297,7 +5303,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two. If you have a Ulith LRIG, choose up to three instead:
+Choose up to two. If you have a Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -5309,7 +5315,7 @@ Choose up to two. If you have a Ulith LRIG, choose up to three instead:
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -5392,7 +5398,7 @@ Choose up to two. If you have a Guzuko LRIG, choose up to three:
 Put 1 level 2 or lower SIGNI on your opponent's field into the trash and put 1 level 2 or lower Playground Equipment SIGNI from your trash onto your field. If you bet, put 1 SIGNI on your opponent's field into the trash and put 1 Playground Equipment SIGNI from your trash onto your field instead. </text>
 		</card>
 		<card>
-			<name>Ulith and Guzuko</name>
+			<name>Urith and Guzuko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-013-UG.jpg">WD22</set>
 			<color></color>
 			<manacost>0 - 0</manacost>
@@ -5400,7 +5406,7 @@ Put 1 level 2 or lower SIGNI on your opponent's field into the trash and put 1 l
 			<type>LRIG</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
-			<text>As you begin the game, when you have this LRIG face-up, choose one from either Ulith or Guzuko. This LRIG gets the chosen LRIG type. If you chose Guzuko, get 3 Coins. </text>
+			<text>As you begin the game, when you have this LRIG face-up, choose one from either Urith or Guzuko. This LRIG gets the chosen LRIG type. If you chose Guzuko, get 3 Coins. </text>
 		</card>
 		<card>
 			<name>Bio Hazard (WD22)</name>
@@ -5433,7 +5439,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>ARTS - Ulith / Guzuko Limited</type>
+			<type>ARTS - Urith / Guzuko Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -5445,7 +5451,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI crushes 1 of your opponent's Life Cloth, 1 SIGNI on your opponent's field gets −10000 power until end of turn.
@@ -5461,7 +5467,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, banish 1 level 3 or lower SIGNI on your opponent's field.
@@ -5476,7 +5482,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 0 cards in your hand, this SIGNI's power becomes 18000.
@@ -5491,7 +5497,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: You may put the top card of your deck under this card as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)
@@ -5540,7 +5546,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from your deck into the trash, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
@@ -5567,7 +5573,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from your hand or deck into the trash, you may attach this card to 1 SIGNI on your field as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)</text>
@@ -5578,7 +5584,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Your LRIG gets "When this LRIG attacks, you may put any number of SIGNI from your field into the trash. Then add the top card of your deck to your Life Cloth for each SIGNI put into the trash this way." until end of turn.
 		
@@ -5699,7 +5705,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil / War Spirit: Playground Equipment - Ulith / Guzuko Limited</type>
+			<type>SIGNI - Image Spirit: Devil / War Spirit: Playground Equipment - Urith / Guzuko Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]：When this SIGNI is put onto your field by the effect of a SIGNI, 1 SIGNI on your opponent's field gets −12000 power until end of turn.
@@ -5714,7 +5720,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil / War Spirit: Playground Equipment - Ulith / Guzuko Limited</type>
+			<type>SIGNI - Image Spirit: Devil / War Spirit: Playground Equipment - Urith / Guzuko Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 15 or more cards in your trash, this SIGNI's power becomes 12000.
@@ -5752,7 +5758,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
-			<type>SPELL - Ulith / Guzuko Limited</type>
+			<type>SPELL - Urith / Guzuko Limited</type>
 			<tablerow>3</tablerow>
 			<text>If there are 25 or more cards in your trash, the cost to use this SPELL becomes {0}.
 
@@ -10091,12 +10097,12 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<text>[Constant]: When 1 of your Life Cloth is crushed, you may draw 1 card.</text>
 		</card>
 		<card>
-			<name>Ulith, Infinite Enma</name>
+			<name>Urith, Infinite Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX02/WX02-004.jpg">WX02</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Action] {B}, Discard 1 black SIGNI from your hand: 1 SIGNI on your opponent's field gets -10000 power until end of turn.</text>
@@ -10119,7 +10125,7 @@ Search your deck for up to 2 level 2 or lower Arm and/or Weapon SIGNI and put th
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<cmc>3</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -10193,34 +10199,34 @@ If there are 25 or more cards in your trash, banish all SIGNI on the field.</tex
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Screaming Hell</name>
+			<name>Urith, Enma of Screaming Hell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX02/WX02-013.jpg">WX02</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] Discard 1 card from your hand: 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Black Rope Hell</name>
+			<name>Urith, Enma of Black Rope Hell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX02/WX02-014.jpg">WX02</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>4</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: All black SIGNI on your field get +1000 power.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Reviving Hell</name>
+			<name>Urith, Enma of Reviving Hell</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX02/WX02-015.jpg">WX02</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>1</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Put the top 3 cards of your deck into the trash. </text>
@@ -10351,7 +10357,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 SIGNI from your field into the trash.
@@ -10389,7 +10395,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Your LRIG gets "When this LRIG attacks, you may put any number of SIGNI from your field into the trash. Then add the top card of your deck to your Life Cloth for each SIGNI put into the trash this way." until end of turn.
 		
@@ -10600,7 +10606,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>BBB</manacost>
 			<cmc>3</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 SIGNI on your field. If you do, banish 1 SIGNI on your opponent's field.
 		
@@ -10854,7 +10860,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play] Discard 1 Devil SIGNI from your hand: 1 SIGNI on your opponent's field gets -5000 power until end of turn.
@@ -10926,7 +10932,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 2 or more cards in your trash, this SIGNI's power becomes 5000.</text>
@@ -11076,12 +11082,12 @@ Add the top card of your deck to your Life Cloth.</text>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Black Sand Enma</name>
+			<name>Urith, Black Sand Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX03/WX03-010.jpg">WX03</set>
 			<color>B</color>
 			<manacost>4 - BB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>12</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -11628,12 +11634,12 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 [Constant]: Players can only have 1 SIGNI on the field. (If a player already has 2 or more SIGNI on the field, that player puts SIGNI into their trash until they have 1 SIGNI left.)</text>
 		</card>
 		<card>
-			<name>Ulith, Vermilion Enma</name>
+			<name>Urith, Vermilion Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX04/WX04-006.jpg">WX04</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play] {B}: Add 1 SIGNI from your trash to your hand.
@@ -11801,12 +11807,12 @@ Your opponent reveals cards from the top of their deck until they reveal a SPELL
 Reveal the top 3 cards of your deck. Add all Beautiful Technique SIGNI from among them to your hand, then put the rest into the trash. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Suffering</name>
+			<name>Urith, Enma of Suffering</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX04/WX04-021.jpg">WX04</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Action] [1/Turn] Put 1 Charm from your field into the trash: Each player puts the top 3 cards of their deck into the trash.
@@ -12185,7 +12191,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: You may put the top card of your deck under this card as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)
@@ -12694,7 +12700,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While a Charm is attached to this SIGNI, this SIGNI's power becomes 12000.
@@ -12719,7 +12725,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While a Charm is attached to this SIGNI, this SIGNI's power becomes 10000.</text>
@@ -12765,7 +12771,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from your hand or deck into the trash, you may attach this card to 1 SIGNI on your field as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)</text>
@@ -12776,7 +12782,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>1 SIGNI on your opponent's field gets -1000 power multiplied by the total combined level of all Devil SIGNI on your field. Then you may attach this card to 1 of your Devil SIGNI as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)</text>
 		</card>
@@ -12882,12 +12888,12 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 [Action] [Attack Phase] {Exceed 5}: Down your opponent's LRIG and all SIGNI on your opponent's field.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Nihilism</name>
+			<name>Urith, Enma of Nihilism</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX05/WX05-006.jpg">WX05</set>
 			<color></color>
 			<manacost>5 - 0</manacost>
 			<cmc>5</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>∞</loyalty>
 			<tablerow>0</tablerow>
 			<text>(Grow): You cannot grow into this card unless there are 3 or more colors among the cards in your Ener Zone.
@@ -13021,7 +13027,7 @@ Put 1 of your Poison Fang SIGNI from your field into the trash. If you do, all S
 			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Spell Cut-In]
 		
@@ -13175,7 +13181,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI crushes 1 card in your opponent's Life Cloth, 1 SIGNI on your opponent's field gets −10000 power until end of turn.
@@ -13395,7 +13401,7 @@ If you have 4 or more cards in your hand, banish 1 SIGNI on your opponent's fiel
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<cmc>3</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Your LRIG gets "[Action] {Down}: Banish all SIGNI on your opponent's field." until end of turn.
 At the end of this turn, discard all cards in your hand.
@@ -13778,7 +13784,7 @@ At the end of this turn, discard all cards in your hand.
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}, Put 1 of your Charms into the trash: 1 SIGNI on your opponent's field gets -5000 power until end of turn.</text>
@@ -13800,7 +13806,7 @@ At the end of this turn, discard all cards in your hand.
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Attach this SIGNI to 1 of your Devil SIGNI as a Charm. (Attaching a Charm to a SIGNI is done by placing the Charm facedown under that SIGNI. A SIGNI can only have 1 Charm attached at a time. When a SIGNI with a Charm attached leaves the field, put its Charm into the trash.)</text>
@@ -14540,12 +14546,12 @@ Banish 1 SIGNI on your opponent's field.</text>
 [Action] {Down}: Put the top 2 cards of your deck into the Ener Zone. Use this ability only if there are crossed SIGNI on your field. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of the Sin Gate</name>
+			<name>Urith, Enma of the Sin Gate</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX07/WX07-005.jpg">WX07</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: When a SIGNI with (Cross) is put onto your field, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
@@ -14711,12 +14717,12 @@ This ARTS cannot be used unless there are crossed SIGNI on your field.
 Banish 1 SIGNI on your opponent's field with 10000 power or higher. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Purgatory</name>
+			<name>Urith, Enma of Purgatory</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX07/WX07-019.jpg">WX07</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: All SIGNI with (Cross) on your field get +1000 power.</text>
@@ -14727,7 +14733,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or higher. </text>
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
@@ -14884,7 +14890,7 @@ Search your deck for up to 3 Atom SIGNI, reveal them, then add them to your hand
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>(Cross): "Agyou, Left Image of Transgression" Right
@@ -17573,11 +17579,11 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 5 or more cards in your trash, this SIGNI gets +2000 power.
-[Constant]: While there is a level 4 Ulith LRIG on your field, this SIGNI's power becomes 10000.
+[Constant]: While there is a level 4 Urith LRIG on your field, this SIGNI's power becomes 10000.
 (If you meet both conditions, this SIGNI's power becomes 12000.)</text>
 		</card>
 		<card>
@@ -17586,7 +17592,7 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 			<color>B</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
@@ -18081,7 +18087,7 @@ Return 1 SIGNI from your opponent's field to its owner's hand and banish 1 SIGNI
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 0 cards in your hand, this SIGNI's power becomes 18000.
@@ -18890,12 +18896,12 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith (WX10)</name>
+			<name>Urith (WX10)</name>
 			<set picURL="">WX10</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -18967,12 +18973,12 @@ Choose one:
 [Action] {Exceed 2}: All SIGNI on your field get [Lancer] until end of turn. (When a SIGNI with [Lancer] banishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)</text>
 		</card>
 		<card>
-			<name>Ulith, Scorching Enma</name>
+			<name>Urith, Scorching Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX11/WX11-006.jpg">WX11</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Search your deck for up to 3 cards and put them into the trash. Then shuffle your deck.
@@ -19170,12 +19176,12 @@ Choose one:
 - Search your deck for 1 level 2 or lower SIGNI and put it onto your field. That SIGNI's [On-Play] ability is not triggered. Then shuffle your deck. </text>
 		</card>
 		<card>
-			<name>Ulith, Three Paths Enma</name>
+			<name>Urith, Three Paths Enma</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX11/WX11-022.jpg">WX11</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>7</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: When this card is put into the LRIG Trash to pay for an {Exceed} cost, add 1 black SIGNI from your trash to your hand. </text>
@@ -19190,7 +19196,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two. If you have a Ulith LRIG, choose up to three instead:
+Choose up to two. If you have a Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -19324,7 +19330,7 @@ When your opponent refreshes their deck this turn, end the turn. (At the time th
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, banish 1 level 3 or lower SIGNI on your opponent's field.
@@ -19540,7 +19546,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Your SIGNI's [On-Play] abilities do not trigger for the rest of this turn. </text>
@@ -19563,7 +19569,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>(Cross): "Tisiphone, Left Devil of Vengeance" Right
@@ -19581,7 +19587,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 level 3 or lower SIGNI on your opponent's field, then 1 SIGNI on your opponent's field becomes level 1 until end of turn.
 		
@@ -19943,7 +19949,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 other SIGNI from your field into the trash.</text>
@@ -19965,7 +19971,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 other SIGNI on your field into the trash. </text>
@@ -19989,7 +19995,7 @@ Your opponent discards 3 cards from their hand.
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put 1 other SIGNI on your field into the trash. </text>
@@ -21674,7 +21680,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from your deck into the trash, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
@@ -24067,7 +24073,7 @@ Choose up to two:
 			<type>SIGNI - Machine Spirit: Cooking - Mel Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While this SIGNI is accessorized, this SIGNI gets [Lancer]. (A SIGNI is accesorized if it has a card with (Accessory) attached to it.)
+			<text>[Constant]: While this SIGNI is accessorized, this SIGNI gets [Lancer]. (A SIGNI is accessorized if it has a card with (Accessory) attached to it.)
 [Constant]: While this SIGNI is accessorized with "Code Eat Teaksauce", this SIGNI gets +3000 power and is unaffected by the effects of your opponent's SIGNI.
 
 [Life Burst]: Choose one:
@@ -27064,7 +27070,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 [On-Play]: Look at the top 3 cards of your deck. Attach 1 SIGNI with (Accessory) from among them to this SIGNI as an Accessory, then put the rest on the bottom of your deck in any order.
 [Action] [Main Phase] [Attack Phase] {1}{G}{G}: Attach this card from your Ener Zone to 1 SIGNI on your field as an Accessory.
 [Constant]: The Cooking SIGNI accessorized with this card gets +1000 power.
-[Auto]: When this SIGNI becomes attached to a Cooking SIGNI as an Accessory, put 1 SIGNI on your opponent's field with power lower than the SIGNI accesorized with this card into the Ener Zone.</text>
+[Auto]: When this SIGNI becomes attached to a Cooking SIGNI as an Accessory, put 1 SIGNI on your opponent's field with power lower than the SIGNI accessorized with this card into the Ener Zone.</text>
 		</card>
 		<card>
 			<name>Botulines, Natural Bacteria Princess</name>
@@ -27607,7 +27613,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 		
 [Auto]: When a level 2 or lower SIGNI is put onto the field in front of this SIGNI, you may banish that SIGNI.
 [Action] {G}: Attach this card from your Ener Zone to 1 SIGNI on your field as an Accessory.
-[Constant]: The Cooking SIGNI accesorized with this card gets "When a SIGNI with a lower level than this SIGNI's level is put onto the field in front of this SIGNI, you may banish that SIGNI."
+[Constant]: The Cooking SIGNI accessorized with this card gets "When a SIGNI with a lower level than this SIGNI's level is put onto the field in front of this SIGNI, you may banish that SIGNI."
 
 [Life Burst]: Banish 1 SIGNI on your opponent's field with a lower level than a SIGNI on your field. </text>
 		</card>
@@ -28067,12 +28073,12 @@ Banish exactly 3 SIGNI with the same power as each other.</text>
 		<!-- WX18 -->
 		
 		<card>
-			<name>Ulith, Enma of Scattering Petals</name>
+			<name>Urith, Enma of Scattering Petals</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX18/WX18-001.jpg">WX18</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[On-Play]: Reveal the top 3 cards of your deck. Add any number of Devil SIGNI from among them to your hand, then put the rest into the trash.
@@ -28532,7 +28538,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, if there are 13 or more Devil SIGNI in your trash, put 1 SIGNI from your opponent's field into the trash.
@@ -28761,7 +28767,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a Devil SIGNI on your field attacks, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
@@ -28773,10 +28779,10 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Action] [Attack Phase] {B}{B} Discard this card from your hand: Until end of turn, 1 SIGNI on your opponent's field gets -7000 power until end of turn. Use this ability only if you have a Ulith LRIG.
+			<text>[Action] [Attack Phase] {B}{B} Discard this card from your hand: Until end of turn, 1 SIGNI on your opponent's field gets -7000 power until end of turn. Use this ability only if you have a Urith LRIG.
 
 [Life Burst]: Draw 1 card. </text>
 		</card>
@@ -29218,7 +29224,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two. If you have a Ulith LRIG, choose up to three instead:
+Choose up to two. If you have a Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -29363,12 +29369,12 @@ Choose up to two. If you bet, choose up to three instead:
 [Life Burst]: Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Ulith (WX18)</name>
+			<name>Urith (WX18)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX18/WX18-BB09.jpg">WX18</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -31360,7 +31366,7 @@ Choose up to two:
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may shuffle any number of Devil SIGNI from your trash into your deck, then 1 SIGNI on your opponent's field gets -1000 power for each card shuffled into your deck this way.
@@ -31937,7 +31943,7 @@ Choose up to two:
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put the top 3 cards of your deck into the trash. If 3 Devil SIGNI were put into the trash this way, draw 1 card. </text>
@@ -32392,7 +32398,7 @@ Banish 1 SIGNI on your opponent's field with power lower than or equal to the po
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Each player puts the top 7 cards of their deck into the trash.
@@ -38137,7 +38143,7 @@ Remove 1 SIGNI Zone on your opponent's field from the game until end of turn. Ad
 [Auto]: When this card is put into your LRIG Trash to pay for an {Exceed} cost, put 1 Origin Spirit SIGNI from your trash to your field.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Attachment</name>
+			<name>Urith, Enma of Attachment</name>
 			<set picURL="">WXK03</set>
 			<color>B</color>
 			<manacost>2 Coins</manacost>
@@ -41188,8 +41194,8 @@ Choose one:
 			<type>SIGNI - Machine Spirit: Cooking (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [2/Turn]: When a card becomes attached to a SIGNI on your field as an Accessory, 1 SIGNi on your opponent's field gets -3000 power until end of turn.
-[On-Play]: You may attach 1 SIGNI with (Accessory) to 1 Cooking SIGNI on your field. (If you choose to attach it to a SIGNI on your field with an Accessory already attached to it, nothing happens.)</text>
+			<text>[Auto] [2/Turn]: When a card becomes attached to a SIGNI on your field as an Accessory, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+[On-Play]: You may attach 1 Accessory on your field to 1 Cooking SIGNI on your field. (If you choose to attach it to a SIGNI on your field with an Accessory already attached to it, nothing happens.)</text>
 		</card>
 		<card>
 			<name>Code Eat Tiramisu</name>
@@ -41506,6 +41512,1075 @@ Shuffle all cards in your trash into your deck. Draw 3 cards, [Ener Charge 4], t
 			<tablerow>0</tablerow>
 			<text>[Action] [1/Turn] {0}: 1 SIGNI on your opponent's field gets -1000 power for every 3 cards in your trash until end of turn.
 [Action] Put this KEY from your field into the LRIG Trash: 1 SIGNI on your opponent's field gets -1000 for each card in your trash until end of turn.</text>
+		</card>
+		<!-- WXEX1 -->
+		<card>
+			<name>Tamayorihime, Red-Winged Miko</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-01.jpg">WXEX1</set>
+			<color>WR</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Tama</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Constant]: Weapon SIGNI on your field cannot be downed by your opponent's card effects during your turn.
+[Constant]: Arm SIGNI on your field cannot be banished by your opponent's card effects during your opponent's turn.
+[On-Play]: Search your deck for 1 Arm and 1 Weapon SIGNI, reveal them, then add them to your hand. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Remember Last Night, Star-Reading Miko</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-02.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Remember</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Constant]: Frozen SIGNI on your opponent's field lose their [Constant] and [Auto] abilities.
+[Auto]: At the beginning of each player's attack phase, freeze 1 SIGNI on your opponent's field.
+[Action] [1/Turn] [Attack Phase] Pay 1 Coin: Return 1 frozen SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Tawil=Fyra, The Opener</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-03.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Tawil</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Action] [1/Turn] {0}: Search your deck for 7 Angel SIGNI, put them into the trash, then shuffle your deck. If you do, put 1 SIGNI on your opponent's field into the trash.
+[Action] [1/Turn] [Attack Phase] Pay 1 Coin: Shuffle 7 Angel SIGNI with different names from your trash into your deck. If you do, put 1 SIGNI on your opponent's field into the trash.</text>
+		</card>
+		<card>
+			<name>Sashe, Pleasant Embrace Messenger</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-04.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Sashe</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When a RESONA is put onto your field during your turn, choose one:
+- Draw 1 card, then [Ener Charge 1].
+- Return 1 SIGNI on your opponent's field to its owner's hand.
+- That RESONA gets "This card cannot be banished." until end of turn.
+[Action] [Attack Phase] Pay 2 Coins: All SIGNI on your opponent's field get "This SIGNI cannot attack unless you pay {2}." until end of turn.</text>
+		</card>
+		<card>
+			<name>Dona FOURTH++ </name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-05.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Dona</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Search your deck for up to 2 SIGNI with (Layer), reveal them, then add them to your hand. Shuffle your deck.
+[Action] [1/Turn] [Main Phase] [Attack Phase] Pay 2 Coins: Search your deck for 1 SIGNI with (Layer) and put it onto your field. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Hanayo Four, the Flame</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-06.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Hanayo</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[On-Play]: Search your deck for up to 2 SIGNI with "Flathro" in their card names, reveal them, then add them to your hand. Shuffle your deck.
+[Action] [1/Turn] [Main Phase] [Attack Phase] Pay 2 Coins: Reveal the top 5 cards of your deck. Add 1 SIGNI from among them to your hand, then put the rest on the bottom of your deck in a random order. If you revealed 3 or more cards with "Flathro" in their card names this way, banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Yuzuki Four Bonfire</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-07.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Yuzuki</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto]: At the beginning of your attack phase, if there are 5 or more cards in your opponent's Ener Zone, your opponent puts 1 card from their Ener Zone into the trash.
+[On-Play]: Your opponent declares 1 color, then puts all cards that have a color different from the declared color from their Ener Zone into the trash.
+[Action] [1/Turn] Pay 1 Coin: Crush 1 card in your Life Cloth. If you do, draw 3 cards.</text>
+		</card>
+		<card>
+			<name>Ril, Memory of Sincerity</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-08.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Ril</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coin as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When you [Bet] 1 or more Coins, get 1 Coin.
+[Auto] [1/Turn]: When a SIGNI with (Rise) is put onto your field, reveal the top card of your deck. If it is a SIGNI, add it to your hand.
+[Action] [Attack Phase] Pay 3 Coins: Banish all SIGNI on the field without (Rise).</text>
+		</card>
+		<card>
+			<name>Carnival -QN-</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-09.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Carnival</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Reveal the top 2 cards of your deck. Add up to 2 level 4 SIGNI from among them to your hand, then put the rest into the trash.
+[Action] [Attack Phase] Pay 4 Coins: Put 1 level 1 SIGNI from your opponent's field or Ener Zone into the trash. Repeat this process, but for level 2, level 3, level 4, and level 5 SIGNI.</text>
+		</card>
+		<card>
+			<name>Code Piruluk EC</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-10.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Piruluk</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+			[On-Play]: Your opponent discards 1 card from their hand. If there are 6 or more Electric Machines in your trash, draw 2 cards.
+[Action] [1/Turn] [Attack Phase] Discard 2 Electric Machine SIGNI from your hand: Down and freeze 1 SIGNI on your opponent's field.
+[Action] Pay 1 Coin: Your opponent cannot draw more than 1 card during the next turn.</text>
+		</card>
+		<card>
+			<name>Eldora×Mark IV HYPER</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-11.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Eldora</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Constant]: All Water Beast cards you own get the following ability:
+"[Life Burst]: Choose one:
+- Draw 1 card.
+- Down 1 SIGNI on your opponent's field."
+[Action] [1/Turn] [Main Phase] [Attack Phase] Pay 1 Coin: Look at the top 2 cards of your opponent's Life Cloth. Put 1 of them onto your Check Zone, then return the other to the top of your opponent's Life Cloth. Trigger the [Life Burst] ability of the card in your Check Zone, then put that card into its owner's trash. Your opponent adds the top card of their deck to their Life Cloth.</text>
+		</card>
+		<card>
+			<name>Milulun Amara</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-12.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Milulun</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coins as this LRIG is put onto your field.)
+[On-Play]: Reveal the top 2 cards of your deck. Add 1 Atom SIGNI and 1 SPELL from among them to your hand, then put the rest into the trash.
+[Action] [1/Turn] Discard 2 Atom SIGNI from your hand: Search your deck for 1 card and add it to your hand. Shuffle your deck.
+[Action] [Spell Cut-In] Pay 1 Coin: Cancel the effect of 1 SPELL being used.</text>
+		</card>
+		<card>
+			<name>Ultra Aya! IV</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-13.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Aya</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the beginning of your opponent's attack phase, your may return 1 [Trap] from your field to its owner's hand. If you do, look at the top 2 cards of your deck. Set 1 card among them on 1 of your SIGNI Zones facedown as a [Trap], then put the rest on the bottom of your deck in any order.
+[Action] [1/Turn] [Attack Phase] Pay 1 Coin: Look at the top 5 cards of your deck. Set 2 cards among them on your SIGNI Zones facedown as [Trap]s, then put the rest on the bottom of your deck in a random order.</text>
+		</card>
+		<card>
+			<name>Midoriko, Opening Type Four</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-14.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Midoriko</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+[Auto]: At the beginning of your attack phase, up all Plant SIGNI on your field.
+[Action] [Attack Phase] Pay 1 Coin: Put 3 Plant SIGNI from your Ener Zone into the trash. If you do, put 1 SIGNI on your opponent's field into the Ener Zone.</text>
+		</card>
+		<card>
+			<name>Anne=Fourth, Colorful Butterfly of Reexamination</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-15.jpg">WXEX1</set>
+			<color>GW</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Anne</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coins as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When a Beautiful Technique SIGNI is put from a non-hand zone onto your field during your turn, you may pay {G} or {W}. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
+[On-Play]: Look at the top 4 cards of your deck, then reveal 1 green card and 1 white card from among them. Add the green card to your hand, put the white card into your Ener Zone, then put the rest on the bottom of your deck in any order.
+[Action] [1/Turn] Pay 1 Coin: [Ener Charge 2]</text>
+		</card>
+		<card>
+			<name>Aiyai★Full House</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-16.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Aiyai</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Auto] [1/Turn]: When a RESONA is put onto your field during your turn, put up to 2 cards that were put into the trash to pay for that RESONA's (Play Condition) from your trash into your Ener Zone.
+[Action] [Attack Phase] Pay 1 Coin: 1 RESONA on your field gets "This card cannot be banished." until end of turn.</text>
+		</card>
+		<card>
+			<name>Mel=Gin Tonic</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-17.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Mel</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Reveal the top 2 cards of your deck. Add up to Cooking SIGNI from among them to your hand, then put the rest into the trash.
+[Action] [1/Turn] Pay 1 Coin: Search your deck for up to 2 cards with (Accessory) and put them into your Ener Zone. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Mama♥4 MODE4</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-18.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Mama</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto] [1/Turn]: When a Wisdom SIGNI on your field is banished during the attack phase, put that SIGNI from your Ener Zone onto your field.
+[On-Play]: Reveal the top 2 cards of your deck. Add up to 2 Wisdom SIGNI from among them to your hand, then put the rest into the trash.
+[Action] Pay 1 Coin: All [Wisdom] abilities on the field are active during this turn's attack phase.</text>
+		</card>
+		<card>
+			<name>Urith, Enma of Hell</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-19.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>11</cmc>
+			<type>LRIG - Urith</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[On-Play]: Add 1 card from your trash to your hand.
+[Action] [1/Turn] Pay 1 Coin: Choose 3 cards in your trash. Put 1 of them into your Ener Zone, add 1 of them to your hand, then put 1 of them on the bottom of your deck.</text>
+		</card>
+		<card>
+			<name>Iona, Evolve/Maiden </name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-20.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Iona</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[On-Play]: Reveal the top 3 cards of your deck. Add up to 2 white and/or black SIGNI from among them to your hand, then put the rest into the trash.
+[Action] [Attack Phase] Pay 2 Coins: Put 1 Iona LRIG from your LRIG Deck on this card. (Ignore (Grow) conditions and grow cost.)</text>
+		</card>
+		<card>
+			<name>Umr=Fyra, Wielder of the Alluring Orchid Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-21.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Umr</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
+[On-Play]: Put the top 5 cards of your deck into the trash, then draw 2 cards.
+[Action] [1/Turn] {0}: Banish 1 SIGNI on your field. If you do, put the top 5 cards of your deck into the trash.
+[Action] [Main Phase] [Attack Phase] Pay 1 Coin: Shuffle 10 Ancient Weapon SIGNI from your trash into your deck. If you do, 1 SIGNI on your opponent's field gets -20000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Myuu=Fourze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-22.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Myuu</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[Action] [1/Turn] {0}: Choose one for each Charm on your opponent's field:
+- Draw 1 card.
+- [Ener Charge 1]
+- 1 SIGNI on your opponent's field gets -8000 power until end of turn.
+[Action] [Main Phase] [Attack Phase] Pay 1 Coin: Put up to 3 cards from your opponent's trash under up to 3 SIGNI on your opponent's field as Charms.</text>
+		</card>
+		<card>
+			<name>Hanare, Dark One of Watchful Waiting</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-23.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Hanare</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 1 (You get 1 Coins as this LRIG is put onto your field.)
+[On-Play]: Put 1 Poison Fang SIGNI from your trash onto your field.
+[Action] [1/Turn] [Attack Phase] Pay 1 Coin: Discard 1 Poison Fang SIGNI from your hand. 1 SIGNI on your opponent's field gets -X power, where X is equal to the power of the SIGNI discarded this way.</text>
+		</card>
+		<card>
+			<name>Nanashi, That Four Hell</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-24.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Nanashi</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Action] [1/Turn] Remove 1 Virus from your opponent's field: Choose one:
+- Draw 1 card, then [Ener Charge 1].
+- Put 1 Virus on each SIGNI Zone on your opponent's field.
+- Your opponent cannot put SIGNI onto SIGNI Zones with Viruses on them until end of turn.
+[Action] [Main Phase] [Attack Phase] Pay 2 Coins: Put 1 infected SIGNI on your opponent's field into the trash.</text>
+		</card>
+		<card>
+			<name>Guzuko, Useless Princess of Tragic Heroism</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-25.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Guzuko</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto] [1/Turn]: When a Playground Equipment SIGNI is put from your trash onto your field during your turn, put 1 Playground Equipment SIGNI with a lower level than that SIGNI from your trash onto your field.
+[On-Play]: Look at the top 5 cards of your deck. Add 1 card from among them to your hand, put 1 card from among them into the trash, then put the rest on the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>The Earth, White Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-26.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>RESONA - Nature Spirit: Space - Sashe Limited</type>
+			<pt>15000/*</pt>
+			<tablerow>0</tablerow>
+			<text>(Play Condition) [Main Phase] [Attack Phase]: Put 5 non-RESONA Space SIGNI from your Ener Zone and/or field into the trash.
+			
+[Constant]: Your opponent's LRIG's limit becomes 5.
+[Auto]: At the beginning of your attack phase, all Space SIGNI on your field get [Assassin] and [Double Crush] until end of turn.</text>
+		</card>
+		<card>
+			<name>Flycoaster, Green Fifth Play</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-27.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>RESONA - War Spirit: Playground Equipment - Aiyai Limited</type>
+			<pt>15000/*</pt>
+			<tablerow>0</tablerow>
+			<text>(Play Condition) [Main Phase]: Put 3 non-RESONA Playground Equipment SIGNI from your Ener Zone and/or field into the trash.
+			
+[Action] [1/Turn] {0}: Put 1 SIGNI on your opponent's field into the Ener Zone, then [Ener Charge 1].
+[Action] [1/Turn] [Attack Phase] {0}: 1 Playground Equipment SIGNI on your field gets "This SIGNI is unaffected by your opponent's card effects." until end of turn.</text>
+		</card>
+		<card>
+			<name>Ambri Paigi, Black Phantom Insect</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-28.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>RESONA - Living Spirit: Misfortune Insect - Myuu Limited</type>
+			<pt>15000/*</pt>
+			<tablerow>0</tablerow>
+			<text>(Play Condition) [Main Phase] [Attack Phase]: Put 5 non-RESONA Misfortune Insect SIGNI from your Ener Zone and/or field into the trash.
+
+[Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put 1 SIGNI on your opponent's field under another SIGNI on your opponent's field as a Charm.
+[Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put 1 Charm on your opponent's field into the trash. If you do, add up to 1 Misfortune Insect SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Ramiel, Archangel of Visions</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-29.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>SIGNI - Image Spirit: Angel - Tama Limited</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a SIGNI on your opponent's field is put into the trash during your turn, [Ener Charge 1].
+[Auto]: When this SIGNI attacks, put 1 SIGNI on your opponent's field that shares a color with your LRIG into the trash.
+[On-Play]: If there are 3 Angel SIGNI on your field, put 1 SIGNI on your opponent's field into the trash.
+
+[Life Burst]: Put 1 SIGNI on your opponent's field into the trash.</text>
+		</card>
+		<card>
+			<name>Leonids, Natural Star Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-30.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Nature Spirit: Space - Remember Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If a frozen SIGNI on your opponent's field would leave the field, put it into the trash instead.
+[Auto] [1/Turn]: When a frozen SIGNI on your opponent's field would leave the field during your turn, return 1 SIGNI on your opponent's field to its owner's hand.
+[On-Play] {W}{U}: Search your deck for 1 white SIGNI and 1 blue SIGNI, reveal them, then add them to your hand. Shuffle your deck.
+
+[Life Burst]: Add 1 white SIGNI and 1 blue SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Shemyaza, Leader of the Fallen Angels</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-31.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Angel - Tawil Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 0 red, blue, or green cards in your trash and your Ener Zone, all Angel SIGNI on your field are unaffected by the effects of your opponent's LRIG and get "[Auto]: When this SIGNI attacks, return 1 SIGNI on your opponent's field to its owner's hand."
+[On-Play] {W}: Search your deck for 1 Angel SIGNI and put it onto your field. Shuffle your deck.
+
+[Life Burst]: Down your opponent's LRIG or 1 SIGNI on your opponent's field, then add 1 Angel SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Nue, Natural Apparition Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-32.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Dona Limited</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Layer): All Apparition SIGNI on your field get the following [Layer] ability:
+			
+[Layer] [Constant]: The [Life Burst] ability of your opponent's cards crushed by this SIGNI do not trigger.
+[On-Play]: Search your deck for up to 2 Apparition SIGNI and put them into the trash. Shuffle your deck. This SIGNI gets all [Layer] abilities of the SIGNI put into the trash this way until end of turn.</text>
+		</card>
+		<card>
+			<name>Rhodonite, Natural Pyroxene</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-33.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Nature Spirit: Ore - Hanayo Limited</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(This SIGNI consumes 3 limit.)
+			
+[Constant]: While this SIGNI has 10000 power or higher, it gets [Assassin].
+[Constant]: While this SIGNI has 20000 power or higher, it gets [Double Crush]. While this SIGNI has 30000 power or higher, it get [Triple Crush] instead.
+[Auto]: When you use a red SPELL, this SIGNI gets +5000 power until end of turn.
+
+[Life Burst]: Add 1 red card from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Red Dragon, Phantom Dragon Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-34.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Yuzuki Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, your opponent may pay {3}. If they do not, all Dragon Beast SIGNI on your field, get [Assassin] until end of turn.
+[On-Play] {1}{R}: Put 1 card from your opponent's Ener Zone into the trash.
+[Action] [1/Turn] {G}: Add up to 2 Dragon Beast SIGNI from your Ener Zone to your hand, except "Red Dragon, Phantom Dragon Princess".
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field with 12000 power or lower.</text>
+		</card>
+		<card>
+			<name>Jeanne, Holy Beautiful General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-35.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Valor - Ril Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Rise) 1 level 3 or lower red SIGNI on your field and 3 red SIGNI with different levels from your trash. (This SIGNI cannot be put onto your field unless you put it on top of 1 level 3 or lower red SIGNI on your field, then putting 3 red SIGNI with different levels from your trash under this SIGNI.)
+
+[Constant]: While there are 3 SIGNI with (Rise) on your field, this SIGNI gets "This SIGNI is unaffected by the effects of your opponent's ARTSs."
+[Auto] [1/Turn]: When this SIGNI attacks, you may put 2 cards from under this SIGNI into the trash. If you do, up this SIGNI.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Himiko, Natural Star Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-36.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Nature Spirit: Space - Carnival Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may discard 1 Space SIGNI from your hand. If you do, banish 1 SIGNI on your opponent's field with the same level as the SIGNI discarded this way.
+[On-Play] {1}{R}: Search your deck for up to 3 Space SIGNI whose total combined level equals 8, reveal them, then add them to your hand. Shuffle your deck.
+
+[Life Burst]: Reveal the top card of your deck. If it is a level 4 SIGNI, banish 1 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Code Accel Apache</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-37.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All SIGNI on your field in [Drive] are unaffected by the effects of your opponent's ARTSs and KEYs.
+[Auto] [1/Turn]: When a SIGNI on your field starts [Drive], 1 Riding Machine SIGNI on your field gets [Assassin] until end of turn.
+
+[Life Burst]: Add 1 Riding Machine SIGNI from your trash to your hand or put that SIGNI onto your field.</text>
+		</card>
+		<card>
+			<name>Code Heart ACR</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-38.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Electric Machine - Piruluk Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your attack phase, if you used a SPELL this turn, put 1 card at random from your opponent's hand on top of its owner's deck.
+[On-Play] {1}: If there are 3 or more SPELLs with different names in your trash, banish 1 SIGNI on your opponent's field. If there 5 or more SPELLs with different names in your trash, put that SIGNI into the trash instead.
+
+[Life Burst]: Add 1 Electric Machine SIGNI and 1 SPELL from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Hammerhead, Water Phantom Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-39.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Water Beast - Eldora Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {1}{U}: Search your deck for up to 3 Water Beast SIGNI with different levels, reveal them, then add them to your hand. Shuffle your deck.
+[Action] [Attack Phase] {U}: Put this SIGNI and 1 SIGNI on your opponent's field on top of their owners' decks.
+
+[Life Burst]: If there are 4 or more cards in your hand, put 1 SIGNI on your opponent's field on top of its owner's deck.</text>
+		</card>
+		<card>
+			<name>Ytterbium, Natural Source Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-40.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Nature Spirit: Atom - Milulun Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 10 or more Atom SIGNI with different names in your trash, all Atom SIGNI on your field are unaffected by the effects of your opponent's SIGNI. While there are 15 or more Atom SIGNI with different names in your trash, all Atom SIGNI on your field are unaffected by the effects of your opponent's LRIG.
+[Auto]: When this SIGNI is banished, if there are 5 or more Atom SIGNI with different names in your trash, your opponent discards 1 card from their hand.
+
+[Life Burst]: Down and freeze 2 SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Biriri Gun, Super Trap</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-41.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When you place a Trap on your field, draw 1 card or [Ener Charge 1].
+[On-Play]: Put the top card of your deck into the trash. If it is a card with [Trap], banish 1 SIGNI on your opponent's field.
+
+[Trap]: You may pay {U}. If you do, banish all downed SIGNI on your opponent's field. 
+
+[Life Burst]: Down 1 SIGNI on your opponent's field, then draw 1 card.</text>
+		</card>
+		<card>
+			<name>Dragontree, Natural Plant Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-42.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Nature Spirit: Plant - Midoriko Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When another Plant SIGNI on your field becomes downed, banish 1 SIGNI on your opponent's field with power equal to or lower than that SIGNI's power.
+[On-Play]: Add 1 Plant SIGNI from your Ener Zone to your hand.
+
+[Life Burst]: Add 1 Plant SIGNI from your Ener Zone to your hand or put that SIGNI onto your field.</text>
+		</card>
+		<card>
+			<name>Graffi, Wall Trick</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-43.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Beautiful Technique - Anne Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of each player's attack phase, put up to 1 Beautiful Technique SIGNI from your Ener Zone onto your field.
+[Auto]: When a Beautiful Technique SIGNI on your field is banished, you may discard 1 Beautiful Technique SIGNI from your hand. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
+
+[Life Burst]: [Ener Charge 1]. If a Beautiful Technique SIGNI was put into your Ener Zone this way, return 1 SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Code Order Tonra</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-44.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Cooking - Mel Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of each player's attack phase, put 1 SIGNI on your opponent's field whose level is lower than the number of Accessories on your field into the Ener Zone.
+[On-Play]: Put up to 2 SIGNI with (Accessory) from your hand into the Ener Zone, then add a number of Cooking SIGNI from your Ener Zone to your hand equal to the number of cards put into your Ener Zone this way.
+
+[Life Burst]: Add 1 Cooking SIGNI from your trash to your hand or put that SIGNI onto your field.</text>
+		</card>
+		<card>
+			<name>Einstein, Theory of Relativity Wisdom</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-45.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Mama Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] (Wisdom = 9) [1/Turn] {0}: Put 1 SIGNI on your opponent's field into the trash.
+[Constant] (Wisdom = 11): All Wisdom SIGNI on your field are unaffected by the effects of your opponent's LRIG.
+[On-Play] {G}: Search your deck for up to 2 Wisdom SIGNI whose total combined level equals 5 or lower, reveal them, then add them to your hand. Shuffle your deck.
+
+[Life Burst]: Banish up to 2 SIGNI on your opponent's field whose total combined level equals 4 or lower.</text>
+		</card>
+		<card>
+			<name>Gilles de Rais, Contract with the Abyss</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-46.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
+			<pt>15000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Devil SIGNI on your field get [Assassin].
+[On-Play] {B}: Add up to 2 level 4 or lower Devil SIGNI from your trash to your hand.
+[On-Play] {B}: Use 1 ARTS from your opponent's LRIG Trash without paying its costs. If it would be moved from the Check Zone to another zone, exclude it from the game instead.</text>
+		</card>
+		<card>
+			<name>Code Anti Nightgaun</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-47.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Ancient Weapon - Umr Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your attack phase, put the top 7 cards of your deck into the trash. If 5 or more Ancient Weapon SIGNI were put into your trash this way, banish 1 SIGNI on your opponent's field and crush 1 card in your opponent's Life Cloth.
+[On-Play]: Put 4 Ancient Weapon SIGNI with different levels from your trash on the bottom of your deck in any order. If you do, draw 1 card.
+
+[Life Burst]: Add 1 Ancient Weapon SIGNI from your trash to your hand or put that SIGNI onto your field.</text>
+		</card>
+		<card>
+			<name>Code Anti Macana</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-48.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Ancient Weapon - Iona Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your deck into the trash, you may put this SIGNI from your trash onto your field.
+[Auto]: When this SIGNI attacks, if there is exactly 1 downed SIGNI on your field, banish 1 SIGNI on your opponent's field.
+[Action] [Attack Phase] Put this SIGNI from your field into the trash: 1 SIGNI on your opponent's field gets -12000 until end of turn.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Gorgeout, Breeder of Demonic Pigeons</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-49.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil - Alfou Limited</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(This SIGNI consumes 3 limit.)
+			
+[Auto]: When this SIGNI attacks, add 1 Devil SIGNI with 7000 power or lower from your trash to your hand or put that SIGNI onto the field.
+[Auto] [1/Turn]: When 3 or more cards are put from the deck into the trash by 1 card's effect, [Ener Charge 1] and 1 SIGNI on your opponent's field gets -8000 power until end of turn.
+
+[Life Burst]: Each player puts the top 5 cards of their deck into the trash, then you add 1 SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Drei=Chocokiller</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-50.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Poison Fang - Hanare Limited</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your attack phase, if there is a Poison Fang SIGNI with 20000 power or higher on your field, draw 1 card, then [Ener Charge 1].
+[Action] [1/Turn] {B}: Look at your opponent's hand. Choose 1 level 3 or lower non-colorless SIGNI in it, then your opponent put that SIGNI onto their field. Its [On-Play] abilities do not trigger.
+
+[Life Burst]: Choose one:
+- Draw 1 card.
+- [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Hashof, Natural Bacteria Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-51.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All infected SIGNI on your opponent's field get -2000 power.
+[Constant]: Your opponent cannot use [Action] abilities of infected SIGNI on their field.
+[Action] [1/Turn] {B}: Put 1 Virus on 2 SIGNI Zones on your opponent's field.
+
+[Life Burst]: Put 1 Virus on 1 SIGNI Zone on your opponent's field, then 1 SIGNI on your opponent's field gets -10000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Atarinashi, Death Play</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-52.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Guzuko Limited</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a Playground Equipment SIGNI is put from your trash onto your field during the attack phase, put 1 Playground Equipment SIGNI whose level is lower that SIGNI's level from your trash onto your field.
+[On-Play]: Put 1 other SIGNI on your field into the trash. If you do, banish 1 SIGNI on your opponent's field.
+
+[Life Burst]: Banish 1 SIGNI on your opponent's field, then put 1 SIGNI from your trash onto your field.</text>
+		</card>
+		<card>
+			<name>Phalanx, Great Shield Spear</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-53.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Arm / War Spirit: Weapon - Tama Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When an Arm or Weapon SIGNI is put onto your field by a card effect, banish 1 SIGNI on your opponent's field with power equal to or lower than that SIGNI's.
+[On-Play] {1}: Shuffle 1 Arm SIGNI and 1 Weapon SIGNI from your trash to your deck. If you do, return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Geminids, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-54.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Nature Spirit: Space - Remember Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Return 1 frozen SIGNI on your opponent's field to its owner's hand.
+[Action] [Main Phase] [Attack Phase] Exclude this SIGNI in your trash from the game: Freeze up to 2 SIGNI on your opponent's field. Use this ability only if you have a Remember LRIG.
+[Constant]: [Convert] {U} (If you would pay an ener cost, this card may pay for {U} costs.)</text>
+		</card>
+		<card>
+			<name>Code Maze Labyrin</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-55.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Iona Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a SIGNI on the field changes SIGNI Zones by a card's effect, 1 SIGNI on your opponent's field loses its abilities until end of turn.
+[Auto]: When this SIGNI attacks, you may pay {W}. If you do, return 1 SIGNI with no abilities on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Monochro, White Light and Black Shadow</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-56.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Beautiful Technique - Anne Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: All Beautiful Technique SIGNI get +1000 power during your opponent's turn.
+[Constant]: [Convert] {G} (If you would pay an ener cost, this card may pay for {G} costs.)</text>
+		</card>
+		<card>
+			<name>Mastema, Heresy of Heaven</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-57.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Angel - Tawil Limited</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Reveal the top card of your deck. If it is a white or black Angel SIGNI, add it to your hand.
+[Action] [1/Turn] {W} Put 1 other Angel SIGNI on your field into the trash: Return 1 SIGNI on your opponent's field with the same level as the SIGNI put into the trash to use this ability to its owner's hand.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Pictor, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-58.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Nature Spirit: Space - Sashe Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your field into the trash to pay for the (Play Condition) cost of a Space RESONA, that RESONA is unaffected by the effects of your opponent's LRIG until end of turn.
+[On-Play]: Declare 1 number, then reveal the top card of your deck. If it is a SIGNI with the same level as the declared number, add it to your hand.</text>
+		</card>
+		<card>
+			<name>Yamanba, Natural Apparition</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-59.jpg">WXEX1</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Apparition - Dona Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, [Ener Charge 1] for each SIGNI with [Layer] on your field.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Flathro Warrant Officer, Roaring Flame</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-60.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Weapon - Hanayo Limited</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a SIGNI on your field with "Flathro" in its card name attacks, up 1 SIGNI on your field with "Flathro" in its card name other than this SIGNI.
+[On-Play]: Shuffle up to 5 SIGNI with "Flathro" in their card names from your trash into your deck. Banish 1 SIGNI on your opponent's field whose level is equal to the number of cards shuffled into your deck this way.</text>
+		</card>
+		<card>
+			<name>Charles, King of Victory</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-61.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Valor - Ril Limited</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {R}: Add 1 SIGNI with (Rise) from your trash to your hand.
+[Action] [1/Turn] Put 1 card from under 1 SIGNI on your field into the trash: Banish 1 SIGNI on your opponent's field with 8000 power or lower.</text>
+		</card>
+		<card>
+			<name>Khepri, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-62.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Nature Spirit: Space - Carnival Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this card is in your hand, deck, or trash, if your card's effect would refer to this SIGNI's level, this SIGNI's level may be treated as level 4.
+[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a level 4 SIGNI, banish 1 SIGNI on your opponent's field with 1000 power or lower.</text>
+		</card>
+		<card>
+			<name>Roaring Fist of Heavenly Shock</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-63.jpg">WXEX1</set>
+			<color>R</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Layla Limited</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Banish 1 Riding Machine SIGNI on your field. If you do, banish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Banish 1 Riding Machine SIGNI in [Drive] on your field. If you do, search your deck for 1 Riding Machine SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Morpho Butterfly, Phantom Insect</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-64.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Misfortune Insect - Piruluk Limited</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] When this SIGNI attacks, you may discard 1 Misfortune Insect SIGNI from your hand. 1 SIGNI on your opponent's field gets -2000 power multiplied by the level of the SIGNI discarded this way until end of turn.</text>
+		</card>
+		<card>
+			<name>Dr. Fish, Water Phantom</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-65.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Water Beast - Eldora Limited</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {U}. If you do, put the top card of your opponent's deck into the trash. If that card is a SIGNI with the same level as this SIGNI, put the SIGNI in front of this SIGNI on top of its owner's deck.</text>
+		</card>
+		<card>
+			<name>Boron, Natural Source</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-66.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Nature Spirit: Atom - Milulun Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, your opponent cannot use SPELLs until the beginning of your next turn.
+[On-Play]: Reveal the top 4 cards of your deck. If you revealed 4 Atom SIGNI this way, banish 1 SIGNI on your opponent's field. Put the revealed cards on the bottom of your deck in a random order.
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Walk Water, Large Trap</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-67.jpg">WXEX1</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may pay {U}. If you do, return 1 SIGNI on your opponent's field whose level is equal to or lower than the number of Traps on your field to its owner's hand.
+[Action] Reveal this card while it is a Trap: If there is not a SIGNI on the same SIGNI Zone as this Trap, put this card on that SIGNI Zone face-up as a SIGNI.</text>
+		</card>
+		<card>
+			<name>Kozakura, Phantom Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-68.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Sky Beast - Midoriko Limited</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When this SIGNI attacks, you may discard 1 Sky Beast or Earth Beast SIGNI from your hand. If you do, up 1 Sky Beast or Earth Beast SIGNI on your field.
+[On-Play]: Put up to 1 Sky Beast or Earth Beast SIGNI from your Ener Zone onto your field.
+
+[Life Burst]: Choose one:
+- Banish 1 SIGNI on your opponent's field with power 12000 or higher.
+- Add 1 green SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Diplodocus, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-69.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Yuzuki Limited</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, reveal up to 3 Dragon Beast SIGNI from your hand. If you revealed 2 or more SIGNI this way, add up to 1 Dragon Beast SIGNI from your Ener Zone to your hand. If you revealed 3 SIGNI this way, this SIGNI gets +2000 power and [Lancer] until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Eat Back Fat</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-70.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Cooking - Mel Limited</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Accessory) (This SIGNI may be attached to SIGNI on your field as an Accessory.)
+
+[Constant]: While this SIGNI has an Accessory attached to it, it gets [Lancer].
+[Action] {0}: Attach this card from your Ener Zone to 1 SIGNI on your field as an Accessory.
+[Constant]: The Cooking SIGNI accessorized with this card gets [Lancer].</text>
+		</card>
+		<card>
+			<name>Wasazan, Essay of Request Wisdom</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-71.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Mama Limited</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] (Wisdom = 8): All Wisdom SIGNI on your field get [Lancer].
+[On-Play]: The level of 1 Wisdom SIGNI on your field becomes 1, 2, or 3 until end of turn.</text>
+		</card>
+		<card>
+			<name>Car Eraser, Fourth Play</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-72.jpg">WXEX1</set>
+			<color>G</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Aiyai Limited</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your field into the trash to pay for the (Play Condition) cost of a RESONA, that RESONA cannot be banished until end of turn.
+[On-Play]: If the current top card of your opponent's Life Cloth would be crushed this turn, its [Life Burst] ability will not trigger.</text>
+		</card>
+		<card>
+			<name>Mammon, Love of Money</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-73.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down}: Attach the top card of your deck to this SIGNI as a Charm.
+[Action] Put 1 Charm on your field into the trash: 1 SIGNI on your opponent's field gets -3000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Anti Laserdi</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-74.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Ancient Weapon</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is put from your deck into the trash, 1 SIGNI on your opponent's field gets -1000 power multiplied by the level of your LRIG until end of turn.
+[On-Play]: Search your deck for 1 Ancient Weapon SIGNI and put it into the trash. Shuffle your deck.
+
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Madarazou, Phantom Insect</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-75.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Misfortune Insect - Myuu Limited</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put 1 card from your opponent's trash under 1 SIGNI on your opponent's field as a Charm.
+[Action] [Main Phase] [Attack Phase] Exclude this card in your trash from the game: Put 1 card in your opponent's trash under 1 SIGNI on your opponent's field as a Charm. Use this ability only if you have a Myuu LRIG.</text>
+		</card>
+		<card>
+			<name>Mamahaha, Greedy Master</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-76.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Devil - Alfou Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 15 or more cards in your trash, this SIGNI gets +6000 power and [Lancer].
+[Constant]: While there are 30 or more cards in your trash, this SIGNI gets "This SIGNI cannot be banished." during your turn.
+[On-Play]: Each player puts the top 3 cards of their deck into the trash.</text>
+		</card>
+		<card>
+			<name>Ein=Schmidt</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-77.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Poison Fang - Hanare Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When an [On-Play] ability of a SIGNI on your opponent's field triggers, your opponent discards 1 card from their hand.</text>
+		</card>
+		<card>
+			<name>Cholera, Natural Bacteria</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-78.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put 1 Virus on 1 SIGNI Zone on your opponent's field.
+[Action] [1/Turn] Remove 2 Viruses from your opponent's field: Add 1 Bacteria SIGNI from your trash to your hand, except "Cholera, Natural Bacteria."</text>
+		</card>
+		<card>
+			<name>Shinobi Set, Different Blood Play</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-79.jpg">WXEX1</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Spirit: Playground Equipment - Guzuko Limited</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: When this SIGNI is put from your trash onto your field, add 1 Playground Equipment SIGNI from your trash to your hand.</text>
 		</card>
 		<!-- SP01 -->
 		<card>
@@ -41927,56 +43002,56 @@ All SIGNI on your field get [Assassin] while the SIGNI in front of it has 12000 
 		</card>
 		<!-- SP03 -->
 		<card>
-			<name>Ulith, Jailer Enma (SP03)</name>
+			<name>Urith, Jailer Enma (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP03/SP03-001.jpg">SP03</set>
 			<color>B</color>
 			<manacost>4 - BBB</manacost>
 			<cmc>4</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: While "Metsum, Fallen Cannon Girl" is on your field, if you have 20 or more cards in your trash, all SIGNI on your field get +2000 power. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Eternal Hell (SP03)</name>
+			<name>Urith, Enma of Eternal Hell (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP03/SP03-002.jpg">SP03</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>8</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Crushing Hell (SP03)</name>
+			<name>Urith, Enma of Crushing Hell (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP03/SP03-003.jpg">SP03</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Burning Eye Enma (SP03)</name>
+			<name>Urith, Burning Eye Enma (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP03/SP03-004.jpg">SP03</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP03)</name>
+			<name>Urith, Enma (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP03/SP03-005.jpg">SP03</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -42011,7 +43086,7 @@ All SIGNI on your field get [Assassin] while the SIGNI in front of it has 12000 
 			<color>B</color>
 			<manacost>BBBBB</manacost>
 			<cmc>5</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 		
@@ -42023,7 +43098,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<cmc>2</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
@@ -42049,7 +43124,7 @@ Choose one:
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Each player puts the top 7 cards of their deck into the trash.
@@ -42073,7 +43148,7 @@ Choose one:
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 10 or more cards in your trash, this SIGNI gets +5000 power.
@@ -42108,7 +43183,7 @@ Choose one:
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: Put the top 3 cards of your deck into the trash. </text>
@@ -42181,12 +43256,12 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP04)</name>
+			<name>Urith, Enma (SP04)</name>
 			<set picURL="">SP04</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -42249,12 +43324,12 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP05)</name>
+			<name>Urith, Enma (SP05)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP05/SP05-005.jpg">SP05</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -42814,12 +43889,12 @@ Return all SIGNI with power equal to the highest power among them to their owner
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith (SP09)</name>
+			<name>Urith (SP09)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP09/SP09-005.jpg">SP09</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -43114,12 +44189,12 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP12)</name>
+			<name>Urith, Enma (SP12)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP12/SP12-005.jpg">SP12</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -43357,23 +44432,23 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP13A)</name>
+			<name>Urith, Enma (SP13A)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP13/SP13-006A.jpg">SP13</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP13B)</name>
+			<name>Urith, Enma (SP13B)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP13/SP13-006B.jpg">SP13</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -43784,12 +44859,12 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Burning Eye Enma (SP19)</name>
+			<name>Urith, Burning Eye Enma (SP19)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP19/SP19-005.jpg">SP19</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -45090,7 +46165,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI crushes 1 of your opponent's Life Cloth, 1 SIGNI on your opponent's field gets −10000 power until end of turn.
@@ -45681,26 +46756,26 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>LRIG</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
-			<text>As you begin the game, when you have this LRIG face-up, choose one from either Ulith, Umr, Myuu, Alfou, Hanare, Nanashi, or Guzuko. This LRIG gets the chosen LRIG type. If you chose Nanashi, get 2 Coins. If you chose Guzuko, get 3 Coins. </text>
+			<text>As you begin the game, when you have this LRIG face-up, choose one from either Urith, Umr, Myuu, Alfou, Hanare, Nanashi, or Guzuko. This LRIG gets the chosen LRIG type. If you chose Nanashi, get 2 Coins. If you chose Guzuko, get 3 Coins. </text>
 		</card>
 		<card>
-			<name>Ulith, Enma of Crushing Hell (SP33)</name>
+			<name>Urith, Enma of Crushing Hell (SP33)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP33/SP33-030.jpg">SP33</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Burning Eye Enma (SP33)</name>
+			<name>Urith, Burning Eye Enma (SP33)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP33/SP33-031.jpg">SP33</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -45839,12 +46914,12 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
 		</card>
 		<card>
-			<name>Ulith, Enma (SP34)</name>
+			<name>Urith, Enma (SP34)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP34/SP34-007.jpg">SP34</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type> 
+			<type>LRIG - Urith</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -47354,11 +48429,11 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 5 or more cards in your trash, this SIGNI gets +2000 power.
-[Constant]: While there is a level 4 Ulith LRIG on your field, this SIGNI's power becomes 10000.
+[Constant]: While there is a level 4 Urith LRIG on your field, this SIGNI's power becomes 10000.
 (If you meet both conditions, this SIGNI's power becomes 12000.)</text>
 		</card>
 		<card>
@@ -47411,11 +48486,11 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Devil - Ulith Limited</type>
+			<type>SIGNI - Image Spirit: Devil - Urith Limited</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While you have 5 or more cards in your trash, this SIGNI gets +2000 power.
-[Constant]: While there is a level 4 Ulith LRIG on your field, this SIGNI's power becomes 10000.
+[Constant]: While there is a level 4 Urith LRIG on your field, this SIGNI's power becomes 10000.
 (If you meet both conditions, this SIGNI's power becomes 12000.)</text>
 		</card>
 		<card>
@@ -47578,12 +48653,12 @@ When you refresh your deck, if it is your first refresh this turn, crush 1 of yo
 Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.</text>
 		</card>
 		<card>
-			<name>Ulith, Enma (PR59)</name>
+			<name>Urith, Enma (PR59)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-059.jpg">PR</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -47655,12 +48730,12 @@ Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.</te
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith (PR66)</name>
+			<name>Urith (PR66)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-066.jpg">PR</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -47751,7 +48826,7 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 			<color>B</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
-			<type>SPELL - Ulith Limited</type>
+			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
 			<text>Banish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
@@ -48361,12 +49436,12 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (PR162)</name>
+			<name>Urith, Enma (PR162)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-162.jpg">PR</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -48391,7 +49466,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<type>LRIG</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
-			<text>As you begin the game, when you have this LRIG face-up, choose either Tama, Hanayo, Piruluk, Midoriko, or Ulith. This LRIG gets the chosen LRIG Type. </text>
+			<text>As you begin the game, when you have this LRIG face-up, choose either Tama, Hanayo, Piruluk, Midoriko, or Urith. This LRIG gets the chosen LRIG Type. </text>
 		</card>
 		<card>
 			<name>spread WIXOSS</name>
@@ -48931,7 +50006,7 @@ Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. 
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<cmc>3</cmc>
-			<type>ARTS - Ulith Limited</type>
+			<type>ARTS - Urith Limited</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
@@ -49043,7 +50118,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.  Then discard 1 card from your hand.</text>
 		</card>
 		<card>
-			<name>Tama and Ulith</name>
+			<name>Tama and Urith</name>
 			<set picURL="">PR</set>
 			<color></color>
 			<manacost>0 - 0</manacost>
@@ -49051,7 +50126,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 			<type>LRIG</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
-			<text>As you begin the game, when you have this LRIG face-up, choose either Tama or Ulith. This LRIG gets the chosen LRIG type. </text>
+			<text>As you begin the game, when you have this LRIG face-up, choose either Tama or Urith. This LRIG gets the chosen LRIG type. </text>
 		</card>
 		<card>
 			<name>Hanayo and Yuzuki</name>
@@ -49147,12 +50222,12 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Ulith, Enma (PR244)</name>
+			<name>Urith, Enma (PR244)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-244.jpg">PR</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Ulith</type>
+			<type>LRIG - Urith</type>
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -50459,6 +51534,7 @@ Choose one:
 		<card>
 			<name>Selecting Story</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-378.jpg">PR</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-81Re.jpg">WXEX1</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -50542,7 +51618,7 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play] {G}: Search your deck for 1 SIGNI with (Accessory) and put it into your Ener Zone. Then shuffle your deck.
-[Action] [Attack Phase] Put this SIGNI from your field into the trash: Banish 1 SIGNI on your opponent's field with 12000 power or higher. Use this ability only if there is an accesorized SIGNI on your field. </text>
+[Action] [Attack Phase] Put this SIGNI from your field into the trash: Banish 1 SIGNI on your opponent's field with 12000 power or higher. Use this ability only if there is an accessorized SIGNI on your field. </text>
 		</card>
 		<card>
 			<name>Guzuko, Useless Princess (PR385)</name>
@@ -50911,6 +51987,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 		<card>
 			<name>Linze, Natural Star</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-427.jpg">PR</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXEX01/WXEX01-80Re.jpg">WXEX1</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
