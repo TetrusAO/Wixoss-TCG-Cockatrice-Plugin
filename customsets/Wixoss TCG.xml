@@ -188,6 +188,24 @@
 			<releasedate>2018-08-25</releasedate>
 		</set>
 		<set>
+			<name>WDK09</name>
+			<longname>WXK-D09 Blue Umr</longname>
+			<settype>Starter</settype>
+			<releasedate>2019-04-20</releasedate>
+		</set>
+		<set>
+			<name>WDK10</name>
+			<longname>WXK-D10 Black Urith</longname>
+			<settype>Starter</settype>
+			<releasedate>2019-04-20</releasedate>
+		</set>
+		<set>
+			<name>WDK11</name>
+			<longname>WXK-D11 White Emma</longname>
+			<settype>Starter</settype>
+			<releasedate>2019-04-20</releasedate>
+		</set>
+		<set>
 			<name>WX01</name>
 			<longname>WX-01 Served Selector</longname>
 			<settype>Expansion</settype>
@@ -3149,6 +3167,7 @@ Choose one:
 			<name>Servant O (WD13)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD13/WD13-023.jpg">WD13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK05/WDK05-T19.jpg">WDK05</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-020.jpg">WDK09</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -4013,6 +4032,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 		<card>
 			<name>Servant D2 (WD16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD16/WD16-020.jpg">WD16</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-019.jpg">WDK09</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -4025,6 +4045,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 		<card>
 			<name>Servant O2 (WD16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD16/WD16-021.jpg">WD16</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-021.jpg">WDK09</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -4256,6 +4277,7 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<name>Servant D (WD17)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD17/WD17-016.jpg">WD17</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD17/WD17-016.jpg">SP23</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-018.jpg">WDK10</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -5731,6 +5753,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 		<card>
 			<name>Servant D2 (WD22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-039-UG.jpg">WD22</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-019.jpg">WDK10</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -5743,6 +5766,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 		<card>
 			<name>Servant O2 (WD22)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WD22/WD22-040-UG.jpg">WD22</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-021.jpg">WDK10</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -6544,6 +6568,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-R18.jpg">WDK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK07/WDK07-Y18.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK08/WDK08-Y18.jpg">WDK08</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-018.jpg">WDK09</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -6769,6 +6794,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK06/WDK06-C19.jpg">WDK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK07/WDK07-E19.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK08/WDK08-L19.jpg">WDK08</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-020.jpg">WDK10</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -8888,6 +8914,691 @@ Add all cards from your Ener Zone to your hand. Then if there are 5 or more card
 			<text>Choose one:
 - Put 1 Water Beast SIGNI from your field into the trash. If you do, banish 1 SIGNI on your opponent's field with power equal to or lower than the SIGNI put into the trash this way.
 - [Ener Charge 1].</text>
+		</card>
+		<!-- WDK09 -->
+		<card>
+			<name>Umr=Fyra, Wielder of the World Instrument Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-001.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 3 (You get 3 Coins as this card is put onto your field.)
+[On-Play]: Place 1 [Gate] on 1 SIGNI Zone on your opponent's field. Draw 1 card.
+[Auto]: At the beginning of your opponent's attack phase, your opponent reveals the top card of their deck. If it does not have [Life Burst], your opponent cannot attack with SIGNI on SIGNI Zones with a [Gate] on them.
+[Action] [1/Game] ((Primal)) Pay 1 Coin: Shuffle all SIGNI on your opponent's SIGNI Zones with a [Gate] on them into their owners' decks.</text>
+		</card>
+		<card>
+			<name>Umr=Tre, Wielder of the World Instrument Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-002.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>7</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: You get 1 Coin.</text>
+		</card>
+		<card>
+			<name>Umr=Två, Wielder of the World Instrument Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-003.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>2 - U</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>4</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Umr=Ett, Wielder of the World Instrument Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-004.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Umr=Noll, Wielder of the World Instrument Key</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-005.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Brilliant Echo</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-006.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>3UUU</manacost>
+			<cmc>6</cmc>
+			<type>ARTS - Umr Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+[Encore]: Pay 2 Coins. (You may pay 2 Coins as you use this ARTS. If you do, this ARTS gets "Return this ARTS to your LRIG Deck.")
+Place 1 [Gate] on 1 SIGNI Zone on your opponent's field.</text>
+		</card>
+		<card>
+			<name>Forte Baleno</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-008.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<type>ARTS - Umr Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Draw 2 cards, then if there is a KEY on your opponent's field, your opponent discards 2 cards from their hand.</text>
+		</card>
+		<card>
+			<name>Tawil, the Dazzling</name>
+			<set picURL="">WDK09</set>
+			<color>W</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [Attack Phase] {Exceed 2}: 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn."
+[Constant]: Your opponent's maximum hand size is decreased by 1.
+[On-Play]: If you have an Umr LRIG, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Rays of Edge</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-010.jpg">WDK09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-010.jpg">WDK10</set>
+			<color></color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Put 1 SIGNI on your opponent's field into the trash.</text>
+		</card>
+		<card>
+			<name>Code Maze Ryuujou</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-011.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your opponent's attack phase, declare 1 numbe, then put the top card of your opponent's deck into the trash. If it is a SIGNI with the same level as the declared number, draw 1 card.
+[On-Play] {U}: Put 1 SIGNI that is on your opponent's SIGNI Zone with a [Gate] on it into its owner's deck third from the top.
+
+[Life Burst]: Discard 1 card from your hand, then put 1 SIGNI on your opponent's field on top of its owner's deck.</text>
+		</card>
+		<card>
+			<name>Code Maze Pavlope</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-012.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] {U}{U}, {Down}: Put 1 SIGNI on your opponent's field into its owner's deck third from the top.</text>
+		</card>
+		<card>
+			<name>Code Maze Blue Skyju</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-013.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When 1 or more of your opponent's cards are put into your opponent's deck by your card's effect, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
+[On-Play]: Put 2 cards in your opponent's trash on the bottom of their owner's deck in any order.</text>
+		</card>
+		<card>
+			<name>Code Maze Otaru</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-014.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your attack phase, if your opponent's cards were put into your opponent's deck 4 or more times this turn, draw 1 card.
+[Auto]: When this SIGNI attacks, if your opponent's cards were put into your opponent's deck this turn, draw 1 card.
+
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Code Maze Bankuba</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-015.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put 1 card from your opponent's trash on the bottom of its owner's deck. If you do, you may change the SIGNI Zone of 1 SIGNI on the field.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Code Maze Fish Migration</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-016.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Code Maze Marinaka</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-017.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Spirit: Labyrinth - Umr Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: When this SIGNI is put onto your center SIGNI Zone, look at your opponent's hand, then choose up to 1 non-colorless card in it. If you chose 1 card this way, your opponent puts that card on the bottom of their deck then draws 1 card.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>BRIGHTNESS</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-022.jpg">WDK09</set>
+			<color>U</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Umr Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Labyrinth SIGNI on your field into the trash. If you do, add 1 Labyrinth SIGNI from your trash to your hand.
+- [Ener Charge 1]</text>
+		</card>
+		<!-- WDK10 -->
+		<card>
+			<name>Urith, Enma of Explosive Annihilation</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-001.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Urith (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
+[On-Play]: Add up to 2 Dragon Beast SIGNI from your trash to your hand.
+[Action] [1/Turn] Exclude 1 card in your trash from the game: Your opponent puts 1 card from their Ener Zone into the trash unless they discard 1 card from their hand.
+[Action] [1/Game] ((Despair)) Pay 1 Coin: If you have 0 cards in your Life Cloth, add 1 Dragon Beast SIGNI from your trash to your Life Cloth.</text>
+		</card>
+		<card>
+			<name>Urith, Enma of Elegant Fall</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-002.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Urith (KS)</type> 
+			<loyalty>7</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: You get 2 Coins.</text>
+		</card>
+		<card>
+			<name>Urith, Enma of Breaking Torment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-003.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Urith (KS)</type> 
+			<loyalty>4</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Pay 1 Coin: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Urith, Enma of Unusual Bullying</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-004.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Umr (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: You get 1 Coin.</text>
+		</card>
+		<card>
+			<name>Urith, Enma of Refined Bullets</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-005.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Urith (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Bloody Strike</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-006.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>3BBB</manacost>
+			<cmc>6</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase]
+
+Exactly 2 SIGNI on your opponent's field get -15000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Savage Illusion</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-007.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - Urith Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase]
+			
+1 SIGNI on your opponent's field gets -8000 power until end of turn. If there is a KEY on your opponent's field, put 1 Dragon Beast SIGNI from your trash onto your field. Its [On-Play] abilities do not trigger.</text>
+		</card>
+		<card>
+			<name>Vapor Control</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-008.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<type>ARTS - Urith Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
+			
+[Bet]: 2 Coins. (You may pay 2 Coins as you use this ARTS.)
+Exclude 3 cards in your opponent's trash from the game. If those cards share a common color with each other, add up to 2 black SIGNI from your trash to your hand. If you bet, add up to 4 black SIGNI from your trash to your hand instead.</text>
+		</card>
+		<card>
+			<name>Hanare, Dark One of Fascination</name>
+			<set picURL="">WDK10</set>
+			<color>B</color>
+			<manacost>1 Coin</manacost>
+			<cmc>0</cmc>
+			<type>KEY - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[On-Play]: Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand. If you have a Urith LRIG, add 1 more black SIGNI from your trash to your hand.
+[Action] [1/Turn] Discard 1 card from your hand: Choose 1 SIGNI Zone on your opponent's field. Until your next turn, SIGNI on that SIGNI Zone get -2000 multiplied by its level.</text>
+		</card>
+		<card>
+			<name>Ann-Mira, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-011.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [2/Turn]: When you discard a card from your hand outside of your guard step, 1 SIGNI on your opponent's field gets -6000 power until end of turn.
+[On-Play] Discard 1 Dragon Beast SIGNI from your hand: Put 1 level 3 or lower Dragon Beast SIGNI from your trash onto your field.
+
+[Life Burst]: 1 SIGNI on your opponent's field gets -12000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Peimon, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-012.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {B}: Put the top 4 cards of your deck into the trash, then add 1 Dragon Beast SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Curia, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-013.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 5 or more Dragon Beast SIGNI in your trash, this SIGNI gets +4000 power.
+[Auto]: When this SIGNI attacks, if there are 10 or more Dragon Beast SIGNI in your trash, put the top 4 cards of your opponent's deck into the trash.</text>
+		</card>
+		<card>
+			<name>Beelzebub, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-014.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may discard 1 Dragon Beast SIGNI from your hand. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Cosdo, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-015.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may discard 1 Dragon Beast SIGNI from your hand. If you do, banish 1 SIGNI on your opponent's field with power lower than or equal to half of the power of the SIGNI discarded this way.
+			
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Imp, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-016.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Succubus, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-017.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put the top 3 cards of your deck into the trash. If 3 Dragon Beast SIGNI were put into the trash this way, each player discards 1 card from their hand.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Technical Bore</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK10/WDK10-022.jpg">WDK10</set>
+			<color>B</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Urith Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Dragon Beast SIGNI on your field into the trash. If you do, add 1 Dragon Beast SIGNI from your trash to your hand.
+- [Ener Charge 1]</text>
+		</card>
+		<!-- WDK11 -->
+		<card>
+			<name>Emma Level 4</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-001.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>4 - 0</manacost>
+			<cmc>4</cmc>
+			<type>LRIG - Emma (KS)</type> 
+			<loyalty>11</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When this LRIG attacks, if there is a "GF Norman and Ray" on your field, you may pay {W}. If you paid {W} this way, add 1 Wisdom SIGNI from your trash to your hand.
+[Auto] When this LRIG attacks, if there is a Wisdom SIGNI on your field, draw 1 card.
+[On-Play]: Put 1 "GF Norman and Ray" from your LRIG Deck onto your field.</text>
+		</card>
+		<card>
+			<name>Emma Level 3</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-002.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>3 - WW</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Emma (KS)</type> 
+			<loyalty>8</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Emma Level 2</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-003.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>2- W</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Emma (KS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Emma Level 1</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-004.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Emma (KS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Emma Level 0</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-005.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Emma (KS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Harvest Force (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-006.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>3WWW</manacost>
+			<cmc>6</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase]
+			
+Return 2 SIGNI on your opponent's field to their owner's hand.
+(This ARTS cannot be used if there is only 1 SIGNI on your opponent's field.)</text>
+		</card>
+		<card>
+			<name>Sudden Question</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-007.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>WW</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - Emma Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Attack Phase]
+			
+1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn. If there is a KEY on your opponent's field, 1 more SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.</text>
+		</card>
+		<card>
+			<name>Study Hard</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-008.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>ARTS - Emma Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Search your deck for up to 2 SIGNI, reveal them, then add them to your hand. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>GF Norman and Ray</name>
+			<set picURL="">WDK11</set>
+			<color>W</color>
+			<manacost>WW, 1 Coin</manacost>
+			<cmc>2</cmc>
+			<type>KEY - Emma Limited (KS)</type>
+			<tablerow>0</tablerow>
+			<text>[Constant]: Your LRIG gets the following ability:
+"[Action] [Attack Phase] {Exceed 2}: 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn."
+[On-Play]: Return up to 2 SIGNI on your opponent's field to their owners' hands.</text>
+		</card>
+		<card>
+			<name>Rays of Edge (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-010.jpg">WDK11</set>
+			<color></color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>ARTS - (KS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Put 1 SIGNI on your opponent's field into the trash.</text>
+		</card>
+		<card>
+			<name>GF Isabella</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-011.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, you may put 1 other SIGNI on your field into the trash. If you do, put 1 SIGNI on your opponent's field into the trash.
+[On-Play] {W}{W}: Search your deck for 1 Wisdom SIGNI not named "GF Isabella", reveal it, then add it to your hand. Shuffle your deck.
+
+[Life Burst]: Return 1 SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>GF Krone</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-012.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If there is a "GF Isabella" on your field, return 1 SIGNI on your opponent's field to its owner's hand.</text>
+		</card>
+		<card>
+			<name>GF Anna</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-013.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, [Ener Charge 1].
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>GF Gilda</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-014.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 card from your hand: Return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand.
+
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>GF Departure Conny</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-015.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>7000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>GF Conny</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-016.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>GF Naila</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-017.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Spirit: Wisdom - Emma Limited (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 1 Wisdom SIGNI from your hand: Search your deck for 1 white SPELL, reveal it, then add it to your hand. Shuffle your deck.
+			
+[Life Burst]: Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Servant D4 (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-018.jpg">WDK11</set>
+			<color></color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Add 1 Origin Spirit SIGNI from your trash to your hand.</text>
+		</card>
+		<card>
+			<name>Servant D2 (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-019.jpg">WDK11</set>
+			<color></color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
+		</card>
+		<card>
+			<name>Servant O (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-020.jpg">WDK11</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Servant O2 (WDK11)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-021.jpg">WDK11</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Origin Spirit (KS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)</text>
+		</card>
+		<card>
+			<name>Morning Call</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK11/WDK11-022.jpg">WDK11</set>
+			<color>W</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - Emma Limited (KS)</type>
+			<tablerow>3</tablerow>
+			<text>Choose one:
+- Put 1 Wisdom SIGNI on your field into the trash. If you do, search your deck for 1 Wisdom SIGNI, reveal it, then add it to your hand. Shuffle your deck.
+- [Ener Charge 1]</text>
 		</card>
 		<!-- WX01 -->
 		<card>
@@ -25788,7 +26499,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all Viruses
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>Discard 1 SIGNI from your hand, then banish 1 SIGNI on your opponent's field with the same level as the SIGNI discarded this way.	 You may use this effect up to 3 times.</text>
+			<text>Discard 1 SIGNI from your hand, then banish 1 SIGNI on your opponent's field with the same level as the SIGNI discarded this way. You may use this effect up to 3 times.</text>
 		</card>
 		<card>
 			<name>#Imaginary#, Number of Imaginary Wisdom#</name>
@@ -27948,6 +28659,7 @@ Choose one:
 			<name>Don't Move (WX17)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WX17/WX17-Re06.jpg">WX17</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK01/WXK01-018.jpg">WXK01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-007.jpg">WDK09</set>
 			<color>U</color>
 			<manacost>UUU</manacost>
 			<cmc>3</cmc>
@@ -41646,7 +42358,7 @@ Shuffle all cards in your trash into your deck. Draw 3 cards, [Ener Charge 4], t
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)
-			[On-Play]: Your opponent discards 1 card from their hand. If there are 6 or more Electric Machines in your trash, draw 2 cards.
+[On-Play]: Your opponent discards 1 card from their hand. If there are 6 or more Electric Machines in your trash, draw 2 cards.
 [Action] [1/Turn] [Attack Phase] Discard 2 Electric Machine SIGNI from your hand: Down and freeze 1 SIGNI on your opponent's field.
 [Action] Pay 1 Coin: Your opponent cannot draw more than 1 card during the next turn.</text>
 		</card>
