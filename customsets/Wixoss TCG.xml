@@ -1716,7 +1716,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<color />
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SPELL</type>
+			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
 			<text>Add 1 SIGNI from your trash to your hand.
 		
@@ -20581,7 +20581,7 @@ Put 1 SIGNI on your opponent's field on the top of its owner's deck.
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Living Spirit: Misfortune Insect - Myu Limited</type>
+			<type>SIGNI - Living Spirit: Misfortune Insect - Myu Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] [1/Turn] {B}, Put 1 other non-RESONA Misfortune Insect SIGNI from your field into the trash: Add 1 SPELL from your trash to your hand. </text>
@@ -20592,7 +20592,7 @@ Put 1 SIGNI on your opponent's field on the top of its owner's deck.
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Machine Spirit: Ancient Weapon</type>
+			<type>SIGNI|LB - Machine Spirit: Ancient Weapon</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play]: When this SIGNI is put onto your field from the trash, your opponent banishes 1 SIGNI on their field.
@@ -20605,7 +20605,7 @@ Put 1 SIGNI on your opponent's field on the top of its owner's deck.
 			<color>B</color>
 			<manacost>BBB</manacost>
 			<cmc>3</cmc>
-			<type>SPELL</type>
+			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
 			<text>Choose 1 SIGNI Zone. During the next turn, your opponent cannot put SIGNI onto the chosen SIGNI Zone.
 
@@ -26320,7 +26320,7 @@ Put the top card of your deck into your Ener Zone. If you bet, put the top 2 car
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Living Spirit: Apparition</type>
+			<type>SIGNI|LB - Living Spirit: Apparition</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>(Layer): All Apparition SIGNI on your field get the following [Layer] ability:
@@ -33663,7 +33663,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Space</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All other SIGNI on your field cannot be downed by your opponent's card effects.
@@ -48248,7 +48248,7 @@ Choose one:
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Machine Spirit: Electric Machine - Piruluk Limited (KS)</type>
+			<type>SIGNI|LB - Machine Spirit: Electric Machine - Piruluk Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a "Remodeling Parts" is used on this SIGNI, if there are 2 or more Electric Machine SIGNI of each level from 1 to 4 in your Ener Zone, this SIGNI gets "This SIGNI cannot be banished." and "This SIGNI is unaffected by the effects of your opponent's ARTS with total cost 1 or less." until end of turn.
@@ -49712,10 +49712,10 @@ Choose one:
 			<type>SIGNI|LB - War Spirit: Playground Equipment - Guzuko Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When a Playground Equipment SIGNI is put from your trash onto your field during the attack phase, put 1 Playground Equipment SIGNI whose level is lower that SIGNI's level from your trash onto your field.
+			<text>[Auto] [1/Turn]: When a Playground Equipment SIGNI is put from your field into the trash during the attack phase, put 1 Playground Equipment SIGNI whose level is lower that SIGNI's level from your trash onto your field.
 [On-Play]: Put 1 other SIGNI on your field into the trash. If you do, banish 1 SIGNI on your opponent's field.
 
-[Life Burst]: Banish 1 SIGNI on your opponent's field, then put 1 SIGNI from your trash onto your field.</text>
+[Life Burst]: Banish 1 SIGNI on your opponent's field, then put 1 SIGNI from your field into the trash.</text>
 		</card>
 		<card>
 			<name>Phalanx, Great Shield Spear</name>
@@ -64149,7 +64149,7 @@ Choose one:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Image Spirit: Angel (KS)</type>
+			<type>SIGNI|LB - Image Spirit: Angel (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[On-Play] Put 1 card from your Ener Zone into the trash: Search your deck for 1 level 3 or lower non-colorless SIGNI with the same class as the card put into the trash to use this ability, reveal it, then add it to your hand. Shuffle your deck.
