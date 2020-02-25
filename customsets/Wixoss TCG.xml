@@ -48234,7 +48234,7 @@ Choose one:
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Image Spirit: Angel - Tama Limited (KS)</type>
+			<type>SIGNI|LB - Image Spirit: Angel (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is an Angel SIGNI, put it into the Ener Zone.
@@ -49056,8 +49056,8 @@ Draw X cards or [Ener Charge X], where X is equal to your LRIG's level, then add
 			<name>Purple Stem, Green Leaf</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK10/WXK10-005.jpg">WXK10</set>
 			<color>GB</color>
-			<manacost>G/B G/B G/B G/B G/B</manacost>
-			<cmc>5</cmc>
+			<manacost>G/B G/B G/B G/B</manacost>
+			<cmc>4</cmc>
 			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
@@ -49133,6 +49133,7 @@ Choose one. If you have a Remember LRIG, choose up to two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] [Spell Cut-In]
 			
+[Encore]: Pay 2 Coins. (You may pay 2 Coins as you use this ARTS. If you do, this card gets "Return this card to the LRIG Deck.")
 Choose one:
 - Your opponent cannot draw cards or add cards to their hand by their card effects until end of turn.
 - You may pay {U}. If you do, down 1 SIGNI on your opponent's field.</text>
@@ -49839,8 +49840,8 @@ Your LRIG gets the following abilities until end of turn:
 			<name>Code Ride Transport</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK10/WXK10-063.jpg">WXK10</set>
 			<color>R</color>
-			<manacost>0</manacost>
-			<cmc>0</cmc>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
 			<type>SIGNI - Machine Spirit: Riding Machine - Layla Limited (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
@@ -50008,8 +50009,8 @@ Your LRIG gets the following abilities until end of turn:
 			<name>Code Maze Tetrapo</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK10/WXK10-076.jpg">WXK10</set>
 			<color>U</color>
-			<manacost>0</manacost>
-			<cmc>0</cmc>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
 			<type>SIGNI - Machine Spirit: Labyrinth - (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
@@ -50266,7 +50267,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color />
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Origin Spirit (KS)</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent damage from a LRIG's attack once.)
@@ -50278,7 +50279,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color />
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Origin Spirit (KS)</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent damage from a LRIG's attack once.)
@@ -50290,7 +50291,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color />
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Origin Spirit (KS)</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent damage from a LRIG's attack once.)
@@ -50302,7 +50303,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color />
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Origin Spirit (KS)</type>
+			<type>SIGNI - Origin Spirit (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent damage from a LRIG's attack once.)
