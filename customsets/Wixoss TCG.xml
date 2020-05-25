@@ -44592,8 +44592,8 @@ This ARTS costs {B} less for each SIGNI on your field.
 			<name>Dynamo, Phantom Dragon</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-049.jpg">WXK06</set>
 			<color>B</color>
-			<manacost>2</manacost>
-			<cmc>2</cmc>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
 			<type>SIGNI - Living Spirit: Dragon Beast - Urith Limited (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
