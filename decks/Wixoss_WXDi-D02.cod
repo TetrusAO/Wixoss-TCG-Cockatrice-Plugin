@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Lize Level 0"/>
+        <card number="1" name="[Center] Lize Level 1"/>
+        <card number="1" name="[Center] Lize Level 2"/>
+        <card number="1" name="[Center] Lize Level 3"/>
+        <card number="1" name="Ange Level 0"/>
+        <card number="1" name="[Assist] Ange Level 1"/>
+        <card number="1" name="[Assist] Ange Level 2"/>
+        <card number="1" name="Toko Level 0"/>
+        <card number="1" name="[Assist] Toko Level 1"/>
+        <card number="1" name="[Assist] Toko Level 2"/>
+        <card number="1" name="[Center] Ange Level 1"/>
+        <card number="1" name="[Center] Ange Level 2"/>
+        <card number="1" name="[Center] Ange Level 3"/>
+        <card number="1" name="[Center] Toko Level 1"/>
+        <card number="1" name="[Center] Toko Level 2"/>
+        <card number="1" name="[Center] Toko Level 3"/>
+        <card number="1" name="[Assist] Lize Level 1"/>
+        <card number="1" name="[Assist] Lize Level 2"/>
+        <card number="1" name="Sanba Carnival"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Code 2434 Chihiro Yuki"/>
+        <card number="4" name="Code 2434 Ichigo Ushimi"/>
+        <card number="4" name="Code 2434 Morinaka Kazaki"/>
+        <card number="4" name="Code 2434 Era Otogibara"/>
+        <card number="4" name="Code 2434 Kaede Higuchi"/>
+        <card number="4" name="Code 2434 Rin Shizuka"/>
+        <card number="4" name="Code 2434 Sara Hoshikawa"/>
+        <card number="4" name="Code 2434 Mao Matsukai"/>
+        <card number="4" name="Servant # (WXDi-D02)"/>
+        <card number="4" name="Wonder Land"/>
+    </zone>
+</cockatrice_deck>

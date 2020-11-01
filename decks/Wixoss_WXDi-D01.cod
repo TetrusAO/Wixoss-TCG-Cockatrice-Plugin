@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="At=Noll, Spinning Door"/>
+        <card number="1" name="At=Ett, Spinning Door"/>
+        <card number="1" name="At=Två, Spinning Door"/>
+        <card number="1" name="At=Tre, Spinning Door"/>
+        <card number="1" name="Tawil=Noll, the Awakened"/>
+        <card number="1" name="Tawil=Howling"/>
+        <card number="1" name="Tawil=Colors"/>
+        <card number="1" name="Umr=Noll, Wielder of the Key of Performing Salvation"/>
+        <card number="1" name="Umr=Draw"/>
+        <card number="1" name="Umr=Down"/>
+        <card number="1" name="Harmony Call"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Camelopar, Natural Star"/>
+        <card number="4" name="Sen no Rikyu, Verdant General"/>
+        <card number="4" name="Zwei=Slow Loris"/>
+        <card number="4" name="Tobiel, Great Attire"/>
+        <card number="4" name="Assylen, Natural Stone"/>
+        <card number="4" name="Atalanta, Verdant Angel"/>
+        <card number="4" name="Water Buffalo, Water Phantom"/>
+        <card number="4" name="Koalara, Phantom Beast"/>
+        <card number="4" name="Servant # "/>
+        <card number="4" name="Polygenesis"/>
+    </zone>
+</cockatrice_deck>
