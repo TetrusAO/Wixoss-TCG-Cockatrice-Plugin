@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Servant # "/>
+        <card number="4" name="Shark Spear, Azure Devil"/>
+        <card number="4" name="Purson, Holy Devil"/>
+        <card number="4" name="Screw Carmilla, Azure Devil"/>
+        <card number="4" name="Captain Hook, Azure Devil"/>
+        <card number="4" name="Shinpachi, Azure General"/>
+        <card number="4" name="Draconids, Natural Star"/>
+        <card number="4" name="Procyos, Natural Star"/>
+        <card number="4" name="Sirios, Natural Star"/>
+        <card number="4" name="RANDOM BAD"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dr. Tamago, Newborn"/>
+        <card number="1" name="Dr. Tamago, Let's Go"/>
+        <card number="1" name="Dr. Tamago, Fight"/>
+        <card number="1" name="Dr. Tamago, Guts"/>
+        <card number="1" name="Nova, Newborn"/>
+        <card number="1" name="Nova=Dirty"/>
+        <card number="1" name="Nova=Chopper"/>
+        <card number="1" name="Bang, Newborn"/>
+        <card number="1" name="Bang=Crescendo"/>
+        <card number="1" name="Bang=Repeat"/>
+        <card number="1" name="Staggering★Destruction"/>
+    </zone>
+</cockatrice_deck>
