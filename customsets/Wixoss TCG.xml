@@ -278,6 +278,12 @@
 			<releasedate>2020-01-16</releasedate>
 		</set>
 		<set>
+			<name>WDi-07</name>
+			<longname>WXDi-D07 TOP DIVA DECK Deus Ex Machina</longname>
+			<settype>Starter</settype>
+			<releasedate>2021-06-26</releasedate>
+		</set>
+		<set>
 			<name>WX01</name>
 			<longname>WX-01 Served Selector</longname>
 			<settype>Expansion</settype>
@@ -495,9 +501,15 @@
 		</set>
 		<set>
 			<name>WXi-03</name>
-			<longname>WXDi-P02 STANDUP DIVA</longname>
+			<longname>WXDi-P03 STANDUP DIVA</longname>
 			<settype>Expansion</settype>
 			<releasedate>2021-04-03</releasedate>
+		</set>
+		<set>
+			<name>WXi-04</name>
+			<longname>WXDi-P04 VERTEX DIVA</longname>
+			<settype>Expansion</settype>
+			<releasedate>2021-06-26</releasedate>
 		</set>
 		<set>
 			<name>WXEX1</name>
@@ -12922,6 +12934,291 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<text>Target 1 SIGNI on your opponent's field, and it gets -6000 power until end of turn. If there are 3 LRIGs on your field and they are on [DIAGRAM], that SIGNI gets -8000 power until end of turn instead.
 			
 [Life Burst]: Target 1 upped SIGNI on your opponent's field, and it gets -15000 power until end of turn.</text>
+		</card>
+		
+		<!-- WDi-07 -->
+		
+		<card>
+			<name>Ex Zero</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-001.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ex One</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-002.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, draw 1 card or [Ener Charge 1]."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Ex Two</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-003.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>2 - R</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, target 1 SIGNI on your opponent's field with 12000 power or lower, and banish it."
+			
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Ex Three</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-004.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>3 - RR</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When a [Soul] is attached to a SIGNI on your field, you may discard 1 card from your hand. If you do, draw 1 card.
+[Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 2 red SIGNI on your field, and exclude 1 PIECE in your LRIG Deck from the game. If you do, those SIGNI get [Assassin] until end of turn.</text>
+		</card>
+		<card>
+			<name>Deus Zero</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-005.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Deus Drive</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-006.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+[On-Play]: Target 1 level 2 or lower SIGNI on your opponent's field, and banish it.</text>
+		</card>
+		<card>
+			<name>Deus Shield</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-007.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>2 - 3</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+[On-Play]: The next 2 times you would be damaged this turn, instead you do not take damage and this LRIG gets "[Auto]: At the end of your turn, put the top 5 cards of your deck into the trash." (This [Auto] ability can stack.)
+[On-Play] {2}{B}: The next time you would be damaged this turn, instead you do not take damage and this LRIG gets "[Auto]: At the end of your turn, put the top 5 cards of your deck into the trash."</text>
+		</card>
+		<card>
+			<name>Machina Zero</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-008.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Machina Wing Slash</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-009.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play]: Target 1 level 1 SIGNI on your opponent's field, and banish it.
+[On-Play]: Target 1 level 1 SIGNI without [Guard] in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Machina Smash</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-010.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>2 - 1</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field, and it gets -12000 power until end of turn.
+[On-Play] {B}: Target 1 SIGNI without [Guard] in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>TRIGGER OF VICTORY</name>
+			<set picURL="">WDi-07</set>
+			<color>RB</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+(Use Condition): All LRIGs on your field are on [Deus Ex Machina] and level 1 or higher.
+
+Crush 1 card in your opponent's Life Cloth. Target 1 SIGNI without [Guard] in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Song of the Key of Blessing (WXDi-07)</name>
+			<set picURL="">WDi-07</set>
+			<color></color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Draw 3 cards, then discard 2 cards from your hand.
+
+(PIECE cards can only be used if there are 3 LRIGs on your field.)</text>
+		</card>
+		<card>
+			<name>Code Ride Cargo</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-013.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Machine Performer: Riding Machine (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Target 1 card in your opponent's Ener Zone, and you may put it into the trash. If you do, your opponent may [Ener Charge 1].
+
+[Life Burst]: Target 1 SIGNI on your opponent's field with 8000 power or lower, and you may pay {R}. If you do, banish that SIGNI.</text>
+		</card>
+		<card>
+			<name>Baphomet, Wicked Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-014.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 5 or more cards in your trash, this SIGNI gets +4000 power.
+[On-Play]: Put the top 3 cards of your deck into the trash.</text>
+		</card>
+		<card>
+			<name>Lancelot, Crimson General (WXDi-07)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-015.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {1}: Target 1 SIGNI on your opponent's field with 5000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Musca, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-016.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Nature Performer: Space (DS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 2 level 1 SIGNI from your hand: Target 1 SIGNI without [Guard] in your trash, and add it to your hand.
+
+[Life Burst]: Target 1 SIGNI on your opponent's field, and you may pay {1}{B}. If you do, that SIGNI gets -12000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Accel Gull-Wing</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-017.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Performer: Riding Machine [Deus Ex Machina] (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Team Auto]: At the beginning of your Attack Phase, if there are 2 or more cards in your opponent's Ener Zone and you discarded a card from your hand this turn, your opponent puts 1 card from their Ener Zone into the trash.
+[Action] {1}{R}{R}: This SIGNI gets [Double Crush] until end of turn. (When this SIGNI damages your opponent with its attack, it crushes 2 cards in your opponent's Life Cloth instead of 1.)</text>
+		</card>
+		<card>
+			<name>Devil Stinger, Water Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-018.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Living Performer: Water Beast (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard up to 3 cards from your hand: Draw cards equal to the number of cards discarded to use this ability.
+			
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and banish it.
+= Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Code Anti Obelisk</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-019.jpg">WDi-07</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Performer: Ancient Weapon (DS)</type>
+			<pt>10000*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a [Soul] is attached to this SIGNI, put the top 2 cards of your opponent's deck into the trash.
+[Action] {2}{B}{R}: Target 1 SIGNI in your trash, and put it onto your field. Target 1 SIGNI on your opponent's field with power lower than the SIGNI that was put onto your field this way, and banish it.</text>
+		</card>
+		<card>
+			<name>Eckesachs, Small Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-020.jpg">WDi-07</set>
+			<color>RB</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Performer: Arm (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 red or 1 black ener.)</text>
+		</card>
+		<card>
+			<name>Servant # (WXDi-07)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-021.jpg">WDi-07</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Origin Performer (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Magnificent Absolute Flames</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D07-022.jpg">WDi-07</set>
+			<color>R</color>
+			<manacost>RB</manacost>
+			<cmc>2</cmc>
+			<type>SPELL|LB - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Target 1 SIGNI on your opponent's field with 12000 power or lower, and banish it. Put the top 2 cards of either player's deck into the trash.
+			
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and banish it.
+= Put the top 4 cards of either player's deck into the trash.</text>
 		</card>
 		
 		<!-- WX01 -->
@@ -58029,6 +58326,1209 @@ Target 1 SIGNI on your opponent's field, and it gets -5000 power until end of tu
 [Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
 		</card>
 		
+		<!-- WXi-04 -->
+		
+		<card>
+			<name>White Heaven</name>
+			<set picURL="">WXi-04</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<cmc>3</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+(Use Condition): There are 2 or more white LRIGs on your field.
+
+Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
+		</card>
+		<card>
+			<name>World Reverse</name>
+			<set picURL="">WXi-04</set>
+			<color>RUG</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+(Use Condition): All LRIGs on your field are on [Ancient Surprise].
+
+You get the following ability for the rest of this game:
+"[Auto] [1/Turn]: When a SIGNI is put onto your field, choose one:
+= If the SIGNI that was put onto your field is red, target 1 SIGNI with 8000 power or lower, and you may pay {1}. If you do, banish the targeted SIGNI.
+= If the SIGNI that was put onto your field is blue, draw 1 card.
+= If the SIGNI that was put onto your field is green, [Ener Charge 1]."</text>
+		</card>
+		<card>
+			<name>Summer Live Blues</name>
+			<set picURL="">WXi-04</set>
+			<color>U</color>
+			<manacost>UU</manacost>
+			<cmc>2</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+(Use Condition): There are 2 or more blue LRIGs on your field.
+
+Draw 2 cards. Target 1 SIGNI on your opponent's field, and put it on the bottom of its owner's deck.</text>
+		</card>
+		<card>
+			<name>DEATH DECK</name>
+			<set picURL="">WXi-04</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+(Use Condition): There are 2 or more black LRIGs on your field.
+
+Target 1 SIGNI on your opponent's field, and it gets -12000 power until end of turn.
+Choose one for every 10 cards in your trash:
+= Target up to 2 SIGNI in your trash that share a color with your center LRIG, and add them to your hand.
+= Put the top 10 cards of your deck into the trash.</text>
+		</card>
+		<card>
+			<name>Innocent Battle</name>
+			<set picURL="">WXi-04</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+One player shuffles all cards in their trash into their deck. You draw 1 card.
+
+(PIECE cards cannot be used unless there are 3 LRIGs on your field.)</text>
+		</card>
+		<card>
+			<name>DEVIL'S CARNIVAL</name>
+			<set picURL="">WXi-04</set>
+			<color></color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>PIECE - (DS)</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+Put 2 Devil SIGNI on your field into the trash. If you do, you get the following ability for the rest of this game:
+"[Auto]: At the end of your turn, target 1 Devil SIGNI in your trash, and add it to your hand.
+
+(PIECE cards cannot be used unless there are 3 LRIGs on your field.)</text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards Tomorrow</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-007.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3 - WW</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the beginning of your Main Phase, target 1 SIGNI on your opponent's field, and you may put 1 white SIGNI on your field into the trash and pay {W}. If you do, return that SIGNI to its owner's hand.
+[On-Play]: Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] {0}: SIGNI on your field get [Shadow] during your opponent's next Main Phase and Attack Phase. (Also affects SIGNI put onto the field after this ability was used.)</text>
+		</card>
+		<card>
+			<name>MC.LION 3rd Verse-ALT</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-008.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3 - WW</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - LION [Card Jockey] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto] [1/Turn]: When this LRIG attacks, shuffle your deck, then reveal its top card. If it is a level 1 SIGNI, draw 1 card. If it is a SIGNI with [Guard], crush 1 card in your opponent's Life Cloth.
+[Action] [1/Game] {0}: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Dr. Tamago, Nonstop</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-009.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When this LRIG attacks, you may put 1 card from under this LRIG into the LRIG Trash. If you do, discard 1 card from your opponent's hand at random.
+[Auto]: When your opponent discards a card from their hand by your effects, target 1 SIGNI on your opponent's field, and freeze it.
+[Action] [1/Game] {0}: Each player draws 2 cards. Discard 2 cards from your opponent's hand at random.</text>
+		</card>
+		<card>
+			<name>Madoka, VOGUE 3-EX</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-010.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Madoka [DIAGRAM] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, each player draws 1 card, then discards 1 card from their hand.
+[On-Play]: Choose one:
+= Your opponent discards 2 cards from their hand.
+= Target 1 LRIG on your opponent's field, and freeze it.
+[Action] [1/Game] {0}: If there are at least 3 more cards in your hand than in your opponent's, target 1 SIGNI on your opponent's field, and put it on the bottom of its owner's deck.</text>
+		</card>
+		<card>
+			<name>Deus One</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-011.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn."
+			
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Deus Two</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-012.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn."
+			
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Deus Three</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-013.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>B</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: SIGNI that are in front of SIGNI on your field with [Soul]s attached to them get -2000 power during your turn.
+[Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 3 SIGNI without [Guard] in your trash, and exclude 1 PIECE in your LRIG Deck from the game. If you do, add those SIGNI to your hand.</text>
+		</card>
+		<card>
+			<name>Machina One</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-014.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>2</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, target 1 SIGNI without [Guard] in your trash, and add it to your hand."
+			
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Machina Two</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-015.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - B</manacost>
+			<cmc>2</cmc>
+			<type>LRIG - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>5</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Constant]: The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]: When this SIGNI attacks, target 1 level 2 or lower SIGNI on your opponent's field, and banish it."
+			
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Machina Three</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-016.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3 - BB</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: When a SIGNI on your field with a [Soul] attached to it attacks, put the top 2 cards of your opponent's deck into the trash.
+[Action] {0}: Attach 1 card from under this LRIG to 1 SIGNI on your field as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 2 SIGNI on your opponent's field, and exclude 1 PIECE in your LRIG Deck from the game. If you do, those SIGNI get -12000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Ex Gazer</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-017.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field with 10000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Ex Echo</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-018.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play] Discard 1 card from your hand: Draw 3 cards.
+[Auto]: When this card is put into your LRIG Trash to pay for an {Exceed} cost, you may discard 1 card from your hand. If you do, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Ex Crossbeam</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-019.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2 - 2</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field, and banish it.
+[On-Play] {4}{R}: Target 1 SIGNI on your opponent's field with 10000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Ex Crossfire</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-020.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2 - 0</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field, and you may pay {1} for each level it has. If you do, banish that SIGNI.
+[On-Play]: Target up to 2 cards in your opponent's Ener Zone that do not share a color with your opponent's center LRIG, and put them into the trash.</text>
+		</card>
+		<card>
+			<name>Ex Stepout</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-021.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2 - 1</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play]: Draw 2 cards or [Ener Charge 2].
+[On-Play]: Target 1 SIGNI on your field, and it gets [Assassin] until end of turn.
+
+(An attacking SIGNI with [Assassin] deals damage to the opponent without battling the SIGNI in front of it.)</text>
+		</card>
+		<card>
+			<name>Deus Recovery</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-022.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play]: Put the top 2 cards of your deck into the trash, then target up to 1 red or black SIGNI in your trash, and add it to your hand.
+[Auto]: When this card is put into the LRIG Trash to pay for an {Exceed} cost, target 1 red or black SIGNI in your trash, and you may discard 1 card from your hand. If you do, add that SIGNI to your hand.</text>
+		</card>
+		<card>
+			<name>Deus Limited</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-023.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - 2</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Your opponent can attack with a SIGNI only once this turn.
+[On-Play] {2}: Target 1 SIGNI without [Guard] in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Deus Digger</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-024.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - 1</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+[On-Play]: Target 1 SIGNI in your trash, and put it onto your field. Its [On-Play] abilities don't trigger.
+[On-Play]: Target 1 SIGNI on your field, and attach 1 LRIG in your LRIG Trash to it as a [Soul].
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+		</card>
+		<card>
+			<name>Machina Seeds</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-025.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1 - 0</manacost>
+			<cmc>1</cmc>
+			<type>LRIG|Assist - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+[On-Play]: Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of turn.
+[Auto]: When this card is put into the LRIG Trash to pay for an {Exceed} cost, target 1 SIGNI on your opponent's field, and it gets -2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Machina Repair</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-026.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - 0</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+			
+[On-Play]: Target 1 card in your trash without [Life Burst], and add it to your Life Cloth.</text>
+		</card>
+		<card>
+			<name>Machina Bind</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-027.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2 - 3</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target up to 2 SIGNI on your opponent's field, and they get "[Auto]: When this SIGNI attacks, this SIGNI gets -20000 power until end of turn." until end of turn.
+[On-Play] {2}{B}: Target 1 SIGNI on your opponent's field, and it gets "[Auto]: When this SIGNI attacks, this SIGNI gets -20000 power until end of turn." until end of turn.</text>
+		</card>
+		<card>
+			<name>At=Tre, Opened Door</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-028.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>3 - GG</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - At [Ancient Surprise] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, target 1 SIGNI on your field, and it gets +5000 power until end of turn.
+[On-Play]: Target up to 2 SIGNI without [Guard] in your trash, and put them into your Ener Zone.
+[Action] [1/Game] Put 7 SIGNI that do not share a common class from your Ener Zone into the trash: Put all SIGNI on your opponent's field into the Ener Zone, then [Ener Charge 2].</text>
+		</card>
+		<card>
+			<name>Tawil=Hangout</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-029.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2 - 2</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Tawil [Ancient Surprise] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field, and banish it.
+[On-Play] Discard up to 3 cards from your hand: Draw cards equal to the number of cards discarded to use this ability.</text>
+		</card>
+		<card>
+			<name>Umr=Outsider</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-030.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>2 - 6</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - Umr [Ancient Surprise] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Down all SIGNI on your opponent's field.</text>
+		</card>
+		<card>
+			<name>At=Eject</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-031.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>2 - 1</manacost>
+			<cmc>2</cmc>
+			<type>LRIG|Assist - At [Ancient Surprise] (DS)</type> 
+			<loyalty>+1</loyalty>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+[On-Play]: Target 1 SIGNI on your opponent's field, and the next time it attacks this turn, disable that attack.
+[On-Play] {2}: Target 1 SIGNI on your opponent's field, and the next time it attacks this turn, disable that attack.</text>
+		</card>
+		<card>
+			<name>Exia, Holy Angel Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-032.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Image Performer: Angel (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When this SIGNI is targeted by your opponent's ability or card effect, choose 1 SIGNI Zone on your opponent's field. Your opponent cannot attack with SIGNI on that SIGNI Zone this turn.
+[Auto]: At the end of your turn, up all SIGNI on your field.
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and return it to its owner's hand. 
+= Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Douman, Holy Devil Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-033.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Main Phase, target 1 SIGNI with [Guard] in your trash, and you may put this SIGNI from your field into the trash. If you do, add that SIGNI to your hand.
+[On-Play] Discard 1 SIGNI with [Guard] from your hand: Target 1 level 2 or lower SIGNI on your opponent's field, and return it to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Kintoki, Crimson General Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-034.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Harmony): 1 black LRIG (When this SIGNI is put onto the field, down it unless you down 1 upped black LRIG on your field.)
+			
+[Auto]: At the beginning of your attack phase, if there is a [Soul] on your field and there are 2 or more cards in your opponent's Ener Zone, your opponent puts 1 card from their Ener Zone into the trash.
+[On-Play] {R}{B}: This SIGNI gets [Assassin] until end of turn.</text>
+		</card>
+		<card>
+			<name>Alexandrite, Natural Pyroxene</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-035.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Nature Performer: Gem (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When another SIGNI on your field gets [Assassin], [Lancer], or [Double Crush], you may pay {1}{R}. If you do, this SIGNI also gets that ability until end of turn.
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and banish it.
+= Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Columbus, Azure General Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-036.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Harmony): 2 LRIGs. (When this SIGNI is put onto your field, down it unless you down 2 upped LRIGs on your field.)
+			
+[Constant]: While there are 1 or more cards in your LRIG Deck, this SIGNI gets +3000 power.
+[Auto]: At the beginning of your Attack Phase, if this SIGNI is upped, target 1 SIGNI on your opponent's field, and you may discard 3 cards from your hand. If you do, banish that SIGNI.</text>
+		</card>
+		<card>
+			<name>Orion, Natural Star Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-037.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Nature Performer: Sapce(DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: If a SIGNI would leave your opponent's field during your opponent's turn, put that SIGNI into the trash instead.
+[Auto]: At the end of your opponent's turn, draw 1 card.
+[Action] Discard 1 level 1 SIGNI from your hand: Freeze all SIGNI on your opponent's field.
+
+[Life Burst]: Target 1 SIGNI on your opponent's field, and down and freeze it. Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Code Labyrinth Notre Dame</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-038.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Machine Performer: Labyrinth (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When your opponent draws a card during the Main Phase or Attack Phase, your opponent discards 1 card from their hand.
+[Auto]: When this SIGNI is banished, you may discard 2 cards from your hand. If you do, put this SIGNI from your Ener Zone onto your field downed.
+
+[Life Burst]: Target 1 SIGNI on your opponent's field, and you may discard 2 cards from your hand. If you do, banish that SIGNI.</text>
+		</card>
+		<card>
+			<name>Newton, Verdant Wisdom Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-039.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Image Performer: Wisdom (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, if the total combined level of all LRIGs on your field is even, target up to 1 SIGNI in your Ener Zone, and add it to your hand.
+[On-Play]: If the total combined level of all LRIGs on your field is odd, [Ener Charge 1].
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and banish it.
+= [Ener Charge 1]</text>
+		</card>
+		<card>
+			<name>Ibaraki-Douji, Verdant Devil Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-040.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: [Lancer]
+[Auto]: At the beginning of your Attack Phase, put this SIGNI into the trash unless you pay {3}.</text>
+		</card>
+		<card>
+			<name>Muramasa, Great Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-041.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - War Performer: Arm (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, target 1 SIGNI in your trash, and you may put 1 other SIGNI on your field into the trash and pay {B}. If you do, add the targeted SIGNI to your hand.
+[Auto]: At the beginning of your opponent's Attack Phase, target 1 black SIGNI in your trash, and you may pay {B}. If you do, add that SIGNI to your hand.
+
+[Life Burst]: Target up to 2 SIGNI in your trash, and add them to your hand. Discard 1 card from your hand.</text>
+		</card>
+		<card>
+			<name>Code Ancients Steampunk</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-042.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Performer: Ancient Weapon (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a card is moved from under a LRIG on your field during your turn, target 1 SIGNI on your opponent's field, and you may pay {1}. If you do, that SIGNI gets -8000 power until end of turn.
+[Action] Down 2 upped level 2 LRIGs on your field: Put this card from your field into the trash.</text>
+		</card>
+		<card>
+			<name>Dragon Maid, Phantom Dragon Princess</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-043.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Living Performer: Dragon Beast (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When any player refreshes, target 1 SIGNI on your opponent's field, and you may pay {B}. If you do, that SIGNI gets -10000 power until end of turn.
+[Auto]: When this SIGNI attacks, put the top 4 cards of any player's deck into the trash.</text>
+		</card>
+		<card>
+			<name>Lepus, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-044.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Nature Performer: Space (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]: Target 1 SIGNI on your opponent's field with 8000 power or lower, and return it to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Code Art R Inglight</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-045.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Performer: Electric Machine (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is banished, you may reveal 2 SPELLs in your hand. If you do, draw 1 card.
+[Auto]: At the beginning of your Main Phase, reveal the top card of your deck. If it is a SPELL, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Lemon Tetra, Water Phantom</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-046.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Performer: Water Beast (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When you [Guard], draw 1 card.</text>
+		</card>
+		<card>
+			<name>Isis, Holy Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-047.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Image Performer: Angel (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Look at the top 3 cards of your deck. Reveal 1 Angel SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order. If you added a card to your hand this way, discard 1 card from your hand.
+
+[Life Burst]: Target 1 SIGNI on your opponent's field, and it gets "[Constant]: This card cannot attack." until end of turn. Draw 1 card.</text>
+		</card>
+		<card>
+			<name>Wei Yan, Holy General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-048.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets [Shadow (Level 3 SIGNI)].
+
+(SIGNI with [Shadow (Level 3 SIGNI)] cannot be targeted by the abilities or effects of your opponent's level 3 SIGNI.)</text>
+		</card>
+		<card>
+			<name>Code Maze Antnest</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-049.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Machine Performer: Labyrinth (DS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of each Attack Phase, target 1 SIGNI in front of this SIGNI, and it loses its abilities until end of turn.
+			
+[Life Burst]: Draw 1 card. SIGNI in your hand get [Guard] this turn.</text>
+		</card>
+		<card>
+			<name>Huang Zhong, Holy General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-050.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is upped, this SIGNI gets +5000 power.
+[Constant]: While this SIGNI is upped, SIGNI on your field next to this SIGNI get +3000 power.</text>
+		</card>
+		<card>
+			<name>Rhongomyniad, Great Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-051.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - War Performer: Arm (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When a LRIG on your field attacks, you may down 1 upped level 3 white SIGNI on your field and pay {W}. If you do, up that attacking LRIG, and that LRIG loses its abilities until end of turn.</text>
+		</card>
+		<card>
+			<name>Rebirth Return</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-052.jpg">WXi-04</set>
+			<color>W</color>
+			<manacost>1WU</manacost>
+			<cmc>3</cmc>
+			<type>SPELL|LB - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Target 1 level 2 or lower SIGNI on your opponent's field, and return it to its owner's hand. Discard 1 card from your opponent's hand at random.
+			
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and return it to its owner's hand.
+= Discard 1 card from your opponent's hand at random.</text>
+		</card>
+		<card>
+			<name>Garasha, Crimson General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-053.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there is a card in your LRIG Trash, this SIGNI gets +4000 power.</text>
+		</card>
+		<card>
+			<name>Iwatooshi, Small Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-054.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Performer: Arm (DS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, target 1 card in your opponent's Ener Zone that does not share a color with your opponent's center LRIG, and you may pay {1}. If you do, put that card into the trash.</text>
+		</card>
+		<card>
+			<name>Cuelepe, Phantom Dragon</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-055.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Living Performer: Dragon Beast (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]: Target 1 SIGNI on your opponent's field with 8000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Corgi, Phantom Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-056.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Living Performer: Earth Beast (DS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: This SIGNI gets +2000 power multiplied by your center LRIG's level during your turn.
+[Constant]: While this SIGNI has 8000 power or higher, this SIGNI gets "[Auto]: When this SIGNI attacks, you may discard 1 card from your hand. If you do, draw 1 card."
+
+[Life Burst]: Target 1 SIGNI on your opponent's field with 12000 power or lower, and you may pay {1}{R}. If you do, banish that SIGNI.</text>
+		</card>
+		<card>
+			<name>Bedivere, Crimson General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-057.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets the following ability:
+"[Auto]: When this SIGNI attacks, choose one:
+= Target 1 card in your opponent's Ener Zone that does not share a color with their center LRIG, and put it into the trash.
+= Target 1 SIGNI on your opponent's field with 2000 power or lower, and banish it."</text>
+		</card>
+		<card>
+			<name>Morax, Crimson Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-058.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Image Performer: Devil (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, if a card was put from your opponent's Ener Zone into the trash by your effects this turn, [Ener Charge 1].
+			
+[Life Burst]: Target 1 SIGNI on your opponent's field, and banish it unless your opponent pays {2}.</text>
+		</card>
+		<card>
+			<name>Code Art Y Akitori Machine</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-059.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Performer: Electric Machine (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When you use a SPELL, target 1 SIGNI on your opponent's field with 5000 power or lower, and you may down this upped SIGNI. If you do, banish that targeted SIGNI.</text>
+		</card>
+		<card>
+			<name>Batin, Crimson Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-060.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] [1/Turn] {1}, Put 1 other Devil SIGNI on your field into the trash: Target 1 SIGNI on your opponent's field with 8000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Cancer, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-061.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Nature Performer: Space (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] Discard 2 level 1 SIGNI from your hand: Target 1 SIGNI on your opponent's field with 12000 power or lower, and banish it.</text>
+		</card>
+		<card>
+			<name>Roaring Thunder in Broad Daylight</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-062.jpg">WXi-04</set>
+			<color>R</color>
+			<manacost>1RW</manacost>
+			<cmc>3</cmc>
+			<type>SPELL|LB - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Target 1 SIGNI on your opponent's field, and banish it. Look at the top 3 cards of your deck. Add 1 card from among them to your hand, then put the rest on the bottom of your deck in any order.
+			
+[Life Burst]: Choose one:
+= Target 1 SIGNI on your opponent's field with 5000 power or lower, and banish it.
+= Target 1 SIGNI on your opponent's field, and it gets "[Constant]: Can't attack." until end of turn.</text>
+		</card>
+		<card>
+			<name>Norma, Natural Star</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-063.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Nature Performer: Space (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When your opponent discards a card from their hand by your ability or card's effect, target 1 SIGNI on your opponent's field, and freeze it.
+
+(Frozen SIGNI do not up during their user's next Up Phase.)</text>
+		</card>
+		<card>
+			<name>Gallium, Natural Source</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-064.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Nature Performer: Atom (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]: Draw 2 cards. Your opponent discards 1 card from their hand.</text>
+		</card>
+		<card>
+			<name>Plankton, Natural Bacteria</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-065.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Nature Performer: Bacteria (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When a SIGNI on your opponent's field becomes frozen, that SIGNI gets -1000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Bruno, Azure General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-066.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "[Auto]: When this SIGNI attacks, draw 1 card or your opponent discards 1 card from their hand."</text>
+		</card>
+		<card>
+			<name>Team Palette, Azure Beauty</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-067.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Beautiful Technique (DS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: At the beginning of your Attack Phase, each player draws 1 card.</text>
+		</card>
+		<card>
+			<name>Halfas, Azure Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-068.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Image Performer: Devil (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI is banished, draw 1 card.
+[On-Play]: Discard 1 card from your hand.
+
+[Life Burst]: Target 1 LRIG or SIGNI on your opponent's field. The next time that SIGNI or LRIG attacks, disable that attack unless your opponent discards 3 cards from their hand.</text>
+		</card>
+		<card>
+			<name>Grasha, Azure Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-069.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] Put this SIGNI from your field into the trash: Target 2 SIGNI on your opponent's field, and freeze them.
+[Action] {1}{B}, Put this SIGNI from your field into the trash: If there are 0 cards in your opponent's hand, target 1 SIGNI on your opponent's field, and banish it.</text>
+		</card>
+		<card>
+			<name>EXCHANGE</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-070.jpg">WXi-04</set>
+			<color>U</color>
+			<manacost>UB</manacost>
+			<cmc>2</cmc>
+			<type>SPELL|LB - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Discard 1 card from your opponent's hand at random. If a SIGNI was discarded this way, target 1 SIGNI without [Guard] in your trash with the same level as that discarded SIGNI, and add it to your hand.
+			
+[Life Burst]: Choose one:
+= Draw 2 cards.
+= Target 1 SIGNI without [Guard] in your trash, and add it to your hand or put it onto your field.</text>
+		</card>
+		<card>
+			<name>Saturos, Verdant Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-071.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Angel (DS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Put 3 Angel SIGNI from your Ener Zone into the trash: If there were 3 or more colors among the cards put into the trash to use this ability, target 1 Angel SIGNI on your field, and it gets [Lancer] until end of turn.
+
+(When a SIGNI with [Lancer] banishes a SIGNI on your opponent's field by battle, crush 1 card in your opponent's Life Cloth.)</text>
+		</card>
+		<card>
+			<name>Takaoni, First Play</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-072.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Performer: Playground Equipment (DS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {1}: Target 1 level 2 SIGNI in your Ener Zone, and it switches zones with 1 SIGNI on your field.</text>
+		</card>
+		<card>
+			<name>Tasmanian, Phantom Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-073.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Living Performer: Earth Beast (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]: Target 1 SIGNI on your opponent's field with 7000 power or higher, and banish it.</text>
+		</card>
+		<card>
+			<name>Mulu, Verdant General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-074.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets the following ability:
+"[Auto]: When this SIGNI attacks, choose one:
+= Target 1 SIGNI in your Ener Zone, and add it to your hand.
+= [Ener Charge 1]"
+</text>
+		</card>
+		<card>
+			<name>Leraje, Verdant Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-075.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>8000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: Target 1 SIGNI on your opponent's field, and its original power becomes 10000 until end of turn.
+
+(Changes in a SIGNI's original power are treated as increases and decreases.)</text>
+		</card>
+		<card>
+			<name>American Bullfrog, Water Phantom</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-076.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI|LB - Living Performer: Water Beast (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While there are 5 or more cards in your hand, this SIGNI gets +5000 power.
+[Auto]: When this SIGNI attacks, you may pay {G}. If you do, draw 1 card.
+
+[Life Burst]: Target 1 SIGNI on your opponent's field, and you may pay {G}{G}. If you do, banish that SIGNI.</text>
+		</card>
+		<card>
+			<name>Zeruel, Verdant Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-077.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Image Performer: Angel (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {W}{R}{U}{G}{B}: Target 2 SIGNI on your opponent's field, and put them into the Ener Zone.</text>
+		</card>
+		<card>
+			<name>Code Eat Caesar</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-078.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Performer: Cooking (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [2/Turn]: When a SIGNI is put onto your opponent's field, [Ener Charge 1].</text>
+		</card>
+		<card>
+			<name>Strong Spear</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-079.jpg">WXi-04</set>
+			<color>G</color>
+			<manacost>1GW</manacost>
+			<cmc>3</cmc>
+			<type>SPELL|LB - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Target 1 SIGNI on your field, and it gets [Lancer] until end of turn. All SIGNI on your opponent's field lose their abilties and their original power becomes 10000 until end of turn.
+			
+[Life Burst]: Choose one:
+= All SIGNI on your field get +10000 power until end of turn.
+= Look at the top 3 cards of your deck. Reveal 1 SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Ipetam, Small Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-080.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - War Performer: Arm (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]: Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Kamikirimushi, Phantom Insect</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-081.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Living Performer: Misfortune Insect (DS)</type>
+			<pt>2000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play]: If there is a card attached to or under a SIGNI on your field, target 1 SIGNI on your opponent's field, and it gets -1000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Brutus, Wicked General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-082.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Valor (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "[Auto]: When this SIGNI attacks, put the top 4 cards of your opponent's deck into the trash."</text>
+		</card>
+		<card>
+			<name>Zwei=Fire Ant</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-083.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Performer: Poison Fang (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: SIGNI in front of this SIGNI get -1000 power multiplied by that SIGNI's level during your turn.</text>
+		</card>
+		<card>
+			<name>Code Anti Dogu</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-084.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Machine Performer: Ancient Weapon (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, target 1 SIGNI on your opponent's field, and it gets -2000 power until end of turn.</text>
+		</card>
+		<card>
+			<name>Code Art W Inecellar</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-085.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI - Machine Performer: Electric Machine (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]: When you use a SPELL, target 1 SIGNI on your opponent's field, and it gets -3000 power until end of turn and put the top 2 cards of your opponent's deck into the trash.</text>
+		</card>
+		<card>
+			<name>Black Pack</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-086.jpg">WXi-04</set>
+			<color>B</color>
+			<manacost>BG</manacost>
+			<cmc>2</cmc>
+			<type>SPELL - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>Target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn. Target 1 SIGNI on your field, and it gets +10000 power until end of turn.
+			
+[Life Burst]: Choose one:
+= Target 1 level 1 SIGNI on your opponent's field, and banish it.
+= [Ener Charge 2]</text>
+		</card>
+		<card>
+			<name>Zagan, Holy Crimson Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-087.jpg">WXi-04</set>
+			<color>WR</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 white or 1 red ener.)</text>
+		</card>
+		<card>
+			<name>Orias, Holy Crimson Devil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-088.jpg">WXi-04</set>
+			<color>WR</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 white or 1 red ener.)</text>
+		</card>
+		<card>
+			<name>Eckesachs, Small Equipment (WXi-04)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-089.jpg">WXi-04</set>
+			<color>RB</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - War Performer: Arm (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 red or 1 black ener.)</text>
+		</card>
+		<card>
+			<name>Sansetsukon, Medium Equipment</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-090.jpg">WXi-04</set>
+			<color>RB</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - War Performer: Arm (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 red or 1 black ener.)</text>
+		</card>
+		<card>
+			<name>Raphae, Wicked Verdant Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-091.jpg">WXi-04</set>
+			<color>GB</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Angel (DS)</type>
+			<pt>5000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 green or 1 black ener.)</text>
+		</card>
+		<card>
+			<name>Aizen, Wicked Verdant Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-092.jpg">WXi-04</set>
+			<color>GB</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>SIGNI - Image Performer: Angel (DS)</type>
+			<pt>10000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(When paying an ener cost, this card may pay for 1 green or 1 black ener.)</text>
+		</card>
+		<card>
+			<name>Servant # (WXi-04)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-093.jpg">WXi-04</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Origin Performer (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
+		</card>
+		
 		<!-- WXEX1 -->
 		
 		<card>
@@ -58999,7 +60499,7 @@ Target 1 SIGNI on your opponent's field, and it gets -5000 power until end of tu
 			<type>SIGNI - Image Spirit: Wisdom - Mama Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[On-Play] (Wisdom = 8): All Wisdom SIGNI on your field get [Lancer].
+			<text>[Constant] (Wisdom = 8): All Wisdom SIGNI on your field get [Lancer].
 [On-Play]: The level of 1 Wisdom SIGNI on your field becomes 1, 2, or 3 until end of turn.</text>
 		</card>
 		<card>
