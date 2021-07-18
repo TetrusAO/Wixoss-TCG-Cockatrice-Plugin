@@ -4758,6 +4758,7 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD18/WD18-016.jpg">SP24</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK07/WDK07-E18.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK12/WDK12-018.jpg">WDK12</set>
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -9967,7 +9968,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then if there i
 		</card>
 		<card>
 			<name>Ril, Memory of Twin Attacks (WDK12)</name>
-			<set>WDK12</set>
+			<set picURL="">WDK12</set>
 			<color>R</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -10167,7 +10168,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Sashe, Holy Support Messenger</name>
-			<set>WDK13</set>
+			<set picURL="">WDK13</set>
 			<color>W</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -10361,7 +10362,7 @@ Look at the top 4 cards of your deck. Add 1 card from among them to your hand, s
 		</card>
 		<card>
 			<name>Umr, Wielder of the Key of Musical Performance</name>
-			<set>WDK14</set>
+			<set picURL="">WDK14</set>
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -10726,7 +10727,7 @@ Add 1 SIGNI with (Rise) and 1 non-colorless SIGNI from your trash to your hand.<
 		</card>
 		<card>
 			<name>Rin and Kaede, Mito's Supporters</name>
-			<set>WDK16</set>
+			<set picURL="">WDK16</set>
 			<color>UR</color>
 			<manacost>UR</manacost>
 			<cmc>2</cmc>
@@ -10798,7 +10799,7 @@ Add 1 SIGNI with (Rise) and 1 non-colorless SIGNI from your trash to your hand.<
 		</card>
 		<card>
 			<name>Rin and Mito, Kaede's Supporters</name>
-			<set>WDK16</set>
+			<set picURL="">WDK16</set>
 			<color>UW</color>
 			<manacost>WW</manacost>
 			<cmc>2</cmc>
@@ -10870,7 +10871,7 @@ Add 1 SIGNI with (Rise) and 1 non-colorless SIGNI from your trash to your hand.<
 		</card>
 		<card>
 			<name>Mito and Kaede, Rin's Supporters</name>
-			<set>WDK16</set>
+			<set picURL="">WDK16</set>
 			<color>WR</color>
 			<manacost>WW</manacost>
 			<cmc>2</cmc>
@@ -11183,7 +11184,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Haity Key, At the Ends of Love and Hate</name>
-			<set>WDK17</set>
+			<set picURL="">WDK17</set>
 			<color>W</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -11440,7 +11441,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Harmony Call</name>
-			<set>WDi-01</set>
+			<set picURL="">WDi-01</set>
 			<color>GRU</color>
 			<manacost>8</manacost>
 			<cmc>8</cmc>
@@ -11803,7 +11804,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Sanba Carnival</name>
-			<set>WDi-02</set>
+			<set picURL="">WDi-02</set>
 			<color>W</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
@@ -44691,7 +44692,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 		</card>
 		<card>
 			<name>Water Lily, Natural Plant Princess (alt)</name>
-			<set>WXK04</set>
+			<set picURL="">WXK04</set>
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -44734,7 +44735,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 		</card>
 		<card>
 			<name>Code Order Meridoll (alt)</name>
-			<set>WXK04</set>
+			<set picURL="">WXK04</set>
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -44750,7 +44751,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 		</card>
 		<card>
 			<name>Croco Crocodile, Water Phantom Princess (alt)</name>
-			<set>WXK04</set>
+			<set picURL="">WXK04</set>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -45935,7 +45936,7 @@ Shuffle all cards in your trash into your deck. Draw 3 cards, [Ener Charge 4], t
 		</card>
 		<card>
 			<name>Angolmois, Vermilion Familiar (alt)</name>
-			<set>WXK05</set>
+			<set picURL="">WXK05</set>
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -45950,7 +45951,7 @@ Shuffle all cards in your trash into your deck. Draw 3 cards, [Ener Charge 4], t
 		</card>
 		<card>
 			<name>Crystal Jelly, Water Phantom Princess (alt)</name>
-			<set>WXK05</set>
+			<set picURL="">WXK05</set>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -46004,7 +46005,7 @@ This ARTS costs {B}{B} less to use if you have a Urith LRIG.
 		</card>
 		<card>
 			<name>Iona, K Ultima/Maiden </name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>B</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -46018,7 +46019,7 @@ This ARTS costs {B}{B} less to use if you have a Urith LRIG.
 		</card>
 		<card>
 			<name>Code Piruluk APEX KEY</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>UB</color>
 			<manacost>U/B, 1 Coin</manacost>
 			<cmc>1</cmc>
@@ -46090,7 +46091,7 @@ Any number of SIGNI on your opponent's field whose total combined level equals 6
 		</card>
 		<card>
 			<name>Dona SUPPORT</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>W</color>
 			<manacost>W, 1 Coin</manacost>
 			<cmc>1</cmc>
@@ -46158,7 +46159,7 @@ Cancel the effect of 1 SPELL being used. If you do, draw 1 card, then return thi
 		</card>
 		<card>
 			<name>Eldora×Good Job</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>U</color>
 			<manacost>U, 1 Coin</manacost>
 			<cmc>1</cmc>
@@ -47065,7 +47066,7 @@ Put up to 2 Devil SIGNI from your trash onto your field, then discard all cards 
 		</card>
 		<card>
 			<name>GF House (alt)</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -47079,7 +47080,7 @@ Put up to 2 Devil SIGNI from your trash onto your field, then discard all cards 
 		</card>
 		<card>
 			<name>Code Labyrinth Yog-Sothoth (alt)</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -47095,7 +47096,7 @@ Put up to 2 Devil SIGNI from your trash onto your field, then discard all cards 
 		</card>
 		<card>
 			<name>Ciferl, Phantom Dragon Princess (alt)</name>
-			<set>WXK06</set>
+			<set picURL="">WXK06</set>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -47153,7 +47154,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. The power of 1 SIGNI o
 		</card>
 		<card>
 			<name>True Yuzuki Key</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>RG</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -47165,7 +47166,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. The power of 1 SIGNI o
 		</card>
 		<card>
 			<name>Tamayorihime, Black Key Miko</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>B</color>
 			<manacost>1 Coins</manacost>
 			<cmc>0</cmc>
@@ -47267,7 +47268,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Lalaru "Wheelie"</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>R</color>
 			<manacost>R, 1 Coin</manacost>
 			<cmc>1</cmc>
@@ -47335,7 +47336,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Aiyai★Straight</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>G</color>
 			<manacost>G, 1 Coins</manacost>
 			<cmc>1</cmc>
@@ -47391,7 +47392,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Nanashi, Type Key</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>B</color>
 			<manacost>B, 1 Coins</manacost>
 			<cmc>1</cmc>
@@ -48298,7 +48299,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 		</card>
 		<card>
 			<name>Meledia, Natural Source Princess (alt)</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -48314,7 +48315,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 		</card>
 		<card>
 			<name>Weddi, Natural Bacteria Princess (alt)</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -48330,7 +48331,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 		</card>
 		<card>
 			<name>Arachne, Natural Star Princess (alt)</name>
-			<set>WXK07</set>
+			<set picURL="">WXK07</set>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -48393,7 +48394,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>Tamayorihime, Eternal Key</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>W</color>
 			<manacost>WW, 1 Coin</manacost>
 			<cmc>2</cmc>
@@ -48407,7 +48408,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>Blitz Aya!</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>U</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -49590,7 +49591,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		</card>
 		<card>
 			<name>Code VL Alice Mononobe (alt)</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -49605,7 +49606,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		</card>
 		<card>
 			<name>Code VL Elu (alt)</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -49619,7 +49620,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		</card>
 		<card>
 			<name>Code VL Utako Suzuka (alt)</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -49634,7 +49635,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		</card>
 		<card>
 			<name>Shub-Niggura, Fertility of Flame Demons (alt)</name>
-			<set>WXK08</set>
+			<set picURL="">WXK08</set>
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -49720,7 +49721,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Ut'ulls, the Opened Key Gate</name>
-			<set>WXK09</set>
+			<set picURL="">WXK09</set>
 			<color>WB</color>
 			<manacost>W/B, 2 Coins</manacost>
 			<cmc>2</cmc>
@@ -50913,7 +50914,7 @@ Put 1 SIGNI from your opponent's trash onto your field puppeteered. Then if ther
 		</card>
 		<card>
 			<name>Arc Cross Counter (WXK09)</name>
-			<set>WXK09</set>
+			<set picURL="">WXK09</set>
 			<color>W</color>
 			<manacost>WWWWW</manacost>
 			<cmc>5</cmc>
@@ -50943,7 +50944,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Arcgain, Azure Angel of Fighting Together (alt)</name>
-			<set>WXK09</set>
+			<set picURL="">WXK09</set>
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -50958,7 +50959,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Code Heart VⱯC (alt)</name>
-			<set>WXK09</set>
+			<set picURL="">WXK09</set>
 			<color>G</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -50972,7 +50973,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Seyuragi, Evil Sin of Fluctuation (alt)</name>
-			<set>WXK09</set>
+			<set picURL="">WXK09</set>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -51190,7 +51191,7 @@ Your LRIG gets the following abilities until end of turn:
 		</card>
 		<card>
 			<name>Lulu Suzuhara, Supporter</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>W</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -51203,7 +51204,7 @@ Your LRIG gets the following abilities until end of turn:
 		</card>
 		<card>
 			<name>Tama and Yuki, Genesis Key</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>WU</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -51215,7 +51216,7 @@ Your LRIG gets the following abilities until end of turn:
 		</card>
 		<card>
 			<name>Sashe and Myu, Midnight Sun Messengers</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>WB</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52372,7 +52373,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Tawil, Who Reaches Out (WXK10)</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -52384,7 +52385,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Dona CHEER (WXK10)</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>W</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -52399,7 +52400,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Yuki, Earnest Miko (WXK10)</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>W</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52426,7 +52427,7 @@ Remove 1 SIGNI Zone on your opponent's field from the game until end of turn. Ad
 		</card>
 		<card>
 			<name>Urith, Enma of Attachment (WXK10)</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>B</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -52440,7 +52441,7 @@ Remove 1 SIGNI Zone on your opponent's field from the game until end of turn. Ad
 		</card>
 		<card>
 			<name>Carnival -K- (WXK10)</name>
-			<set>WXK10</set>
+			<set picURL="">WXK10</set>
 			<color>R</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -52674,7 +52675,7 @@ Choose one. If there are 25 or more cards in your trash, choose up to two instea
 		</card>
 		<card>
 			<name>Tama VS Ulith, Opposite Choices</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>WB</color>
 			<manacost>2 Coins</manacost>
 			<cmc>0</cmc>
@@ -52761,7 +52762,7 @@ Choose up to four:
 		</card>
 		<card>
 			<name>Meiji, Alice, and Era, Supporters</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>W</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52774,7 +52775,7 @@ Choose up to four:
 		</card>
 		<card>
 			<name>Ultum VS Liwat, Balance of Causality</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>WB</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52788,7 +52789,7 @@ Choose up to four:
 		</card>
 		<card>
 			<name>Ril VS Carnival, Memory of Conflict</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>R</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52800,7 +52801,7 @@ Choose up to four:
 		</card>
 		<card>
 			<name>Piruluk VS Remember, Recurring Thoughts</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>UW</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -52814,7 +52815,7 @@ Choose up to four:
 		</card>
 		<card>
 			<name>Alfou VS Haity, Profusing Bouquet</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>BW</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -53700,7 +53701,7 @@ Exclude this card from the game.
 		</card>
 		<card>
 			<name>Code Piruluk APEX KEY (WXK11)</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>UB</color>
 			<manacost>U/B, 1 Coin</manacost>
 			<cmc>1</cmc>
@@ -53714,7 +53715,7 @@ Exclude this card from the game.
 		</card>
 		<card>
 			<name>True Yuzuki Key (WXK11)</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>RG</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -53726,7 +53727,7 @@ Exclude this card from the game.
 		</card>
 		<card>
 			<name>Tamayorihime, Black Key Miko (WXK11)</name>
-			<set>WXK11</set>
+			<set picURL="">WXK11</set>
 			<color>B</color>
 			<manacost>1 Coins</manacost>
 			<cmc>0</cmc>
@@ -59229,7 +59230,7 @@ Put 2 Devil SIGNI on your field into the trash. If you do, you get the following
 			<text>[Auto]: When this SIGNI is banished, draw 1 card.
 [On-Play]: Discard 1 card from your hand.
 
-[Life Burst]: Target 1 LRIG or SIGNI on your opponent's field. The next time that SIGNI or LRIG attacks, disable that attack unless your opponent discards 3 cards from their hand.</text>
+[Life Burst]: Target 1 LRIG or SIGNI on your opponent's field. The next time that SIGNI or LRIG attacks this turn, disable that attack unless your opponent discards 3 cards from their hand.</text>
 		</card>
 		<card>
 			<name>Grasha, Azure Devil</name>
@@ -68244,7 +68245,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<!-- SPK13 -->
 		<card>
 			<name>Layla=Neutral (SPK13)</name>
-			<set>SPK13</set>
+			<set picURL="">SPK13</set>
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -68255,7 +68256,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Allos Piruluk (SPK13)</name>
-			<set>SPK13</set>
+			<set picURL="">SPK13</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -68266,7 +68267,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Midoriko, Combat Girl (SPK13)</name>
-			<set>SPK13</set>
+			<set picURL="">SPK13</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -68277,7 +68278,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		</card>
 		<card>
 			<name>Guzuko, Useless Princess (SPK13)</name>
-			<set>SPK13</set>
+			<set picURL="">SPK13</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -68673,7 +68674,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Code Piruluk KEY (SPK16)</name>
-			<set>SPK16</set>
+			<set picURL="">SPK16</set>
 			<color>U</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -68721,7 +68722,7 @@ Banish exactly 3 SIGNI with the same power as each other.</text>
 		</card>
 		<card>
 			<name>Hanare, Dark One of Fascination (SPK16)</name>
-			<set>SPK16</set>
+			<set picURL="">SPK16</set>
 			<color>B</color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -68809,7 +68810,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>Double Chakram (SPK16)</name>
-			<set>SPK16</set>
+			<set picURL="">SPK16</set>
 			<color />
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -74913,7 +74914,7 @@ Choose up to five. This ARTS costs {U} more to use for each option chosen:
 		</card>
 		<card>
 			<name>Urith, Enma of the Key of Nothingness</name>
-			<set>PR</set>
+			<set picURL="">PR</set>
 			<color></color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -75110,7 +75111,7 @@ Choose one. If you bet, choose two instead:
 		</card>
 		<card>
 			<name>The Spinning Key</name>
-			<set>PR</set>
+			<set picURL="">PR</set>
 			<color></color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
@@ -75123,7 +75124,7 @@ Choose one. If you bet, choose two instead:
 		</card>
 		<card>
 			<name>Airi, Netherworld of Flame Demons</name>
-			<set>PR</set>
+			<set picURL="">PR</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
