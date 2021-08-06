@@ -842,10 +842,70 @@
 			<releasedate>2019-11-07</releasedate>
 		</set>
 		<set>
-			<name>SPDi-01</name>
+			<name>SPDi01</name>
 			<longname>Chibi LRIG Level 0</longname>
 			<settype>Special</settype>
-			<releasedate>2020-11-02</releasedate>
+			<releasedate>2020-11-01</releasedate>
+		</set>
+		<set>
+			<name>SPDi01S</name>
+			<longname>Chibi LRIG Level 0 Special</longname>
+			<settype>Special</settype>
+			<releasedate>2020-11-01</releasedate>
+		</set>
+		<set>
+			<name>SPDi02</name>
+			<longname>WIXOSS CEREMONY Gift PR Cards </longname>
+			<settype>Special</settype>
+			<releasedate>2020-11-01</releasedate>
+		</set>
+		<set>
+			<name>SPDi03</name>
+			<longname>LRIG Comes DIVA Debut Campaign </longname>
+			<settype>Special</settype>
+			<releasedate>2021-01-01</releasedate>
+		</set>
+		<set>
+			<name>SPDi04</name>
+			<longname>No Limit Xmas Present Campaign </longname>
+			<settype>Special</settype>
+			<releasedate>2020-12-24</releasedate>
+		</set>
+		<set>
+			<name>SPDi05</name>
+			<longname>Valentine's Choco LRIGs DIVA Ver.</longname>
+			<settype>Special</settype>
+			<releasedate>2021-02-08</releasedate>
+		</set>
+		<set>
+			<name>SPDi06</name>
+			<longname>WIXOSS DIVA (A) LIVE WIXOSS Archive Exhibition</longname>
+			<settype>Special</settype>
+			<releasedate>2021-03-27</releasedate>
+		</set>
+		<set>
+			<name>SPDi07</name>
+			<longname>WIXOSS DIVA (A) LIVE Blu-ray BOX First Edition Limited Privileges</longname>
+			<settype>Special</settype>
+			<releasedate>2021-06-26</releasedate>
+		</set>
+		<set>
+			<name>SPDi08</name>
+			<longname>Diva Special Sign Pack Vol.3</longname>
+			<settype>Special</settype>
+			<releasedate>2021-06-26</releasedate>
+		</set>
+		<set>
+			<name>SPDi08S</name>
+			<longname>Diva Special Sign Pack Vol.3 Special</longname>
+			<settype>Special</settype>
+			<releasedate>2021-06-26</releasedate>
+		</set>
+		<set>
+			<name>SPDi09</name>
+			<longname>Duel Masters Play's × WIXOSS Collaboration Commemoration Campaign</longname>
+			<settype>Special</settype>
+			<releasedate>2021-04-01</releasedate>
 		</set>
 		<set>
 			<name>PR</name>
@@ -855,7 +915,9 @@
 		</set>
 	</sets>
 	<cards>
+	
 		<!-- WD01 -->
+		
 		<card>
 			<name>Tamayorihime, Full Moon Miko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD01/WD01-001.jpg">WD01</set>
@@ -1039,7 +1101,7 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-016.jpg">WD11</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK02/WDK02-018.jpg">WDK02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-091.jpg">WXK06</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -1065,7 +1127,7 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK01/WDK01-019.jpg">WDK01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK01/WDK01-019.jpg">WDK03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-092.jpg">WXK06</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -1084,7 +1146,7 @@ Search your deck for up to 2 white SIGNI, reveal them, and add them into your ha
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-018.jpg">WX01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-018.jpg">SP01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-018.jpg">SP02</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc />
 			<type>SPELL|LB</type>
@@ -1590,7 +1652,7 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-076.jpg">WX15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-093.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-105.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -1607,7 +1669,7 @@ Banish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD04/WD04-017.jpg">WX15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-096.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-108.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -1803,7 +1865,7 @@ Add up to 3 SIGNI from your trash to your hand.</text>
 			<name>Recalled Blessing</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD05/WD05-018.jpg">WD05</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-080.jpg">WX02</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SPELL|LB</type>
@@ -2320,7 +2382,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 		<card>
 			<name>Servant T (WD08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD08/WD08-016.jpg">WD08</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -2335,7 +2397,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<name>Servant D (WD08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD08/WD08-017.jpg">WD08</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK05/WDK05-R18.jpg">WDK05</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -2630,7 +2692,7 @@ Discard up to 2 Weapon SIGNI from your hand. Banish 1 SIGNI on your opponent's f
 		<card>
 			<name>Crossroad</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD10/WD10-008.jpg">WD10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -3089,7 +3151,7 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<name>Servant D2 (WD12)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD12/WD12-016.jpg">WD12</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK12/WDK12-019.jpg">WDK12</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -3102,7 +3164,7 @@ Put 1 green SIGNI from your Ener Zone onto the field. </text>
 			<name>Servant O2 (WD12)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD12/WD12-017.jpg">WD12</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK12/WDK12-021.jpg">WDK12</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -3389,7 +3451,7 @@ Choose one:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD13/WD13-022.jpg">WD13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK06/WDK06-C18.jpg">WDK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK17/WDK17-018.jpg">WDK17</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -3405,7 +3467,7 @@ Choose one:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD13/WD13-023.jpg">WD13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK05/WDK05-T19.jpg">WDK05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK09/WDK09-020.jpg">WDK09</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -3690,7 +3752,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 		<card>
 			<name>Servant D3 (WD14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD14/WD14-021.jpg">WD14</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -3704,7 +3766,7 @@ Your SIGNI's [On-Play] abilities don't trigger this turn. </text>
 		<card>
 			<name>Servant O3 (WD14)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD14/WD14-022.jpg">WD14</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -3988,7 +4050,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD15/WD15-021.jpg">WD15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK08/WDK08-L18.jpg">WDK08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK15/WDK15-018.jpg">WDK15</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -4004,7 +4066,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD15/WD15-022.jpg">WD15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK08/WDK08-Y19.jpg">WDK08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK14/WDK14-020.jpg">WDK14</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -4272,7 +4334,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<name>Servant D2 (WD16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD16/WD16-020.jpg">WD16</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK09/WDK09-019.jpg">WDK09</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -4285,7 +4347,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<name>Servant O2 (WD16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD16/WD16-021.jpg">WD16</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK09/WDK09-021.jpg">WDK09</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -4517,7 +4579,7 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD17/WD17-016.jpg">WD17</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD17/WD17-016.jpg">SP23</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK10/WDK10-018.jpg">WDK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -4533,7 +4595,7 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD17/WD17-017.jpg">WD17</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD17/WD17-017.jpg">SP23</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK06/WDK06-R19.jpg">WDK06</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -4775,7 +4837,7 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD18/WD18-017.jpg">SP24</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK07/WDK07-Y19.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK13/WDK13-020.jpg">WDK13</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -4981,7 +5043,7 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand. </text>
 		<card>
 			<name>Servant D3 (WD19)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD19/WD19-016.jpg">WD19</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -4995,7 +5057,7 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand. </text>
 		<card>
 			<name>Servant O3 (WD19)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD19/WD19-017.jpg">WD19</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -5207,7 +5269,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 		<card>
 			<name>Servant D3 (WD20)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD20/WD20-016.jpg">WD20</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -5221,7 +5283,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 		<card>
 			<name>Servant O3 (WD20)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD20/WD20-017.jpg">WD20</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -5477,7 +5539,7 @@ Choose one:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD21/WD21-018.jpg">WD21</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK13/WDK13-019.jpg">WDK13</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK17/WDK17-019.jpg">WDK17</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -5491,7 +5553,7 @@ Choose one:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD21/WD21-019.jpg">WD21</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK13/WDK13-021.jpg">WDK13</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK17/WDK17-021.jpg">WDK17</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -5668,7 +5730,7 @@ Put 1 level 2 or lower SIGNI on your opponent's field into the trash and put 1 l
 		<card>
 			<name>Urith and Guzuko</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD22/WD22-013-UG.jpg">WD22</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -6001,7 +6063,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD22/WD22-039-UG.jpg">WD22</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK10/WDK10-019.jpg">WDK10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK15/WDK15-019.jpg">WDK15</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -6015,7 +6077,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD22/WD22-040-UG.jpg">WD22</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK10/WDK10-021.jpg">WDK10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK15/WDK15-021.jpg">WDK15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -6209,7 +6271,7 @@ Flip 1 Trap on your field face-up then trigger its [Trap] ability if any. (Put t
 		<card>
 			<name>Eldora and Aya</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD23/WD23-015-EA.jpg">WD23</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -6556,7 +6618,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<name>Servant D2 (WD23)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD23/WD23-042-EA.jpg">WD23</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK14/WDK14-019.jpg">WDK14</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -6569,7 +6631,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<name>Servant O2 (WD23)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD23/WD23-043-EA.jpg">WD23</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK14/WDK14-021.jpg">WDK14</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -6717,7 +6779,7 @@ Banish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK06/WDK06-C10.jpg">WDK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK07/WDK07-E10.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK08/WDK08-Y10.jpg">WDK08</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS - (KS)</type>
@@ -6825,7 +6887,7 @@ Add up to 3 SIGNI with different levels that share a color with your LRIG from y
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK13/WDK13-018.jpg">WDK13</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK14/WDK14-018.jpg">WDK14</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-111.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -7055,7 +7117,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-103.jpg">WXK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK12/WDK12-020.jpg">WDK12</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK15/WDK15-020.jpg">WDK15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -7808,7 +7870,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK06/WDK06-R10.jpg">WDK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK07/WDK07-Y10.jpg">WDK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK08/WDK08-L10.jpg">WDK08</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -9282,7 +9344,7 @@ Draw 2 cards, then if there is a KEY on your opponent's field, your opponent dis
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK14/WDK14-010.jpg">WDK14</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK15/WDK15-010.jpg">WDK15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK17/WDK17-010.jpg">WDK17</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -9710,7 +9772,7 @@ Search your deck for up to 2 SIGNI, reveal them, then add them to your hand. Shu
 		<card>
 			<name>Rays of Edge (WDK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK11/WDK11-010.jpg">WDK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -9808,7 +9870,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant D4 (WDK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK11/WDK11-018.jpg">WDK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -9822,7 +9884,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant D2 (WDK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK11/WDK11-019.jpg">WDK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -9834,7 +9896,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant O (WDK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK11/WDK11-020.jpg">WDK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -9848,7 +9910,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant O2 (WDK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK11/WDK11-021.jpg">WDK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -10947,7 +11009,7 @@ Search your deck for up to 2 Electric Machine SIGNI, reveal them, then add them 
 		<card>
 			<name>Rays of Edge (WDK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK16/WDK16-11.jpg">WDK16</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -11031,7 +11093,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant D4 (WKD16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK16/WDK16-18.jpg">WDK16</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -11045,7 +11107,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant D2 (WDK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK16/WDK16-19.jpg">WDK16</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -11057,7 +11119,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant O (WDK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK16/WDK16-20.jpg">WDK16</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -11071,7 +11133,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 		<card>
 			<name>Servant O2 (WDK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK16/WDK16-21.jpg">WDK16</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -11293,7 +11355,7 @@ Choose one:
 			<name>Servant O4 (WDK17)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK17/WDK17-020.jpg">WDK17</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-112.jpg">WXK09</set>
-			<color />
+			<color></color>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -13502,7 +13564,7 @@ Put all cards in your opponent's Ener Zone and all SIGNI on your opponent's fiel
 		<card>
 			<name>Salvage</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-025.jpg">WX01</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -13514,7 +13576,7 @@ Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.</te
 		<card>
 			<name>Charging</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-026.jpg">WX01</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -13819,7 +13881,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-051.jpg">WD06</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-051.jpg">SP05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-089.jpg">WXK06</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -13835,7 +13897,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-052.jpg">WX01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-052.jpg">SP06</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-052.jpg">SP07</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SPELL|LB</type>
@@ -14385,7 +14447,7 @@ Banish 1 SIGNI on your opponent's field.</text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-100.jpg">WX01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-100.jpg">SP05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-090.jpg">WXK06</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -15291,7 +15353,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-077.jpg">WX15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-094.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-106.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -15306,7 +15368,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-078.jpg">WX15</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-095.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-107.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -15731,7 +15793,7 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 		<card>
 			<name>Overflowing Knowledge</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX03/WX03-036.jpg">WX03</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SPELL - (KS)</type>
@@ -16209,7 +16271,7 @@ Each player puts 1 SIGNI from their field into the trash. Then if there are no S
 		<card>
 			<name>Oversalvage</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-026.jpg">WX04</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>ARTS</type>
@@ -16221,7 +16283,7 @@ Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand
 		<card>
 			<name>Doping</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-027.jpg">WX04</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -16233,7 +16295,7 @@ Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand
 		<card>
 			<name>Banishing</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-028.jpg">WX04</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>ARTS</type>
@@ -16555,7 +16617,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 		<card>
 			<name>Servant X</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-054.jpg">WX04</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit</type>
@@ -17143,7 +17205,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 		<card>
 			<name>Growing Future</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-105.jpg">WX04</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL|LB</type>
@@ -17232,7 +17294,7 @@ Banish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 		<card>
 			<name>Urith, Enma of Nothingness</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX05/WX05-006.jpg">WX05</set>
-			<color />
+			<color></color>
 			<manacost>5 - 0</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - Urith</type>
@@ -17366,7 +17428,7 @@ Put 1 of your Poison Fang SIGNI from your field into the trash. If you do, all S
 		<card>
 			<name>End Hole</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX05/WX05-016.jpg">WX05</set>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>ARTS - Urith Limited</type>
@@ -17378,7 +17440,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 		<card>
 			<name>Lucky Guard</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX05/WX05-017.jpg">WX05</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -18336,7 +18398,7 @@ Choose one:
 		<card>
 			<name>Spell Salvage</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX06/WX06-015.jpg">WX06</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -19097,7 +19159,7 @@ Put any number of your [Charm]s into the trash. 1 SIGNI on your opponent's field
 		<card>
 			<name>Exclude </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-022.jpg">WX07</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -19829,7 +19891,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-080.jpg">WX07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-078.jpg">WXK05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-102.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -19845,7 +19907,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-081.jpg">WX07</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK04/WDK04-018.jpg">WDK04</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-103.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -19860,7 +19922,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<name>Servant O (WX07)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-082.jpg">WX07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-104.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -20138,7 +20200,7 @@ Your opponent puts the top 5 cards of their deck into the trash. If your LRIG is
 		<card>
 			<name>Pay Charging</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-022.jpg">WX08</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -20876,7 +20938,7 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<name>Servant Q2 (WX08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-082.jpg">WX08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK04/WXK04-092.jpg">WXK04</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -20889,7 +20951,7 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<name>Servant T2 (WX08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-083.jpg">WX08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK04/WXK04-093.jpg">WXK04</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -20902,7 +20964,7 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<name>Servant D2 (WX08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-084.jpg">WX08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK04/WXK04-094.jpg">WXK04</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -20915,7 +20977,7 @@ Banish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<name>Servant O2 (WX08)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-085.jpg">WX08</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK04/WXK04-095.jpg">WXK04</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -22261,7 +22323,7 @@ Choose one:
 		<card>
 			<name>Five Rainbow</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-025.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>WRUGB</manacost>
 			<cmc>5</cmc>
 			<type>ARTS</type>
@@ -22278,7 +22340,7 @@ Choose up to 5 colors from among the cards in your Ener Zone. Then apply these e
 		<card>
 			<name>Penalty Chance</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-026.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -22293,7 +22355,7 @@ Choose one:
 		<card>
 			<name>Ring Draw</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-027.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -22615,7 +22677,7 @@ Put 1 SIGNI on your opponent's field on the top of its owner's deck.
 		<card>
 			<name>Servant Y</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-052.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -22630,7 +22692,7 @@ Put 1 SIGNI on your opponent's field on the top of its owner's deck.
 		<card>
 			<name>Gathering Protection</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-053.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>7</manacost>
 			<cmc>7</cmc>
 			<type>SPELL</type>
@@ -23145,7 +23207,7 @@ Choose one:
 		<card>
 			<name>Servant Q3</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-097.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -23159,7 +23221,7 @@ Choose one:
 		<card>
 			<name>Servant T3</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-098.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -23173,7 +23235,7 @@ Choose one:
 		<card>
 			<name>Servant D3</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-099.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -23187,7 +23249,7 @@ Choose one:
 		<card>
 			<name>Servant O3</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX10/WX10-100.jpg">WX10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -23552,7 +23614,7 @@ Choose up to two. If you have a Urith LRIG, choose up to three instead:
 		<card>
 			<name>Refresh End</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX11/WX11-024.jpg">WX11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -23945,7 +24007,7 @@ Your opponent discards 3 cards from their hand.
 		<card>
 			<name>Servant Z</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX11/WX11-052.jpg">WX11</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit</type>
@@ -25260,7 +25322,7 @@ During your opponent's next turn, your opponent cannot put SIGNI with 12000 powe
 		<card>
 			<name>Rainbow Art</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX12/WX12-Re07.jpg">WX12</set>
-			<color />
+			<color></color>
 			<manacost>1RUG</manacost>
 			<cmc>4</cmc>
 			<type>ARTS</type>
@@ -25444,7 +25506,7 @@ If green was a chosen color, banish 1 SIGNI on your opponent's field with power 
 		<card>
 			<name>Next Ready</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX12/WX12-Re22.jpg">WX12</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL - (KS)</type>
@@ -25874,7 +25936,7 @@ This ARTS costs {B}{B}{B} less to use if a SIGNI on your opponent's field was ba
 		<card>
 			<name>Servant Alive</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-027.jpg">WX13</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS</type>
@@ -25886,7 +25948,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 		<card>
 			<name>Colorless Servants</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-028.jpg">WX13</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>RESONA - Origin Spirit</type>
@@ -26723,7 +26785,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-097.jpg">WX13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-115.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-096.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -26737,7 +26799,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-098.jpg">WX13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-116.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-097.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -26751,7 +26813,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-099.jpg">WX13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-117.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-098.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -26765,7 +26827,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-100.jpg">WX13</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-118.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-099.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -26869,7 +26931,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 		<card>
 			<name>The Spinner</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX14/WX14-003.jpg">WX14</set>
-			<color />
+			<color></color>
 			<manacost>5 - 5</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - ?</type>
@@ -27129,7 +27191,7 @@ Exclude all SPELLs in your opponent's trash from the game. Then if you excluded 
 		<card>
 			<name>Crisis Chance</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX14/WX14-022.jpg">WX14</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -27272,7 +27334,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>Servant ∞</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX14/WX14-032.jpg">WX14</set>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -27846,7 +27908,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>The Spinner (WX14S)</name>
 			<set picURL="">WX14</set>
-			<color />
+			<color></color>
 			<manacost>5 - 5</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - ?</type>
@@ -27948,7 +28010,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>- (WX14)</name>
 			<set picURL="">WX14</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - ?</type>
@@ -28293,7 +28355,7 @@ Remove any number of [Virus]es from your opponent's field. Then add 1 black SIGN
 		<card>
 			<name>More Coin Salvage</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX15/WX15-029.jpg">WX15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -28306,7 +28368,7 @@ Add 1 SIGNI that shares a color with your LRIG from your trash to your hand. If 
 		<card>
 			<name>Invest Charging</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX15/WX15-030.jpg">WX15</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -29397,7 +29459,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 		<card>
 			<name>Jetting Knowledge (WX15)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX15/WX15-123.jpg">WX15</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc />
 			<type>SPELL|LB</type>
@@ -29661,7 +29723,7 @@ Choose one. If you bet, choose up to three instead:
 		<card>
 			<name>Innocent Defense</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX16/WX16-006.jpg">WX16</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>ARTS - (KS)</type>
@@ -30731,7 +30793,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 		<card>
 			<name>LRIG of the Beginning (WX16)</name>
 			<set picURL="https://yuyu-tei.jp/card_image/wx/front/wx16/10170.jpg">WX16</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - ?</type>
@@ -30904,7 +30966,7 @@ Choose one:
 		<card>
 			<name>Servant Y (WX16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX16/WX16-Re15.jpg">WX16</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -30933,7 +30995,7 @@ Choose one:
 		<card>
 			<name>Furious Gambling</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX16/WX16-Re17.jpg">WX16</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SPELL</type>
@@ -32095,7 +32157,7 @@ Banish 1 level 3 SIGNI on your opponent's field.</text>
 		<card>
 			<name>LRIG of the Beginning (WX17)</name>
 			<set picURL="https://yuyu-tei.jp/card_image/wx/front/wx17/10159.jpg">WX17</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - ?</type>
@@ -35585,7 +35647,7 @@ Choose up to two:
 		<card>
 			<name>Satisfaction</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-020.jpg">WX20</set>
-			<color />
+			<color></color>
 			<manacost>6</manacost>
 			<cmc>6</cmc>
 			<type>ARTS</type>
@@ -35602,7 +35664,7 @@ Choose up to two:
 		<card>
 			<name>By the Way</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-021.jpg">WX20</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -35744,7 +35806,7 @@ Choose up to two:
 		<card>
 			<name>Quickening Covenant</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-031.jpg">WX20</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL</type>
@@ -35846,7 +35908,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>≡Hacka Doll No. 2≡, Red Play</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-039-CB.jpg">WX20</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WX20/WX20-039-CB.jpg">WX20</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -36403,7 +36465,7 @@ Choose one:
 		<card>
 			<name>Succeed Destruct</name>
 			<set picURL="">WX20</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -37283,7 +37345,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Ultimate Nipako</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-031-CB.jpg">WX21</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/library/images/card/WX21/WX21-031-CB.jpg">WX21</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -37306,7 +37368,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Miyo Asato</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-033-CB.jpg">WX21</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/library/images/card/WX21/WX21-033-CB.jpg">WX21</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -38064,7 +38126,7 @@ Search your deck for up to 2 Labyrinth SIGNI, reveal them, then add them to your
 		<card>
 			<name>Revival Exceed</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-Re04.jpg">WX21</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -38236,7 +38298,7 @@ Choose one:
 		<card>
 			<name>Pure Treasured Sword</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-Re18.jpg">WX21</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL</type>
@@ -38288,7 +38350,7 @@ Choose one:
 		<card>
 			<name>Liwat=Ener, Messenger Prolonged of Life</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX22/WX22-002.jpg">WX22</set>
-			<color />
+			<color></color>
 			<manacost>5 - 0</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - Tawil</type>
@@ -38607,7 +38669,7 @@ Choose up to two:
 		<card>
 			<name>Zeusias, Chief Deity of the Sky</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX22/WX22-025.jpg">WX22</set>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>SIGNI - Image Spirit: Angel - Tawil Limited</type>
@@ -38918,7 +38980,7 @@ Choose up to two:
 		<card>
 			<name>Angel Awake</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX22/WX22-050.jpg">WX22</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL</type>
@@ -38981,7 +39043,7 @@ Choose up to two:
 		<card>
 			<name>Liwat=Ener, Messenger Prolonged of Life (alt)</name>
 			<set picURL="">WX22</set>
-			<color />
+			<color></color>
 			<manacost>5 - 0</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - Tawil</type>
@@ -39598,7 +39660,7 @@ All Ore and Gem SIGNI on your field get [Double Crush] until end of turn.
 		<card>
 			<name>Blank Card (WX22)</name>
 			<set picURL="https://yuyu-tei.jp/card_image/wx/front/wx22/10168.jpg">WX22</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -39675,7 +39737,7 @@ Add 1 SIGNI from your trash to your hand. If you added a black SIGNI to your han
 		<card>
 			<name>Innocent Defense (WXK01)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-006.jpg">WXK01</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>ARTS - (KS)</type>
@@ -40473,7 +40535,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 		<card>
 			<name>Overflowing Knowledge (WXK01)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-070.jpg">WXK01</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SPELL - (KS)</type>
@@ -40936,7 +40998,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-097.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-100.jpg">WXK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-109.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -40954,7 +41016,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-098.jpg">WXK06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-101.jpg">WXK07</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-110.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -41418,7 +41480,7 @@ If you paid an additional {B} as you used this ARTS, put 1 SIGNI that is 1 level
 		<card>
 			<name>Become You</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK02/WXK02-029.jpg">WXK02</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -42449,7 +42511,7 @@ Choose one:
 			<name>Eternal -P-</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-003A.jpg">WXK03</set>
 			<related>Eternal -E-</related>
-			<color />
+			<color></color>
 			<manacost>1 - 1</manacost>
 			<cmc>1</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -42464,7 +42526,7 @@ Choose one:
 			<name>Eternal -E-</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-003B.jpg">WXK03</set>
 			<related>Eternal -P-</related>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -42493,7 +42555,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 		<card>
 			<name>Fractal Cage</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-005.jpg">WXK03</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -42659,7 +42721,7 @@ Remove 1 SIGNI Zone on your opponent's field from the game until end of turn. Ad
 		<card>
 			<name>Eternal</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-019.jpg">WXK03</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -42803,7 +42865,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 		<card>
 			<name>Servant F</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-029.jpg">WXK03</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -42840,7 +42902,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 		</card>
 		<card>
 			<name>White Pearl Hope, Benevolent Play</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-032-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-032-CB.jpg">WXK03</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -42950,7 +43012,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 		</card>
 		<card>
 			<name>Cyclone Interceptor, 2-Play</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-041-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-041-CB.jpg">WXK03</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -43115,7 +43177,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 		</card>
 		<card>
 			<name>Ena Toyosaki, Great Attire</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-054-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-054-CB.jpg">WXK03</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -43126,7 +43188,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 		</card>
 		<card>
 			<name>Maria Teruyasu, Medium Attire</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-055-CB.jpg">WXK03</set>
+			<set picURL="hhttps://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-055-CB.jpg">WXK03</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -44768,7 +44830,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 		<card>
 			<name>Eternal (WXK04)</name>
 			<set picURL="">WXK04</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -45169,7 +45231,7 @@ Put up to 2 green SIGNI from your Ener Zone onto your field. Those SIGNIs' [On-P
 		<card>
 			<name>Servant G</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-029.jpg">WXK05</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -45182,7 +45244,7 @@ Put up to 2 green SIGNI from your Ener Zone onto your field. Those SIGNIs' [On-P
 		<card>
 			<name>Soaring Flash</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-030.jpg">WXK05</set>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>SPELL - (KS)</type>
@@ -45408,7 +45470,7 @@ Put up to 2 green SIGNI from your Ener Zone onto your field. Those SIGNIs' [On-P
 		<card>
 			<name>Eternal (SIGNI)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-047.jpg">WXK05</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SIGNI - Origin Spirit - Eternal Limited (KS)</type>
@@ -45419,7 +45481,7 @@ Put up to 2 green SIGNI from your Ener Zone onto your field. Those SIGNIs' [On-P
 		<card>
 			<name>Fifth Tempt</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-048.jpg">WXK05</set>
-			<color />
+			<color></color>
 			<manacost>6</manacost>
 			<cmc>6</cmc>
 			<type>SPELL - (KS)</type>
@@ -47792,7 +47854,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Miss Life B, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-054-CB.jpg">WXK07</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK07/WXK07-054-CB.jpg">WXK07</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -47804,7 +47866,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Miss Life R, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-055-CB.jpg">WXK07</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK07/WXK07-055-CB.jpg">WXK07</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -49432,7 +49494,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant Q (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-089.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49446,7 +49508,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant T (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-090.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49460,7 +49522,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant D (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-091.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49474,7 +49536,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant O (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-092.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49488,7 +49550,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant Q2 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-093.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -49500,7 +49562,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant T2 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-094.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -49512,7 +49574,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant D2 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-095.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -49524,7 +49586,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant O2 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-096.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -49536,7 +49598,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant Q4 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-097.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49550,7 +49612,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant T4 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-098.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49564,7 +49626,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant D4 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-099.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49578,7 +49640,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>Servant O4 (WXK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK08/WXK08-100.jpg">WXK08</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -49667,7 +49729,7 @@ Banish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 		<card>
 			<name>The Twister</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-001.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>5 - (5 colored ener OR 1 KEY)</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - ?</type>
@@ -50119,7 +50181,7 @@ Choose one:
 		<card>
 			<name>Arc Energe, Spinning Spear</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK09/WXK09-037.jpg">WXK09</set>
-			<color />
+			<color></color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>SIGNI|LB - Origin Spirit - ? Limited (KS)</type>
@@ -51177,7 +51239,7 @@ Choose one:
 		<card>
 			<name>HiMAT Ray</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-014.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -52199,7 +52261,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant Q (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-092.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52213,7 +52275,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant T (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-093.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52227,7 +52289,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant D (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-094.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52241,7 +52303,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant O (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-095.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52255,7 +52317,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant Q2 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-096.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -52267,7 +52329,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant T2 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-097.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -52279,7 +52341,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant D2 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-098.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -52291,7 +52353,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant O2 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-099.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -52303,7 +52365,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant Q4 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-100.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52317,7 +52379,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant T4 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-101.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52331,7 +52393,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant D4 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-102.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52345,7 +52407,7 @@ Your LRIG gets the following abilities until end of turn:
 		<card>
 			<name>Servant O4 (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-103.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -52414,7 +52476,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Fractal Cage (WXK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK10/WXK10-108.jpg">WXK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>ARTS - (KS)</type>
@@ -53622,7 +53684,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant D (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-078.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -53636,7 +53698,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant O (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-079.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -53650,7 +53712,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant D2 (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-080.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -53662,7 +53724,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant O2 (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-081.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -53674,7 +53736,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant D4 (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-082.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -53688,7 +53750,7 @@ Exclude this card from the game.
 		<card>
 			<name>Servant O4 (WXK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-083.jpg">WXK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -56604,7 +56666,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Nature Performer: Gem (DS)</type>
-			<pt>12000/*</pt>
+			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] [1/Turn] {0}: Target 1 frozen SIGNI on your opponent's field, and it gets "[Auto]: At the beginning of each Attack Phase, banish this SIGNI unles you pay {2}." until end of turn.
 
@@ -57539,7 +57601,7 @@ Target 1 SIGNI on your opponent's field, and banish it. If you paid {Exceed 4}, 
 			<text>Use Timing [Main Phase]
 			
 [On-Play]: Target 1 SIGNI on your field, and it gets [Lancer] until end of turn.
-[On-Play] {1}: This LRIG gets "[Constant]: Your opponent cannot attack with SIGNI on their center SIGNI Zone" until end of turn.</text>
+[On-Play] {1}: This LRIG gets "[Constant]: Your opponent cannot attack with SIGNI on their center SIGNI Zone" until the end of your opponent's next turn.</text>
 		</card>
 		<card>
 			<name>Sanga, VOGUE 1</name>
@@ -61717,7 +61779,7 @@ Put 2 Devil SIGNI on your field into the trash. If you do, you get the following
 		<card>
 			<name>Gigas, Magnanimous Giant</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX2/WXEX2-81.jpg">WXEX2</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Image Spirit: Angel - Tawil Limited</type>
@@ -61946,7 +62008,7 @@ Put 2 Devil SIGNI on your field into the trash. If you do, you get the following
 		<card>
 			<name>Liwat=Ener, Messenger Prolonged of Life (WXEX2)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX2/WXEX2-98.jpg">WXEX2</set>
-			<color />
+			<color></color>
 			<manacost>5 - 0</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - Tawil</type>
@@ -62158,7 +62220,7 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP02/SP02-018.jpg">SP02</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP03/SP03-017.jpg">SP03</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP07/SP07-018.jpg">SP07</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -62174,7 +62236,7 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP01/SP01-019.jpg">SP01</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP02/SP02-019.jpg">SP02</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP03/SP03-018.jpg">SP03</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -62579,7 +62641,7 @@ Choose one:
 		<card>
 			<name>Recalled Blessing (SP03)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP03/SP03-020.jpg">SP03</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SPELL|LB</type>
@@ -62939,7 +63001,7 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 		<card>
 			<name>Servant Q (SP06)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP06/SP06-018.jpg">SP06</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -62954,7 +63016,7 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 			<name>Servant O2 (SP06)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP06/SP06-019.jpg">SP06</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP07/SP07-019.jpg">SP07</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -63859,7 +63921,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 SIGNI on your oppo
 		<card>
 			<name>Selector (SP15A)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-001.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63871,7 +63933,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15B)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-002.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63883,7 +63945,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15C)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-003.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63895,7 +63957,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15D)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-004.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63907,7 +63969,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15E)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-005.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63919,7 +63981,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15F)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-006.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63931,7 +63993,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15G)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-007.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63943,7 +64005,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15H)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-008.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63955,7 +64017,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15I)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-009.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -63967,7 +64029,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 		<card>
 			<name>Selector (SP15J)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP15/SP15-010.jpg">SP15</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -64457,7 +64519,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP22/SP22-002.jpg">SP22</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-112.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-093.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -64473,7 +64535,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP22/SP22-003.jpg">SP22</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-113.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-094.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -64489,7 +64551,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP22/SP22-004.jpg">SP22</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-114.jpg">WXK01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-095.jpg">WXK07</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -64669,7 +64731,7 @@ Search your deck for 1 Cooking SIGNI and put it onto your field. Its [On-Play] a
 		<card>
 			<name>Crisis Chance (SP25A)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP25/SP25-001.jpg">SP25</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -64681,7 +64743,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>Crisis Chance (SP25B)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP25/SP25-002.jpg">SP25</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -64693,7 +64755,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>Crisis Chance (SP25C)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP25/SP25-003.jpg">SP25</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -64705,7 +64767,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 		<card>
 			<name>Crisis Chance (SP25D)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP25/SP25-004.jpg">SP25</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -65236,7 +65298,7 @@ Choose one:
 		<card>
 			<name>Servant T3 (SP31)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP31/SP31-006.jpg">SP31</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -65649,7 +65711,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant Q (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-025.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -65663,7 +65725,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant Q3 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-026.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -65677,7 +65739,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant Q2 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-027.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -65689,7 +65751,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant T (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-028.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -65703,7 +65765,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant T3 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-029.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -65717,7 +65779,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant T2 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-030.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -65729,7 +65791,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant D (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-031.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -65743,7 +65805,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant D3 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-032.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -65757,7 +65819,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant D2 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-033.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -65769,7 +65831,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant O (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-034.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -65783,7 +65845,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant O3 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-035.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -65797,7 +65859,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Servant O2 (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-036.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -65809,7 +65871,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>The Spinner (SP32)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP32/SP32-037.jpg">SP32</set>
-			<color />
+			<color></color>
 			<manacost>5 - 5</manacost>
 			<cmc>5</cmc>
 			<type>LRIG - ?</type>
@@ -66497,7 +66559,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Eternal (SP35)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP35/SP35-009.jpg">SP35</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -66596,7 +66658,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Aya! 0 (SP35)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP35/SP35-018.jpg">SP35</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Aya</type>
@@ -66706,7 +66768,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 		<card>
 			<name>Liwat=Noll, Closed Messenger (SP35)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP35/SP35-028.jpg">SP35</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Tawil</type>
@@ -66732,7 +66794,7 @@ You cannot lose the game this turn. Exclude this card from the game.</text>
 		<card>
 			<name>Servant Q3 (SP36)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP36/SP36-002.jpg">SP36</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -66746,7 +66808,7 @@ You cannot lose the game this turn. Exclude this card from the game.</text>
 		<card>
 			<name>Servant T3 (SP36)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP36/SP36-003.jpg">SP36</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -66760,7 +66822,7 @@ You cannot lose the game this turn. Exclude this card from the game.</text>
 		<card>
 			<name>Servant D3 (SP36)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP36/SP36-004.jpg">SP36</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -66774,7 +66836,7 @@ You cannot lose the game this turn. Exclude this card from the game.</text>
 		<card>
 			<name>Servant O3 (SP36)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SP36/SP36-005.jpg">SP36</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -67207,7 +67269,7 @@ Choose one:
 		<card>
 			<name>Eternal (SPK02)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK02/SPK02-08A.jpg">SPK02</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -67428,7 +67490,7 @@ Choose one:
 		<card>
 			<name>Eternal (SPK04)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK04/SPK04-09.jpg">SPK04</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -67954,7 +68016,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Eternal (SPK08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK08/SPK08-09.jpg">SPK08</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Etermal (KS)</type>
@@ -68087,7 +68149,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Eternal (SPK09)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK09/SPK09-09.jpg">SPK09</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Etermal (KS)</type>
@@ -68132,7 +68194,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant Q4 (SPK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK10/SPK10-01-T.jpg">SPK10</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68146,7 +68208,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant T4 (SPK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK10/SPK10-02-T.jpg">SPK10</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68160,7 +68222,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant D4 (SPK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK10/SPK10-03-T.jpg">SPK10</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68174,7 +68236,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant O4 (SPK10)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK10/SPK10-04-T.jpg">SPK10</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68189,7 +68251,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant Q4 (SPK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-01-A1.jpg">SPK11</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68203,7 +68265,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant T4 (SPK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-02-A1.jpg">SPK11</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68217,7 +68279,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant D4 (SPK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-03-A1.jpg">SPK11</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68231,7 +68293,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Servant O4 (SPK11)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-04-A1.jpg">SPK11</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -68346,7 +68408,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>5th Anniversary Thank You! (SPK14)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK14/SPK14-06.jpg">SPK14</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - (KS)</type>
@@ -68358,7 +68420,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Eternal (SPK15)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK15/SPK15-01.jpg">SPK15</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -68480,7 +68542,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Eternal (SPK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK16/SPK16-2C.jpg">SPK16</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -68557,7 +68619,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 		<card>
 			<name>Next Ready (SPK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK16/SPK16-5A.jpg">SPK16</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL - (KS)</type>
@@ -68646,7 +68708,7 @@ During your opponent's next turn, your opponent cannot put SIGNI with 12000 powe
 		<card>
 			<name>Penalty Chance (SPK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK16/SPK16-7B.jpg">SPK16</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -68771,7 +68833,7 @@ Banish 1 SIGNI on your opponent's field. </text>
 		<card>
 			<name>By the Way (SPK16)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK16/SPK16-10A.jpg">SPK16</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -68811,7 +68873,7 @@ Choose up to two:
 		<card>
 			<name>Double Chakram (SPK16)</name>
 			<set picURL="">SPK16</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS - (KS)</type>
@@ -69057,7 +69119,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 		<card>
 			<name>Eternal (SPK22)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK22/SPK22-01.jpg">SPK22</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -69419,11 +69481,11 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		
-		<!-- SPDi-01 -->
+		<!-- SPDi01 -->
 
 		<card>
-			<name>At=Noll, Spinning Door (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-01.jpg">SPDi-01</set>
+			<name>At=Noll, Spinning Door (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-01.jpg">SPDi01</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69433,8 +69495,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Tawil=Noll, the Awakened (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-02.jpg">SPDi-01</set>
+			<name>Tawil=Noll, the Awakened (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-02.jpg">SPDi01</set>
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69444,8 +69506,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Umr=Noll, Wielder of the Key of Performing Salvation (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-03.jpg">SPDi-01</set>
+			<name>Umr=Noll, Wielder of the Key of Performing Salvation (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-03.jpg">SPDi01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69455,8 +69517,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Lize Level 0 (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-04.jpg">SPDi-01</set>
+			<name>Lize Level 0 (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-04.jpg">SPDi01</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69466,8 +69528,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Ange Level 0 (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-05.jpg">SPDi-01</set>
+			<name>Ange Level 0 (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-05.jpg">SPDi01</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69477,8 +69539,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Toko Level 0 (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-06.jpg">SPDi-01</set>
+			<name>Toko Level 0 (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-06.jpg">SPDi01</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69488,8 +69550,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Hirana, One Step Towards the Fragment (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-07.jpg">SPDi-01</set>
+			<name>Hirana, One Step Towards the Fragment (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-07.jpg">SPDi01</set>
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69499,8 +69561,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards the Future (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-08.jpg">SPDi-01</set>
+			<name>Akino, Advancing Towards the Future (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-08.jpg">SPDi01</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69510,8 +69572,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Rei, Soaring Towards Tomorrow (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-09.jpg">SPDi-01</set>
+			<name>Rei, Soaring Towards Tomorrow (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-09.jpg">SPDi01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69521,8 +69583,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>MC.LION - standby (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-10.jpg">SPDi-01</set>
+			<name>MC.LION - standby (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-10.jpg">SPDi01</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69532,8 +69594,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>DJ.LOVIT - standby (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-11.jpg">SPDi-01</set>
+			<name>DJ.LOVIT - standby (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-11.jpg">SPDi01</set>
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69543,8 +69605,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>VJ.WOLF - standby (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-12.jpg">SPDi-01</set>
+			<name>VJ.WOLF - standby (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-12.jpg">SPDi01</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69554,8 +69616,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Dr. Tamago, Newborn (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-13.jpg">SPDi-01</set>
+			<name>Dr. Tamago, Newborn (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-13.jpg">SPDi01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69565,8 +69627,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Nova, Newborn (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-14.jpg">SPDi-01</set>
+			<name>Nova, Newborn (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-14.jpg">SPDi01</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69576,8 +69638,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Bang, Newborn (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-15.jpg">SPDi-01</set>
+			<name>Bang, Newborn (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-15.jpg">SPDi01</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69587,8 +69649,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Muzica START (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-16.jpg">SPDi-01</set>
+			<name>Muzica START (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-16.jpg">SPDi01</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69598,8 +69660,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Madoka START (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-17.jpg">SPDi-01</set>
+			<name>Madoka START (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-17.jpg">SPDi01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69609,8 +69671,8 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Sanga START (SPDi-01)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-18.jpg">SPDi-01</set>
+			<name>Sanga START (SPDi01)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-18.jpg">SPDi01</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -69619,7 +69681,557 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<tablerow>0</tablerow>
 			<text></text>
 		</card>
+		<card>
+			<name>Ex Zero (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Ex [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Deus Zero (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Machina Zero (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Machina [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Code Art F Lashli (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>W</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Machine Performer: Electric Machine (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Auto]: When this SIGNI attacks, look at the top 3 cards of your deck. Reveal 1 SPELL from among them and add it to your hand, then put the rest on the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Shark Spear, Azure Devil (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>U</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI - Image Performer: Devil (DS)</type>
+			<pt>3000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down}: Put the top 3 cards of your deck into the trash, then if there are 20 or more cards in your trash, you may pay {2}. If you do, target 1 Devil SIGNI in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Germanium, Natural Source (SPDi01)</name>
+			<set picURL="">SPDi01</set>
+			<color>G</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Nature Performer: Atom (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[On-Play] {3}: If 3 or more colors of cards were put into the trash to pay for this ability's cost, target 1 SIGNI on your opponent's field with 12000 power or higher, and banish it. (Colorless is not a color.)
 
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and banish it.
+= [Ener Charge 1]</text>
+		</card>
+		
+		<!-- SPDi01S -->
+		
+		<card>
+			<name>At=Noll, Spinning Door (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - At [Ancient Surprise] (DS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Lize Level 0 (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Lize [Sanbaka] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rei, Soaring Towards Tomorrow (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Rei [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>DJ.LOVIT - standby (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - LOVIT [Card Jockey] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Dr. Tamago, Newborn (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Muzica START (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Muzica [DIAGRAM] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards the Future (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Deus Zero (SPDi01S)</name>
+			<set picURL="">SPDi01S</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Deus [Deus Ex Machina] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi02 -->
+		
+		<card>
+			<name>Umr=Noll, Wielder of the Key of Performing Salvation (SPDi02)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi02/SPDi02-01.jpg">SPDi02</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Umr [Ancient Surprise] (DS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Lize (SPDi02)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi02/SPDi02-02.jpg">SPDi02</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Lize [Sanbaka] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Servant # (SPDi02)</name>
+			<set picURL="">SPDi02</set>
+			<color></color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>SIGNI|LB - Origin Performer (DS)</type>
+			<pt>1000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]: [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Hirana, One Step Towards the Fragment (SPDi02)</name>
+			<set picURL="">SPDi02</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards the Future (SPDi02)</name>
+			<set picURL="">SPDi02</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi03 -->
+		
+		<card>
+			<name>Hirana (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Akino (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rei (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Rei [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>LION (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - LION [Card Jockey] (DS)</type> 
+			<loyalty></loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>LOVIT (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - LOVIT [Card Jockey] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>WOLF (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - WOLF [Card Jockey] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Tamago (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Nova (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Nova [Universe's Beginning] (DS)</type>   
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Bang (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Bang [Universe's Beginning] (DS)</type>   
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Muzica (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Muzica [DIAGRAM] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Madoka (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Madoka [DIAGRAM] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Sanga (SPDi03)</name>
+			<set picURL="">SPDi03</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Sanga [DIAGRAM] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi04 -->
+		
+		<card>
+			<name>Hirana, One Step Towards the Fragment (SPDi04)</name>
+			<set picURL="">SPDi04</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards the Future (SPDi04)</name>
+			<set picURL="">SPDi04</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rei, Soaring Towards Tomorrow (SPDi04)</name>
+			<set picURL="">SPDi04</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Rei [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi05 -->
+		
+		<card>
+			<name>At=Noll, Spinning Door (SPDi05)</name>
+			<set picURL="">SPDi05</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - At [Ancient Surprise] (DS)</type>
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Hirana, One Step Towards the Fragment (SPDi05)</name>
+			<set picURL="">SPDi05</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>MC.LION - standby (SPDi05)</name>
+			<set picURL="">SPDi05</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - LION [Card Jockey] (DS)</type> 
+			<loyalty></loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Dr. Tamago, Newborn (SPDi05)</name>
+			<set picURL="">SPDi05</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Muzica START (SPDi05)</name>
+			<set picURL="">SPDi05</set>
+			<color>B</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Muzica [DIAGRAM] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi06 -->
+		
+		<card>
+			<name>Hirana, One Step Towards the Fragment (SPDi06)</name>
+			<set picURL="">SPDi06</set>
+			<color>R</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards the Future (SPDi06)</name>
+			<set picURL="">SPDi06</set>
+			<color>W</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Rei, Soaring Towards Tomorrow (SPDi06)</name>
+			<set picURL="">SPDi06</set>
+			<color>U</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - Rei [No Limit] (DS)</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		
+		<!-- SPDi07 -->
+		
+		<!-- SPDi08S -->
+		
+		<card>
+			<name>Arcgain, Holy Angel Princess (SPDi08S)</name>
+			<set picURL="">SPDi08S</set>
+			<color>W</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>SIGNI|LB - Image Performer: Angel (DS)</type>
+			<pt>12000/*</pt>
+			<tablerow>2</tablerow>
+			<text>[Constant]: This SIGNI gets [Shadow] during your opponent's turn. (SIGNI with [Shadow] cannot be targeted by your opponent's effects.)
+[On-Play] {W}: Look at the top 3 cards of your deck. Reveal 1 SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and return it to its owner's hand.
+= Draw 1 card.</text>
+		</card>
+		
+		<!-- SPDi09 -->
+		
+		<card>
+			<name>Hirana, One Step Towards the Top (SPDi09)</name>
+			<set picURL="">SPDi09</set>
+			<color>R</color>
+			<manacost>3 - RR</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Hirana [No Limit] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Team Constant]: Attacking SIGNI on your field get +2000 power.
+[On-Play]: Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] {0}: This LRIG gets "[Auto]: When this LRIG attacks, you may down 2 upped LRIGs on your field. If you do, damage your opponent unless they discard 1 card with [Guard] from their hand."</text>
+		</card>
+		<card>
+			<name>Akino, Advancing Towards Courage (SPDi09)</name>
+			<set picURL="">SPDi09</set>
+			<color>W</color>
+			<manacost>3 - WW</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Akino [No Limit] (DS)</type>
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Team Constant]: The SIGNI on your center SIGNI Zone gets +2000 power during your opponent's turn.
+[On-Play]: Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] Down 2 upped LRIGs on your field: Target up to 2 SIGNI on your opponent's field, and you may discard 1 card with [Guard] from your hand. If you do, return those SIGNI to their owners' hands.</text>
+		</card>
+		<card>
+			<name>Rei, Soaring Towards Supremacy (SPDi09)</name>
+			<set picURL="">SPDi09</set>
+			<color>U</color>
+			<manacost>3 - UU</manacost>
+			<cmc>3</cmc>
+			<type>LRIG - Rei [No Limit] (DS)</type> 
+			<loyalty>6</loyalty>
+			<tablerow>0</tablerow>
+			<text>[Team Auto]: At the beginning of your Attack Phase, if you drew 2 or more cards by your effects this turn, target 1 level 2 or lower SIGNI, and you may pay {1}{U}. If you do, put that SIGNI on the bottom of its owner's deck.
+[On-Play]: Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] Down 2 upped level 2 LRIGs on your field: Discard all cards from your hand. Your opponent discards cards from their hand equal to the number of blue cards you discarded this way.</text>
+		</card>
+		
 		<!-- PR -->
 		
 		<card>
@@ -69845,7 +70457,7 @@ Cancel the effect of 1 SPELL being played.</text>
 		<card>
 			<name>Charging (PR24)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-024.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -70094,7 +70706,7 @@ Choose one:
 		<card>
 			<name>Next Ready (PR55)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-055.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL - (KS)</type>
@@ -70131,7 +70743,7 @@ When you refresh your deck, if it is your first refresh this turn, crush 1 of yo
 		<card>
 			<name>Salvage (PR58)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-058.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -70343,7 +70955,7 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 		<card>
 			<name>Servant O (PR92)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-092.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -70425,7 +71037,7 @@ During your opponent's next turn, your opponent cannot put SIGNI with 12000 powe
 		<card>
 			<name>Jetting Knowledge (PR99)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-099.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc />
 			<type>SPELL|LB</type>
@@ -70490,7 +71102,7 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 		<card>
 			<name>Spell Salvage (PR104)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-104.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -70575,7 +71187,7 @@ Choose one:
 		<card>
 			<name>Servant Q (PR116)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-116.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -70589,7 +71201,7 @@ Choose one:
 		<card>
 			<name>Servant T (PR117)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-117.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -70603,7 +71215,7 @@ Choose one:
 		<card>
 			<name>Servant D (PR118)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-118.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -70617,7 +71229,7 @@ Choose one:
 		<card>
 			<name>Doping (PR119)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-119.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -70629,7 +71241,7 @@ Choose one:
 		<card>
 			<name>Rainbow Art (PR120)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-120.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1RUG</manacost>
 			<cmc>4</cmc>
 			<type>ARTS</type>
@@ -70666,7 +71278,7 @@ The next white SPELL you use this turn costs {W}{W} less and cannot be canceled 
 		<card>
 			<name>Oversalvage (PR135)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-135.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>ARTS</type>
@@ -70847,7 +71459,7 @@ Put up to 2 RESONA from your LRIG Deck onto your field, ignoring their (Play Con
 		<card>
 			<name>Lucky Guard (PR155)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-155.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -70949,7 +71561,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		<card>
 			<name>infected WIXOSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-164.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -70960,7 +71572,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		<card>
 			<name>spread WIXOSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-165.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -70971,7 +71583,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		<card>
 			<name>comics WIXOSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-166.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -70982,7 +71594,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		<card>
 			<name>original WIXOSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-167.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -71014,7 +71626,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		</card>
 		<card>
 			<name>Tawil (PR170)</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-170.jpg">PR</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-171.jpg">PR</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -71025,7 +71637,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 		</card>
 		<card>
 			<name>Umr (PR171)</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-171.jpg">PR</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-170.jpg">PR</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -71306,7 +71918,7 @@ Put up to 2 cards from your opponent's Ener Zone into the trash. </text>
 		<card>
 			<name>Furious Gambling (PR201)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-201.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SPELL</type>
@@ -71338,7 +71950,7 @@ Put up to 2 cards from your opponent's Ener Zone into the trash. </text>
 		</card>
 		<card>
 			<name>Arc Destruct</name>
-			<set picURL="">PR</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-204.jpg">PR</set>
 			<color>W</color>
 			<manacost>2W</manacost>
 			<cmc>3</cmc>
@@ -71409,7 +72021,7 @@ If there are 0 SIGNI on your field, put 3 SIGNI from your trash onto your field.
 		<card>
 			<name>Crossroad (PR211)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-211.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -71609,7 +72221,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 		<card>
 			<name>Tama and Urith</name>
 			<set picURL="">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -71620,7 +72232,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 		<card>
 			<name>Hanayo and Yuzuki</name>
 			<set picURL="">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -71631,7 +72243,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 		<card>
 			<name>Piruluk and Midoriko</name>
 			<set picURL="">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -71884,7 +72496,7 @@ Choose one:
 		<card>
 			<name>stirred WIXOSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-267.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -71906,7 +72518,7 @@ Choose one:
 		<card>
 			<name>Servant Q2 (PR269)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-269.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -71918,7 +72530,7 @@ Choose one:
 		<card>
 			<name>Servant T2 (PR270)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-270.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -71930,7 +72542,7 @@ Choose one:
 		<card>
 			<name>Servant D2 (PR271)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-271.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -71942,7 +72554,7 @@ Choose one:
 		<card>
 			<name>Servant O2 (PR272)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-272.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -72070,7 +72682,7 @@ Choose one:
 		<card>
 			<name>Pure Treasured Sword (PR284)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-284.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL</type>
@@ -72085,7 +72697,7 @@ Choose one:
 		<card>
 			<name>Gathering Protection (PR285)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-285.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>7</manacost>
 			<cmc>7</cmc>
 			<type>SPELL</type>
@@ -72293,7 +72905,7 @@ Search your deck for up to 2 Labyrinth SIGNI, reveal them, then add them to your
 		<card>
 			<name>Revival Exceed (PR307)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-307.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -72346,7 +72958,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 		<card>
 			<name>Next Ready (PR314)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-314.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL - (KS)</type>
@@ -72374,7 +72986,7 @@ Choose one:
 		<card>
 			<name>Succeed Destruct (PR317)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-317.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -72389,7 +73001,7 @@ Your LRIG gets these abilities until end of turn:
 		<card>
 			<name>Spinning Knowledge</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-318.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
@@ -72428,7 +73040,7 @@ Your LRIG gets these abilities until end of turn:
 		<card>
 			<name>Crisis Chance (PR321)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-321.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -72565,7 +73177,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 		<card>
 			<name>Servant Q3 (PR336)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-336.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -72579,7 +73191,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 		<card>
 			<name>Servant T3 (PR337)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-337.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -72593,7 +73205,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 		<card>
 			<name>Servant D3 (PR338)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-338.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -72607,7 +73219,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 		<card>
 			<name>Servant O3 (PR339)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-339.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -72709,7 +73321,7 @@ Banish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 		<card>
 			<name>Invest Charging (PR348)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-348.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -72722,7 +73334,7 @@ Put the top card of your deck into your Ener Zone. If you bet, put the top 2 car
 		<card>
 			<name>More Coin Salvage (PR349)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-349.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -72886,7 +73498,7 @@ If you paid an additional {B} as you used this ARTS, put 1 SIGNI that is 1 level
 		<card>
 			<name>Selector (PR365)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-365.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS</type>
@@ -72964,7 +73576,7 @@ Put 1 black SIGNI from your trash onto your field. If you bet, put 2 black SIGNI
 		<card>
 			<name>Double Chakram (PR371)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-371.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS - (KS)</type>
@@ -73024,7 +73636,7 @@ Choose one:
 			<name>Selecting Story</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-378.jpg">PR</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX1/WXEX1-81Re.jpg">WXEX1</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL</type>
@@ -73072,7 +73684,7 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 		<card>
 			<name>Servant D (PR382)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-382.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73086,7 +73698,7 @@ All SIGNI on your opponent's field get −7000 power until end of turn. If you b
 		<card>
 			<name>Servant O (PR383)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-383.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73164,7 +73776,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 		<card>
 			<name>JOURNEY LRIG</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-389.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -73530,7 +74142,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 		<card>
 			<name>Servant A</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-431.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin SPirit</type>
@@ -73568,7 +74180,7 @@ You may use 1 ARTS in your opponent's LRIG Trash as if it was in your LRIG deck 
 		<card>
 			<name>Confusing Reason (PR434)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-434.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
@@ -73580,7 +74192,7 @@ You may use 1 ARTS in your opponent's LRIG Trash as if it was in your LRIG deck 
 		<card>
 			<name>Confusing Reason (PR435)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-435.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
@@ -73592,7 +74204,7 @@ You may use 1 ARTS in your opponent's LRIG Trash as if it was in your LRIG deck 
 		<card>
 			<name>Double Chakram (PR436)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-436.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS - (KS)</type>
@@ -73631,7 +74243,7 @@ Choose one:
 		<card>
 			<name>Satisfaction (PR439)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-439.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>6</manacost>
 			<cmc>6</cmc>
 			<type>ARTS</type>
@@ -73648,7 +74260,7 @@ Choose up to two:
 		<card>
 			<name>Blank Card</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-440.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG</type>
@@ -73659,7 +74271,7 @@ Choose up to two:
 		<card>
 			<name>Liwat=Noll, Closed Messenger (PR441)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-441.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Tawil</type>
@@ -73771,7 +74383,7 @@ Choose up to two:
 		<card>
 			<name>Servant O2 (PR449)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-449.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -73783,7 +74395,7 @@ Choose up to two:
 		<card>
 			<name>Servant O (PR450)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-450.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73797,7 +74409,7 @@ Choose up to two:
 		<card>
 			<name>Servant O3 (PR451)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-451.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit</type>
@@ -73822,7 +74434,7 @@ Choose up to two:
 		<card>
 			<name>Servant O (PR453)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-453.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73836,7 +74448,7 @@ Choose up to two:
 		<card>
 			<name>Servant D (PR454)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-454.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73850,7 +74462,7 @@ Choose up to two:
 		<card>
 			<name>Servant T (PR456)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-455.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI|LB - Origin Spirit (KS)</type>
@@ -73907,7 +74519,7 @@ Add the top card of your deck to your Life Cloth. </text>
 		<card>
 			<name>Try Luck (PR459A)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459A.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -73925,7 +74537,7 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 		<card>
 			<name>Try Luck (PR459B)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459B.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -73943,7 +74555,7 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 		<card>
 			<name>Try Luck (PR459C)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459C.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -73961,7 +74573,7 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 		<card>
 			<name>Try Luck (PR459D)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459D.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -73979,7 +74591,7 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 		<card>
 			<name>Try Luck (PR459E)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459E.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -73997,7 +74609,7 @@ Choose 1 card from your opponent's hand without looking, and your opponent revea
 		<card>
 			<name>Try Luck (PR459F)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-459F.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -74042,7 +74654,7 @@ Your opponent's LRIG gets "This LRIG cannot attack." until end of turn. 1 SIGNI 
 		<card>
 			<name>Angel Awake (PR462)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-462.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SPELL</type>
@@ -74052,7 +74664,7 @@ Your opponent's LRIG gets "This LRIG cannot attack." until end of turn. 1 SIGNI 
 		<card>
 			<name>Counter Vamp</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-463.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS</type>
@@ -74417,7 +75029,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 		<card>
 			<name>Eternal Key, LRIG of the Beginning</name>
 			<set picURL="">PR</set>
-			<color />
+			<color></color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
 			<type>KEY - (KS)</type>
@@ -74429,7 +75041,7 @@ Put 1 SIGNI on your field into the trash. If you do, banish 1 level 4 or lower S
 		<card>
 			<name>Next Ready (PR-K20)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K020.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>SPELL - (KS)</type>
@@ -74479,7 +75091,7 @@ Draw 4 cards.</text>
 		<card>
 			<name>Phantom Garden (PR-K024)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K024.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>ARTS - (KS)</type>
@@ -74573,7 +75185,7 @@ Discard up to 3 SIGNI with different levels from your hand. For each SIGNI disca
 		<card>
 			<name>Become You (PR-K032)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K032.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>ARTS - (KS)</type>
@@ -74587,7 +75199,7 @@ Choose one:
 		<card>
 			<name>Eternal (PR-K033)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K033.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - Eternal (KS)</type>
@@ -74733,7 +75345,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Don't Leave Me (PR-K045)</name>
-			<set picURL="">PR</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K045.jpg">PR</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<cmc>1</cmc>
@@ -74747,7 +75359,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 		<card>
 			<name>Yulia Shardet</name>
 			<set picURL="">PR</set>
-			<color />
+			<color></color>
 			<manacost>1 Coin</manacost>
 			<cmc>0</cmc>
 			<type>KEY - (KS)</type>
@@ -74758,7 +75370,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 		<card>
 			<name>5th Anniversary Thank You!</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K047.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - (KS)</type>
@@ -74795,7 +75407,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 2 SIGNI on your opponent
 		<card>
 			<name>Men Who Created WIXOSS</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K050.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
 			<type>LRIG - (KS)</type>
@@ -75073,7 +75685,7 @@ Choose one. If you bet, choose two instead:
 		<card>
 			<name>Servant O2 (PR-K074)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K074.jpg">PR</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit (KS)</type>
@@ -75124,7 +75736,7 @@ Choose one. If you bet, choose two instead:
 		</card>
 		<card>
 			<name>Airi, Netherworld of Flame Demons</name>
-			<set picURL="">PR</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K078.jpg">PR</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -75136,11 +75748,38 @@ Choose one. If you bet, choose two instead:
 
 [Life Burst]: Add 1 Devil SIGNI or 1 level 3 or lower SIGNI from your trash to your hand.</text>
 		</card>
+		<card>
+			<name>At (PR-K079)</name>
+			<set picURL="">PR</set>
+			<color>G</color>
+			<manacost>0 - 0</manacost>
+			<cmc>0</cmc>
+			<type>LRIG - At</type> 
+			<loyalty>0</loyalty>
+			<tablerow>0</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>The Law, Crossbow Book (PR-K080)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-K080.jpg">PR</set>
+			<color>B</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>SIGNI|LB - War Spirit: Weapon - (KS)</type>
+			<pt>13000/*</pt>
+			<tablerow>2</tablerow>
+			<text>(Rise) 2 SIGNI (This SIGNI cannot be put onto your field unless you put 2 SIGNI on your field onto the same SIGNI Zone either one of them was on then putting this SIGNI on top of them.)
+			
+[Action] [Attack Phase] Put 1 card from under this SIGNI into the trash: 1 SIGNI on your opponent's field gets −4000 power until end of turn.
+[Action] [1/Turn] {1}: Add 1 SIGNI from your trash to your hand.
+
+[Life Burst]: Add 1 SIGNI from your trash to your hand.</text>
+		</card>
 		<!-- Other -->
 		<card>
 			<name>Servant ZERO</name>
 			<set picURL="">token</set>
-			<color />
+			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Origin Spirit</type>
