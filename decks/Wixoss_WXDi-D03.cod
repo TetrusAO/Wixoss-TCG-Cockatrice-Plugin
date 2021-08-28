@@ -22,9 +22,9 @@
         <card number="1" name="Akino, Advancing Towards the Future"/>
         <card number="1" name="Rei, Soaring Towards Tomorrow"/>
         <card number="1" name="Glory Grow"/>
-        <card number="1" name="Akino∗Rock"/>
-        <card number="1" name="Akino∗Paper"/>
-        <card number="1" name="Rei∗One Cut"/>
-        <card number="1" name="Rei∗Selfless Cut"/>
+        <card number="1" name="Akino＊Rock"/>
+        <card number="1" name="Akino＊Paper"/>
+        <card number="1" name="Rei＊One Cut"/>
+        <card number="1" name="Rei＊Selfless Cut"/>
     </zone>
 </cockatrice_deck>
