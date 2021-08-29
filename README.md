@@ -1,5 +1,7 @@
 # Wixoss-TCG-Cockatrice-Plugin
 
+**AS OF the WXDi-P05 CURIOSITY DIVA UPDATE, YOU NO LONGER NEED TO FULLY REDOWNLOAD THIS PLUGIN TO UPDATE YOUR COCKATRICE PROGRAM. SCROLL DOWN TO THE SECTION NAMED "FOR UPDATES FROM WXDI-P05 ONWARD" FOR MORE INFO**
+
 Welcome, and thank you for downloading this package for Wixoss TCG. This download contains everything you need to add this game to your Cockatrice program, along with some extra files to help newer players ease themselves into this amazing game.
 
 **First, a disclaimer:**
@@ -14,7 +16,7 @@ I do not own anything related to the Wixoss franchise, including its anime serie
 
 3. Move back a folder from the customsets folder.  You should then see the customsets folder itself along with a number of other folders, including ones named pics and themes.
 
-4. Move the customsets, pics, and themes folders from this download into that Cockatrice folder.  If it asks you if you want to merge the contents, say yes.
+4. Move the **customsets folder only** from this download into that Cockatrice folder.  If it asks you if you want to merge the contents, say yes.
 
 5. Restart the Cockatrice program.  Once the program reloads, it should notify you of new sets being added to it and will ask if you want to enable those sets.  Say yes.
 
@@ -52,6 +54,17 @@ This method is best for completely removing the MTG database from Cockatrice.  G
 -- **OPTIONAL:  Change the theme to the Wixoss TCG theme** --
 
 After successfully following through the previous steps above, go to (Cockatrice -> Settings -> Appearance). There should be a dropdown menu among its options there that will let you change the in-client theme to the Wixoss theme, featuring the game's main deck card back and a hand icon along with it.
+
+-- **FOR NEW UPDATES FROM WXI-05 ONWARD**
+
+Due to additional efforts to optimize the database for my friend's Discord bot to handle, a bunch of internal adjustments were made to the .xml file.  This is actually great news for regular users, as now a nice portion of the updating tedium is removed.
+
+From now on, starting with the WXi-05 update, users no longer have to redownload the whole plugin hosted here to update their Cockactrice. Instead, they only need to download the .xml file itself named Wixoss TCG.xml. This is the only file users have to replace their old .xml with from now on. No more additional images or other steps! But for the best performance of this new update process, do the following for only the **FIRST TIME** you update to WXi-05 or newer:
+
+1. In Cockatrice, go to Card Database -> Open Custom Image Folder. You should see a CUSTOM and downloadedPics folder inside.
+2. Completely delete both of those folders. That's right, you don't need those things anymore. The downloadedPics folder will be remade upon looking up cards in the client again, but this is to clear older downloaded images with new ones.
+
+That's all. Your new database is now cleaned up and at its best performance. Enjoy!
 
 -- **Some useful functions to help operate Wixoss TCG on Cockatrice** --
 
