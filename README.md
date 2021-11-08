@@ -1,7 +1,5 @@
 # Wixoss-TCG-Cockatrice-Plugin
 
-**AS OF the WXDi-P05 CURIOSITY DIVA UPDATE, YOU NO LONGER NEED TO FULLY REDOWNLOAD THIS PLUGIN TO UPDATE YOUR COCKATRICE PROGRAM. SCROLL DOWN TO THE SECTION NAMED "FOR UPDATES FROM WXDI-P05 ONWARD" FOR MORE INFO**
-
 Welcome, and thank you for downloading this package for Wixoss TCG. This download contains everything you need to add this game to your Cockatrice program, along with some extra files to help newer players ease themselves into this amazing game.
 
 **First, a disclaimer:**
@@ -10,61 +8,33 @@ I do not own anything related to the Wixoss franchise, including its anime serie
 
 **Now, let’s help you add this game to [Cockatrice](https://cockatrice.github.io/):**
 
-1. Open your Cockatrice program, then proceed to download its first database for MTG.
+Instructions are Windows-only and this will completely remove all Magic: the Gathering card data from the program. If you want to keep MTG around, follow the official Cockatrice Wiki [article](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) for custom set functionality, under the "to add custom sets follow these steps" section.  
 
-2. Restart the program, then go to (Card Database -> Open Custom Sets folder).  This should take you to Cockatrice's customsets folder found in your user's AppData folder.  
+1. Install Cockatrice (link above)
 
-3. Move back a folder from the customsets folder.  You should then see the customsets folder itself along with a number of other folders, including ones named pics and themes.
+2. Open Cockatrice.  If the program tells you it's going to run Oracle, let it do so.
 
-4. Move the **customsets folder only** from this download into that Cockatrice folder.  If it asks you if you want to merge the contents, say yes.
+6. In this GitHub webpage that contains the Wixoss plugin, click the "Wixoss TCG.xml" file in the file list.
 
-5. Restart the Cockatrice program.  Once the program reloads, it should notify you of new sets being added to it and will ask if you want to enable those sets.  Say yes.
+7. Right click the "Download" button, then select "Save Link As..." and save it to anywhere you can easily access later.
 
-6. Go to (Card Database -> Manage Sets) then press the OK button.  This should refresh the kinds of entries that will appear in the main list of cards on the left side of the window.
+2. Open Start Menu, type "Folder Options", then open the "File Explorer Options" program that appears.
 
-7. If you see a number of Wixoss TCG cards show up on that menu, then you have successfully added Wixoss to Cockatrice.  I hope you enjoy the game!
+3. Click the "View" tab, then under the "Hidden files and folders" section, select "Show hidden files, folders, and drives."
 
+4. Close File Explorer Options.
 
--- **OPTIONAL:  Safely removing sets/cards from MTG/other TCGs from the card list menu** --
+5. In Cockatrice, at the buttons at the top, go to Card Database -> Open custom sets folder.
 
-**Quick and easy way before moving files**: 
-1. Before moving the download's customsets folder into Cockatrice's customsets folder for merging, go open the Cockatrice program itself if it isn't open already, then enter (Card Database -> Manage Sets). There should be a large lists of sets that are enabled from MTG and other custom games you have added to Cockatrice.
+6. Move the Wixoss TCG.xml file you downloaded from this GitHub page into this folder.
 
-2. Hit "Disable all", then re-enable a single set from the menu by clicking its checkmark.  Memorize the name of the set you re-enable.
+7. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
 
-3. Now you can merge the customsets folder as mentioned before on #4 in the main directions above.
+8. Delete cards.xml
 
-4. Restart Cockatrice, then say yes to the prompt that will show up for the new Wixoss TCG setfile you added.
+9. Close Cockatrice, then reopen it. It will show a new prompt showing a bunch of sets being added and is asking if you want to enable them or not. Click yes to that.
 
-5. Enter (Card Database -> Manage Sets) again, and disable the one set you kept enabled in #2. Now the only cards that should show up on the program are Wixoss TCG cards!
-
-**Slightly less convenient way if the files were already moved**
-This method is best for completely removing the MTG database from Cockatrice.  Go with this method if you have no plans to play MTG.
-
-1. If the folders referenced in #4 in the main directions were already merged, move the cards.xml file that is seen next to all those folders to a different location on your computer. Or just delete the file, that's up to you.
-
-2. Move the Wixoss TCG.xml file that is in Cockatrice's customsets folder into the original location of the cards.xml file before you moved/deleted it.
-
-3. Rename the Wixoss TCG.xml file to cards.xml
-
-4. Restart Cockatrice, and now the program will treat your Wixoss TCG file as the main database for the program, with the original cards.xml out of sight!
-
-4a. For future updates, rename the updated Wixoss TCG.xml from the new download to cards.xml, then replace the old one you had in the Cockatrice before.
-
--- **OPTIONAL:  Change the theme to the Wixoss TCG theme** --
-
-After successfully following through the previous steps above, go to (Cockatrice -> Settings -> Appearance). There should be a dropdown menu among its options there that will let you change the in-client theme to the Wixoss theme, featuring the game's main deck card back and a hand icon along with it.
-
--- **FOR NEW UPDATES FROM WXI-05 ONWARD**
-
-Due to additional efforts to optimize the database for my friend's Discord bot to handle, a bunch of internal adjustments were made to the .xml file.  This is actually great news for regular users, as now a nice portion of the updating tedium is removed.
-
-From now on, starting with the WXi-05 update, users no longer have to redownload the whole plugin hosted here to update their Cockactrice. Instead, they only need to download the .xml file itself named Wixoss TCG.xml. This is the only file users have to replace their old .xml with from now on. No more additional images or other steps! But for the best performance of this new update process, do the following for only the **FIRST TIME** you update to WXi-05 or newer:
-
-1. In Cockatrice, go to Card Database -> Open Custom Image Folder. You should see a CUSTOM and downloadedPics folder inside.
-2. Completely delete both of those folders. That's right, you don't need those things anymore. The downloadedPics folder will be remade upon looking up cards in the client again, but this is to clear older downloaded images with new ones.
-
-That's all. Your new database is now cleaned up and at its best performance. Enjoy!
+10. Wixoss is fully added to Cockatrice. Enjoy! Here are some tips below that may help clear up some deckbuilding and gameplay confusion:
 
 -- **Some useful functions to help operate Wixoss TCG on Cockatrice** --
 
@@ -74,8 +44,14 @@ That's all. Your new database is now cleaned up and at its best performance. Enj
 
 -  Wixoss TCG is a game that uses 2 separate decks: the main deck and the LRIG Deck. The LRIG deck is accessed by looking at your sideboard ingame through pressing Ctrl+F3. Double click any card in the LRIG deck to directly place it on the bottom row of your field. When a card is to return to the LRIG deck for any reason, open up the sideboard window and drag the specific card back into that window.
 
--  Adding cards to your LRIG Deck in the Deck Edit screen is done by holding the Ctrl button then adding the card through your regular means. This will display as if it was added to the sideboard, but 
+-  Adding cards to your LRIG Deck in the Deck Edit screen is done by holding the Ctrl button then adding the card through your regular means. This will display as if it was added to the sideboard, but this is just general card game terminology at work.  Nothing to worry about here.
 
--  Wixoss TCG deckbuilding rules require the main deck to have exactly 20 cards with the [Life Burst] ability on them. Cockatrice does not have a function that can keep track of this for you when building your deck, so you have to count your cards correctly as you build your decks.
+-  Wixoss TCG deckbuilding rules require the main deck to have a maximum of 20 cards with the [Life Burst] ability on them. These cards are noted with the |LB tag on the card type section of each card, next to the main card type (eg SIGNI|LB).
+
+-  Assist LRIGs are also similarly marked with a LRIG|Assist tag.
+
+-  Cards that have a (KS) label on the card type section are cards only legal in Key Selection and All Star formats.  The (DS) label is for cards legal for all currently available formats.  Cards with neither of these tags are legal in All Star only.  These labels will prove very helpful in building decks for specific formats, when used with the Cockatrice database filter function.
 
 -  Any other functions that you may need to help play Wixoss TCG on Cockatrice can be found by right-clicking a card or empty area on the field or any zone available to you.
+
+-  If you have any further questions, feel free to message me on Discord.  Name is Tetrus#0297.
