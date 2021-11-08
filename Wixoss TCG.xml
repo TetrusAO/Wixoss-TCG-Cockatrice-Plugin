@@ -13433,7 +13433,7 @@ Draw 3 cards, then discard 2 cards from your hand.
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]: When this LRIG attacks, you may down two upped SIGNI on your field and pay {1}{W}. If you do, up this LRIG and it loses its abilities until end of turn.
 [Enter]: Look at the top 4 cards of your deck. Add up to 2 cards from among them to your hand, then put the rest on the bottom of your deck in any order.
-[Action] [1/Game] {0}: This LRIG gets "[Auto] [1/Turn]: When this SIGNI attacks, up all SIGNI on your field." until end of turn.</text>
+[Action] [1/Game] {0}: This LRIG gets "[Auto] [1/Turn]: When this LRIG attacks, up all SIGNI on your field." until end of turn.</text>
 		</card>
 		<card>
 			<name>Hanayo Zero (WDi-08)</name>
@@ -56558,7 +56558,7 @@ Choose one:
 			<cmc>2</cmc>
 			<type>PIECE - (DS)</type>
 			<tablerow>0</tablerow>
-			<text>Use Timing [Main Phase] [Attack Phase]
+			<text>Use Timing [Main Phase]
 			
 (Use Condition): There is a red LRIG and a blue LRIG on your field.
 
@@ -58590,7 +58590,7 @@ Draw 2 cards, then discard 1 card from your hand. If you paid an additional {Exc
 			<type>SIGNI - Idle Tone: Brave (DS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter]: When this SIGNI is placed from your field into the Ener Zone, if there are 2 or less cards in your Ener Zone, [Ener Charge 1].</text>
+			<text>[Auto]: When this SIGNI is placed from your field into the Ener Zone, if there are 2 or less cards in your Ener Zone, [Ener Charge 1].</text>
 		</card>
 		<card>
 			<name>Merli, Verdant Beauty</name>
@@ -58861,7 +58861,7 @@ Draw 2 cards. Target 1 SIGNI on your opponent's field, and put it on the bottom 
 Target 1 SIGNI on your opponent's field, and it gets -12000 power until end of turn.
 Choose one for every 10 cards in your trash:
 = Target up to 2 SIGNI in your trash that share a color with your center LRIG, and add them to your hand.
-= Put the top 10 cards of your deck into the trash.</text>
+= Put the top 10 cards of your opponent's deck into the trash.</text>
 		</card>
 		<card>
 			<name>Innocent Battle</name>
@@ -59242,7 +59242,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<type>SIGNI|LB - Idle Tone: Angel (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When this SIGNI is targeted by your opponent's ability or card effect, choose 1 SIGNI Zone on your opponent's field. Your opponent cannot attack with SIGNI on that SIGNI Zone this turn.
+			<text>[Auto] [1/Turn]: When a SIGNI on your field is targeted by your opponent's ability or card effect, choose 1 SIGNI Zone on your opponent's field. Your opponent cannot attack with SIGNI on that SIGNI Zone this turn.
 [Auto]: At the end of your turn, up all SIGNI on your field.
 
 [Life Burst]: Choose one:
@@ -59912,7 +59912,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<color>B</color>
 			<manacost>BG</manacost>
 			<cmc>2</cmc>
-			<type>SPELL - (DS)</type>
+			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
 			<text>Target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn. Target 1 SIGNI on your field, and it gets +10000 power until end of turn.
 			
@@ -60554,7 +60554,7 @@ Choose one:
 		<card>
 			<name>Tiger, Roaring Gun</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P05-041.jpg">WXi-05</set>
-			<color>R</color>
+			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - War Tone: Weapon (DS)</type>
@@ -61215,7 +61215,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]: When this LRIG attacks, you may down two upped SIGNI on your field and pay {1}{W}. If you do, up this LRIG and it loses its abilities until end of turn.
 [Enter]: Look at the top 4 cards of your deck. Add up to 2 cards from among them to your hand, then put the rest on the bottom of your deck in any order.
-[Action] [1/Game] {0}: This LRIG gets "[Auto] [1/Turn]: When this SIGNI attacks, up all SIGNI on your field." until end of turn.</text>
+[Action] [1/Game] {0}: This LRIG gets "[Auto] [1/Turn]: When this LRIG attacks, up all SIGNI on your field." until end of turn.</text>
 		</card>
 		<card>
 		<name>Entwined Supremacy</name>
@@ -61700,7 +61700,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<color>G</color>
 			<manacost>2 - 3</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Midoriko (DS)</type> 
+			<type>LRIG|Assist - Midoriko (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -61843,7 +61843,11 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a card in your Ener Zone moves to another zone by a card effect, [Ener Charge 1].
-[Enter] {W}: This SIGNI gets +2000 power and [Shadow (level 3 or higher SIGNI)] until the end of your opponent's next turn.</text>
+[Enter] {W}: This SIGNI gets +2000 power and [Shadow (level 3 or higher SIGNI)] until the end of your opponent's next turn.
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and vanish it.
+= Draw 1 card.</text>
 		</card>
 		<card>
 			<name>Anne//Memoria, Jade Beauty Queen (alt)</name>
@@ -61855,7 +61859,11 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a card in your Ener Zone moves to another zone by a card effect, [Ener Charge 1].
-[Enter] {W}: This SIGNI gets +2000 power and [Shadow (level 3 or higher SIGNI)] until the end of your opponent's next turn.</text>
+[Enter] {W}: This SIGNI gets +2000 power and [Shadow (level 3 or higher SIGNI)] until the end of your opponent's next turn.
+
+[Life Burst]: Choose one:
+= Target 1 upped SIGNI on your opponent's field, and vanish it.
+= Draw 1 card.</text>
 		</card>
 		<card>
 			<name>Lavender, Natural Plant Queen</name>
