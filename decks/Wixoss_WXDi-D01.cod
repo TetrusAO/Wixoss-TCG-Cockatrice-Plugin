@@ -3,28 +3,29 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" name="At=Noll, Spinning Door"/>
-        <card number="1" name="At=Ett, Spinning Door"/>
-        <card number="1" name="At=Två, Spinning Door"/>
-        <card number="1" name="At=Tre, Spinning Door"/>
-        <card number="1" name="Tawil=Noll, the Awakened"/>
-        <card number="1" name="Tawil=Howling"/>
-        <card number="1" name="Tawil=Colors"/>
-        <card number="1" name="Umr=Noll, Wielder of the Key of Performing Salvation"/>
-        <card number="1" name="Umr=Draw"/>
-        <card number="1" name="Umr=Down"/>
-        <card number="1" name="Harmony Call"/>
+        <card number="1" name="At =Noll=, the Opened Gate"/>
+        <card number="1" name="At =Ett=, the Opened Gate"/>
+        <card number="1" name="At =Två=, the Opened Gate"/>
+        <card number="1" name="At =Tre=, the Opened Gate"/>
+        <card number="1" name="Tawil =Noll=, Awakened One"/>
+        <card number="1" name="Tawil =Screech="/>
+        <card number="1" name="Tawil =Rainbow="/>
+        <card number="1" name="Umr =Noll=, Key to Salvation"/>
+        <card number="1" name="Umr =Draw="/>
+        <card number="1" name="Umr =Down="/>
+        <card number="1" name="Harmonic Call"/>
+        <card number="1" name="Ancient Echo"/>
     </zone>
     <zone name="main">
-        <card number="4" name="Camelopar, Natural Star"/>
-        <card number="4" name="Sen no Rikyu, Verdant General"/>
-        <card number="4" name="Zwei=Slow Loris"/>
-        <card number="4" name="Tobiel, Great Attire"/>
-        <card number="4" name="Assylen, Natural Stone"/>
-        <card number="4" name="Atalanta, Verdant Angel"/>
-        <card number="4" name="Water Buffalo, Water Phantom"/>
-        <card number="4" name="Koalara, Phantom Beast"/>
-        <card number="4" name="Servant # "/>
+        <card number="4" name="Camelopar, Natural Planet"/>
+        <card number="4" name="Sen no Rikyu, Jade General"/>
+        <card number="4" name="Zwei =Slow Loris="/>
+        <card number="4" name="Tobiel, Full Armed"/>
+        <card number="4" name="Assylen, Natural Crystal"/>
+        <card number="4" name="Atalanta, Jade Angel"/>
         <card number="4" name="Polygenesis"/>
+        <card number="4" name="Servant #"/>
+        <card number="4" name="Water Buffalo, Phantom Aquatic Beast"/>
+        <card number="4" name="Koalala, Phantom Terra Beast"/>
     </zone>
 </cockatrice_deck>
