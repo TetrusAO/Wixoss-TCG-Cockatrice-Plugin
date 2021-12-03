@@ -2723,7 +2723,7 @@ vanish 1 SIGNI on your opponent's field with power 12000 or less. </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 		
-Discard up to 2 Weapon SIGNI from your hand. vanish 1 SIGNI on your opponent's field for each SIGNI discarded this way.</text>
+Discard up to 2 Weapon SIGNI from your hand. Vanish 1 SIGNI on your opponent's field for each SIGNI discarded this way.</text>
 		</card>
 		<card>
 			<name>Crossroad</name>
@@ -9195,7 +9195,7 @@ Put 1 Aquatic Beast SIGNI from your Ener Zone onto your field. That SIGNI gets +
 			<text>Use Timing [Attack Phase]
 			
 [Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
-Reveal 1 SIGNI from your hand. vanish 1 SIGNI on your opponent's field with lower than or equal to the power of the SIGNI revealed this way. If you bet, instead put 1 SIGNI on your opponent's field with power lower than or equal to the power of the SIGNI revealed this way into the Ener Zone, then [Ener Charge 1].</text>
+Reveal 1 SIGNI from your hand. Vanish 1 SIGNI on your opponent's field with lower than or equal to the power of the SIGNI revealed this way. If you bet, instead put 1 SIGNI on your opponent's field with power lower than or equal to the power of the SIGNI revealed this way into the Ener Zone, then [Ener Charge 1].</text>
 		</card>
 		<card>
 			<name>Violent Succession</name>
@@ -11480,7 +11480,7 @@ Choose one:
 		
 		<card>
 			<name>At =Noll=, the Opened Gate</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-001.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-001.jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11491,7 +11491,7 @@ Choose one:
 		</card>
 		<card>
 			<name>At =Ett=, the Opened Gate</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-002.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-002[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11502,7 +11502,7 @@ Choose one:
 		</card>
 		<card>
 			<name>At =Två=, the Opened Gate</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-003.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-003[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>2 - G</manacost>
 			<cmc>2</cmc>
@@ -11513,7 +11513,7 @@ Choose one:
 		</card>
 		<card>
 			<name>At =Tre=, the Opened Gate</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-004.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-004[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
@@ -11525,7 +11525,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Tawil =Noll=, Awakened One</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-005.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-005[EN].jpg">WDi-01</set>
 			<color>R</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11536,7 +11536,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Tawil =Screech=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-006.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-006[EN].jpg">WDi-01</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11549,7 +11549,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Tawil =Rainbow=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-007.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-007[EN].jpg">WDi-01</set>
 			<color>R</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
@@ -11562,7 +11562,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Umr =Noll=, Key to Salvation</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-008.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-008[EN].jpg">WDi-01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11573,7 +11573,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Umr =Draw=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-009.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-009[EN].jpg">WDi-01</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11586,7 +11586,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Umr =Down=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-010.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-010[EN].jpg">WDi-01</set>
 			<color>U</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
@@ -11614,7 +11614,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Camelopar, Natural Planet</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-012.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-012[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -11625,7 +11625,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Sen no Rikyu, Jade General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-013.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-013[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -11636,7 +11636,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Zwei =Slow Loris=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-014.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-014[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -11648,7 +11648,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Tobiel, Full Armed</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-015.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-015[EN].jpg">WDi-01</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -11664,7 +11664,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Assylen, Natural Crystal</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-016.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-016[EN].jpg">WDi-01</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -11677,7 +11677,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Atalanta, Jade Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-017.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-017[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -11688,8 +11688,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Water Buffalo, Phantom Aquatic Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-018.jpg">WDi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-087.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-018[EN].jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-087.jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-094.jpg">WXi-02</set>
 			<color>UG</color>
 			<manacost>1</manacost>
@@ -11701,8 +11701,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Koalala, Phantom Terra Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-019.jpg">WDi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-086.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-019[EN].jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-086.jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-093.jpg">WXi-02</set>
 			<color>RG</color>
 			<manacost>2</manacost>
@@ -11714,8 +11714,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Servant #</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-020.jpg">WDi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-089.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-020[EN].jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-089.jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D03-020.jpg">WDi-03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D04-020.jpg">WDi-04</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D05-020.jpg">WDi-05</set>
@@ -11735,7 +11735,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Polygenesis</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D01-021.jpg">WDi-01</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-021[EN].jpg">WDi-01</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<cmc>1</cmc>
@@ -11750,7 +11750,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		
 		<card>
 			<name>Lize, Level 0</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-01LAT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-001[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11761,7 +11761,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Lize, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-02L.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-002[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11772,7 +11772,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Lize, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-03L.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-003[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
 			<cmc>2</cmc>
@@ -11783,7 +11783,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Lize, Level 3</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-04L.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-004[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
@@ -11795,7 +11795,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Ange, Level 0</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-05LAT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-005[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11806,7 +11806,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Ange, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-06LT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-006[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc></cmc>
@@ -11819,7 +11819,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Ange, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-07LT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-007[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -11832,7 +11832,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Toko, Level 0</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-08LAT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-008[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
@@ -11843,7 +11843,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Toko, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-09LA.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-009[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11856,7 +11856,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Toko, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-10LA.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-010[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>2- 2</manacost>
 			<cmc>2</cmc>
@@ -11869,7 +11869,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Ange, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-11A.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-029[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-029[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11880,7 +11881,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Ange, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-12A.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-030[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-303[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
 			<cmc>2</cmc>
@@ -11891,7 +11893,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Ange, Level 3</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-13A.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-031[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-031[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
@@ -11903,7 +11906,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Toko, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-14T.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-035[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-035[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>1- 0</manacost>
 			<cmc>1</cmc>
@@ -11914,7 +11918,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Toko, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-15T.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-036[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-036[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2 - B</manacost>
 			<cmc>2</cmc>
@@ -11925,7 +11930,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Center] Toko, Level 3</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-16T.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-037[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-037[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3 - BB</manacost>
 			<cmc>3</cmc>
@@ -11937,7 +11943,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Lize, Level 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-17AT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-024[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-024[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -11950,7 +11957,8 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>[Assist] Lize, Level 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-18AT.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-025[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-025[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - 4</manacost>
 			<cmc>2</cmc>
@@ -11959,7 +11967,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Enter]: Look at the top 5 cards of your deck. Put up to 2 white Virtual SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order. The [Enter] abilities of those SIGNI do not trigger.</text>
+[Enter]: Look at the top 5 cards of your deck. Put up to 2 Virtual SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order. The [Enter] abilities of those SIGNI do not trigger.</text>
 		</card>
 		<card>
 			<name>Samba Carnival</name>
@@ -11977,7 +11985,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Chihiro Yuki, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-20.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-012[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -11988,7 +11996,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Ichigo Ushimi, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-21.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-013[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -11999,7 +12007,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Morinaka Kazaki, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-22.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-014[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -12012,7 +12020,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Era Otogibara, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-23.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-015[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -12024,7 +12032,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Kaede Higuchi, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-24.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-016[EN].jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -12038,7 +12046,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Rin Shizuka, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-25.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-017[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -12052,8 +12060,8 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Sara Hoshikawa, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-26.jpg">WDi-02</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-081.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-018[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-089[EN].jpg">WXi-00</set>
 			<color>WB</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -12064,8 +12072,8 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Mao Matsukai, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-27.jpg">WDi-02</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-082.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-019[EN].jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-090[EN].jpg">WXi-00</set>
 			<color>WB</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -12076,7 +12084,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 		</card>
 		<card>
 			<name>Servant # (WXDi-D02)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-28.jpg">WDi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-020[EN].jpg">WDi-02</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -12089,8 +12097,8 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 [Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
 		</card>
 		<card>
-			<name>Wonder Land</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D02-29.jpg">WDi-02</set>
+			<name>In Wonderland</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-021[EN].jpg">WDi-02</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<cmc>2</cmc>
@@ -19538,7 +19546,7 @@ Crush up to 2 cards in your opponent's Life Cloth.
 			<text>(Cross): "Oxygen, Natural Source" Left
 			
 [Cross Constant]: This SIGNI's power becomes 15000.
-[Action] {U}{U}{U}: As you use this ability, you may discard 1 Atom SIGNI from your hand instead of paying {U}. vanish 1 SIGNI.
+[Action] {U}{U}{U}: As you use this ability, you may discard 1 Atom SIGNI from your hand instead of paying {U}. Vanish 1 SIGNI.
 [Cross Constant]: When this SIGNI reaches [Heaven], add 1 Atom SIGNI from your trash to your hand.
 
 [Life Burst]: vanish 1 SIGNI for each Atom SIGNI on your field. </text>
@@ -23999,7 +24007,7 @@ When your opponent refreshes their deck this turn, end the turn. (At the time th
 [Constant]: When 1 SIGNI on your field would be banished, you may put 2 SPELLs from under this SIGNI into the trash instead.
 [Action] [Spell Cut-In] Put 1 SPELL from under this SIGNI into the trash: Cancel the effect of 1 SPELL being used. 
 
-[Life Burst]: Discard any number of SPELLs from your hand. vanish 1 SIGNI on your opponent's field for each SPELL discarded this way. </text>
+[Life Burst]: Discard any number of SPELLs from your hand. Vanish 1 SIGNI on your opponent's field for each SPELL discarded this way. </text>
 		</card>
 		<card>
 			<name>Gurehozame, Water Phantom Princess</name>
@@ -25897,7 +25905,7 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			<text>[Constant]: While there are 1 or less cards in your Life Cloth, this LRIG's grow cost becomes {0}.
 [Enter] {R}: Put up to 2 total cards from your opponent's Ener Zone into the trash.
 [Enter] {G}: Add the top card of your deck to your Life Cloth.
-[Action] [Main Phase] [Attack Phase] {Exceed 5}: Put all cards in your Ener Zone into the trash and discard all cards in your hand. vanish all SIGNI on your opponent's field. </text>
+[Action] [Main Phase] [Attack Phase] {Exceed 5}: Put all cards in your Ener Zone into the trash and discard all cards in your hand. Vanish all SIGNI on your opponent's field. </text>
 		</card>
 		<card>
 			<name>Hanare, Dark One of Salvation</name>
@@ -31556,7 +31564,7 @@ Search your deck for up to 2 cards, add them to your hand, then discard 1 card f
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 
-Look at the top 4 cards of your deck, return them to the top of your deck in any order, then reveal the top card of your deck. vanish 1 SIGNI on your opponent's field with the same level as the SIGNI revealed this way.	</text>
+Look at the top 4 cards of your deck, return them to the top of your deck in any order, then reveal the top card of your deck. Vanish 1 SIGNI on your opponent's field with the same level as the SIGNI revealed this way.	</text>
 		</card>
 		<card>
 			<name>Allos Piruluk G</name>
@@ -31730,7 +31738,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may shuffle 4 Cosmos SIGNI with different levels from your trash into your deck. If you do, this SIGNI gets [Double Crush] until end of turn.
-[Enter] {0}: Reveal the top 4 cards of your deck. vanish 1 SIGNI on your opponent's field with power lower than or equal to 1000 multiplied by the total combined level of SIGNI revealed this way, then put the revealed cards into the trash.
+[Enter] {0}: Reveal the top 4 cards of your deck. Vanish 1 SIGNI on your opponent's field with power lower than or equal to 1000 multiplied by the total combined level of SIGNI revealed this way, then put the revealed cards into the trash.
 
 [Life Burst]: Add 2 Cosmos SIGNI from your trash to your hand. </text>
 		</card>
@@ -31873,7 +31881,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SIGNI - Nature Spirit: Cosmos - Carnival Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, reveal cards from the top of your deck until you reveal a Cosmos SIGNI. vanish 1 SIGNI on your opponent's field with the same level as the Cosmos SIGNI revealed this way (if any), then put all the revealed cards on the bottom of your deck in a random order." </text>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, reveal cards from the top of your deck until you reveal a Cosmos SIGNI. Vanish 1 SIGNI on your opponent's field with the same level as the Cosmos SIGNI revealed this way (if any), then put all the revealed cards on the bottom of your deck in a random order." </text>
 		</card>
 		<card>
 			<name>≡Costrin≡, Natural Star</name>
@@ -39817,7 +39825,7 @@ Choose up to two:
 			<type>SIGNI - Nature Spirit: Cosmos - Carnival Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, reveal cards from the top of your deck until you reveal a Cosmos SIGNI. vanish 1 SIGNI on your opponent's field with the same level as the Cosmos SIGNI revealed this way (if any), then put all the revealed cards on the bottom of your deck in a random order." </text>
+			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, reveal cards from the top of your deck until you reveal a Cosmos SIGNI. Vanish 1 SIGNI on your opponent's field with the same level as the Cosmos SIGNI revealed this way (if any), then put all the revealed cards on the bottom of your deck in a random order." </text>
 		</card>
 		<card>
 			<name>Most Treasured Fragment (WX22)</name>
@@ -51803,7 +51811,7 @@ Your LRIG gets the following abilities until end of turn:
 			<text>[Auto]: When this SIGNI attacks, you may discard 1 black SIGNI from your hand. If you do, vanish 1 SIGNI on your opponent's field whose power is different from its printed power.
 [Enter] {B} Discard 1 black SIGNI from your hand: Reveal the top 3 cards of your deck. Add up to 2 SIGNI from among them that share a class with the SIGNI discarded to use this ability to your hand, then put the rest into the trash.
 
-[Life Burst] Discard 1 card from your hand. vanish 1 SIGNI on your opponent's field.</text>
+[Life Burst] Discard 1 card from your hand. Vanish 1 SIGNI on your opponent's field.</text>
 		</card>
 		<card>
 			<name>Seven Goats, Fairy Tale of the Capricornus Army</name>
@@ -51960,7 +51968,7 @@ Your LRIG gets the following abilities until end of turn:
 [Auto] [4 or more ♪Beats of the same level]: When this SIGNI attacks, vanish all SIGNI on your opponent's field.
 [Enter] [4 or less ♪Beats] Put 1 SIGNI other than "Belial, Injustice of Flame Demons" as a [♪Beat]: Draw 1 card.
 
-[Life Burst]: Discard 1 card from your hand. vanish 1 SIGNI on your opponent's field.</text>
+[Life Burst]: Discard 1 card from your hand. Vanish 1 SIGNI on your opponent's field.</text>
 		</card>
 		<card>
 			<name>Nephilim, Fallen Azure Angel</name>
@@ -54321,7 +54329,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Ett=, Awakened One</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-007.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-007[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54332,7 +54340,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Två=, Awakened One</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-008.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-008[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2 - R</manacost>
 			<cmc>2</cmc>
@@ -54343,7 +54351,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Tre=, Awakened One </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-009.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-009[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
@@ -54355,7 +54363,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Eibon=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-010.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-010[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54368,7 +54376,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Bubbles=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-011.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-011[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -54382,7 +54390,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tawil =Burst=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-012.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-012[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2 - 4</manacost>
 			<cmc>2</cmc>
@@ -54395,7 +54403,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Umr =Ett=, Key to Salvation</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-013.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-013[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54406,7 +54414,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Umr =Två=, Key to Salvation</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-014.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-014[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2 - U</manacost>
 			<cmc>2</cmc>
@@ -54417,7 +54425,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Umr =Tre=, Key to Salvation</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-015.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-015[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
@@ -54429,7 +54437,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Umr =Freeze=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-016.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-016[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54441,8 +54449,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Enter]: Target up to 2 SIGNI on your opponent's field, and freeze them. Your opponent discards 1 card from their hand.</text>
 		</card>
 		<card>
-			<name>Umr =Break=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-017.jpg">WXi-00</set>
+			<name>Umr =Shatter=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-017[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -54455,7 +54463,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Umr =Clear=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-018.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-018[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -54469,7 +54477,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>At =Charge=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-019.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-019[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54481,8 +54489,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Enter]: [Ener Charge 2]</text>
 		</card>
 		<card>
-			<name>At =Killer=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-020.jpg">WXi-00</set>
+			<name>At =Forte=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-020[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54495,7 +54503,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>At =Reminder=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-021.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-021[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -54509,7 +54517,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>At =Discovery=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-022.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-022[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -54523,7 +54531,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>At =Repair=</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-023.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-023[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>2 - 3</manacost>
 			<cmc>2</cmc>
@@ -54536,7 +54544,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Lize, Level 1' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-024.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-026[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54549,7 +54557,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Lize, Level 2' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-025.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-027[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -54563,7 +54571,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Lize, Level 2''  </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-026.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-028[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - 3</manacost>
 			<cmc>2</cmc>
@@ -54572,11 +54580,11 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-[Enter]: Target 1 [Sanbaka] LRIGs on your field, and it gets "[Auto] [1/Turn]: When this LRIG attacks, up this LRIG." until end of turn.</text>
+[Enter]: Target 1 [Sanbaka] LRIG on your field, and it gets "[Auto] [1/Turn]: When this LRIG attacks, up this LRIG." until end of turn.</text>
 		</card>
 		<card>
 			<name>[Assist] Ange, Level 1' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-027.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-032[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54589,7 +54597,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Ange, Level 2' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-028.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-033[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -54603,7 +54611,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Ange, Level 2''  </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-029.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-034[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -54617,7 +54625,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Toko, Level 1' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-030.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-038[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -54630,7 +54638,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Toko, Level 2' </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-031.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-039[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
@@ -54644,7 +54652,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>[Assist] Toko, Level 2''  </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-032.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-040[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2 - 4</manacost>
 			<cmc>2</cmc>
@@ -54657,7 +54665,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Ars Almal, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-033.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-041[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54669,7 +54677,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Himawari Honma, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-034.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-042[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54681,7 +54689,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Mars, Crimson Angel Queen</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-035.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-043[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54689,11 +54697,11 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI vanishes a SIGNI on your opponent's field, target 1 card in your opponent's Ener Zone that does not share a color with your opponent's center LRIG, and put it into the trash.
-[Enter] Discard 3 cards from your hand: This SIGNI gets [Assassin] until end of turn. (When a SIGNI with [Assassin] attacks, it deals damage to the opponent without battling the SIGNI in front of it.)</text>
+[Enter] Discard 3 red cards from your hand: This SIGNI gets [Assassin] until end of turn. (When a SIGNI with [Assassin] attacks, it deals damage to the opponent without battling the SIGNI in front of it.)</text>
 		</card>
 		<card>
 			<name>Shub-Niggura, Crimson Evil Queen</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-036.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-044[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54705,19 +54713,19 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Yog-Sothoth, Code: Labyrinth</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-037.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-045[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
 			<type>SIGNI - Mech Tone: Labyrinth [Ancient Surprise] (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Team Auto] [1/Turn]:  When this SIGNI on the field moves to a different SIGNI Zone, you may pay {U}{U}. If you do, look at up to 3 cards in your opponent's hand at random, and put 1 of them on the bottom of their deck.
+			<text>[Team Auto] [1/Turn]:  When this SIGNI on the field moves to a different SIGNI Zone, you may pay {U}{U}. If you do, look at up to 3 cards in your opponent's hand at random, and put 1 of those cards on the bottom of its owner's deck.
 [Action] [1/Turn] {U}{U}: Your opponent puts the bottom card of their deck into the trash. Then, target 1 SIGNI on your opponent's field with the same card name as that card, and vanish it. </text>
 		</card>
 		<card>
 			<name>Parthenos, Code: Ancients</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-038.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-046[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54730,7 +54738,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Amino Acid, Natural Bacteria Queen</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-039.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-047[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54738,13 +54746,13 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: If this SIGNI's power would decrease (get -) by your opponent's card effect, its power increases (get +) by that amount instead.
-[Constant]: All SIGNI on your field get +5000 power during your turn.
+[Constant]: All other SIGNI on your field get +5000 power during your turn.
 
 [Life Burst]: [Ener Charge 1]. The next time you would be damaged by a SIGNI this turn, you are not damaged instead.</text>
 		</card>
 		<card>
 			<name>Azathoth, Phantom Apparition Queen</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-040.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-048[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54756,7 +54764,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Lulu Suzuhara, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-041.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-049[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54768,7 +54776,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Nui Sociere, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-042.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-050[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54780,20 +54788,20 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Roa Yuzuki, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-043.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-051[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Mech Tone: Virtual (DS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter]: Look at the top 2 cards of your deck. Reveal 1 "Code 2434 Ars Almal" from them, add it to your hand, and put the rest on the bottom of your deck in any order.
+			<text>[Enter]: Look at the top 2 cards of your deck. Reveal up to 1 "Ars Almal, Code 2434" from them, add it to your hand, and put the rest on the bottom of your deck in any order.
 
 [Life Burst]: Look at the top 3 cards of your deck. Reveal up to 2 SIGNI from them, add them to your hand, and put the rest on the bottom of your deck in any order. </text>
 		</card>
 		<card>
-			<name>Sister Cleaire, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-044.jpg">WXi-00</set>
+			<name>Sister Claire, Code 2434</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-052[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54801,37 +54809,37 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: Target 1 Virtual SIGNI on your field, and up it.
-[Enter]: If there is a "Code 2434 Ryushen" and a "Code 2434 Dola" on your field, draw 1 card.
+[Enter]: If there is a "Ryushen, Code 2434" and a "Dola, Code 2434" on your field, draw 1 card.
 
 [Life Burst]: Target 1 SIGNI on your opponent's field, and it gets "[Constant]: Cannot attack." until end of turn. Draw 1 card.</text>
 		</card>
 		<card>
 			<name>Meiji Warabeda, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-045.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-053[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI|LB - Mech Tone: Virtual (DS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] {W}: Look at the top 3 cards of your deck. Reveal 1 Virtual SIGNI from them, add it to your hand, and put the rest on the bottom of your deck in any order.
+			<text>[Enter] {W}: Look at the top 3 cards of your deck. Reveal 1 Virtual SIGNI from them, add it to your hand, then put the rest on the bottom of your deck in any order.
 
 [Life Burst]: Look at the top 3 cards of your deck. Reveal 1 SIGNI from them, add it to your hand or put it onto the field, and put the rest on the bottom of your deck in any order.</text>
 		</card>
 		<card>
 			<name>Ryushen, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-046.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-054[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Mech Tone: Virtual (DS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  At the beginning of your Attack Phase, if there is a "Code 2434 Sister Cleaire" and a "Code 2434 Dola" on your field, target 1 of your opponent's SIGNI, and you may pay {1}{W}{W}. If you do, return that SIGNI to its owner's hand. </text>
+			<text>[Auto]:  At the beginning of your Attack Phase, if there is a "Sister Claire, Code 2434" and a "Dola,  Code 2434" on your field, target 1 SIGNI on your opponent's field, and you may pay {1}{W}{W}. If you do, return that SIGNI to its owner's hand. </text>
 		</card>
 		<card>
 			<name>Mikoto Rindou, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-047.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-055[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54842,7 +54850,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Furen Slash</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-048.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-056[EN].jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3WW</manacost>
 			<cmc>5</cmc>
@@ -54854,7 +54862,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Eyris, Crimson Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-049.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-057[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54867,7 +54875,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Imagawa, Crimson General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-050.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-058[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54878,7 +54886,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Byleth, Crimson Evil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-051.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-059[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54891,7 +54899,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Hera, Crimson Evil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-052.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-060[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -54902,7 +54910,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Hotarumaru, Medium Equipment</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-053.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-061[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -54913,7 +54921,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Calydon, Phantom Terra Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-054.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-062[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -54927,7 +54935,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tadakatsu, Crimson General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-055.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-063[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54937,8 +54945,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<text>[Life Burst]: Target 1 SIGNI on your opponent's field with 10000 power or lower, and vanish it.</text>
 		</card>
 		<card>
-			<name>Carneli, Natural Crystal</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-056.jpg">WXi-00</set>
+			<name>Nelian, Natural Crystal</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-064[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -54951,7 +54959,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Battle Beat</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-057.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-065[EN].jpg">WXi-00</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<cmc>4</cmc>
@@ -54962,8 +54970,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Life Burst]: Target 1 SIGNI on your opponent's field with 13000 power or lower, and vanish it.</text>
 		</card>
 		<card>
-			<name>Njörðr, Azure Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-058.jpg">WXi-00</set>
+			<name>Njord, Azure Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-066[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54974,18 +54982,18 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Clepsydra, Code: Maze</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-059.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-067[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI - Mech Tone: Labyrinth (DS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When this SIGNI moves to a different SIGNI Zone by your card's effect, your opponent discards 1 card from their hand.</text>
+			<text>[Auto] [1/Turn]: When this SIGNI moves to a different SIGNI Zone by your effect, your opponent discards 1 card from their hand.</text>
 		</card>
 		<card>
 			<name>Neon Tetra, Phantom Aquatic Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-060.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-068[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -54998,7 +55006,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Hypnos, Azure Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-061.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-069[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55009,7 +55017,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Slime Mage, Azure Evil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-062.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-070[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55022,7 +55030,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>High Circus, Code: Maze</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-063.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-071[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55036,7 +55044,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Gan Ning, Azure General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-064.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-072[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55048,7 +55056,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Vela, Natural Planet</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-065.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-073[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55059,7 +55067,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Blue Opener</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-066.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-074[EN].jpg">WXi-00</set>
 			<color>U</color>
 			<manacost>2UUU</manacost>
 			<cmc>5</cmc>
@@ -55071,7 +55079,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Skanda, Jade Evil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-067.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-075[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55084,7 +55092,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Kawanii, Code: Maze</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-068.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-076[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55097,7 +55105,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Sloth, Phantom Terra Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-069.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-077[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55108,7 +55116,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Buer, Jade Evil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-070.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-078[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55119,7 +55127,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Blacksaddle, Phantom Aquatic Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-071.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-079[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55130,19 +55138,19 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Creation Tone</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-072.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-080[EN].jpg">WXi-00</set>
 			<color>G</color>
 			<manacost>3GG</manacost>
 			<cmc>5</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>Target 1 SIGNI on your opponent's field, and vanish it.
+			<text>Target 1 SIGNI on your opponent's field, and put it into the Ener Zone.
 			
-[Life Burst]: Target 1 SIGNI on your opponent's field, and vanish it.</text>
+[Life Burst]: Target 1 SIGNI on your opponent's field, and put it into the Ener Zone.</text>
 		</card>
 		<card>
 			<name>Ratna Petit, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-073.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-081[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55153,7 +55161,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Fuyuki Hakase, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-074.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-082[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55164,7 +55172,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Melissa Kinrenka, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-075.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-083[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55178,18 +55186,18 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Mirei Gundo, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-076.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-084[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>SIGNI - Mech Tone: Virtual (DS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] {B}: Put the top 3 cards of your deck into the trash. Target 1 level 1 Virtual SIGNI in your trash, and put it onto your field.</text>
+			<text>[Enter] {B}: Put the top 3 cards of your deck into the trash, then target 1 level 1 Virtual SIGNI in your trash, and put it onto your field.</text>
 		</card>
 		<card>
 			<name>Tamaki Fumino, Code 2434 </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-077.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-085[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55200,7 +55208,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Rena Yorumi, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-078.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-086[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55208,13 +55216,13 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, all SIGNI on your opponent's field get -1000 power for each Virtual SIGNI on your field until end of turn.
-[Enter]: If there is a "Code 2434 Fuyuki Hakase" on your field, target 1 SIGNI on your opponent's field, and it gets -4000 power until end of turn.
+[Enter]: If there is a "Fuyuki Hakase, Code 2434" on your field, target 1 SIGNI on your opponent's field, and it gets -4000 power until end of turn.
 
 [Life Burst]: Target up to 2 Virtual SIGNI in your trash, and add them to your hand.</text>
 		</card>
 		<card>
 			<name>Dola, Code 2434</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-079.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-087[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55225,7 +55233,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Darkness Eater</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-080.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-088[EN].jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<cmc>4</cmc>
@@ -55237,7 +55245,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Bronze, Natural Crystal</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-083.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-091[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D03-018.jpg">WDi-03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-090.jpg">WXi-02</set>
 			<color>RU</color>
@@ -55250,7 +55258,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Silvana, Natural Crystal</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-084.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-092[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D03-019.jpg">WDi-03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-091.jpg">WXi-02</set>
 			<color>RU</color>
@@ -55263,7 +55271,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Pandada, Phantom Terra Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-085.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-093[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-092.jpg">WXi-02</set>
 			<color>RG</color>
 			<manacost>1</manacost>
@@ -55275,7 +55283,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Tree Froggy, Phantom Aquatic Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-088.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-096[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-095.jpg">WXi-02</set>
 			<color>UG</color>
 			<manacost>2</manacost>
@@ -55287,7 +55295,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Servant # (Aki Suzuya)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-090.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-098[EN].jpg">WXi-00</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55301,7 +55309,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Servant # (Kana Sukoya)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P00-091.jpg">WXi-00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-099[EN].jpg">WXi-00</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55314,7 +55322,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Life Burst]: Target 1 SIGNI in your trash, and add it to your hand.</text>
 		</card>
 		<card>
-			<name>Code 2434 Ars Almal (alt)</name>
+			<name>Ars Almal, Code 2434 (alt)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%202434%20Ars%20Almal%20(alt).jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3</manacost>
@@ -55326,7 +55334,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Action] [1/Turn] {W}: Reveal any number of Virtual SIGNI from your hand. This SIGNI gets +1000 power for each SIGNI revealed this way until end of turn.</text>
 		</card>
 		<card>
-			<name>Code 2434 Himawari Honma (alt)</name>
+			<name>Himawari Honma, Code 2434 (alt)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%202434%20Himawari%20Honma%20(alt).jpg">WXi-00</set>
 			<color>W</color>
 			<manacost>3</manacost>
@@ -55338,7 +55346,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Action] [1/Turn] {W}: Look at the top 3 cards of your deck. Reveal 1 SIGNI from them and add it to your hand, put 1 card from them on top of your deck, and put the rest on the bottom of your deck in any order.</text>
 		</card>
 		<card>
-			<name>Code 2434 Lulu Suzuhara (alt)</name>
+			<name>Lulu Suzuhara, Code 2434 (alt)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%202434%20Lulu%20Suzuhara%20(alt).jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
@@ -55350,7 +55358,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 [Action] [1/Turn] {1}{B}: Target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn. Put the top 10 cards of your deck into the trash.</text>
 		</card>
 		<card>
-			<name>Code 2434 Nui Sociere (alt)</name>
+			<name>Nui Sociere, Code 2434 (alt)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%202434%20Nui%20Sociere%20(alt).jpg">WXi-00</set>
 			<color>B</color>
 			<manacost>3</manacost>
@@ -58148,7 +58156,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Idle Tone: Brave (DS)</type>
+			<type>SIGNI - Idle Tone: Angel (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>(Rise): 1 Angel SIGNI. (This SIGNI cannot be put onto your field unless you put it on top of 1 Angel SIGNI on your field.)
@@ -63478,7 +63486,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]: When a SIGNI on your field with "Flathro" in its card name attacks, up 1 SIGNI on your field with "Flathro" in its card name other than this SIGNI.
-[Enter]: Shuffle up to 5 SIGNI with "Flathro" in their card names from your trash into your deck. vanish 1 SIGNI on your opponent's field whose level is equal to the number of cards shuffled into your deck this way.</text>
+[Enter]: Shuffle up to 5 SIGNI with "Flathro" in their card names from your trash into your deck. Vanish 1 SIGNI on your opponent's field whose level is equal to the number of cards shuffled into your deck this way.</text>
 		</card>
 		<card>
 			<name>Charles, King of Victory</name>
@@ -77991,6 +77999,19 @@ During this game, LRIGs on all fields get Bukubu Tama LRIG type in addition to t
 			<text>[Constant]: This LRIG has the [Action] abilities of all LRIGs under this card.
 [Constant]: When a SIGNI on your opponent's field attacks, you may discard 2 Angel SIGNI from your hand. If you do, the attacking SIGNI does not damage you in this attack.
 [Constant]: At the end of your turn, add 1 Angel SIGNI from your trash to your hand. </text>
+		</card>
+		<card>
+			<name>Lucky Punch</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-474.jpg"></set>
+			<color>W</color>
+			<manacost></manacost>
+			<cmc>0</cmc>
+			<type>ARTS</type>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+			
+Look at the top card of your Life Cloth. If it is a SIGNI, you may put that SIGNI onto the field. If it is a SPELL, you may use that SPELL as though it were in your hand without paying its cost.
+(Limiting condition is not ignored.)</text>
 		</card>
 		<card>
 			<name>Layla</name>
