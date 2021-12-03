@@ -1347,7 +1347,7 @@ vanish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
+			<text>Vanish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
 		</card>
 		
 		<!-- WD03 -->
@@ -2448,7 +2448,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<cmc>0</cmc>
 			<type>SPELL - Umr Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, put the top 5 cards of your deck into the trash.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, put the top 5 cards of your deck into the trash.</text>
 		</card>
 		
 		<!-- WD09 -->
@@ -2803,7 +2803,7 @@ Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. 
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 3000 power or lower. If you have crossed SIGNI on your field, vanish 1 SIGNI on your opponent's field with 10000 power or lower instead.
+			<text>Vanish 1 SIGNI on your opponent's field with 3000 power or lower. If you have crossed SIGNI on your field, vanish 1 SIGNI on your opponent's field with 10000 power or lower instead.
 		
 [Life Burst]: Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. Then, shuffle your deck.	</text>
 		</card>
@@ -3540,7 +3540,7 @@ Choose one:
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		
 		<!-- WD14 -->
@@ -3720,7 +3720,7 @@ Your SIGNI's [Enter] abilities don't trigger this turn. </text>
 [Enter] {B}{B}{B}: Put up to 2 level 3 or lower Demon SIGNI from your trash onto your field.
 
 [Life Burst]: Choose one:
-- vanish all Angel SIGNI on the field.
+- Vanish all Angel SIGNI on the field.
 - Put 1 Demon SIGNI from your trash onto your field or add it to your hand.</text>
 		</card>
 		<card>
@@ -3841,7 +3841,7 @@ Your SIGNI's [Enter] abilities don't trigger this turn. </text>
 			<cmc>0</cmc>
 			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
 		
 		<!-- WD15 -->
@@ -4666,8 +4666,8 @@ Search your deck for 1 red SIGNI then put it onto your field downed. Then shuffl
 			<type>SPELL - Ril Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Brave SIGNI on your field without (Rise). If you do, search your deck for 1 Brave SIGNI with (Rise), reveal it, then add it to your hand. Then shuffle your deck.
-- vanish 1 Brave SIGNI on your field with (Rise). If you do, vanish 1 SIGNI on your opponent's field with 12000 power or lower. </text>
+- Vanish 1 Brave SIGNI on your field without (Rise). If you do, search your deck for 1 Brave SIGNI with (Rise), reveal it, then add it to your hand. Then shuffle your deck.
+- Vanish 1 Brave SIGNI on your field with (Rise). If you do, vanish 1 SIGNI on your opponent's field with 12000 power or lower. </text>
 		</card>
 		
 		<!-- WD18 -->
@@ -4910,8 +4910,8 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<type>SPELL - Mel Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Cooking SIGNI on your field. If you do, search your deck for 1 Cooking SIGNI and put it into your Ener Zone. Then shuffle your deck.
-- vanish 1 Cooking SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 15000 power or higher.</text>
+- Vanish 1 Cooking SIGNI on your field. If you do, search your deck for 1 Cooking SIGNI and put it into your Ener Zone. Then shuffle your deck.
+- Vanish 1 Cooking SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 15000 power or higher.</text>
 		</card>
 		
 		<!-- WD19 -->
@@ -5131,8 +5131,8 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand. </text>
 			<type>SPELL - Nanashi Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one.
-- vanish 1 of your Bacteria SIGNI. If you do, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] at a time.)
-- vanish 1 of your Bacteria SIGNI. If you do, 1 SIGNI on your opponent's field gets −7000 power until end of turn.</text>
+- Vanish 1 of your Bacteria SIGNI. If you do, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] at a time.)
+- Vanish 1 of your Bacteria SIGNI. If you do, 1 SIGNI on your opponent's field gets −7000 power until end of turn.</text>
 		</card>
 		
 		<!-- WD20 -->
@@ -5359,7 +5359,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 			<type>SPELL - Mama - Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one.
-- vanish 1 Wisdom SIGNI on your field. If you do, look at the top 4 cards of your deck. Reveal 1 Wisdom SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.
+- Vanish 1 Wisdom SIGNI on your field. If you do, look at the top 4 cards of your deck. Reveal 1 Wisdom SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.
 - If you have no cards in your Life Cloth, you may put all SIGNI on your field into the trash. If 3 Wisdom SIGNI were put into the trash this way, add the top card of your deck to your Life Cloth. </text>
 		</card>
 		
@@ -5500,7 +5500,7 @@ Your LRIG gets the following effect until end of turn:
 
 Choose one:
 - Draw 4 cards, then exclude 2 cards in your hand from the game at random.
-- vanish 1 SIGNI on your opponent's field. Your opponent draws 1 card, then puts the top card of their deck into their Ener Zone.</text>
+- Vanish 1 SIGNI on your opponent's field. Your opponent draws 1 card, then puts the top card of their deck into their Ener Zone.</text>
 		</card>
 		<card>
 			<name>≡Geocentrism≡, Natural Star</name>
@@ -5628,7 +5628,7 @@ Choose one:
 			<cmc>0</cmc>
 			<type>SPELL - Carnival Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 Cosmos SIGNI on your field. If you do, reveal cards from the top of your deck until you reveal a SIGNI. Apply the following effect based on the level of the revealed SIGNI, then put the revealed cards on the bottom of your deck in a random order.
+			<text>Vanish 1 Cosmos SIGNI on your field. If you do, reveal cards from the top of your deck until you reveal a SIGNI. Apply the following effect based on the level of the revealed SIGNI, then put the revealed cards on the bottom of your deck in a random order.
 - Level 1: Draw 1 card.
 - Level 2: Put the top card of your deck into the Ener Zone.
 - Level 3: Your opponent discards 1 card from their hand.
@@ -5770,8 +5770,8 @@ Choose one:
 			
 Choose up to two. If you have a Guzuko LRIG, choose up to three:
 - When a SIGNI is put onto your field by a card's effect this turn, 1 SIGNI on your opponent's field gets −7000 power until end of turn.
-- vanish 2 SIGNI on your field. If you do, draw 2 cards.
-- vanish 1 SIGNI on your opponent's field whose level is lower than or equal to the number of cards in your hand.
+- Vanish 2 SIGNI on your field. If you do, draw 2 cards.
+- Vanish 1 SIGNI on your opponent's field whose level is lower than or equal to the number of cards in your hand.
 - Put 1 level 3 or lower SIGNI from your trash onto your field. </text>
 		</card>
 		<card>
@@ -5848,7 +5848,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 [Enter] {B}{B}{B}: Put up to 2 level 3 or lower Demon SIGNI from your trash onto your field.
 
 [Life Burst]: Choose one:
-- vanish all Angel SIGNI on the field.
+- Vanish all Angel SIGNI on the field.
 - Put 1 Demon SIGNI from your trash onto your field or add it to your hand.</text>
 		</card>
 		<card>
@@ -6086,8 +6086,8 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<type>SPELL - Guzuko Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Playground Equipment SIGNI on your field. If you do, reveal the top 5 cards of your deck. Choose 1 Playground Equipment SIGNI from among them and either add it to your hand or put it onto your field. Put the rest on the bottom of your deck in any order.
-- vanish 1 Playground Equipment SIGNI on your field. If you do, shuffle up to 5 Playground Equipment SIGNI from your trash into your deck. </text>
+- Vanish 1 Playground Equipment SIGNI on your field. If you do, reveal the top 5 cards of your deck. Choose 1 Playground Equipment SIGNI from among them and either add it to your hand or put it onto your field. Put the rest on the bottom of your deck in any order.
+- Vanish 1 Playground Equipment SIGNI on your field. If you do, shuffle up to 5 Playground Equipment SIGNI from your trash into your deck. </text>
 		</card>
 		<card>
 			<name>†Roulette†, Death Play Devil</name>
@@ -6529,7 +6529,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<cmc>0</cmc>
 			<type>SPELL - Eldora Limited</type>
 			<tablerow>2</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Bananan, Super Trap (WD23)</name>
@@ -6660,8 +6660,8 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<type>SPELL - Aya Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Trick SIGNI on your field. If you do, look at the top 3 cards of your deck. You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
-- vanish 1 Trick SIGNI on your field. If you do, add 1 Trap from your field into your hand.</text>
+- Vanish 1 Trick SIGNI on your field. If you do, look at the top 3 cards of your deck. You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+- Vanish 1 Trick SIGNI on your field. If you do, add 1 Trap from your field into your hand.</text>
 		</card>
 		<card>
 			<name>Lure, Large Water Trap</name>
@@ -8351,7 +8351,7 @@ vanish 1 SIGNI on your opponent's field. add 1 red SIGNI from your trash to your
 			
 [Bet]: 1 Coin. (You may pay 1 Coin as you use this ARTS.)
 Choose one. If you bet, choose two instead:
-- vanish 1 SIGNI on your opponent's field with power lower than the power of a SIGNI with (Rise) on your field.
+- Vanish 1 SIGNI on your opponent's field with power lower than the power of a SIGNI with (Rise) on your field.
 - Search your deck for 1 SIGNI with (Rise) and 1 Armed SIGNI, reveal them, then add them to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
@@ -9059,7 +9059,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you bet, v
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, choose one. If this SIGNI is blood crystal armed, choose up to three instead. You may choose the same option more than once.
 - All SIGNI on your opponent's field get -1000 power until end of turn.
-- vanish 1 SIGNI on your opponent's field with 4000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 4000 power or lower.
 - Draw 2 cards, then discard 2 cards from your hand.
 
 [Life Burst]: Draw 1 card.</text>
@@ -10242,7 +10242,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then if there i
 			<tablerow>0</tablerow>
 			<text>[Enter]: Add up to 2 Cosmos SIGNI from your trash to your hand.
 [Action] [1/Turn] Discard 1 «Space» SIGNI from your hand: Choose one:
-- vanish 1 level 2 or lower SIGNI on your opponent's field.
+- Vanish 1 level 2 or lower SIGNI on your opponent's field.
 - Exclude 1 card in your opponent's trash from the game.
 [Action] [1/Game] ((Silent)) Pay 2 Coins: Put all face-up cards on your opponent's SIGNI Zones into the trash.</text>
 		</card>
@@ -11351,7 +11351,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]: During your opponent's Attack Phase, when a card in your Life Cloth is crushed, choose one:
 - Draw 1 card. 
-- vanish 1 downed SIGNI on your opponent's field.
+- Vanish 1 downed SIGNI on your opponent's field.
 - If you have an Alfou LRIG and there are 1 or less cards in your Life Cloth, crush 1 card in your opponent's Life Cloth.
 [Action] Put this KEY from the field into the LRIG Trash: If you have 2 or less cards in your Life Cloth, your opponent discards 1 card from their hand and puts 1 SIGNI from their field and 1 card from their Ener Zone into the trash.</text>
 		</card>
@@ -13931,7 +13931,7 @@ Put the top card of your deck into the Ener Zone.</text>
 			<cmc>3</cmc>
 			<type>SPELL|LB - Hanayo Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 12000 power or lower. Your LRIG gets [Double Crush] until end of turn.
+			<text>Vanish 1 SIGNI on your opponent's field with 12000 power or lower. Your LRIG gets [Double Crush] until end of turn.
 		
 [Life Burst]: Put the top card of your Life Cloth into the trash. If you do, crush 1 of your opponent's Life Cloth.</text>
 		</card>
@@ -14438,7 +14438,7 @@ vanish 1 SIGNI on your opponent's field.</text>
 			<cmc>3</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 15000 power or lower.
+			<text>Vanish 1 SIGNI on your opponent's field with 15000 power or lower.
 		
 [Life Burst]: vanish 1 SIGNI on your opponent's field with 10000 power or lower.</text>
 		</card>
@@ -14450,7 +14450,7 @@ vanish 1 SIGNI on your opponent's field.</text>
 			<cmc>3</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 10000 power or lower.</text>
+			<text>Vanish 1 SIGNI on your opponent's field with 10000 power or lower.</text>
 		</card>
 		<card>
 			<name>Code Art ASM</name>
@@ -15046,7 +15046,7 @@ Put 1 SIGNI on your field into the trash. If you do, vanish 1 SIGNI on your oppo
 [Action] Down 1 upped Plant SIGNI on your field: Put the top card of your deck into your Ener Zone.
 
 [Life Burst]: Choose one: 
-- vanish 1 SIGNI on your opponent's field with 10000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 10000 power or higher.
 - Put the top card of your deck into your Ener Zone.</text>
 		</card>
 		<card>
@@ -15209,7 +15209,7 @@ Put 1 SIGNI on your field into the trash. If you do, vanish 1 SIGNI on your oppo
 			<cmc>2</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 of your Aquatic Beast SIGNI. If you do, draw 2 cards.
+			<text>Vanish 1 of your Aquatic Beast SIGNI. If you do, draw 2 cards.
 		
 [Life Burst]: Draw 1 card. If there is a Aquatic Beast SIGNI on your field, draw 1 more card.</text>
 		</card>
@@ -15259,7 +15259,7 @@ Put 1 SIGNI on your field into the trash. If you do, vanish 1 SIGNI on your oppo
 			<cmc>2</cmc>
 			<type>SPELL|LB - Midoriko Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 10000 power or higher.
+			<text>Vanish 1 SIGNI on your opponent's field with 10000 power or higher.
 		
 [Life Burst]: vanish 1 SIGNI on your opponent's field with 12000 power or higher.</text>
 		</card>
@@ -15306,7 +15306,7 @@ Put 1 SIGNI on your field into the trash. If you do, vanish 1 SIGNI on your oppo
 			<cmc>3</cmc>
 			<type>SPELL|LB - Urith Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field.
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field.
 		
 [Life Burst]: vanish 1 SIGNI on your opponent's field.</text>
 		</card>
@@ -15912,7 +15912,7 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 
 [Life Burst]: Choose one:
 - Put 1 Legacy SIGNI from your trash onto your field.
-- vanish 1 of your opponent's level 2 or lower SIGNI.</text>
+- Vanish 1 of your opponent's level 2 or lower SIGNI.</text>
 		</card>
 		<card>
 			<name>Lost Technology</name>
@@ -16062,7 +16062,7 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 			<cmc>4</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish all SIGNI on your opponent's field with 12000 power or higher.
+			<text>Vanish all SIGNI on your opponent's field with 12000 power or higher.
 		
 [Life Burst]: [Ener Charge 2]</text>
 		</card>
@@ -16184,7 +16184,7 @@ You may put all SIGNI on your field into the trash. If you put 3 SIGNI with diff
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 of your opponent's frozen SIGNI.
+			<text>Vanish 1 of your opponent's frozen SIGNI.
 		
 [Life Burst]: Down and freeze 1 SIGNI on your opponent's field. (It doesn't up during its user's next up phase.)</text>
 		</card>
@@ -16709,7 +16709,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<cmc>2</cmc>
 			<type>SPELL|LB - Anne Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish any number of Beautiful Technique SIGNI on your field. Then search your deck for the same number of Beautiful Technique SIGNI that were vanished this way and put them onto your field. Then shuffle your deck.
+			<text>Vanish any number of Beautiful Technique SIGNI on your field. Then search your deck for the same number of Beautiful Technique SIGNI that were vanished this way and put them onto your field. Then shuffle your deck.
 		
 [Life Burst]: Reveal the top 3 cards of your deck. Add all Beautiful Technique SIGNI from among them to your hand, then put the rest into the trash.</text>
 		</card>
@@ -17157,7 +17157,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<cmc>3</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 5000 power or lower and 1 SIGNI on your opponent's field with 10000 or higher.
+			<text>Vanish 1 SIGNI on your opponent's field with 5000 power or lower and 1 SIGNI on your opponent's field with 10000 or higher.
 
 [Life Burst]: vanish 1 SIGNI on your opponent's field with 5000 power or lower. Put the top card of your deck into your Ener Zone.</text>
 		</card>
@@ -17896,7 +17896,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 [Enter] {B}{B}{B}: Put up to 2 level 3 or lower Demon SIGNI from your trash onto your field.
 
 [Life Burst]: Choose one:
-- vanish all Angel SIGNI on the field.
+- Vanish all Angel SIGNI on the field.
 - Put 1 Demon SIGNI from your trash onto your field or add it to your hand.</text>
 		</card>
 		<card>
@@ -18275,7 +18275,7 @@ At the end of this turn, discard all cards in your hand.
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
 			<text>Choose up to two:
-- vanish 1 SIGNI on your opponent's field with 3000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 3000 power or lower.
 - If your LRIG is red and level 4 or higher, vanish 1 SIGNI on your opponent's field with power 10000 or lower. </text>
 		</card>
 		<card>
@@ -19687,7 +19687,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			
 [Cross On-Play]: Choose one:
 - This SIGNI's power becomes 15000 until end of turn.
-- vanish 1 SIGNI on your opponent's field with 5000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 5000 power or lower. </text>
 		</card>
 		<card>
 			<name>Gunsword, Explosive Gun</name>
@@ -19973,7 +19973,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<cmc>0</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 2000 power or lower. </text>
+			<text>Vanish 1 SIGNI on your opponent's field with 2000 power or lower. </text>
 		</card>
 		<card>
 			<name>Ununseptium, Natural Source</name>
@@ -20724,7 +20724,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<text>(Cross): "Sunst, Natural Stone" Left
 			
 [Cross On-Play]: Choose one.
-- vanish all SIGNI on your opponent's field with 3000 power or lower.
+- Vanish all SIGNI on your opponent's field with 3000 power or lower.
 - This SIGNI's power becomes 15000 until end of turn.</text>
 		</card>
 		<card>
@@ -21005,7 +21005,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<cmc>2</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 5000 power or lower. If a crossed SIGNI is on your field, 1 SIGNI on your field gets [Double Crush] until end of turn.
+			<text>Vanish 1 SIGNI on your opponent's field with 5000 power or lower. If a crossed SIGNI is on your field, 1 SIGNI on your field gets [Double Crush] until end of turn.
 		
 [Life Burst]: Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
@@ -21895,7 +21895,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 			<cmc>2</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 8000 power or lower. If there are 3 red SIGNI on your field and they share a common class, vanish 1 SIGNI on your opponent's field with 15000 power or lower instead.</text>
+			<text>Vanish 1 SIGNI on your opponent's field with 8000 power or lower. If there are 3 red SIGNI on your field and they share a common class, vanish 1 SIGNI on your opponent's field with 15000 power or lower instead.</text>
 		</card>
 		<card>
 			<name>Code Art HMS</name>
@@ -22043,7 +22043,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 			<tablerow>2</tablerow>
 			<text>[Constant]: When this SIGNI attacks, you may discard 1 Electric Machine SIGNI from your hand. If you do, choose one:
 - Draw 2 cards.
-- vanish 1 frozen SIGNI on your opponent's field.
+- Vanish 1 frozen SIGNI on your opponent's field.
 - Discard 1 card from your opponent's hand at random.
 
 [Life Burst]: Draw 1 card. </text>
@@ -22175,7 +22175,7 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Mithril, Natural Stone</name>
@@ -22220,7 +22220,7 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 			<cmc>0</cmc>
 			<type>SPELL - Hanayo Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 10000 power or lower. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Code Art MGT</name>
@@ -22315,7 +22315,7 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 			<cmc>0</cmc>
 			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
 		
 		<!-- WX10 -->
@@ -22373,7 +22373,7 @@ When you do a deck refresh, if it is your first deck refresh this turn, crush 1 
 [Chain] {W}{R} (The next ARTS you use this turn costs {W}{R} less to use.)
 Choose up to two:
 - 1 SIGNI on your opponent's field gets "This SIGNI cannot attack" until end of turn.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
 - 1 SIGNI on your field gets [Double Crush] until end of turn.</text>
 		</card>
 		<card>
@@ -22388,7 +22388,7 @@ Choose up to two:
 		
 [Chain] {R}{G} (The next ARTS you use this turn costs {R}{G} less to use.)
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If your opponent has more than 4 cards in their Ener Zone, your opponent puts cards from their Ener Zone into the trash until they have 4 cards in their Ener Zone.
 - Add the top card of your deck to your Life Cloth. </text>
 		</card>
@@ -23167,11 +23167,11 @@ Choose one:
 			<cmc>1</cmc>
 			<type>SPELL|LB</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 RESONA on your opponent's field.
+			<text>Vanish 1 RESONA on your opponent's field.
 		
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower.
-- vanish 1 RESONA on your opponent's field. </text>
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower.
+- Vanish 1 RESONA on your opponent's field. </text>
 		</card>
 		<card>
 			<name>Code Art WGM</name>
@@ -24314,7 +24314,7 @@ Your opponent discards 3 cards from their hand.
 			<cmc>2</cmc>
 			<type>SPELL|LB - Urith Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 level 3 or lower SIGNI on your opponent's field, then 1 SIGNI on your opponent's field becomes level 1 until end of turn.
+			<text>Vanish 1 level 3 or lower SIGNI on your opponent's field, then 1 SIGNI on your opponent's field becomes level 1 until end of turn.
 		
 [Life Burst]: Choose one: 
 - Add 1 Demon SIGNI from your trash to your hand.
@@ -25365,7 +25365,7 @@ If the number of cards in your hand is equal to or greater than the number of ca
 			<text>[Enter]: If there is a "Flathro Lance Corporal, Small Flame" and a "Flathro Sergeant, Explosive Flame" in your trash, vanish 1 SIGNI on your opponent's field with 8000 power or lower.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 5000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 5000 power or lower.
 - Search your deck for 1 SIGNI with "Flathro" in its card name, reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
@@ -25725,8 +25725,8 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			<type>SPELL - Yuzuki Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
-- vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
+- Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
+- Vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
 		</card>
 		<card>
 			<name>Nickel, Natural Source</name>
@@ -25762,7 +25762,7 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			<cmc>0</cmc>
 			<type>SPELL - Piruluk Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
 		</card>
 		<card>
 			<name>Tsubaki, Natural Plant</name>
@@ -25785,7 +25785,7 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			<cmc>0</cmc>
 			<type>SPELL - Midoriko Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
 		</card>
 		<card>
 			<name>Cerberun, Three-Headed Barrage (WX12)</name>
@@ -25818,8 +25818,8 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			<type>SPELL - Iona Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 white SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck.」
-- vanish 1 black SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
+- Vanish 1 white SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck.」
+- Vanish 1 black SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Next Ready</name>
@@ -25933,8 +25933,8 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 Choose up to four. This ARTS costs {2} more to use for each option chosen beyond the second:
 - Down 1 of your opponent's LRIGs.
 - Freeze 1 of your opponent's LRIGs.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>Withered Tree, Living Flower</name>
@@ -26525,7 +26525,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<cmc>0</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI with (Cross) on your field. If you do, search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI with (Cross) on your field. If you do, search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Teppouo, Water Phantom</name>
@@ -27276,8 +27276,8 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 		
 Choose two:
 - 2 SIGNI on your opponent's field get −8000 power until end of turn.
-- vanish all SIGNI on your opponent's field with 7000 power or lower.
-- vanish all SIGNI with [Assassin], [Lancer], or [Double Crush].
+- Vanish all SIGNI on your opponent's field with 7000 power or lower.
+- Vanish all SIGNI with [Assassin], [Lancer], or [Double Crush].
 - Add up to 2 SIGNI from your trash to your hand. </text>
 		</card>
 		<card>
@@ -27386,7 +27386,7 @@ Choose up to two:
 
 Choose one:
 - Draw 4 cards, then exclude 2 cards in your hand from the game at random.
-- vanish 1 SIGNI on your opponent's field. Your opponent draws 1 card, then puts the top card of their deck into their Ener Zone.</text>
+- Vanish 1 SIGNI on your opponent's field. Your opponent draws 1 card, then puts the top card of their deck into their Ener Zone.</text>
 		</card>
 		<card>
 			<name>Flame Army Struggle</name>
@@ -27632,7 +27632,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] [Attack Phase] [Spell Cut-In] {0}: Shuffle 4 non-colorless SIGNI with different levels from your trash into your deck. If you do, choose one:
-- vanish 1 SIGNI on your opponent's field
+- Vanish 1 SIGNI on your opponent's field
 - Cancel the effect of 1 SPELL being used.
 - Put 1 level 4 or lower Electric Machine SIGNI from your trash onto your field.
 
@@ -27725,8 +27725,8 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>SPELL - Hanayo Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field with "Flathro" in its card name. If you do, vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 SIGNI on your field with "Flathro" in its card name. If you do, reveal the top 3 cards of your deck. Add 1 SIGNI with "Flathro" in its card name from among them to your hand, then put the rest on the bottom of your deck in any order. </text>
+- Vanish 1 SIGNI on your field with "Flathro" in its card name. If you do, vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your field with "Flathro" in its card name. If you do, reveal the top 3 cards of your deck. Add 1 SIGNI with "Flathro" in its card name from among them to your hand, then put the rest on the bottom of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Sodium, Natural Source</name>
@@ -27861,8 +27861,8 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>SPELL - Hanare Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Venom SIGNI on your field. If you do, put up to two level 1 Venom SIGNI from your trash onto your field.
-- vanish 1 Venom SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -3000 power for each different level among Venom SIGNI in your trash until end of turn.</text>
+- Vanish 1 Venom SIGNI on your field. If you do, put up to two level 1 Venom SIGNI from your trash onto your field.
+- Vanish 1 Venom SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -3000 power for each different level among Venom SIGNI in your trash until end of turn.</text>
 		</card>
 		<card>
 			<name>Rukpat, Natural Star</name>
@@ -28210,7 +28210,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<cmc>3</cmc>
 			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field. If you do, draw 2 cards.</text>
+			<text>Vanish 1 SIGNI on your opponent's field. If you do, draw 2 cards.</text>
 		</card>
 		<card>
 			<name>Tamayorihime, Sunspot Miko (WX14)</name>
@@ -28732,7 +28732,7 @@ Put the top card of your deck into your Ener Zone. If you bet, put the top 2 car
 [Enter]: vanish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower. 
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower. 
 - Search your deck for 1 Brave SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
@@ -28817,7 +28817,7 @@ Choose up to two:
 [Constant]: While this SIGNI is accessorized with "Code Eat Teaksauce", this SIGNI gets +3000 power and is unaffected by the effects of your opponent's SIGNI.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - [Ener Charge 2]</text>
 		</card>
 		<card>
@@ -28863,7 +28863,7 @@ Choose up to two:
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower. </text>
 		</card>
 		<card>
 			<name>Ranma, Two Swords Attendant</name>
@@ -29341,7 +29341,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 5000 power or lower. If there is a SIGNI with (Rise) on your field, vanish 1 more SIGNI on your opponent's field with 7000 power or lower.</text>
+			<text>Vanish 1 SIGNI on your opponent's field with 5000 power or lower. If there is a SIGNI with (Rise) on your field, vanish 1 more SIGNI on your opponent's field with 7000 power or lower.</text>
 		</card>
 		<card>
 			<name>Bananan, Super Trap</name>
@@ -29804,7 +29804,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 		
 [Chain] {R}{G} (The next ARTS you use this turn costs {R}{G} less to use.)
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If your opponent has more than 4 cards in their Ener Zone, your opponent puts cards from their Ener Zone into the trash until they have 4 cards in their Ener Zone.
 - Add the top card of your deck to your Life Cloth. </text>
 		</card>
@@ -30042,7 +30042,7 @@ Down 1 SIGNI on your opponent's field. If you bet, down 1 additional SIGNI on yo
 		
 [Bet]: 2 Coins (You may pay 2 Coins as you use this ARTS.)
 Choose one. If you bet, choose up to three instead:
-- vanish 1 SIGNI on your opponent's field whose level is lower than or equal to the number of [Virus]es on the field.
+- Vanish 1 SIGNI on your opponent's field whose level is lower than or equal to the number of [Virus]es on the field.
 - Put 1 SIGNI whose level is equal to or lower than the number of [Virus]es on the field from your trash onto your field. That SIGNI's [Enter] abilities do not trigger.
 - Remove 3 [Virus]es from your opponent's field. If you do, add the top card of your deck to your Life Cloth. </text>
 		</card>
@@ -30305,7 +30305,7 @@ As you use this ARTS, you may remove up to 2 [Virus]es from your opponent's fiel
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a SIGNI with (Rise) is put onto your field, choose one:
 - This SIGNI gets "This SIGNI cannot be banished." until end of turn. 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
 - 1 SIGNI on your field gets +5000 power until end of turn.
 [Action] [Attack Phase] {0}: Put 1 SIGNI with (Rise) from your hand onto your field.
 
@@ -31136,8 +31136,8 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<type>SPELL - Sashe Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 non-RESONA SIGNI on your field. If you do, search your deck for 1 Cosmos SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
-- vanish 1 RESONA on your field. If you do, return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand. </text>
+- Vanish 1 non-RESONA SIGNI on your field. If you do, search your deck for 1 Cosmos SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
+- Vanish 1 RESONA on your field. If you do, return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand. </text>
 		</card>
 		<card>
 			<name>Flathro Captain, Roaring Flame</name>
@@ -31158,7 +31158,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<cmc>0</cmc>
 			<type>SPELL - Milulun Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Extravaganza</name>
@@ -31168,7 +31168,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<cmc>0</cmc>
 			<type>SPELL - Anne Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Heike, Phantom Insect</name>
@@ -31212,7 +31212,7 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<cmc>0</cmc>
 			<type>SPELL - Eldora Limited</type>
 			<tablerow>2</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Moisturizer</name>
@@ -31236,8 +31236,8 @@ Your LRIG gets "When this LRIG attacks, if you did not use any ARTS other than "
 			<type>SPELL - Myu Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 non-RESONA SIGNI on your field. If you do, add 1 Misfortune Insect SIGNI from your trash to your hand.
-- vanish 1 RESONA on your field. If you do, 1 SIGNI on your opponent's field gets −10000 power until end of turn. </text>
+- Vanish 1 non-RESONA SIGNI on your field. If you do, add 1 Misfortune Insect SIGNI from your trash to your hand.
+- Vanish 1 RESONA on your field. If you do, 1 SIGNI on your opponent's field gets −10000 power until end of turn. </text>
 		</card>
 		<card>
 			<name>Romane Defense (WX16)</name>
@@ -31431,8 +31431,8 @@ Choose two. If you bet, choose four instead. You may choose the same effect mult
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
 Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - 1 SIGNI on your field gets [Double Crush] until end of turn. If that SIGNI is level 4 or higher, it also gets [Assassin] until end of turn.
 - Add the top card of your deck to your Life Cloth. Discard 2 cards from your hand. </text>
 		</card>
@@ -32633,7 +32633,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<cmc>0</cmc>
 			<type>SPELL - Tawil Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 Angel SIGNI on your field. If you do, search your deck for 1 Angel SIGNI and either put it onto the field or add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 Angel SIGNI on your field. If you do, search your deck for 1 Angel SIGNI and either put it onto the field or add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Apato, Phantom Dragon</name>
@@ -32670,8 +32670,8 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SPELL - Aiyai Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, search your deck for 1 Playground Equipment SIGNI and put it into your Ener Zone. Then shuffle your deck.
-- vanish 1 SIGNI on your field. If you do, add 1 Playground Equipment SIGNI from your Ener Zone to your hand. </text>
+- Vanish 1 SIGNI on your field. If you do, search your deck for 1 Playground Equipment SIGNI and put it into your Ener Zone. Then shuffle your deck.
+- Vanish 1 SIGNI on your field. If you do, add 1 Playground Equipment SIGNI from your Ener Zone to your hand. </text>
 		</card>
 		<card>
 			<name>Charm Tactics</name>
@@ -32775,7 +32775,7 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 			<cmc>0</cmc>
 			<type>SPELL - Piruluk Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
 		</card>
 		<card>
 			<name>Kakusen, Natural Stone (WX17)</name>
@@ -32885,8 +32885,8 @@ If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead. </
 
 [Bet]: 2 Coins. (You may pay 2 Coins as you use this ARTS.)
 Choose up to two. If you bet, choose up to three instead:
-- vanish all SIGNI with 15000 power or higher.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish all SIGNI with 15000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - Put the top 3 cards of your deck into your Ener Zone.
 - Add the top card of your deck to your Life Cloth. </text>
 		</card>
@@ -34018,8 +34018,8 @@ If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead. </
 
 [Bet]: 2 Coins. (You may pay 2 Coins as you use this ARTS.)
 Choose up to two. If you bet, choose up to three instead:
-- vanish all SIGNI with 15000 power or higher.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish all SIGNI with 15000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - Put the top 3 cards of your deck into your Ener Zone.
 - Add the top card of your deck to your Life Cloth. </text>
 		</card>
@@ -34409,7 +34409,7 @@ Choose up to two:
 			
 [Bet]: 2 Coins. (You may pay 2 Coins as you use this ARTS.)
 Choose up to two. If you bet, choose up to three instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If there are 4 or more cards in your opponent's Ener Zone, your opponent puts 2 cards from their Ener Zone into the trash.
 - Draw 3 cards, then discard 1 card from your hand at random.
 - Crush 1 card in your opponent's Life Cloth. </text>
@@ -35367,7 +35367,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field. </text>
 			
 [Bet]: 2 Coins. (You may pay 2 Coins as you use this ARTS.)
 Choose up to two. If you bet, choose up to three instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If there are 4 or more cards in your opponent's Ener Zone, your opponent puts 2 cards from their Ener Zone into the trash.
 - Draw 3 cards, then discard 1 card from your hand at random.
 - Crush 1 card in your opponent's Life Cloth. </text>
@@ -35459,7 +35459,7 @@ Choose one. If you bet, choose up to two instead:
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Hisui, Natural Stone (WX19)</name>
@@ -35828,7 +35828,7 @@ If you have less cards in your hand than your opponent does, draw 3 cards. Then 
 If there is a Nature Spirit SIGNI on your field, this ARTS costs {G}{G} less to use.
 Choose one:
 - Search your deck for up to 3 Nature Spirit SIGNI and put them into your Ener Zone. Then shuffle your deck.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
 		</card>
 		<card>
 			<name>Dark Cognate</name>
@@ -35842,7 +35842,7 @@ Choose one:
 			
 As you use this ARTS, you may discard up to 2 Image Spirit SIGNI from your hand. This ARTS costs {1}{B} less to use for each SIGNI discarded this way.
 Choose up to two:
-- vanish 1 level 3 or lower SIGNI on your opponent's field.
+- Vanish 1 level 3 or lower SIGNI on your opponent's field.
 - 1 SIGNI on your opponent's field gets −12000 power until end of turn.
 - Put 1 Image Spirit SIGNI from your trash onto your field. Its [Enter] abilities do not trigger. </text>
 		</card>
@@ -35990,7 +35990,7 @@ Choose up to two:
 
 If your LRIG is level 4 or lower and your opponent's LRIG is level 5 or higher, this ARTS's cost becomes {1}.
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Draw 2 cards.
 - Put the top 2 cards of your deck into your Ener Zone.
 - Put 1 SIGNI that shares a color with your LRIG from your trash onto your field. The [Enter] abilities of that SIGNI do not trigger. </text>
@@ -36908,7 +36908,7 @@ If you have less cards in your hand than your opponent does, draw 3 cards. Then 
 If there is a Nature Spirit SIGNI on your field, this ARTS costs {G}{G} less to use.
 Choose one:
 - Search your deck for up to 3 Nature Spirit SIGNI and put them into your Ener Zone. Then shuffle your deck.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
 		</card>
 		<card>
 			<name>Dark Cognate (alt)</name>
@@ -36922,7 +36922,7 @@ Choose one:
 			
 As you use this ARTS, you may discard up to 2 Image Spirit SIGNI from your hand. This ARTS costs {1}{B} less to use for each SIGNI discarded this way.
 Choose up to two:
-- vanish 1 level 3 or lower SIGNI on your opponent's field.
+- Vanish 1 level 3 or lower SIGNI on your opponent's field.
 - 1 SIGNI on your opponent's field gets −12000 power until end of turn.
 - Put 1 Image Spirit SIGNI from your trash onto your field. Its [Enter] abilities do not trigger. </text>
 		</card>
@@ -36964,7 +36964,7 @@ Choose up to two:
 			<cmc>0</cmc>
 			<type>SPELL - Hanayo Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 10000 power or lower. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>SLASH OUT (WX20)</name>
@@ -36990,7 +36990,7 @@ Choose up to two:
 			<cmc>0</cmc>
 			<type>SPELL - Milulun Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Extreme Food (WX20)</name>
@@ -37011,7 +37011,7 @@ vanish 1 SIGNI on your opponent's field with power lower than or equal to the po
 			<cmc>0</cmc>
 			<type>SPELL - Anne Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Violence Splash (WX20CD)</name>
@@ -37526,7 +37526,7 @@ vanish 1 level 3 or lower SIGNI on your opponent's field. Then if that SIGNI is 
 			
 Choose one:
 - Put the top 6 cards of your deck into your Ener Zone.
-- vanish 1 SIGNI on your opponent's field, down 1 SIGNI on your opponent's field, then draw 1 card.
+- Vanish 1 SIGNI on your opponent's field, down 1 SIGNI on your opponent's field, then draw 1 card.
 - 1 Angel SIGNI gets +5000 power until end of turn, 1 Angel SIGNI on your field gets [Lancer] until end of turn, and 1 Angel SIGNI on your field gets [Double Crush] until end of turn. You may choose the same SIGNI multiple times.</text>
 		</card>
 		<card>
@@ -37742,8 +37742,8 @@ Choose one:
 Choose up to two:
 - Put 1 card from your opponent's Ener Zone that does not share a color with your opponent's LRIG into the trash.
 - Put the top 2 cards of your deck into your Ener Zone.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
 		</card>
 		<card>
 			<name>Pigeonhat, Middle Trap</name>
@@ -38041,7 +38041,7 @@ Choose up to two:
 			<cmc>1</cmc>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 2 Atom SIGNI on your field, then search your deck for 1 Atom SIGNI with the same level as the total combined level of the vanished SIGNIs' levels and put it onto your field. Then shuffle your deck. </text>
+			<text>Vanish 2 Atom SIGNI on your field, then search your deck for 1 Atom SIGNI with the same level as the total combined level of the vanished SIGNIs' levels and put it onto your field. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>#Argus#, Sleepless Ridge</name>
@@ -38208,8 +38208,8 @@ Choose up to two:
 Choose up to four. This ARTS costs {2} more to use for each option chosen beyond the second:
 - Down 1 of your opponent's LRIGs.
 - Freeze 1 of your opponent's LRIGs.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>Munkarun, Elder Sister Deity of the Holy Tomb (WX21 alt)</name>
@@ -38606,8 +38606,8 @@ Choose one:
 			<type>SPELL - Yuzuki Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
-- vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
+- Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
+- Vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
 		</card>
 		<card>
 			<name>#Stegoceras#, Phantom Dragon (WX21)</name>
@@ -38942,7 +38942,7 @@ Choose up to two:
 
 [Life Burst]: Choose 1:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Urataro, Water Phantom Princess</name>
@@ -39057,7 +39057,7 @@ Choose up to two:
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may discard 2 Atom SIGNI from your hand. If you do, choose one:
 - You draw 3 cards.
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Search your deck for 1 Atom SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
@@ -39313,7 +39313,7 @@ Choose up to two:
 			<cmc>0</cmc>
 			<type>SPELL - Alfou Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, each player puts the top 3 cards of their deck into the trash, then you add 1 level 1 non-colorless SIGNI from your trash to your hand. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, each player puts the top 3 cards of their deck into the trash, then you add 1 level 1 non-colorless SIGNI from your trash to your hand. </text>
 		</card>
 		<card>
 			<name>Angel Awake</name>
@@ -39523,7 +39523,7 @@ Choose one. If you have a Tawil or Umr LRIG, choose two instead:
 			<type>SPELL - Dona Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Outcast SIGNI on your field. If you do, search your deck for 1 Outcast SIGNI, reveal it, then add it into your hand. Then shuffle your deck.
+- Vanish 1 Outcast SIGNI on your field. If you do, search your deck for 1 Outcast SIGNI, reveal it, then add it into your hand. Then shuffle your deck.
 - Put 2 Outcast SIGNI from your field into the trash. If you do, return 1 SIGNI on your opponent's field to its owner's hand. </text>
 		</card>
 		<card>
@@ -40527,7 +40527,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 [Enter]: Put 1 "Thorny Maze" into your LRIG deck.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 8000 power or higher. 
+- Vanish 1 SIGNI on your opponent's field with 8000 power or higher. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -40584,7 +40584,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 10000 or higher, vanish 1 SIGNI on your opponent's field with 7000 power or lower.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 3000 power or lower. 
+- Vanish 1 SIGNI on your opponent's field with 3000 power or lower. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -40734,7 +40734,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<text>[Auto]: When this SIGNI attacks, if this SIGNI's power is 10000 or higher, draw 1 card and this SIGNI gets [Lancer] until end of turn. (If a SIGNI with [Lancer] vanishes an opponent's SIGNI by battle, it crushes 1 card in your opponent's Life Cloth.)
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher. 
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -40992,7 +40992,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-= vanish 1 SIGNI on your opponent's field with 10000 power or lower.
+= Vanish 1 SIGNI on your opponent's field with 10000 power or lower.
 = All SIGNI on your field get +3000 power until end of turn. </text>
 		</card>
 		<card>
@@ -41486,7 +41486,7 @@ Your LRIG gets "[Auto]: At the beginning of your LRIG attack step, put any numbe
 [Enter]: Put 1 "Thorny Maze" into your LRIG deck.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 8000 power or higher. 
+- Vanish 1 SIGNI on your opponent's field with 8000 power or higher. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -42058,7 +42058,7 @@ Choose one:
 			<text>[Auto]: When this SIGNI attacks, if your LRIG's level is equal to your opponent's LRIG's level, this SIGNI gets [Double Crush] until end of turn.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 3000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 3000 power or lower.
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -42891,8 +42891,8 @@ Choose one:
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
 Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - 1 SIGNI on your field gets [Double Crush] until end of turn. If that SIGNI is level 4 or higher, it also gets [Assassin] until end of turn.
 - Add the top card of your deck to your Life Cloth. Discard 2 cards from your hand. </text>
 		</card>
@@ -43889,8 +43889,8 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
 Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - 1 SIGNI on your field gets [Double Crush] until end of turn. If that SIGNI is level 4 or higher, it also gets [Assassin] until end of turn.
 - Add the top card of your deck to your Life Cloth. Discard 2 cards from your hand. </text>
 		</card>
@@ -44101,7 +44101,7 @@ Choose one: If you bet, choose two instead:
 			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Enter]: Choose two:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Add 1 non-colorless SIGNI from your trash to your hand.
 - Discard 1 card from your opponent's hand at random.
 - [Ener Charge 1]
@@ -44289,7 +44289,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<text>Blood crystal arm{deck} 1 Vermilion SIGNI on your field, then shuffle your deck. All blood crystal armed SIGNI on your field get +5000 power and "[Auto]: When this SIGNI attacks, vanish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power." until end of turn.
 			
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 10000 power or higher.
 - Search your deck for 1 Vermilion SIGNI, reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
@@ -44348,7 +44348,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 [Enter] {G}{G}: Look at the top 2 cards of your deck. Add 1 of them to your hand, then put the other into your Ener Zone.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 10000 power or higher.
 - Add 1 card from your Ener Zone to your hand.</text>
 		</card>
 		<card>
@@ -44457,7 +44457,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 
 [Life Burst]: Choose one:
 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -44612,7 +44612,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 [Auto]: When this card is revealed from your hand by a card effect, you may pay {G} and discard 1 "Plesio, Water Phantom" from your hand. If you do, 1 Aquatic Beast SIGNI on your field gets [Lancer] until end of turn.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -45070,7 +45070,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Enter]: Choose two:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Add 1 non-colorless SIGNI from your trash to your hand.
 - Discard 1 card from your opponent's hand at random.
 - [Ener Charge 1]
@@ -45170,7 +45170,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 [Enter] {G}{G}: Look at the top 2 cards of your deck. Add 1 of them to your hand, then put the other into your Ener Zone.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 10000 power or higher.
 - Add 1 card from your Ener Zone to your hand.</text>
 		</card>
 		<card>
@@ -45273,8 +45273,8 @@ Choose up to three. If you chose two or more, this ARTS costs {1}{W}{W} more to 
 			
 Choose up to two. If you have a LoV LRIG, choose up to three instead:
 - Discard all cards in your hand, then draw 4 cards.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower. Discard 1 card from your hand.
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower. Discard 1 card from your hand.
 - Discard 1 level 4 SIGNI from your hand. If you do, vanish 1 SIGNI on your opponent's field.</text>
 		</card>
 		<card>
@@ -45837,9 +45837,9 @@ Put up to 2 green SIGNI from your Ener Zone onto your field. Those SIGNIs' [Ente
 			<text>This SPELL costs {1} less to use multiplied by your LRIG's level. This SPELL's cost cannot become {0} or lower.
 Choose one:
 - Search your deck for 1 SIGNI, reveal it, then add it to your hand. Shuffle your deck.
-- vanish 1 SIGNI on your opponent's field with 8000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 8000 power or lower.
 - Draw 2 cards, then discard 1 card from your hand.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - Put 1 SIGNI from your trash onto your field.</text>
 		</card>
 		<card>
@@ -46252,8 +46252,8 @@ Choose up to three. If you chose two or more, this ARTS costs {1}{W}{W} more to 
 			
 Choose up to two. If you have a LoV LRIG, choose up to three instead:
 - Discard all cards in your hand, then draw 4 cards.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower. Discard 1 card from your hand.
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower. Discard 1 card from your hand.
 - Discard 1 level 4 SIGNI from your hand. If you do, vanish 1 SIGNI on your opponent's field.</text>
 		</card>
 		<card>
@@ -46707,7 +46707,7 @@ This ARTS costs {B} less for each SIGNI on your field.
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, if 1 or more of your opponent's cards were sent to your opponent's deck by your card effects this turn, choose one. If 3 or more were sent, choose up to 2 instead:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Your opponent discards 1 card from their hand.
 - Draw 2 cards.
 
@@ -47070,7 +47070,7 @@ This ARTS costs {B} less for each SIGNI on your field.
 			<text>This SPELL costs {B} less to use for every 5 Dragon Beast SIGNI in your trash.
 Choose one:
 - Add up to 2 Dragon Beast SIGNI from your trash to your hand.
-- vanish all SIGNI on your opponent's field.
+- Vanish all SIGNI on your opponent's field.
 - If there are 7 or more cards in your opponent's Ener Zone, your opponent puts cards from their Ener Zone into the trash until there are 6 cards in their Ener Zone.</text>
 		</card>
 		<card>
@@ -47500,7 +47500,7 @@ Put up to 2 Demon SIGNI from your trash onto your field, then discard all cards 
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, if 1 or more of your opponent's cards were sent to your opponent's deck by your card effects this turn, choose one. If 3 or more were sent, choose up to 2 instead:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Your opponent discards 1 card from their hand.
 - Draw 2 cards.
 
@@ -47548,8 +47548,8 @@ Your LRIG gets "[Auto]: At the beginning of your Attack Phase, declare 1 number.
 		
 If you have a Mel LRIG, this ARTS costs {G}{G} less to use.
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
-- vanish 1 SIGNI on your opponent's field with [Assassin] or [Double Crush].
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with [Assassin] or [Double Crush].
 - Reveal the top 3 cards of your deck. Add all green cards from among them to your hand, then put the rest on the bottom of your deck in any order.
 - The next time you would take damage this turn, you do not take any damage instead.</text>
 		</card>
@@ -47829,7 +47829,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
 		</card>
 		<card>
 			<name>Octanitro, Natural Source Princess</name>
@@ -47891,7 +47891,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 
 [Life Burst]: Choose one:
 - Draw 1 card.
-- vanish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
+- Vanish 1 SIGNI on your opponent's field with 10000 power or higher.</text>
 		</card>
 		<card>
 			<name>Calci, Natural Bacteria Princess</name>
@@ -47988,7 +47988,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 3000 power or lower.</text>
+- Vanish 1 SIGNI on your opponent's field with 3000 power or lower.</text>
 		</card>
 		<card>
 			<name>Nitroglycol, Natural Source</name>
@@ -48087,7 +48087,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, it gets "[Auto]: When this SIGNI attacks, vanish 1 SIGNI on your opponent's field with 7000 power. If this SIGNI has a [[Charm]] attached to it, vanish 1 SIGNI on your opponent's field with 12000 power instead."
 		
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with power 12000 power or higher. 
+- Vanish 1 SIGNI on your opponent's field with power 12000 power or higher. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -48706,8 +48706,8 @@ Put the top card of your deck into the trash. If it was a SIGNI with an odd-numb
 			<text>Use Timing [Main Phase] [Attack Phase] 
 	
 Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
-- vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - 1 SIGNI on your field gets [Double Crush] until end of turn. If that SIGNI is level 4 or higher, it also gets [Assassin] until end of turn.
 - Add the top card of your deck to your Life Cloth. Discard 2 cards from your hand. </text>
 		</card>
@@ -48725,7 +48725,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.</text>
 		</card>
 		<card>
 			<name>Weddi, Natural Bacteria Princess (alt)</name>
@@ -48789,7 +48789,7 @@ Choose up to two:
 If you have a Tawil LRIG, this ARTS costs {R}{R} less to use.
 Choose up to one:
 - 1 red SIGNI in your trash becomes level 1 until end of turn. Put it onto the field as a level 1. At the end of the turn, return that SIGNI from the field to your hand.
-- vanish up to 2 SIGNI on your opponent's field whose total combined power equals 10000 or lower.
+- Vanish up to 2 SIGNI on your opponent's field whose total combined power equals 10000 or lower.
 - Your red LRIG loses its abilities and gets "[Auto] [2/Turn]: When a [Guard] is used on this LRIG's attack, up this LRIG." until end of turn.</text>
 		</card>
 		<card>
@@ -48805,7 +48805,7 @@ Choose up to one:
 If you have a Nanashi LRIG, this ARTS costs {B}{B} less to use.
 Choose up to two:
 - Put 1 SIGNI from your trash onto your field, ignoring its (Rise) condition. That SIGNI's [Enter] abilities do not trigger.
-- vanish 1 level 3 or lower SIGNI on your opponent's field.
+- Vanish 1 level 3 or lower SIGNI on your opponent's field.
 - If your opponent used an ARTS or SPELL this turn, put 1 SIGNI on your opponent's field into the trash.</text>
 		</card>
 		<card>
@@ -49294,7 +49294,7 @@ vanish 1 level 3 or lower SIGNI on your opponent's field. Then you may put 1 KEY
 [Auto] [4 or more level 3 or higher ♪Beats]: When this SIGNI attacks, vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 3000 power or lower. 
+- Vanish 1 SIGNI on your opponent's field with 3000 power or lower. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -50690,7 +50690,7 @@ Choose one:
 [Action] {G}{G}, {Down}: vanish 1 SIGNI on your opponent's field with 13000 power or higher.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher. 
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher. 
 - [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -52921,7 +52921,7 @@ Choose two:
 
 [Life Burst]: Choose 1:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Alice Mononobe</name>
@@ -53178,7 +53178,7 @@ You may pay {G}. If you do, [Ener Charge 2]. </text>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
 Choose up to four:
-= vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+= Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 = Put 1 level 3 or lower SIGNI from your trash onto your field.
 = Add 1 SIGNI from your Ener Zone to your hand.
 = Each player puts the top 7 cards from their deck into the trash.</text>
@@ -53937,7 +53937,7 @@ Choose up to four:
 [Enter]: Put 1 card in your opponent's trash under 1 SIGNI on the field with no cards under it.
 
 [Life Burst]: Choose one:
-= vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+= Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 = [Ener Charge 1]</text>
 		</card>
 		<card>
@@ -56157,7 +56157,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<cmc>6</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>vanish all SIGNI on your opponent's field with 12000 power or lower.
+			<text>Vanish all SIGNI on your opponent's field with 12000 power or lower.
 			
 [Life Burst]: Target 1 upped SIGNI on your opponent's field, and vanish it.</text>
 		</card>
@@ -63521,8 +63521,8 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SPELL - Layla Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Riding Machine SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-- vanish 1 Riding Machine SIGNI in [Drive] on your field. If you do, search your deck for 1 Riding Machine SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
+- Vanish 1 Riding Machine SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or lower.
+- Vanish 1 Riding Machine SIGNI in [Drive] on your field. If you do, search your deck for 1 Riding Machine SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Morpho Butterfly, Phantom Insect</name>
@@ -63585,7 +63585,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 [Enter]: Put up to 1 Sky Beast or Terra Beast SIGNI from your Ener Zone onto your field.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with power 12000 or higher.
+- Vanish 1 SIGNI on your opponent's field with power 12000 or higher.
 - Add 1 green SIGNI from your trash to your hand.</text>
 		</card>
 		<card>
@@ -65503,7 +65503,7 @@ All SIGNI on your field get [Assassin] while the SIGNI in front of it has 12000 
 			<manacost>R</manacost>
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
+			<text>Vanish 1 SIGNI on your opponent's field with 5000 power or lower.</text>
 		</card>
 		
 		<!-- SP03 -->
@@ -68104,7 +68104,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Succubus, Succubus of Pleasurable Sleep</name>
@@ -68129,7 +68129,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 
 [Encore] Put 2 cards from under your LRIG into the LRIG Trash.
 Choose one:
-- vanish 1 level 2 or lower SIGNI on your opponent's field.
+- Vanish 1 level 2 or lower SIGNI on your opponent's field.
 - Draw 1 card. If your opponent used a SPELL this turn, draw 1 more card.
 - If you have 0 cards in your Life Cloth, vanish 1 SIGNI on your opponent's field with 12000 power or lower.</text>
 		</card>
@@ -68400,7 +68400,7 @@ Choose one:
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower. </text>
 		</card>
 		<card>
 			<name>THREE OUT (SP31)</name>
@@ -68527,7 +68527,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 [Enter]: vanish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power.
 
 [Life Burst]: Choose one:
-- vanish 1 SIGNI on your opponent's field with 10000 power or lower. 
+- Vanish 1 SIGNI on your opponent's field with 10000 power or lower. 
 - Search your deck for 1 Brave SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
@@ -68735,7 +68735,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 [Enter] {B}{B}{B}: Put up to 2 level 3 or lower Demon SIGNI from your trash onto your field.
 
 [Life Burst]: Choose one:
-- vanish all Angel SIGNI on the field.
+- Vanish all Angel SIGNI on the field.
 - Put 1 Demon SIGNI from your trash onto your field or add it to your hand.</text>
 		</card>
 		<card>
@@ -70032,8 +70032,8 @@ This turn, the triggered abilities of SIGNI in all of your opponent's zones othe
 Choose up to four. This ARTS costs {2} more to use for each option chosen beyond the second:
 - Down 1 of your opponent's LRIGs.
 - Freeze 1 of your opponent's LRIGs.
-- vanish 1 SIGNI on your opponent's field with 7000 power or lower.
-- vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
+- Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
+- Vanish 1 non-RESONA SIGNI on your opponent's field. Discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>Sea and Sky Becoming One Blue (SP37)</name>
@@ -70064,7 +70064,7 @@ Choose up to two:
 			
 As you use this ARTS, you may discard up to 2 Image Spirit SIGNI from your hand. This ARTS costs {1}{B} less to use for each SIGNI discarded this way.
 Choose up to two:
-- vanish 1 level 3 or lower SIGNI on your opponent's field.
+- Vanish 1 level 3 or lower SIGNI on your opponent's field.
 - 1 SIGNI on your opponent's field gets −12000 power until end of turn.
 - Put 1 Image Spirit SIGNI from your trash onto your field. Its [Enter] abilities do not trigger. </text>
 		</card>
@@ -70153,7 +70153,7 @@ Choose up to two:
 			
 You may put 1 KEY on your field into the LRIG Trash as you use this ARTS. If you do, this ARTS costs {G}{G}{G} less to use.
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field with 12000 power or higher.
+- Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
 - Draw 2 cards.
 - When your opponent's LRIG attacks this turn, disable that attack.</text>
 		</card>
@@ -70255,7 +70255,7 @@ Choose one:
 			<tablerow>3</tablerow>
 			<text>This SPELL costs {R} less to use for each Coin your opponent has.
 Choose one:
-- vanish 1 SIGNI on your opponent's field. If you do, draw 1 card or [Ener Charge 1].
+- Vanish 1 SIGNI on your opponent's field. If you do, draw 1 card or [Ener Charge 1].
 - Draw 5 cards, then discard 2 cards from your hand at random.</text>
 		</card>
 		<card>
@@ -72042,7 +72042,7 @@ Choose up to two:
 Choose one:
 - Look at the top 2 cards of your deck. Add 1 from among them to your hand, then put the rest on the bottom of your deck in any order.
 - Down 1 level 3 or lower SIGNI on your opponent's field.
-- vanish 1 level 5 SIGNI on your opponent's field. </text>
+- Vanish 1 level 5 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
 			<name>Hanayo, Acting in Perfect Harmony (SPK16)</name>
@@ -72086,7 +72086,7 @@ Choose one:
 			<cmc>3</cmc>
 			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your opponent's field. If you do, draw 2 cards.</text>
+			<text>Vanish 1 SIGNI on your opponent's field. If you do, draw 2 cards.</text>
 		</card>
 		<card>
 			<name>Duranda, Greatsword (SPK16)</name>
@@ -72111,7 +72111,7 @@ Choose one:
 			<type>SPELL - (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-= vanish 1 SIGNI on your opponent's field with 10000 power or lower.
+= Vanish 1 SIGNI on your opponent's field with 10000 power or lower.
 = All SIGNI on your field get +3000 power until end of turn. </text>
 		</card>
 		<card>
@@ -73651,7 +73651,7 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Gun Smoke Flame Aura (PR31)</name>
@@ -73661,7 +73661,7 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<cmc>0</cmc>
 			<type>SPELL - Hanayo Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 10000 power or lower. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Code Art MGT (PR32)</name>
@@ -73709,7 +73709,7 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Gun Smoke Flame Aura (PR36)</name>
@@ -73719,7 +73719,7 @@ Add up to 2 cards from your Ener Zone to your hand.</text>
 			<cmc>0</cmc>
 			<type>SPELL - Hanayo Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 10000 power or lower. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 10000 power or lower. </text>
 		</card>
 		<card>
 			<name>Code Art MGT (PR37)</name>
@@ -74093,7 +74093,7 @@ Your opponent's SPELLs cost {3} more to use until end of turn. If there is a Pir
 			<cmc>0</cmc>
 			<type>SPELL - Urith Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -8000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Milulun Nought (PR80)</name>
@@ -74311,7 +74311,7 @@ Add 1 SPELL that shares a color with your LRIG from your trash to your hand.</te
 			<cmc>0</cmc>
 			<type>SPELL - Piruluk Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, discard 1 card from your opponent's hand at random. </text>
 		</card>
 		<card>
 			<name>Sacrifice (PR108)</name>
@@ -74321,7 +74321,7 @@ Add 1 SPELL that shares a color with your LRIG from your trash to your hand.</te
 			<cmc>0</cmc>
 			<type>SPELL - Midoriko Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field with 12000 power or higher. </text>
 		</card>
 		<card>
 			<name>Belphego, Lustful Sinner (PR109)</name>
@@ -74438,7 +74438,7 @@ The next white SPELL you use this turn costs {W}{W} less and cannot be canceled 
 			<cmc>0</cmc>
 			<type>SPELL - Tama Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Oversalvage (PR135)</name>
@@ -74497,8 +74497,8 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<type>SPELL - Yuzuki Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
-- vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
+- Vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI with 8000 power or lower.
+- Vanish 1 SIGNI on your field. If you do, put 1 card with [Multi Ener] in your opponent's Ener Zone into the trash. </text>
 		</card>
 		<card>
 			<name>Code Art DTP (PR140)</name>
@@ -74533,8 +74533,8 @@ Declare 1 number, then reveal the top 3 cards of your deck. If there is a SIGNI 
 			<type>SPELL - Iona Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 white SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck.」
-- vanish 1 black SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
+- Vanish 1 white SIGNI on your field. If you do, search your deck for 1 white SIGNI, reveal it, then add it to your hand. Then shuffle your deck.」
+- Vanish 1 black SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -7000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>SEARCHER (PR148)</name>
@@ -74845,8 +74845,8 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<type>SPELL - Sashe Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 non-RESONA SIGNI on your field. If you do, search your deck for 1 Cosmos SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
-- vanish 1 RESONA on your field. If you do, return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand. </text>
+- Vanish 1 non-RESONA SIGNI on your field. If you do, search your deck for 1 Cosmos SIGNI, reveal it, then add it to your hand. Then shuffle your deck.
+- Vanish 1 RESONA on your field. If you do, return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand. </text>
 		</card>
 		<card>
 			<name>Flathro Captain, Roaring Flame (PR175)</name>
@@ -74867,7 +74867,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<cmc>0</cmc>
 			<type>SPELL - Milulun Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 SPELL other than "MAGIC HAND", reveal it, then add it into your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Extravaganza (PR177)</name>
@@ -74877,7 +74877,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<cmc>0</cmc>
 			<type>SPELL - Anne Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
+			<text>Vanish 1 SIGNI on your field. If you do, reveal the top 4 cards of your deck. Add 1 Beautiful Technique SIGNI from among them into your hand or put it into your Ener Zone, then put the rest on the bottom of your deck in any order. </text>
 		</card>
 		<card>
 			<name>Heike, Phantom Insect (PR178)</name>
@@ -75239,7 +75239,7 @@ Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. 
 			<cmc>0</cmc>
 			<type>SPELL - Eldora Limited</type>
 			<tablerow>2</tablerow>
-			<text>vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
+			<text>Vanish 1 SIGNI on your field. If you do, search your deck for 1 non-colorless card with [Life Burst], reveal it, then add it to your hand. Then shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Moisturizer (PR216)</name>
@@ -75263,8 +75263,8 @@ Search your deck for 1 SIGNI with (Cross), reveal it, then add it to your hand. 
 			<type>SPELL - Myu Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 non-RESONA SIGNI on your field. If you do, add 1 Misfortune Insect SIGNI from your trash to your hand.
-- vanish 1 RESONA on your field. If you do, 1 SIGNI on your opponent's field gets −10000 power until end of turn. </text>
+- Vanish 1 non-RESONA SIGNI on your field. If you do, add 1 Misfortune Insect SIGNI from your trash to your hand.
+- Vanish 1 RESONA on your field. If you do, 1 SIGNI on your opponent's field gets −10000 power until end of turn. </text>
 		</card>
 		<card>
 			<name>Black Desire (PR223)</name>
@@ -75506,7 +75506,7 @@ Choose one:
 			<cmc>0</cmc>
 			<type>SPELL - Tawil Limited</type>
 			<tablerow>3</tablerow>
-			<text>vanish 1 Angel SIGNI on your field. If you do, search your deck for 1 Angel SIGNI and either put it onto the field or add it to your hand. Then shuffle your deck. </text>
+			<text>Vanish 1 Angel SIGNI on your field. If you do, search your deck for 1 Angel SIGNI and either put it onto the field or add it to your hand. Then shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Apato, Phantom Dragon (PR246)</name>
@@ -75543,8 +75543,8 @@ Choose one:
 			<type>SPELL - Aiyai Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, search your deck for 1 Playground Equipment SIGNI and put it into your Ener Zone. Then shuffle your deck.
-- vanish 1 SIGNI on your field. If you do, add 1 Playground Equipment SIGNI from your Ener Zone to your hand. </text>
+- Vanish 1 SIGNI on your field. If you do, search your deck for 1 Playground Equipment SIGNI and put it into your Ener Zone. Then shuffle your deck.
+- Vanish 1 SIGNI on your field. If you do, add 1 Playground Equipment SIGNI from your Ener Zone to your hand. </text>
 		</card>
 		<card>
 			<name>Charm Tactics (PR249)</name>
@@ -76296,7 +76296,7 @@ vanish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may discard up to 2 Brave SIGNI from your hand, then choose a number of these effects to use up to the number of SIGNI discarded this way:
-- vanish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power.
+- Vanish 1 SIGNI on your opponent's field with power lower than or equal to this SIGNI's power.
 - Put 1 level 2 or lower Brave SIGNI without (Rise) from your trash onto your field.
 
 [Life Burst]: Draw 1 card. </text>
@@ -76324,8 +76324,8 @@ vanish 1 SIGNI on your opponent's field with 15000 power or higher. If your LRIG
 			<type>SPELL - Aya Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Trick SIGNI on your field. If you do, look at the top 3 cards of your deck. You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
-- vanish 1 Trick SIGNI on your field. If you do, add 1 Trap from your field into your hand.</text>
+- Vanish 1 Trick SIGNI on your field. If you do, look at the top 3 cards of your deck. You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+- Vanish 1 Trick SIGNI on your field. If you do, add 1 Trap from your field into your hand.</text>
 		</card>
 		<card>
 			<name>Code Eat Unadon (PR332)</name>
@@ -76626,7 +76626,7 @@ If you paid an additional {B} as you used this ARTS, put 1 SIGNI that is 1 level
 			<type>SPELL - Dona Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 Outcast SIGNI on your field. If you do, search your deck for 1 Outcast SIGNI, reveal it, then add it into your hand. Then shuffle your deck.
+- Vanish 1 Outcast SIGNI on your field. If you do, search your deck for 1 Outcast SIGNI, reveal it, then add it into your hand. Then shuffle your deck.
 - Put 2 Outcast SIGNI from your field into the trash. If you do, return 1 SIGNI on your opponent's field to its owner's hand. </text>
 		</card>
 		<card>
@@ -76753,7 +76753,7 @@ Put 1 black SIGNI from your trash onto your field. If you bet, put 2 black SIGNI
 Choose one:
 - Look at the top 2 cards of your deck. Add 1 from among them to your hand, then put the rest on the bottom of your deck in any order.
 - Down 1 level 3 or lower SIGNI on your opponent's field.
-- vanish 1 level 5 SIGNI on your opponent's field. </text>
+- Vanish 1 level 5 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
 			<name>≡Denecy≡, Natural Star</name>
@@ -76807,8 +76807,8 @@ Choose one:
 			<type>SPELL</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- vanish 1 SIGNI on your field. If you do, draw 1 card, then exclude this card from the game.
-- vanish 1 SIGNI on your field. If you do, put the top card of your deck into your Ener Zone, then exclude this card from the game. </text>
+- Vanish 1 SIGNI on your field. If you do, draw 1 card, then exclude this card from the game.
+- Vanish 1 SIGNI on your field. If you do, put the top card of your deck into your Ener Zone, then exclude this card from the game. </text>
 		</card>
 		<card>
 			<name>Suteko -0-</name>
@@ -77381,7 +77381,7 @@ You may use 1 ARTS in your opponent's LRIG Trash as if it was in your LRIG deck 
 Choose one:
 - Look at the top 2 cards of your deck. Add 1 from among them to your hand, then put the rest on the bottom of your deck in any order.
 - Down 1 level 3 or lower SIGNI on your opponent's field.
-- vanish 1 level 5 SIGNI on your opponent's field. </text>
+- Vanish 1 level 5 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
 			<name>Anne, Locus of Miracles (PR437)</name>
@@ -77417,7 +77417,7 @@ Choose one:
 
 If your LRIG is level 4 or lower and your opponent's LRIG is level 5 or higher, this ARTS's cost becomes {1}.
 Choose up to two:
-- vanish 1 SIGNI on your opponent's field.
+- Vanish 1 SIGNI on your opponent's field.
 - Draw 2 cards.
 - Put the top 2 cards of your deck into your Ener Zone.
 - Put 1 SIGNI that shares a color with your LRIG from your trash onto your field. The [Enter] abilities of that SIGNI do not trigger. </text>
@@ -78002,7 +78002,7 @@ During this game, LRIGs on all fields get Bukubu Tama LRIG type in addition to t
 		</card>
 		<card>
 			<name>Lucky Punch</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-474.jpg"></set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-474.jpg">PR</set>
 			<color>W</color>
 			<manacost></manacost>
 			<cmc>0</cmc>
@@ -78802,7 +78802,7 @@ Put all SIGNI from your field into the trash and discard all cards in your hand.
 			<tablerow>3</tablerow>
 			<text>This SPELL costs {R} less to use for each Coin your opponent has.
 Choose one:
-- vanish 1 SIGNI on your opponent's field. If you do, draw 1 card or [Ener Charge 1].
+- Vanish 1 SIGNI on your opponent's field. If you do, draw 1 card or [Ener Charge 1].
 - Draw 5 cards, then discard 2 cards from your hand at random.</text>
 		</card>
 		<card>
