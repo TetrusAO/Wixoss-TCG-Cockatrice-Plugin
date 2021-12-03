@@ -11600,7 +11600,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Harmonic Call</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Harmony%20Call.jpg">WDi-01</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Harmonic%20Call.jpg">WDi-01</set>
 			<color>GRU</color>
 			<manacost>8</manacost>
 			<cmc>8</cmc>
@@ -11971,7 +11971,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Samba Carnival</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sanba%20Carnival.jpg">WDi-02</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sanma%20Carnival.jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
@@ -54301,7 +54301,7 @@ Target up to 2 SIGNI on your field with 15000 power or higher, and they get [Lan
 		</card>
 		<card>
 			<name>Chime of the Blessed Key</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Song%20of%20the%20Key%20of%20Blessing.jpg">WXi-00</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Chime%20of%20the%20Blessed%20Key.jpg">WXi-00</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
