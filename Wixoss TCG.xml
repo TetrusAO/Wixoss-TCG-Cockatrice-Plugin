@@ -11971,7 +11971,7 @@ Look at the top 8 cards of your deck. Put up to 1 level 1, 1 level 2, and 1 leve
 		</card>
 		<card>
 			<name>Samba Carnival</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sanma%20Carnival.jpg">WDi-02</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Samba%20Carnival.jpg">WDi-02</set>
 			<color>W</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
@@ -55546,7 +55546,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Enter]: Target 1 SIGNI on your opponent's field, and put either on the top or bottom of its owner's deck. If that SIGNI was level 2 or lower, your opponent discards 1 card from their hand.</text>
+[Enter]: Target 1 SIGNI on your opponent's field, and put it either on the top or bottom of its owner's deck. If that SIGNI was level 2 or lower, your opponent discards 1 card from their hand.</text>
 		</card>
 		<card>
 			<name>Rei＊Cutting Destruction</name>
@@ -55835,7 +55835,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<type>SIGNI - Nature Tone: Cosmos (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter]: Target up to 4 level 1 SIGNI without [Guard] in your trash, and add them to your hand.
+			<text>[Enter]: Target up to 4 level 1 SIGNI without [Guard] in your trash, and shuffle them into your deck.
 [Action] [1/Turn] {W}: Put the top 4 cards of your deck into the trash. If 2 or more level 1 SIGNI were put into the trash this way, when a SIGNI on your opponent's field would be vanished this turn, it is put into the trash instead of the Ener Zone.</text>
 		</card>
 		<card>
