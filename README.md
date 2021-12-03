@@ -6,7 +6,7 @@ Welcome, and thank you for downloading this package for Wixoss TCG. This downloa
 
 I do not own anything related to the Wixoss franchise, including its anime series, trading card game, manga, and any other form of product or service. This is a package containing information that is readily available through multiple public sources on the internet. Everything included here is done without profit and solely to help bring personal enjoyment and spread awareness of the great game that is Wixoss TCG.
 
-**Now, let’s help you add this game to [Cockatrice](https://cockatrice.github.io/):**
+**Directions for first time install [Cockatrice](https://cockatrice.github.io/):**
 
 Instructions are Windows-only and this will completely remove all Magic: the Gathering card data from the program. If you want to keep MTG around, follow the official Cockatrice Wiki [article](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) for custom set functionality, under the "to add custom sets follow these steps" section.  
 
@@ -24,17 +24,46 @@ Instructions are Windows-only and this will completely remove all Magic: the Gat
 
 4. Close File Explorer Options.
 
-5. In Cockatrice, at the buttons at the top, go to Card Database -> Open custom sets folder.
+5. In Cockatrice, head to Card Database -> Manage Sets.  You should see a bunch of sets for Magic: the Gathering listed.
 
-6. Move the Wixoss TCG.xml file you downloaded from this GitHub page into this folder.
+6. Click "Disable all sets",  then click a checkbox on exactly one set in the set list to re-enable it. Make a note of what you enabled here.
 
-7. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
+7. Close the "Manage Sets" window.
 
-8. Delete cards.xml
+8. Go back into Card Database, then "Open custom sets folder."
 
-9. Close Cockatrice, then reopen it. It will show a new prompt showing a bunch of sets being added and is asking if you want to enable them or not. Click yes to that.
+9. Move the Wixoss TCG.xml file you downloaded from this GitHub page into this folder.
 
-10. Wixoss is fully added to Cockatrice. Enjoy! Here are some tips below that may help clear up some deckbuilding and gameplay confusion:
+10. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
+
+11. Delete cards.xml
+
+12. Close Cockatrice, then reopen it. It will show a new prompt showing a bunch of sets being added and is asking if you want to enable them or not. Click yes to that.
+
+13. Go to Card Database -> Manage Sets.  Find the set you re-enabled in step 6 and disable it again.  Close the window.
+
+13. Wixoss is fully added to Cockatrice. Enjoy! 
+
+-- **Directions for updating the plugin for new content updates:** --
+
+1. In this GitHub webpage that contains the Wixoss plugin, click the "Wixoss TCG.xml" file in the file list.
+
+2. Right click the "Download" button, then select "Save Link As..." and save it to anywhere you can easily access later.
+
+3. In Cockatrice, go to Card Database -> Open Custom Sets folder
+
+4. Move the newly downloaded Wixoss TCG.xml you got from step 2 into this folder.  If it asks you to replace the old Wixoss TCG.xml with it, say yes.
+
+5. Close the custom sets window.
+
+6. Back in Cockatrice, go into Card Database -> Open custom image folder.
+
+7. Click "pics" on the address bar above the folder contents. You should see two folders names "CUSTOM" and "downloadedPics"
+
+8. Delete "downloadedPics".  This will tell Cockatrice to redownload these images upon encountering them in the client again, letting you see any new changes to the image files I made on my end.
+
+9. Your Wixoss plugin is now fully updated.  Enjoy the new cards and images!
+
 
 -- **Some useful functions to help operate Wixoss TCG on Cockatrice** --
 
