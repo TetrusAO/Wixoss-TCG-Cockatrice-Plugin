@@ -2567,7 +2567,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -2591,7 +2591,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -2613,7 +2613,7 @@ Put the top 5 cards of your deck into the trash. If 3 or more SIGNI with the sam
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -5548,7 +5548,7 @@ Choose one:
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Draw 1 card. Use this ability only if there is a level 3 or higher SIGNI on your opponent's field. </text>
@@ -5559,7 +5559,7 @@ Choose one:
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: If your opponent has 2 or less cards in their hand, draw 1 card.
@@ -5572,7 +5572,7 @@ Choose one:
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: If there is a SIGNI with 1000 power on your opponent's field, draw 1 card.
@@ -19632,7 +19632,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: You cannot put this SIGNI from the field into the trash except by a card's effect.
@@ -19645,7 +19645,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {W}{W}: Return 1 level 3 or lower SIGNI from your opponent's field to its owner's hand.
@@ -19834,7 +19834,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -19845,7 +19845,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 Cosmos SIGNI on your field, this SIGNI's power becomes 14000. </text>
@@ -19856,7 +19856,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] Discard 1 Cosmos SIGNI from your hand: Put 1 level 3 or lower white RESONA from your LRIG Deck onto your field, ignoring its (Play Condition). Return that RESONA from your field to its owner's LRIG Deck at end of turn.
@@ -19880,7 +19880,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 Cosmos SIGNI on your field, this SIGNI's power becomes 9000. </text>
@@ -19904,7 +19904,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 Cosmos SIGNI on your field, this SIGNI's power becomes 6000. </text>
@@ -20683,7 +20683,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: When this SIGNI attacks, if an "Alscha, Natural Star" and a "Cor Caro, Natural Star" is on your field, put 1 SIGNI from your opponent's field into the trash. </text>
@@ -20868,7 +20868,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While another Cosmos SIGNI is on your field, this SIGNI's power becomes 12000. </text>
@@ -20879,7 +20879,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While an "Alscha, Natural Star" or a "Diadem, Natural Star" is on your field, this SIGNI's power becomes 8000.
@@ -20891,7 +20891,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While another Cosmos SIGNI is on your field, this SIGNI's power becomes 8000.</text>
@@ -20902,7 +20902,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While a "Cor Caro, Natural Star" or a "Diadem, Natural Star" is on your field, this SIGNI's power becomes 5000.
@@ -20914,7 +20914,7 @@ vanish 1 SIGNI on your opponent's field. Your opponent cannot put SIGNI onto the
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While another Cosmos SIGNI is on your field, this SIGNI's power becomes 5000.</text>
@@ -22685,7 +22685,7 @@ Draw 1 card.
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space -Sashe Limited</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos -Sashe Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: When a RESONA is put onto your field, up this SIGNI.
@@ -23034,7 +23034,7 @@ Choose one:
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from the field into the trash to pay for the (Play Condition) of a RESONA, draw 1 card.
@@ -23047,7 +23047,7 @@ Choose one:
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there is a RESONA on your field, this SIGNI's power becomes 8000.
@@ -23071,7 +23071,7 @@ Choose one:
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there is a RESONA on your field, this SIGNI's power becomes 8000.
@@ -25133,7 +25133,7 @@ Put 1 SIGNI on your opponent's field on top of its owner's deck. Then if you hav
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, disable one LRIG attack)
@@ -26725,7 +26725,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}, Discard 1 Cosmos SIGNI from your hand: Search your deck for 1 level 3 or lower Cosmos SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
@@ -26747,7 +26747,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}, Discard 1 Cosmos SIGNI from your hand: Search your deck for 1 level 2 or lower Cosmos SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
@@ -28741,7 +28741,7 @@ Put the top card of your deck into your Ener Zone. If you bet, put the top 2 car
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: Each time this SIGNI crushes a card in your opponent's Life Cloth, you may pay {1}. If you do, search your deck for 1 card and add it to your hand. Shuffle your deck.
@@ -28897,7 +28897,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Draw 1 card. Use this ability only if there is a level 3 or higher SIGNI on your opponent's field. </text>
@@ -28908,7 +28908,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: If your opponent has 2 or less cards in their hand, draw 1 card.
@@ -28921,7 +28921,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: If there is a SIGNI with 1000 power on your opponent's field, draw 1 card.
@@ -29295,7 +29295,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}, Put 1 Cosmos SIGNI from your Ener Zone into the trash: Vanish all SIGNI on your opponent's field with 7000 power or lower. </text>
@@ -29306,7 +29306,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 SIGNI on your opponent's field, this SIGNI's power becomes 12000. </text>
@@ -29317,7 +29317,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 SIGNI on your opponent's field, this SIGNI's power becomes 8000.</text>
@@ -29328,7 +29328,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 3 SIGNI on your opponent's field, this SIGNI's power becomes 5000.</text>
@@ -31734,7 +31734,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may shuffle 4 Cosmos SIGNI with different levels from your trash into your deck. If you do, this SIGNI gets [Double Crush] until end of turn.
@@ -32116,7 +32116,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -32127,7 +32127,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] Discard 1 Cosmos SIGNI from your hand: Search your deck for 1 SIGNI with the same level as the SIGNI discarded this way, reveal it, then add it to your hand. Shuffle your deck.
@@ -32140,7 +32140,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -32151,7 +32151,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is in your deck, hand, or trash, when 1 of your card effects refers to this SIGNI's level, this SIGNI's level can be treated as any level from 1 to 4. (This SIGNI's actual level is not changed through this effect.)</text>
@@ -32162,7 +32162,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -32173,7 +32173,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is in your deck, hand, or trash, when 1 of your card effects refers to this SIGNI's level, this SIGNI's level can be treated as any level from 1 to 3. (This SIGNI's actual level is not changed through this effect.)</text>
@@ -33223,7 +33223,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [2/Turn]: When this SIGNI crushes 1 card in your opponent's Life Cloth, if your opponent has more Life Cloth than you, up this SIGNI.
@@ -33426,7 +33426,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Reveal the top card of your deck. If it is a Cosmos SIGNI, add it to your hand.
@@ -33644,7 +33644,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: When your card's effect refers to the level of a Cosmos SIGNI in your deck, you may treat the level of that SIGNI as level 4. </text>
@@ -33655,7 +33655,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is in your deck, hand, or trash, when your card's effect refers to this SIGNI's level, this SIGNI's level can be treated as any level from 1 to 4.
@@ -33667,7 +33667,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is in your deck, hand, or trash, when your card's effect refers to this SIGNI's level, this SIGNI's level can be treated as level 4.
@@ -33679,7 +33679,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a level 4 SIGNI, vanish 1 SIGNI on your opponent's field with 5000 power or lower.
@@ -33692,7 +33692,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is in your deck, hand, or trash, when your card's effect refers to this SIGNI's level, this SIGNI's level can be treated as level 4.
@@ -33704,7 +33704,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, reveal the top card of your deck. If it is a level 4 SIGNI, either put it into your Ener Zone or add it to your hand.
@@ -36061,7 +36061,7 @@ Choose up to two:
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All other SIGNI on your field cannot be downed by your opponent's card effects.
@@ -36409,7 +36409,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: RESONAs in your LRIG deck get [Attack Phase] for their (Play Condition) in addition to their other timings.
@@ -37535,7 +37535,7 @@ Choose one:
 			<color>W</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI has all classes.
@@ -37891,7 +37891,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from your field into your trash to pay for the (Play Condition) of a RESONA, you may pay {W}. If you do, return 1 SIGNI on your opponent's field to its owner's hand. </text>
@@ -37902,7 +37902,7 @@ Choose up to two:
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]: When a RESONA is put onto your field, either put the top card of your deck into the Ener Zone or draw 1 card.
@@ -51819,7 +51819,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space / Image Spirit: Brave / Image Spirit: Beautiful Technique (KS)</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos / Image Spirit: Brave / Image Spirit: Beautiful Technique (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {B}: Reveal the top 4 cards of your deck. 1 SIGNI on your opponent's field gets −1000 power multiplied by the total combined level of the SIGNI revealed this way until end of turn. Put the revealed cards into the trash.
@@ -53629,7 +53629,7 @@ Choose up to four:
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI crushes a card in your opponent's Life Cloth, 1 SIGNI on your opponent's field gets -1000 power multiplied by your opponent's LRIG's level until of turn.
@@ -55724,7 +55724,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Enter]: Each player shuffles all cards on their fields and trashes into their owners' decks. Each player then looks at the top 7 cards of their deck, puts any number of SIGNI from among them onto the field, then puts the rest into the trash. The [Enter] abilities of these SIGNI don't trigger.</text>
+[Enter]: Each player shuffles all cards on their SIGNI Zones and trashes into their owners' decks. Each player then looks at the top 7 cards of their deck, puts any number of SIGNI from among their cards onto the field, then puts the rest into the trash. The [Enter] abilities of these SIGNI don't trigger.</text>
 		</card>
 		<card>
 			<name>Madoka//Slide</name>
@@ -68139,7 +68139,7 @@ Choose one:
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: If there is a RESONA on your field, choose one:
@@ -68357,7 +68357,7 @@ Choose one:
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI is put from the field into the trash to pay for the (Play Condition) of a RESONA, draw 1 card.
@@ -68568,7 +68568,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>R</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: Each time this SIGNI crushes 1 of your opponent's Life Cloth, you may pay {1}. If you do, search your deck for 1 card and add it to your hand. Shuffle your deck.
@@ -76761,7 +76761,7 @@ Choose one:
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - Nature Spirit: Space</type>
+			<type>SIGNI|LB - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: Declare 1 number, then reveal the top card of your deck. If it is a SIGNI with the same level as the declared number, put it onto your field.
@@ -77257,7 +77257,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Nature Spirit: Space</type>
+			<type>SIGNI - Nature Spirit: Cosmos</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, your opponent cannot use ARTS or SPELLs until the beginning of your next turn.
