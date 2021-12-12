@@ -3359,7 +3359,7 @@ Choose one:
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: Your opponent skips their ener phase.
-[Constant]: While there is an "Energe, Original Spear" on your field, when a SIGNI on your opponent's field would be banished, put it into the trash instead of the Ener Zone.
+[Constant]: While there is an "Energe, Original Spear" on your field, when a SIGNI on your opponent's field would be vanished, put it into the trash instead of the Ener Zone.
 [Enter] {W}{W}{W}: Search your deck for up to 2 Armed SIGNI and put them onto your field. Shuffle your deck.
 
 [Life Burst]: Search your deck for 1 card, reveal it, then add it to your hand. Shuffle your deck. </text>
@@ -3375,7 +3375,7 @@ Choose one:
 			<tablerow>2</tablerow>
 			<text>[Constant]: All cards in your Ener Zone gain [Multi Ener].
 [Enter] {W}: Up 1 SIGNI on your field.
-[Action] {W}{W}:  This turn, if an SIGNI on your opponent's field is banished, put it into the trash instead of being put into the Ener Zone.
+[Action] {W}{W}:  This turn, if an SIGNI on your opponent's field is vanished, put it into the trash instead of being put into the Ener Zone.
 
 [Life Burst]: Search your deck for 1 white card, reveal it, then add it to your hand.  Then shuffle your deck.</text>
 		</card>
@@ -3674,7 +3674,7 @@ Your SIGNI's [Enter] abilities don't trigger this turn. </text>
 			<type>SIGNI|LB - Image Spirit: Demon - Urith Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: Whenever a Demon SIGNI on your field is banished, put 1 SIGNI with a lower level than that SIGNI from your trash onto your field.
+			<text>[Constant]: Whenever a Demon SIGNI on your field is vanished, put 1 SIGNI with a lower level than that SIGNI from your trash onto your field.
 [Enter]: Put all other SIGNI on your field into the trash. Then vanish 1 SIGNI on your opponent's field for each SIGNI put into the trash this way,.
 
 [Life Burst]: Choose one:
@@ -3690,7 +3690,7 @@ Your SIGNI's [Enter] abilities don't trigger this turn. </text>
 			<type>SIGNI - Image Spirit: Demon - Urith Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may put this SIGNI from your Ener Zone onto your field.
+			<text>[Constant]: When this SIGNI is vanished, you may put this SIGNI from your Ener Zone onto your field.
 [Enter]: Discard 1 card from your hand. If you do not, put this SIGNI into the trash. </text>
 		</card>
 		<card>
@@ -3703,7 +3703,7 @@ Your SIGNI's [Enter] abilities don't trigger this turn. </text>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: Put 1 SIGNI from your field into the trash.
-[Constant]: When a Demon SIGNI on your field is banished, vanish 1 SIGNI on your opponent's field.
+[Constant]: When a Demon SIGNI on your field is vanished, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Reveal the top 5 cards of your deck. Add 1 Demon SIGNI from among them to your hand, then put the rest into the trash.</text>
 		</card>
@@ -4005,7 +4005,7 @@ Your LRIG gets [Double Crush] until end of turn. Your opponent cannot [Guard] wi
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: When a card is put from your opponent's Ener Zone into the trash by your card's effect, you may put this SIGNI from your trash onto your field.
-[Constant]: When this SIGNI is banished, vanish 1 SIGNI on your opponent's field with 10000 power or lower.
+[Constant]: When this SIGNI is vanished, vanish 1 SIGNI on your opponent's field with 10000 power or lower.
 
 [Life Burst]: Add up to 2 Dragon Beast SIGNI from your trash to your hand. </text>
 		</card>
@@ -4287,7 +4287,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<type>SIGNI|LB - Machine Spirit: Electronics - Piruluk Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While your opponent has 0 cards in their hand, this SIGNI cannot be banished.
+			<text>[Constant]: While your opponent has 0 cards in their hand, this SIGNI cannot be vanished.
 [Enter]: Each player discards 1 card from their hand.
 [Enter]: If you have 1 or less cards in your hand, draw cards until you have 2 cards in your hand.
 
@@ -4442,7 +4442,7 @@ vanish 1 SIGNI on your opponent's field.
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Enter] Pay 1 Coin: Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-[Action] [1/Turn] {R}{R}{R}: 1 SIGNI with (Rise) on your field gets "When the SIGNI in front of this SIGNI is banished, up this SIGNI." until end of turn. </text>
+[Action] [1/Turn] {R}{R}{R}: 1 SIGNI with (Rise) on your field gets "When the SIGNI in front of this SIGNI is vanished, up this SIGNI." until end of turn. </text>
 		</card>
 		<card>
 			<name>Ril, Memory of the Blue Sky</name>
@@ -4780,7 +4780,7 @@ All SIGNI on your field get +2000 power until end of turn. Then, if you bet, 1 S
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is accessorized, it gets +3000 power.
-[Auto]: When this SIGNI is banished, if this SIGNI was accessorized, put 1 SIGNI with (Accessory) from your trash into the Ener Zone.
+[Auto]: When this SIGNI is vanished, if this SIGNI was accessorized, put 1 SIGNI with (Accessory) from your trash into the Ener Zone.
 
 [Life Burst]:  Search your deck for 1 SIGNI with (Accessory) and put it into your Ener Zone. Then you may attach that SIGNI to 1 of your SIGNI as an [Accessory]. Shuffle your deck. </text>
 		</card>
@@ -5270,7 +5270,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 			<type>SIGNI - Image Spirit: Wisdom - Mama Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant] (Wisdom = 7): This SIGNI cannot be banished. (This ability is only active while the total combined levels of all Wisdom SIGNI on your field equals exactly 7.)
+			<text>[Constant] (Wisdom = 7): This SIGNI cannot be vanished. (This ability is only active while the total combined levels of all Wisdom SIGNI on your field equals exactly 7.)
 [Constant] (Wisdom = 10): This SIGNI gets +2000 power and [Lancer]. (When a SIGNI with [Lancer] vanishes an opponent's SIGNI by battle, it crushes 1 of your opponent's Life Cloth.)</text>
 		</card>
 		<card>
@@ -5378,7 +5378,7 @@ Each player puts the top 3 cards of their deck into their Ener Zone. </text>
 - Level 1: 1 SIGNI on your field gets [Double Crush] until end of turn. 
 - Level 2: 1 SIGNI on your field gets [Assassin] until end of turn.
 - Level 3: 1 SIGNI on your field gets [Lancer] until end of turn.
-- Level 4: 1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+- Level 4: 1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.
 
 [Enter] Pay 2 Coins: Reveal the top card of your deck. If the revealed card is a SIGNI, draw a number of cards equal to that SIGNI's level. </text>
 		</card>
@@ -5453,7 +5453,7 @@ Choose one. If you bet, repeat this card effect once: (You may choose the same o
 - 1 SIGNI on the field gets [Assassin] until end of turn.
 - 1 SIGNI on the field gets [Lancer] until end of turn.
 - 1 SIGNI on the field gets [Double Crush] until end of turn.
-- 1 SIGNI on the field gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on the field gets "This SIGNI cannot be vanished." until end of turn.
 - 1 SIGNI on the field gets "This SIGNI cannot be cannot attack." until end of turn.</text>
 		</card>
 		<card>
@@ -5588,7 +5588,7 @@ Choose one:
 			<type>SIGNI|LB - Nature Spirit: Cosmos - Carnival Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is either banished, put from the field into the trash by a card effect, or put into the trash to pay for the (Play Condition) of a RESONA, vanish 1 SIGNI on your opponent's field with 3000 power or lower.
+			<text>[Auto]: When this SIGNI is either vanished, put from the field into the trash by a card effect, or put into the trash to pay for the (Play Condition) of a RESONA, vanish 1 SIGNI on your opponent's field with 3000 power or lower.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -5891,7 +5891,7 @@ Put 4 cards from under your LRIG into your LRIG Trash. If you do, put up to 2 SI
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: You may put the top card of your deck under this card as a [Charm]. (Attaching a [Charm] to a SIGNI is done by placing the [Charm] facedown under that SIGNI. A SIGNI can only have 1 [Charm] attached at a time. When a SIGNI with a [Charm] attached leaves the field, put its [Charm] into the trash.)
-[Constant]: If 1 of your Demon SIGNI would be banished, you may put that SIGNI's [Charm] into the trash instead. 
+[Constant]: If 1 of your Demon SIGNI would be vanished, you may put that SIGNI's [Charm] into the trash instead. 
 
 [Life Burst]: Put the top 3 cards of your deck into the trash. Then, add 1 Demon SIGNI from your trash to your hand.</text>
 		</card>
@@ -6430,7 +6430,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck. Then, if you b
 			<pt>18000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets −2000 power for each card in your Life Cloth.
-[Constant]: While there are 0 cards in your Life Cloth, this SIGNI cannot be banished.
+[Constant]: While there are 0 cards in your Life Cloth, this SIGNI cannot be vanished.
 [Enter]: Look at the top card of your Life Cloth. You may crush it.
 
 [Life Burst]: If you have 0 cards in your Life Cloth, add the top card of your deck to your Life Cloth, then draw 1 card. </text>
@@ -8802,7 +8802,7 @@ Bloom 1 [Seed] on 1 of your SIGNI Zones. If there is a SIGNI on that SIGNI Zone,
 			<type>SIGNI|LB - Nature Spirit: Plant - Iona Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI gets banished, you may discard 1 Plant SIGNI from your hand. If you do, reveal the top card of your deck. If it is a Plant SIGNI, put it onto your field.
+			<text>[Auto]: When this SIGNI gets vanished, you may discard 1 Plant SIGNI from your hand. If you do, reveal the top card of your deck. If it is a Plant SIGNI, put it onto your field.
 [Auto]: When this [Seed] is bloomed into a SIGNI, choose one:
 - Draw 1 card, then [Ener Charge 1].
 - Return 1 SIGNI on your opponent's field to its owner's hand.
@@ -8854,7 +8854,7 @@ Bloom 1 [Seed] on 1 of your SIGNI Zones. If there is a SIGNI on that SIGNI Zone,
 			<type>SIGNI - Nature Spirit: Plant - Iona Limited (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI gets banished, you may pay {1}{W}. If you do, put this SIGNI from your Ener Zone onto your field.</text>
+			<text>[Auto]: When this SIGNI gets vanished, you may pay {1}{W}. If you do, put this SIGNI from your Ener Zone onto your field.</text>
 		</card>
 		<card>
 			<name>Pansy, Natural Plant</name>
@@ -8970,7 +8970,7 @@ Bloom 1 [Seed] on 1 of your SIGNI Zones. If there is a SIGNI on that SIGNI Zone,
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 
-1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn. The next time you would be damaged this turn, you are not damaged instead.</text>
+1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn. The next time you would be damaged this turn, you are not damaged instead.</text>
 		</card>
 		<card>
 			<name>Expansion of Blood Crystal</name>
@@ -9230,7 +9230,7 @@ Add all cards from your Ener Zone to your hand. Then if there are 5 or more card
 			<type>SIGNI|LB - Living Spirit: Aquatic Beast - Yuzuki Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While this SIGNI has 20000 power or higher, it cannot be banished.
+			<text>[Constant]: While this SIGNI has 20000 power or higher, it cannot be vanished.
 [Enter]: Reveal any number of Aquatic Beast SIGNI from your hand. If you revealed 4 or more SIGNI this way, this SIGNI gets [Lancer] until end of turn. If you revealed 6 or more SIGNI this way, this SIGNI gets [S Lancer] until end of turn instead.
 
 [Life Burst]: You may pay {G}. If you do, put 1 SIGNI on your opponent's field into the Ener Zone.</text>
@@ -12040,7 +12040,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: The Virtual SIGNI on your center SIGNI Zone gets +3000 power.
-[Auto]: When this SIGNI is banished, all Virtual SIGNI on your field get +3000 power until end of turn.
+[Auto]: When this SIGNI is vanished, all Virtual SIGNI on your field get +3000 power until end of turn.
 
 [Life Burst]: Target up to 2 Virtual SIGNI in your trash, and add them to your hand.</text>
 		</card>
@@ -12053,7 +12053,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash. Target 1 SIG
 			<type>SIGNI|LB - Mech Tone: Virtual (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: During your Main Phase, when another SIGNI on your field is banished, up this SIGNI.
+			<text>[Auto] [1/Turn]: During your Main Phase, when another SIGNI on your field is vanished, up this SIGNI.
 [Action] {Down}: Put the top 5 cards of your deck into the trash.
 
 [Life Burst]: Target 1 Virtual SIGNI in your trash, and add it to your hand or put it onto your field.</text>
@@ -12382,7 +12382,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<type>LRIG - LION [Card Jockey] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Team On-Play]: Look at the top 4 cards of your deck. Add up to 2 of them to your hand, then put the rest into the trash.
+			<text>[Team Enter]: Look at the top 4 cards of your deck. Add up to 2 of them to your hand, then put the rest into the trash.
 [Action] [1/Game] {0}: This LRIG gets "[Auto]: When this LRIG attacks and does not damage your opponent after the attack, you may down 1 upped level 2 LRIG on your field. If you do, up this LRIG."</text>
 		</card>
 		<card>
@@ -12467,7 +12467,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 		</card>
 		<card>
 			<name>Endless Punchline</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/ENDLESS%EF%BC%8DPUNCHLINE.jpg">WDi-04</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Endless%20Punchline.jpg">WDi-04</set>
 			<color>WRG</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -12475,7 +12475,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-(Use Condition) [Team]: Card Jockey] and all LRIGs on your field are level 1 or higher.
+(Use Condition) [Team]: [Card Jockey] and all LRIGs on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following abilities until end of turn:
 "[Constant]: This LRIG can attack while it is downed, and it can attack up to 3 times per turn.
@@ -12605,7 +12605,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -12616,7 +12616,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type>  
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>  
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -12627,7 +12627,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>U</color>
 			<manacost>2 - U</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type>  
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>  
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -12638,10 +12638,10 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Team On-Play]: Draw 1 card. Your opponent discards 1 card from their hand.
+			<text>[Team Enter]: Draw 1 card. Your opponent discards 1 card from their hand.
 [Auto]: When this LRIG attacks, if there are 5 or more cards under this LRIG, draw 1 card. If there are 7 or more cards under this LRIG, also your opponent discards 1 card from their hand.
 [Action] [1/Game] {0}: Put all cards under all other LRIGs on your field under this LRIG.</text>
 		</card>
@@ -12651,7 +12651,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -12662,7 +12662,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Nova [Universe's Beginning] (DS)</type>   
+			<type>LRIG|Assist - Nova [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -12675,7 +12675,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>W</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Nova [Universe's Beginning] (DS)</type>   
+			<type>LRIG|Assist - Nova [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -12688,7 +12688,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -12699,7 +12699,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type>   
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -12712,7 +12712,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<color>G</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type>   
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -12722,7 +12722,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 		</card>
 		<card>
 			<name>Hanpanai★Destruction</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Staggering%E2%98%85Destruction.jpg">WDi-05</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanpanai%E2%98%85Destruction.jpg">WDi-05</set>
 			<color>UWG</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -12730,7 +12730,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-(Use Condition) [Team]: [Universe's Beginning] and all LRIGs on your field are level 1 or higher.
+(Use Condition) [Team]: [UCHU NO HAJIMARI] and all LRIGs on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following ability until end of turn:
 "[Auto]: When this LRIG attacks, choose one from the following. Repeat this effect a number of times equal to the level of your opponent's center LRIG (You may choose the same option multiple times.):
@@ -12817,7 +12817,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<name>Procyon A, Natural Planet</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-018[EN].jpg">WDi-05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-091[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P03-090.jpg">WXi-03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-091[EN].jpg">WXi-03</set>
 			<color>WU</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -12830,7 +12830,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<name>Sirius, Natural Planet (DS)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-019[EN].jpg">WDi-05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-092[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P03-091.jpg">WXi-03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-092[EN].jpg">WXi-03</set>
 			<color>WU</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -12847,7 +12847,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<cmc>1</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>Draw 1 card. Your opponent discards 1 card from their hand. If there are 3 LRIGs on your field and they are on [Universe's Beginning], instead draw 1 card, then discard 1 card from your opponent's hand at random.
+			<text>Draw 1 card. Your opponent discards 1 card from their hand. If there are 3 LRIGs on your field and they are on [UCHU NO HAJIMARI], instead draw 1 card, then discard 1 card from your opponent's hand at random.
 			
 [Life Burst]: Target 1 SIGNI on your opponent's field, and down and freeze it. Your opponent discards 1 card from their hand.</text>
 		</card>
@@ -13054,7 +13054,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<type>SIGNI - War Tone: Venom (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, target 1 SIGNI on the field that was in front of this SIGNI, and you may pay {2}. If you do, that SIGNI gets -10000 power until end of turn.
+			<text>[Auto]: When this SIGNI is vanished, target 1 SIGNI on the field that was in front of this SIGNI, and you may pay {2}. If you do, that SIGNI gets -10000 power until end of turn.
 [Enter] {B}: Target 1 SIGNI on your opponent's field, and it gets -3000 power for each color among SIGNI on your field until end of turn.</text>
 		</card>
 		<card>
@@ -15059,7 +15059,7 @@ Put 1 SIGNI on your field into the trash. If you do, vanish 1 SIGNI on your oppo
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: Put 1 SIGNI from your field into the trash.
-[Constant]: When a Demon SIGNI on your field is banished, vanish 1 SIGNI on your opponent's field.
+[Constant]: When a Demon SIGNI on your field is vanished, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Reveal the top 5 cards of your deck. Add 1 Demon SIGNI from among them to your hand, then put the rest into the trash.</text>
 		</card>
@@ -16901,7 +16901,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: You may put the top card of your deck under this card as a [Charm]. (Attaching a [Charm] to a SIGNI is done by placing the [Charm] facedown under that SIGNI. A SIGNI can only have 1 [Charm] attached at a time. When a SIGNI with a [Charm] attached leaves the field, put its [Charm] into the trash.)
-[Constant]: If 1 of your Demon SIGNI would be banished, you may put that SIGNI's [Charm] into the trash instead. 
+[Constant]: If 1 of your Demon SIGNI would be vanished, you may put that SIGNI's [Charm] into the trash instead. 
 
 [Life Burst]: Put the top 3 cards of your deck into the trash. Then, add 1 Demon SIGNI from your trash to your hand.</text>
 		</card>
@@ -17236,7 +17236,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<type>SIGNI|LB - Nature Spirit: Atom - Milulun Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {U}. If you do, search your deck for a card named "Flourine, Natural Source", reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {U}. If you do, search your deck for a card named "Flourine, Natural Source", reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -17363,7 +17363,7 @@ vanish 1 SIGNI on your opponent's field with 10000 power or lower. If you do, pu
 			<type>SIGNI|LB - Image Spirit: Beautiful Technique - Anne Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for a card named "Surrelis, Unresolved Deviation", reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for a card named "Surrelis, Unresolved Deviation", reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -17751,7 +17751,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 			<tablerow>0</tablerow>
 			<text>Use Timing [Spell Cut-In]
 		
-1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn. </text>
+1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn. </text>
 		</card>
 		<card>
 			<name>Arc Energe, Original Spear</name>
@@ -17763,7 +17763,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: Your opponent skips their ener phase.
-[Constant]: While there is an "Energe, Original Spear" on your field, when a SIGNI on your opponent's field would be banished, put it into the trash instead of the Ener Zone.
+[Constant]: While there is an "Energe, Original Spear" on your field, when a SIGNI on your opponent's field would be vanished, put it into the trash instead of the Ener Zone.
 [Enter] {W}{W}{W}: Search your deck for up to 2 Armed SIGNI and put them onto your field. Shuffle your deck.
 
 [Life Burst]: Search your deck for 1 card, reveal it, then add it to your hand. Shuffle your deck. </text>
@@ -17865,7 +17865,7 @@ If you paid {W}{R}{U}{G}{B} for this ARTS's cost, end the turn. (At the time the
 			<type>SIGNI|LB - Image Spirit: Beautiful Technique - Anne Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When a Beautiful Technique SIGNI on your field is banished, you may pay {G}{W}. If you do, put that SIGNI from your Ener Zone onto your field.
+			<text>[Auto]: When a Beautiful Technique SIGNI on your field is vanished, you may pay {G}{W}. If you do, put that SIGNI from your Ener Zone onto your field.
 [Auto]: When you [Guard] your opponent's LRIG's attack or disable your opponent's SIGNI's attack by a card's effect, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: Put the top card of your deck into your Ener Zone. Disable the next attack by your opponent's LRIG or SIGNI on your opponent's field during this turn. </text>
@@ -18182,7 +18182,7 @@ At the end of this turn, discard all cards in your hand.
 			<type>SIGNI|LB - War Spirit: Armed</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {W}. If you do, search your deck for 1 "Brionac, Medium Spear", reveal it, then add it to your hand. Then, shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {W}. If you do, search your deck for 1 "Brionac, Medium Spear", reveal it, then add it to your hand. Then, shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -18737,7 +18737,7 @@ Add 1 SPELL that shares a color with your LRIG from your trash to your hand.</te
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets +1000 power for each other Armed SIGNI on your field.
-[Auto] When an Armed SIGNI on your field is banished, up or down 1 SIGNI on the field.
+[Auto] When an Armed SIGNI on your field is vanished, up or down 1 SIGNI on the field.
 [Enter] {W}: Search your deck for 1 SIGNI with "Fist" in its card name, reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Return 1 SIGNI on your opponent's field to its owner's hand.</text>
@@ -19199,7 +19199,7 @@ vanish 1 SIGNI on your opponent's field.</text>
 			<type>SIGNI|LB - Machine Spirit: Legacy</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
+			<text>[Constant]: When this SIGNI is vanished, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -19636,7 +19636,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: You cannot put this SIGNI from the field into the trash except by a card's effect.
-[Constant]: When 1 other SIGNI on your field is banished, you may vanish this SIGNI. If you do, put that vanished SIGNI from your Ener Zone onto your field.
+[Constant]: When 1 other SIGNI on your field is vanished, you may vanish this SIGNI. If you do, put that vanished SIGNI from your Ener Zone onto your field.
 [Constant]: When a RESONA is put onto your field, you may pay {W}. If you do put this SIGNI from your trash onto your field downed. </text>
 		</card>
 		<card>
@@ -19714,7 +19714,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<type>SIGNI - Nature Spirit: Atom</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {U}{U}. If you do, vanish 1 SIGNI in front of this SIGNI.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {U}{U}. If you do, vanish 1 SIGNI in front of this SIGNI.
 [Action] {U}{U}: Vanish 3 Atom SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field. </text>
 		</card>
 		<card>
@@ -19894,7 +19894,7 @@ vanish 1 SIGNI on your field. If you do, vanish 1 SIGNI on your opponent's field
 			<type>SIGNI|LB - Nature Spirit: Cosmos - Sashe Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {W}. If you do, search your deck for 1 "Arcturus, Natural Star", reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {W}. If you do, search your deck for 1 "Arcturus, Natural Star", reveal it, then add it to your hand. Shuffle your deck.
 		
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -20469,7 +20469,7 @@ All SIGNI on your field get +5000 power until end of turn. Then all SIGNI with 3
 			<text>Use Timing [Attack Phase] [Spell Cut-In]
 		
 This ARTS cannot be used unless you have crossed SIGNI on your field.
-All Beautiful Technique SIGNI on your field get "This SIGNI cannot be banished." until end of turn.</text>
+All Beautiful Technique SIGNI on your field get "This SIGNI cannot be vanished." until end of turn.</text>
 		</card>
 		<card>
 			<name>Myu=Ysalis</name>
@@ -20528,7 +20528,7 @@ Discard 1 card from your hand. If you do, put the top 2 cards of your deck into 
 			<type>SIGNI|LB - Nature Spirit: Cosmos - Sashe Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may discard 2 Cosmos SIGNI from your hand. If you do, put this SIGNI from your Ener Zone onto your field.
+			<text>[Constant]: When this SIGNI is vanished, you may discard 2 Cosmos SIGNI from your hand. If you do, put this SIGNI from your Ener Zone onto your field.
 [Enter] {W}: Exclude 1 card in your opponent's trash from the game.
 [Action] {W}, {Down}: Add 1 RESONA from your LRIG Trash to your LRIG Deck.
 
@@ -20621,7 +20621,7 @@ vanish 1 of your opponent's frozen SIGNI, then draw 3 cards.
 			<text>(Cross): "Heon, Left Technique of the Scale" Right
 			
 [Cross Constant]: This SIGNI's power becomes 15000.
-[Action] [Attack Phase] {G}: This SIGNI gets "Cannot be banished." until end of turn.
+[Action] [Attack Phase] {G}: This SIGNI gets "Cannot be vanished." until end of turn.
 [Cross Constant]: When this SIGNI reaches Heaven, you may add 1 card from your Ener Zone to your hand.
 
 [Life Burst]: You cannot be damaged this turn. </text>
@@ -21423,7 +21423,7 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<text>(Play Condition) [Main Phase]: Put 1 "Romail, Helmet Armor" and 1 "Tlet, Gauntlet" from your field into the trash.
 		
 [Constant]: All SIGNI on your field get +1000 power.
-[Constant]: When this SIGNI is banished, search your deck for 1 "Tlet, Gauntlet" and put it onto your field. Shuffle your deck.
+[Constant]: When this SIGNI is vanished, search your deck for 1 "Tlet, Gauntlet" and put it onto your field. Shuffle your deck.
 [Enter]: Search your deck for 1 card and add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
@@ -21437,7 +21437,7 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Main Phase]: Put 1 "Kakumaru, Hand Sword" and 1 "Ayabon, Hand Grenade" from your field into the trash.
 		
-[Constant]: When the SIGNI in front of this SIGNI is banished, you may pay {R}. If you do, up this SIGNI.
+[Constant]: When the SIGNI in front of this SIGNI is vanished, you may pay {R}. If you do, up this SIGNI.
 [Enter] {R}{R}: This SIGNI gets [Double Crush] until end of turn. If your LRIG is level 4 or higher, this ability costs {R}{R} less to use. </text>
 		</card>
 		<card>
@@ -21481,8 +21481,8 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<text>(Play Condition) [Main Phase] Put 1 "Anna Mirage, Devil Princess" and 1 non-RESONA Demon SIGNI from your field into the trash.
 		
 [Constant]: When a Demon SIGNI is put onto your field, vanish 1 SIGNI on your opponent's field with a lower level than that SIGNI.
-[Constant]: When a Demon SIGNI on your field is banished, vanish 1 SIGNI on your opponent's field with the same level as that SIGNI.
-(These effects also trigger when this SIGNI is put onto your field or banished.) </text>
+[Constant]: When a Demon SIGNI on your field is vanished, vanish 1 SIGNI on your opponent's field with the same level as that SIGNI.
+(These effects also trigger when this SIGNI is put onto your field or vanished.) </text>
 		</card>
 		<card>
 			<name>Murakumo, Ultimate Sword</name>
@@ -21776,7 +21776,7 @@ Put 1 SIGNI from your trash onto your field. </text>
 			<type>SIGNI|LB - War Spirit: Venom</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] {B}: If there are 3 Venom SIGNI on your field, 1 SIGNI on your opponent's field gets -7000 power until end of turn. (A SIGNI with power 0 or less is banished)
+			<text>[Enter] {B}: If there are 3 Venom SIGNI on your field, 1 SIGNI on your opponent's field gets -7000 power until end of turn. (A SIGNI with power 0 or less is vanished)
 		
 [Life Burst]: Search your deck for 1 Venom SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
 		</card>
@@ -22059,7 +22059,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All Beautiful Technique SIGNI with (Cross) on your field cannot be vanished by your opponent's card effects.
-[Auto]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 3 or lower Beautiful Technique SIGNI other than "Cellon, Rotation of the End", reveal it, then either put it onto your field or add it to your hand. Shuffle your deck. </text>
+[Auto]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 3 or lower Beautiful Technique SIGNI other than "Cellon, Rotation of the End", reveal it, then either put it onto your field or add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Remember Dead Night, Star-Reading Miko</name>
@@ -22404,7 +22404,7 @@ Choose up to two:
 			<text>(Play Condition) [Main Phase]: Put 3 non-RESONA Playground Equipment SIGNI from your field into the trash.
 		
 [Constant]: When this SIGNI attacks, you may add 1 card from your Ener Zone to your hand.
-[Constant]: When this SIGNI is banished, you may add up to 2 cards from your Ener Zone to your hand.
+[Constant]: When this SIGNI is vanished, you may add up to 2 cards from your Ener Zone to your hand.
 [Enter]: Put the top 2 cards of your deck into the Ener Zone. </text>
 		</card>
 		<card>
@@ -22429,7 +22429,7 @@ Choose up to two:
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Attack Phase] Put 3 Cosmos SIGNI from your Ener Zone into the trash.
 		
-[Constant]: If this SIGNI is banished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
+[Constant]: If this SIGNI is vanished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
 [Enter]: 1 SIGNI on your opponent's field gets "This SIGNI cannot attack" until end of turn. </text>
 		</card>
 		<card>
@@ -22576,7 +22576,7 @@ When your opponent attacks with a SIGNI or LRIG, if it is the first or second at
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Attack Phase]: Put 2 Playground Equipment SIGNI from your Ener Zone into the trash.
 		
-[Constant]: If this SIGNI is banished, put it into the LRIG Trash instead of returning it to the LRIG Deck.
+[Constant]: If this SIGNI is vanished, put it into the LRIG Trash instead of returning it to the LRIG Deck.
 [Enter] {0}: Add 1 card from your Ener Zone to your hand. </text>
 		</card>
 		<card>
@@ -22631,7 +22631,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Attack Phase]: Put 2 Misfortune Insect SIGNI from your Ener Zone into the trash.
 		
-[Constant]: If this SIGNI is banished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
+[Constant]: If this SIGNI is vanished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
 [Enter]: Attach the top card of your opponent's deck to 1 SIGNI on your opponent's field as a [Charm]. That SIGNI cannot attack this turn unless your opponent pays {3}. </text>
 		</card>
 		<card>
@@ -22759,7 +22759,7 @@ Return 1 SIGNI from your opponent's field to its owner's hand and vanish 1 SIGNI
 			<type>SIGNI|LB - Machine Spirit: Electronics - Piruluk Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: If this SIGNI would be banished, you may discard 1 SPELL from your hand instead.
+			<text>[Constant]: If this SIGNI would be vanished, you may discard 1 SPELL from your hand instead.
 [Enter] Discard 1 SPELL from your hand: Vanish 1 SIGNI on your opponent's field.
 [Action] [Attack Phase] Discard 2 SPELLs from your hand: Vanish 1 SIGNI on your opponent's field.
 
@@ -23789,7 +23789,7 @@ Search your deck for 1 level 2 or lower white SIGNI and put it onto the field. S
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Attack Phase]: Discard 2 Cosmos SIGNI from your hand.
 		
-[Constant]: If this SIGNI is banished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
+[Constant]: If this SIGNI is vanished, it is put into the LRIG Trash instead of returning to the LRIG Deck.
 [Enter]: 1 level 2 or lower SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn. </text>
 		</card>
 		<card>
@@ -24004,7 +24004,7 @@ When your opponent refreshes their deck this turn, end the turn. (At the time th
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]: Put up to 3 SPELLs from your trash under this SIGNI.
-[Constant]: When 1 SIGNI on your field would be banished, you may put 2 SPELLs from under this SIGNI into the trash instead.
+[Constant]: When 1 SIGNI on your field would be vanished, you may put 2 SPELLs from under this SIGNI into the trash instead.
 [Action] [Spell Cut-In] Put 1 SPELL from under this SIGNI into the trash: Cancel the effect of 1 SPELL being used. 
 
 [Life Burst]: Discard any number of SPELLs from your hand. Vanish 1 SIGNI on your opponent's field for each SPELL discarded this way. </text>
@@ -24073,7 +24073,7 @@ When your opponent refreshes their deck this turn, end the turn. (At the time th
 			<type>SIGNI|LB - Living Spirit: Misfortune Insect - Myu Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While there is a [Charm] on your opponent's field, this SIGNI cannot be banished.
+			<text>[Constant]: While there is a [Charm] on your opponent's field, this SIGNI cannot be vanished.
 [Action] [1/Turn] [Attack Phase]: 1 SIGNI on the field gets -3000 power for each [Charm] on the field until end of turn.
 
 [Life Burst]: You may attach the top card of your opponent's deck as to 1 SIGNI on your opponent's field as a [Charm]. Then all SIGNI on your opponent's field with a [Charm] attached gets -8000 power until end of turn. </text>
@@ -25121,7 +25121,7 @@ Put 1 SIGNI on your opponent's field on top of its owner's deck. Then if you hav
 			<type>SIGNI|LB - Machine Spirit: Electronics - Piruluk Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: If this SIGNI would be banished, you may vanish 1 other Electronics SIGNI on your field instead.
+			<text>[Constant]: If this SIGNI would be vanished, you may vanish 1 other Electronics SIGNI on your field instead.
 [Constant]: Your blue and black SPELLs cost {1} less to use.
 [Action] Discard 1 blue Electronics SIGNI and 1 black Electronics SIGNI from your hand: Vanish 1 SIGNI on your opponent's field. Then your opponent discards 1 card from their hand.
 
@@ -25286,7 +25286,7 @@ If the number of cards in your hand is equal to or greater than the number of ca
 			<type>SIGNI - Image Spirit: Demon</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: While there are 25 or more cards in your trash, this SIGNI's power becomes 12000 and cannot be banished.
+			<text>[Constant]: While there are 25 or more cards in your trash, this SIGNI's power becomes 12000 and cannot be vanished.
 [Enter]: Each player puts the top 5 cards of their deck into the trash. If a card with "Metsum" in its card name was put into the trash by this effect, you may repeat this effect.</text>
 		</card>
 		<card>
@@ -26276,7 +26276,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Attack Phase]: Put 2 SIGNI with "Servant" in their card names from your Ener Zone into the trash
 		
-[Constant]: If this SIGNI is banished, put it into the LRIG Trash instead of returning it to the LRIG Deck.
+[Constant]: If this SIGNI is vanished, put it into the LRIG Trash instead of returning it to the LRIG Deck.
 [Enter] {1}: Add 1 SIGNI with "Servant" in its card name from your trash to your hand. </text>
 		</card>
 		<card>
@@ -26321,7 +26321,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<tablerow>2</tablerow>
 			<text>(Cross): "Dora, Roaring Left Gun" Right and "Doslaf, Roaring Right Gun" Left
 			
-[Constant]: When this SIGNI would be banished, it loses this ability until end of turn instead.
+[Constant]: When this SIGNI would be vanished, it loses this ability until end of turn instead.
 [Cross Auto] [1/Turn]: When this SIGNI reaches [Heaven], up all SIGNI on your field.
 
 [Life Burst]: Add up to 2 SIGNI with (Cross) from your trash to your hand. </text>
@@ -26402,7 +26402,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - Living Spirit: Misfortune Insect - Myu Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, your opponent attaches the top card of their deck to 1 SIGNI on their field as a [Charm] for each SIGNI on their field.
+			<text>[Constant]: When this SIGNI is vanished, your opponent attaches the top card of their deck to 1 SIGNI on their field as a [Charm] for each SIGNI on their field.
 [Constant]: When a Misfortune Insect SIGNI on your field attacks, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
 [Enter]: Put 2 [Charm]s on your opponent's field into the trash. If you do not, put this SIGNI into the trash. </text>
 		</card>
@@ -26789,7 +26789,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<text>(Cross): "Faival, Explosive Gun" Right
 			
 [Cross Constant]: This SIGNI's power becomes 8000.
-[Constant]: When this SIGNI is banished, you may pay {R}. If you do, search your deck for 1 level 3 or lower SIGNI with (Cross), reveal it, then add it to your hand. Shuffle your deck. </text>
+[Constant]: When this SIGNI is vanished, you may pay {R}. If you do, search your deck for 1 level 3 or lower SIGNI with (Cross), reveal it, then add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Antimony, Natural Stone</name>
@@ -26833,7 +26833,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - Living Spirit: Aquatic Beast - Eldora Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, look at the top card of your opponent's Life Cloth and the top card of their deck. You may switch them. </text>
+			<text>[Constant]: When this SIGNI is vanished, look at the top card of your opponent's Life Cloth and the top card of their deck. You may switch them. </text>
 		</card>
 		<card>
 			<name>Code Art BRD</name>
@@ -26857,7 +26857,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - Living Spirit: Aquatic Beast - Eldora Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, look at the top card of your opponent's Life Cloth. You may put it into the trash. If you do, your opponent adds the top card of their deck to Life Cloth. </text>
+			<text>[Constant]: When this SIGNI is vanished, look at the top card of your opponent's Life Cloth. You may put it into the trash. If you do, your opponent adds the top card of their deck to Life Cloth. </text>
 		</card>
 		<card>
 			<name>Code Art BEC</name>
@@ -26881,7 +26881,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI|LB - Living Spirit: Sky Beast</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 4 Sky Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 4 Sky Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
 [Enter]: If there is a "Mejiro, Phantom Beast" and a "Uguisu, Phantom Beast" in your trash, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: [Ener Charge 1]</text>
@@ -26976,7 +26976,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - War Spirit: Venom</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When a SIGNI on your opponent's field is banished, this SIGNI gets +5000 power until end of turn.
+			<text>[Constant]: When a SIGNI on your opponent's field is vanished, this SIGNI gets +5000 power until end of turn.
 [Constant]: When this SIGNI attacks, if this SIGNI's power is 20000 or higher, 1 SIGNI on your opponent's field gets −10000 power until end of turn. </text>
 		</card>
 		<card>
@@ -26999,7 +26999,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - War Spirit: Venom</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When a SIGNI on your opponent's field is banished, this SIGNI gets +5000 power until end of turn.</text>
+			<text>[Constant]: When a SIGNI on your opponent's field is vanished, this SIGNI gets +5000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Marid, Three Nights of a Thousand Nights</name>
@@ -27043,7 +27043,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - War Spirit: Venom</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When a SIGNI on your opponent's field is banished, this SIGNI gets +4000 power until end of turn.</text>
+			<text>[Constant]: When a SIGNI on your opponent's field is vanished, this SIGNI gets +4000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Zwei=Cebor</name>
@@ -27076,7 +27076,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand. </text>
 			<type>SIGNI - War Spirit: Venom</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When a SIGNI on your opponent's field is banished, this SIGNI gets +3000 power until end of turn.</text>
+			<text>[Constant]: When a SIGNI on your opponent's field is vanished, this SIGNI gets +3000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Ein=Lucbor</name>
@@ -27647,7 +27647,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>SIGNI|LB - Image Spirit: Angel</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When an Angel SIGNI on your field is banished, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+			<text>[Auto]: When an Angel SIGNI on your field is vanished, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
 [Enter] {B}{B}: Put 1 Angel SIGNI from your trash onto the field.
 [Action] [1/Turn] [Main Phase] [Attack Phase] {B}: Vanish 1 other Angel SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
 
@@ -27896,7 +27896,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>SIGNI - War Spirit: Armed</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, up 1 Armed SIGNI on your field.</text>
+			<text>[Constant]: When this SIGNI is vanished, up 1 Armed SIGNI on your field.</text>
 		</card>
 		<card>
 			<name>Code Maze Shingyo</name>
@@ -28263,7 +28263,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>SIGNI|LB - War Spirit: Weapon</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: SIGNI named "Sun" on your field cannot be banished.
+			<text>[Constant]: SIGNI named "Sun" on your field cannot be vanished.
 [Constant]: When this SIGNI attacks, you may down 1 upped Armed SIGNI on your field. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
 
 [Life Burst]: Search your deck for 1 "Akatsuki" and 1 "Sun", reveal them, then add them to your hand. Shuffle your deck. </text>
@@ -28377,7 +28377,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand. If 
 			<type>LRIG - Mel</type>
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Auto]: When an accessorized SIGNI on your field is banished, if it was not by your own card effect, you may draw 1 card.
+			<text>[Auto]: When an accessorized SIGNI on your field is vanished, if it was not by your own card effect, you may draw 1 card.
 [Auto]: At the beginning of your Main Phase, you may reveal the top 3 cards of your deck. Put a card with (Accessory) from among them into your Ener Zone, then put the rest on the bottom of your deck in any order.
 [Action] ((Berserk)) Pay 3 Coins: During your opponent's next turn, your opponent cannot use ARTS, SPELLs, or [Action] abilities, and SIGNI on their field must attack if able. </text>
 		</card>
@@ -28464,7 +28464,7 @@ When a SIGNI on your field is vanished this turn, if it was not by your own card
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 
-All Brave SIGNI on your field get "Once per turn, if this SIGNI would be banished, it is not banished." until end of turn.</text>
+All Brave SIGNI on your field get "Once per turn, if this SIGNI would be vanished, it is not vanished." until end of turn.</text>
 		</card>
 		<card>
 			<name>Flame-Awned Flash</name>
@@ -28843,7 +28843,7 @@ Choose up to two:
 			<type>SIGNI|LB - Nature Spirit: Bacteria - Nanashi Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may remove 2 [Virus]es from your opponent's field. If you do, put this SIGNI from your Ener Zone onto your field.
+			<text>[Auto]: When this SIGNI is vanished, you may remove 2 [Virus]es from your opponent's field. If you do, put this SIGNI from your Ener Zone onto your field.
 [Enter]: 1 infected SIGNI on your opponent's field gets -10000 power until end of turn.
 
 [Life Burst]: 1 SIGNI on your opponent's field gets -8000 power until end of turn. If that SIGNI is infected, it gets −12000 power until end of turn instead. </text>
@@ -29218,7 +29218,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Image Spirit: Brave</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {R}. If you do, search your deck for 1 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
+			<text>[Auto]: When this SIGNI is vanished, you may pay {R}. If you do, search your deck for 1 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Bors, Holy Body of the Round Table</name>
@@ -29251,7 +29251,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Image Spirit: Brave</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {R}. If you do, search your deck for 1 level 1 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
+			<text>[Auto]: When this SIGNI is vanished, you may pay {R}. If you do, search your deck for 1 level 1 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
 		</card>
 		<card>
 			<name>Arthra, Victory of the Round Table</name>
@@ -29287,7 +29287,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Image Spirit: Brave</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {R}. If you do, search your deck for 1 level 2 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
+			<text>[Auto]: When this SIGNI is vanished, you may pay {R}. If you do, search your deck for 1 level 2 Brave SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
 		</card>
 		<card>
 			<name>≡Almach≡, Natural Star </name>
@@ -29391,7 +29391,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, look at the top card of your deck. You may set that card or 1 card from your hand on 1 of your SIGNI Zones as a Trap.</text>
+			<text>[Auto]: When this SIGNI is vanished, look at the top card of your deck. You may set that card or 1 card from your hand on 1 of your SIGNI Zones as a Trap.</text>
 		</card>
 		<card>
 			<name>Shpin, Medium Trap</name>
@@ -29416,7 +29416,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, look at the top card of your deck. You may set that card on 1 of your SIGNI Zones as a Trap.
+			<text>[Auto]: When this SIGNI is vanished, look at the top card of your deck. You may set that card on 1 of your SIGNI Zones as a Trap.
 (Traps are set on SIGNI Zones facedown. A SIGNI Zone may only have 1 Trap on it at a time. When a SIGNI on your opponent's field attacks towards a SIGNI Zone with a Trap, if there is no SIGNI on that SIGNI Zone, you may flip the Trap face-up and trigger its [Trap] ability if any. Then put the flipped card into the trash.)</text>
 		</card>
 		<card>
@@ -29698,7 +29698,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, choose one:
+			<text>[Auto]: When this SIGNI is vanished, choose one:
 - Put 1 [Virus] on each SIGNI Zone on your opponent's field.
 - All infected SIGNI on your opponent's field get -5000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
 		</card>
@@ -29711,7 +29711,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, put 1 [Virus] on up to 2 of your opponent's SIGNI Zones, 1 at a time. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
+			<text>[Auto]: When this SIGNI is vanished, put 1 [Virus] on up to 2 of your opponent's SIGNI Zones, 1 at a time. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
 		</card>
 		<card>
 			<name>Mentagro, Natural Bacteria</name>
@@ -29735,7 +29735,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
+			<text>[Auto]: When this SIGNI is vanished, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
 		</card>
 		<card>
 			<name>Giftero, Natural Bacteria</name>
@@ -29757,7 +29757,7 @@ Choose one. If you removed 2 or more [Virus]es as you used this SPELL, choose tw
 			<type>SIGNI - Nature Spirit: Bacteria - Nanashi Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
+			<text>[Auto]: When this SIGNI is vanished, put 1 [Virus] on 1 of your opponent's SIGNI Zones. ([Virus]es are markers that are put on SIGNI Zones. A SIGNI Zone may only have 1 [Virus] on it at a time.)</text>
 		</card>
 		<card>
 			<name>Acnes, Natural Bacteria</name>
@@ -30060,7 +30060,7 @@ The colorless cost of this ARTS can only be paid with ener that share a color wi
 Choose up to two:
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.
 - Down and freeze 1 SIGNI on your opponent's field.
-- 1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.
 - Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand. </text>
 		</card>
 		<card>
@@ -30304,7 +30304,7 @@ As you use this ARTS, you may remove up to 2 [Virus]es from your opponent's fiel
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When a SIGNI with (Rise) is put onto your field, choose one:
-- This SIGNI gets "This SIGNI cannot be banished." until end of turn. 
+- This SIGNI gets "This SIGNI cannot be vanished." until end of turn. 
 - Vanish 1 SIGNI on your opponent's field with 7000 power or lower.
 - 1 SIGNI on your field gets +5000 power until end of turn.
 [Action] [Attack Phase] {0}: Put 1 SIGNI with (Rise) from your hand onto your field.
@@ -30462,8 +30462,8 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<type>SIGNI|LB - Image Spirit: Brave</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When a SIGNI with (Rise) is put onto your field on top of this SIGNI, that SIGNI gets "This SIGNI cannot be banished." until end of turn.
-[Auto]: When this SIGNI is banished, look at the top 4 cards of your deck. You may reveal 1 SIGNI with (Rise) from among them and add it to your hand, then put the rest at the bottom of your deck in any order.
+			<text>[Auto]: When a SIGNI with (Rise) is put onto your field on top of this SIGNI, that SIGNI gets "This SIGNI cannot be vanished." until end of turn.
+[Auto]: When this SIGNI is vanished, look at the top 4 cards of your deck. You may reveal 1 SIGNI with (Rise) from among them and add it to your hand, then put the rest at the bottom of your deck in any order.
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
@@ -30554,7 +30554,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: [Action] abilities of SIGNI in your Ener Zone that attach themselves to SIGNI on your field as an [Accessory] cost {G} less to use if they would attach to this SIGNI.
-[Constant]: While this SIGNI is accessorized, this SIGNI cannot be banished.
+[Constant]: While this SIGNI is accessorized, this SIGNI cannot be vanished.
 [Auto]: At the end of each player's turn, put an Accessory attached to this SIGNI into the trash. </text>
 		</card>
 		<card>
@@ -30867,7 +30867,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<type>SIGNI - Image Spirit: Wisdom</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When the SIGNI in front of this SIGNI is banished, up this SIGNI if it wasn't attacking.
+			<text>[Auto]: When the SIGNI in front of this SIGNI is vanished, up this SIGNI if it wasn't attacking.
 [Action] {Down}: 1 SIGNI on your field gets +5000 power until end of turn. </text>
 		</card>
 		<card>
@@ -30941,7 +30941,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<text>(Accessory) (This card may be attached to SIGNI on your field as an [Accessory].)
 		
 [Action] {0}: Attach this card from your Ener Zone to 1 SIGNI on your field as an [Accessory]. (Attaching an Accessory to a SIGNI is done by placing the Accessory under that SIGNI. A SIGNI can only have 1 Accessory attached at a time. When a SIGNI with an Accessory attached leaves the field, put its [Charm] into the trash.)
-[Constant]: The Cooking SIGNI accessorized with this card gets "When this SIGNI is banished, draw 1 card."
+[Constant]: The Cooking SIGNI accessorized with this card gets "When this SIGNI is vanished, draw 1 card."
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -30966,7 +30966,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<type>SIGNI - Nature Spirit: Bacteria</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, 1 infected SIGNI on your opponent's field gets -8000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
+			<text>[Auto]: When this SIGNI is vanished, 1 infected SIGNI on your opponent's field gets -8000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
 		</card>
 		<card>
 			<name>Sootmold, Natural Bacteria</name>
@@ -30988,7 +30988,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<type>SIGNI - Nature Spirit: Bacteria</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, 1 infected SIGNI on your opponent's field gets -5000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
+			<text>[Auto]: When this SIGNI is vanished, 1 infected SIGNI on your opponent's field gets -5000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
 		</card>
 		<card>
 			<name>Coronav, Natural Bacteria</name>
@@ -31010,7 +31010,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<type>SIGNI - Nature Spirit: Bacteria</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, 1 infected SIGNI on your opponent's field gets -2000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
+			<text>[Auto]: When this SIGNI is vanished, 1 infected SIGNI on your opponent's field gets -2000 power until end of turn. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
 		</card>
 		<card>
 			<name>Destruct Through (WX16)</name>
@@ -31722,7 +31722,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SIGNI|LB - Nature Spirit: Cosmos - Carnival Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may discard 2 cards from your hand. If you do, put this SIGNI from your Ener Zone onto your field.
+			<text>[Auto]: When this SIGNI is vanished, you may discard 2 cards from your hand. If you do, put this SIGNI from your Ener Zone onto your field.
 [Enter]: If you have 0 cards in your hand, draw 2 cards.
 [Enter] {R}: Vanish 1 SIGNI on your opponent's field with power lower than or equal to 4000 multiplied by the number of cards in your hand.
 
@@ -31845,7 +31845,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<text>(Layer): All Outcast SIGNI on your field get the following [Layer] abilities:
 			
 [Layer] [Auto]: When this SIGNI attacks, 1 SIGNI in front of this SIGNI loses its abilities and cannot get new abilities until of turn.
-[Layer] [Auto]: When this SIGNI is banished, 1 SIGNI on your opponent's field loses its abilities and cannot get new abilities until of turn. </text>
+[Layer] [Auto]: When this SIGNI is vanished, 1 SIGNI on your opponent's field loses its abilities and cannot get new abilities until of turn. </text>
 		</card>
 		<card>
 			<name>Brownie, Phantom Apparition</name>
@@ -32017,7 +32017,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SIGNI - Machine Spirit: Cooking - Mel Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: During your opponent's turn, when a Cooking SIGNI on your field would be banished, you may put an Accessory attached to that SIGNI into the trash instead. </text>
+			<text>[Constant]: During your opponent's turn, when a Cooking SIGNI on your field would be vanished, you may put an Accessory attached to that SIGNI into the trash instead. </text>
 		</card>
 		<card>
 			<name>Spore, Natural Bacteria</name>
@@ -32213,7 +32213,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SIGNI - War Spirit: Trick</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {U}. If you do, search your deck for 1 level 2 Trick SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
+			<text>[Auto]: When this SIGNI is vanished, you may pay {U}. If you do, search your deck for 1 level 2 Trick SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>§Takaashi§, Phantom Insect </name>
@@ -32263,7 +32263,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, draw 1 card, then discard 1 card from your hand.
-[Auto]: When this SIGNI is banished, draw 1 card, then discard 1 card from your hand. </text>
+[Auto]: When this SIGNI is vanished, draw 1 card, then discard 1 card from your hand. </text>
 		</card>
 		<card>
 			<name>§Shiomaneki§, Phantom Insect </name>
@@ -32316,7 +32316,7 @@ vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<type>SIGNI - Image Spirit: Wisdom</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] (Wisdom = 7): This SIGNI gets "This SIGNI cannot be banished." until end of turn.
+			<text>[Enter] (Wisdom = 7): This SIGNI gets "This SIGNI cannot be vanished." until end of turn.
 (Abilities with (Wisdom) are only active while the total combined level of all Wisdom SIGNI on your field is equal to the specified (Wisdom) number.)</text>
 		</card>
 		<card>
@@ -33319,7 +33319,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All SIGNI on your opponent's field with a [Charm] attached lose their abilities and cannot gain new abilities.
-[Constant]: If a SIGNI on your opponent's field with a [Charm] attached would be banished, it is put into the trash instead of being put into the Ener Zone.
+[Constant]: If a SIGNI on your opponent's field with a [Charm] attached would be vanished, it is put into the trash instead of being put into the Ener Zone.
 [Enter]: Your opponent attaches the top card of their deck to 1 SIGNI on their field as a [Charm] for each SIGNI on your opponent's field.
 
 [Life Burst]: Draw cards equal to the number of [Charm]s on your opponent's field plus 1. </text>
@@ -33754,7 +33754,7 @@ Declare 1 SIGNI card name. Reveal cards from the top of your deck until you reve
 			<type>SIGNI - Image Spirit: Wisdom</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 2 Wisdom SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
+			<text>[Auto]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 2 Wisdom SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Code Eat Sanuudo</name>
@@ -35319,7 +35319,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field. </text>
 			<type>SIGNI - Nature Spirit: Bacteria</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When an infected SIGNI that is in front of this SIGNI is banished, it is put into the trash instead of the Ener Zone. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
+			<text>[Constant]: When an infected SIGNI that is in front of this SIGNI is vanished, it is put into the trash instead of the Ener Zone. (SIGNI that are on the same SIGNI Zone as a [Virus] are infected.)</text>
 		</card>
 		<card>
 			<name>Herpes, Natural Bacteria</name>
@@ -36168,7 +36168,7 @@ Choose up to two:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, you may pay {W}{G}. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
-[Auto]: When this SIGNI is banished, put the top card of your deck into your Ener Zone.
+[Auto]: When this SIGNI is vanished, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: Search your deck for up to 1 white Beautiful Technique SIGNI and up to 1 green Beautiful Technique SIGNI, reveal them, then add them to your hand. Shuffle your deck. </text>
 		</card>
@@ -36205,7 +36205,7 @@ Choose up to two:
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "Other SIGNI on your field get +3000 power and are unaffected by the effects of your opponent's SIGNI that do not have [Life Burst]."
-[Auto]: When this SIGNI is banished, you may pay {R}{R}. If you do, put this SIGNI from your Ener Zone onto your field. </text>
+[Auto]: When this SIGNI is vanished, you may pay {R}{R}. If you do, put this SIGNI from your Ener Zone onto your field. </text>
 		</card>
 		<card>
 			<name>Dong Zhuo, Gluttonous Tyrant</name>
@@ -36449,7 +36449,7 @@ Choose up to two:
 			<type>SIGNI - Image Spirit: Brave</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When a SIGNI with (Rise) on your field would be banished, you may vanish this SIGNI instead. </text>
+			<text>[Constant]: When a SIGNI with (Rise) on your field would be vanished, you may vanish this SIGNI instead. </text>
 		</card>
 		<card>
 			<name>Oichi, the One Flower in the War</name>
@@ -36708,7 +36708,7 @@ Choose up to two:
 			<type>SIGNI - Image Spirit: Angel</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, 1 SIGNI on your opponent's field gets -7000 power until end of turn. If there is a SIGNI with "Arcgain" in its card name on your field, up to 2 SIGNI on your opponent's field get -7000 power until end of turn instead.</text>
+			<text>[Auto]: When this SIGNI is vanished, 1 SIGNI on your opponent's field gets -7000 power until end of turn. If there is a SIGNI with "Arcgain" in its card name on your field, up to 2 SIGNI on your opponent's field get -7000 power until end of turn instead.</text>
 		</card>
 		<card>
 			<name>Drei=Aconitine</name>
@@ -37057,7 +37057,7 @@ vanish 1 SIGNI on your opponent's field with power lower than or equal to the po
 			<type>SIGNI|LB - Living Spirit: Dragon Beast</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 2 Dragon Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Auto]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 2 Dragon Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -37342,7 +37342,7 @@ Choose up to two. If you do choose two, this ARTS costs {2} more to use.
 			<type>LRIG - Nanashi</type>
 			<loyalty>12</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Constant]: When an infected SIGNI on your opponent's field is banished, it is put into the trash instead of the Ener Zone.
+			<text>[Constant]: When an infected SIGNI on your opponent's field is vanished, it is put into the trash instead of the Ener Zone.
 [Enter]: Add 2 SIGNI from your trash to your hand.
 [Action] {Down}: Put 1 [Virus] on all SIGNI Zones on your opponent's field.
 [Action] [Attack Phase] Pay 1 Coin: 1 infected SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn. </text>
@@ -37465,9 +37465,9 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone. Then if that SI
 			<tablerow>0</tablerow>
 			<text>(Play Condition) [Main Phase]: Put 2 non-RESONA Sky Beast or Terra Beast SIGNI from your Ener Zone and/or field into the trash.
 			
-[Constant]: While there is another Sky Beast SIGNI on your field, this SIGNI gets "This SIGNI cannot be banished", and while there is another Terra Beast SIGNI on your field, this SIGNI gets +2000 power and [Lancer].
+[Constant]: While there is another Sky Beast SIGNI on your field, this SIGNI gets "This SIGNI cannot be vanished", and while there is another Terra Beast SIGNI on your field, this SIGNI gets +2000 power and [Lancer].
 [Enter]: 1 Terra Beast SIGNI on your field gets [Lancer] until end of turn.
-[Enter]: 1 Sky Beast SIGNI on your field gets "This SIGNI cannot be banished." until end of turn. </text>
+[Enter]: 1 Sky Beast SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn. </text>
 		</card>
 		<card>
 			<name>Bad Color</name>
@@ -37754,7 +37754,7 @@ Choose up to two:
 			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may set this SIGNI from your Ener Zone on 1 of your SIGNI Zones as a Trap.
+			<text>[Auto]: When this SIGNI is vanished, you may set this SIGNI from your Ener Zone on 1 of your SIGNI Zones as a Trap.
 
 [Trap]: If a SIGNI on your field was vanished this turn, you may pay {U}. If you do, vanish 1 SIGNI on your opponent's field.
 
@@ -38015,7 +38015,7 @@ Choose up to two:
 			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may set 1 card from your hand on 1 of your SIGNI Zones as a Trap.
+			<text>[Auto]: When this SIGNI is vanished, you may set 1 card from your hand on 1 of your SIGNI Zones as a Trap.
 [Enter]: Return 1 Trap on your field to your hand. </text>
 		</card>
 		<card>
@@ -38483,7 +38483,7 @@ Use 1 of your LRIG's {Exceed X} abilities without paying its cost and ignoring i
 			<tablerow>2</tablerow>
 			<text>(Rise) 1 level 1 red SIGNI. (This SIGNI cannot be put onto the field unless you put it on top of 1 level 1 red SIGNI on your field.)
 			
-[Auto]: At the beginning of each player's Attack Phase, 1 other red SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+[Auto]: At the beginning of each player's Attack Phase, 1 other red SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.
 
 [Life Burst]: Draw 1 card. </text>
 		</card>
@@ -38511,7 +38511,7 @@ Use 1 of your LRIG's {Exceed X} abilities without paying its cost and ignoring i
 
 Choose one:
 - Search your deck for up to 10 Angel SIGNI with different names and put them into the trash. Shuffle your deck.
-- If it is your opponent's turn, all Angel SIGNI on your field get "This SIGNI cannot be banished." until end of turn.</text>
+- If it is your opponent's turn, all Angel SIGNI on your field get "This SIGNI cannot be vanished." until end of turn.</text>
 		</card>
 		<card>
 			<name>Tobiel, Sun Staff of Midsummer (WX21)</name>
@@ -38812,7 +38812,7 @@ Choose one:
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, if there is a green and a white Beautiful Technique SIGNI on your field, return 1 SIGNI on your opponent's field to its owner's hand.
-[Auto] [1/Turn]: When a Beautiful Technique SIGNI is banished, put the top card of your deck into your Ener Zone.
+[Auto] [1/Turn]: When a Beautiful Technique SIGNI is vanished, put the top card of your deck into your Ener Zone.
 [Action] [Attack Phase] {Exceed 4}: Return all SIGNI on your opponent's field to their owners' hands. </text>
 		</card>
 		<card>
@@ -38923,7 +38923,7 @@ Choose up to two:
 			<tablerow>2</tablerow>
 			<text>[Constant]: All Angel SIGNI on your field get +2000 power.
 [Constant]: This SIGNI cannot be downed by your opponent's card effects.
-[Auto]: When this SIGNI is banished, vanish 1 SIGNI on your opponent's field with lower power than this SIGNI's power.
+[Auto]: When this SIGNI is vanished, vanish 1 SIGNI on your opponent's field with lower power than this SIGNI's power.
 [Enter]: If there are 3 Angel SIGNI on your field, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Vanish 1 SIGNI on your opponent's field with 12000 power or lower. </text>
@@ -39137,7 +39137,7 @@ Choose up to two:
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {1}: Put 1 Angel SIGNI from your trash under this SIGNI.
-[Constant]: If this SIGNI would be banished, put 1 card from under this SIGNI into the trash instead. </text>
+[Constant]: If this SIGNI would be vanished, put 1 card from under this SIGNI into the trash instead. </text>
 		</card>
 		<card>
 			<name>≡Hephaes≡, Blacksmith Craftsman</name>
@@ -39471,7 +39471,7 @@ Choose one. If you have a Tawil or Umr LRIG, choose two instead:
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, if there is a green and a white Beautiful Technique SIGNI on your field, return 1 SIGNI on your opponent's field to its owner's hand.
-[Auto] [1/Turn]: When a Beautiful Technique SIGNI is banished, put the top card of your deck into your Ener Zone.
+[Auto] [1/Turn]: When a Beautiful Technique SIGNI is vanished, put the top card of your deck into your Ener Zone.
 [Action] [Attack Phase] {Exceed 4}: Return all SIGNI on your opponent's field to their owners' hands. </text>
 		</card>
 		<card>
@@ -39660,7 +39660,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<type>SIGNI|LB - Image Spirit: Beautiful Technique - Anne Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When a Beautiful Technique SIGNI on your field is banished, you may pay {G}{W}. If you do, put that SIGNI from your Ener Zone onto your field.
+			<text>[Auto]: When a Beautiful Technique SIGNI on your field is vanished, you may pay {G}{W}. If you do, put that SIGNI from your Ener Zone onto your field.
 [Auto]: When you [Guard] your opponent's LRIG's attack or disable your opponent's SIGNI's attack by a card's effect, put the top card of your deck into your Ener Zone.
 
 [Life Burst]: Put the top card of your deck into your Ener Zone. Disable the next attack by your opponent's LRIG or SIGNI on your opponent's field during this turn. </text>
@@ -40088,7 +40088,7 @@ The colorless cost of this ARTS can only be paid with ener that share a color wi
 Choose up to two:
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.
 - Down and freeze 1 SIGNI on your opponent's field.
-- 1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.
 - Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand. </text>
 		</card>
 		<card>
@@ -40103,7 +40103,7 @@ Choose up to two:
 "[Action] [Attack Phase] {Exceed 4}: Skip your opponent's next SIGNI attack step.
 [Action] [Attack Phase] {Exceed 4}: Skip your opponent's next LRIG attack step."
 
-[Enter]: 1 SIGNI on your field gets "This SIGNI cannot be banished" until end of turn. 
+[Enter]: 1 SIGNI on your field gets "This SIGNI cannot be vanished" until end of turn. 
 [Action] Put this KEY from your field into your LRIG Trash: Search your deck 1 SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
 		</card>
 		<card>
@@ -42071,7 +42071,7 @@ Choose one:
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All Armed SIGNI on your field get +1000 power.
-[Auto]: When a SIGNI on your opponent's field is banished, 1 Armed SIGNI on your field gets +2000 power until end of turn.</text>
+[Auto]: When a SIGNI on your opponent's field is vanished, 1 Armed SIGNI on your field gets +2000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Shishiou, Medium Attire</name>
@@ -42583,7 +42583,7 @@ Choose one:
 			<type>SIGNI - Image Spirit: Wisdom (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI gets banished, freeze 1 SIGNI on your opponent's field.
+			<text>[Auto]: When this SIGNI gets vanished, freeze 1 SIGNI on your opponent's field.
 (Frozen SIGNI do not up during their user's next up phase.)</text>
 		</card>
 		<card>
@@ -43114,7 +43114,7 @@ Remove 1 SIGNI Zone on your opponent's field from the game until end of turn. Ad
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI starts [Drive], draw 2 cards, then discard 1 card from your hand.
 [Auto]: When this SIGNI attacks, your LRIG may start [Drive] with 1 Riding Machine SIGNI on your field until end of turn. 
-[Auto]: When this SIGNI is banished, your LRIG may start [Drive] with 1 Riding Machine SIGNI on your field until end of turn.
+[Auto]: When this SIGNI is vanished, your LRIG may start [Drive] with 1 Riding Machine SIGNI on your field until end of turn.
 (If your LRIG would start [Drive] with a SIGNI while it is already in [Drive] with another SIGNI, move your LRIG to the other SIGNI.)
 
 [Life Burst]: Add up to 2 Riding Machine SIGNI from your trash to your hand.</text>
@@ -43172,7 +43172,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI's power cannot be decreased by your opponent's card effects.
 [Constant]: While this SIGNI's power is 20000 or higher, this SIGNI gets [S Lancer].
-[Constant]: If you used 3 or more ARTS this turn, this SIGNI cannot be banished.
+[Constant]: If you used 3 or more ARTS this turn, this SIGNI cannot be vanished.
 [Auto] [1/Turn]: When this SIGNI on your field changes SIGNI Zones, add 1 CRAFT named "Thorny Maze" to your LRIG Deck.
 
 [Life Burst]: Add 2 CRAFTs named "Thorny Maze" to your LRIG Deck.</text>
@@ -43186,7 +43186,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 			<type>SIGNI|LB - Image Spirit: Brave - Carnival Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When a SIGNI on your opponent's field is banished, put the top 3 cards of your deck into the trash.
+			<text>[Auto] [1/Turn]: When a SIGNI on your opponent's field is vanished, put the top 3 cards of your deck into the trash.
 [Auto]: When 3 or more cards are put from your deck into the trash by 1 card's effect, 1 SIGNI on your opponent's field gets -5000 power until end of turn.
 
 [Life Burst]: Put the top 3 cards of your deck into the trash, then add 1 Brave SIGNI from your trash to your hand or put it onto your field.</text>
@@ -43811,7 +43811,7 @@ Discard 1 card from your hand, then draw 1 card. If you put 2 or more cards from
 			<type>SIGNI|LB - Image Spirit: Brave (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, put the top 3 cards of your deck into the trash, then 1 SIGNI on your opponent's field gets -2000 power.
+			<text>[Auto]: When this SIGNI is vanished, put the top 3 cards of your deck into the trash, then 1 SIGNI on your opponent's field gets -2000 power.
 			
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -43925,7 +43925,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 [Action] [1/Game] ((Ultimate Raid)) Pay 1 Coin: Choose two, then 1 SIGNI on your field gets the chosen abilities until end of turn:
 - [Assassin]
 - [Double Crush]
-- "This SIGNI cannot be banished."
+- "This SIGNI cannot be vanished."
 - "This SIGNI cannot be downed by your opponent's card effects."
 - "This SIGNI cannot be returned to the hand by your opponent's card effects."</text>
 		</card>
@@ -44219,7 +44219,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: At the beginning of your Main Phase, [Ener Charge 1].
-[Action] [Attack Phase] Put this KEY from your field into the LRIG Trash, and put all cards in your Ener Zone into the trash: If you put 1 or more cards into your trash to use this ability, the power of 1 SIGNI on your opponent's field becomes 1 until end of turn. If you put 5 or more cards into your trash to use this ability, the power of all SIGNI on your opponent's field become 1 until end of turn. If you put 9 or more cards into your trash to use this ability, all SIGNI on your opponent's field get "When this SIGNI is banished, crush 1 card in your Life Cloth." until end of turn.</text>
+[Action] [Attack Phase] Put this KEY from your field into the LRIG Trash, and put all cards in your Ener Zone into the trash: If you put 1 or more cards into your trash to use this ability, the power of 1 SIGNI on your opponent's field becomes 1 until end of turn. If you put 5 or more cards into your trash to use this ability, the power of all SIGNI on your opponent's field become 1 until end of turn. If you put 9 or more cards into your trash to use this ability, all SIGNI on your opponent's field get "When this SIGNI is vanished, crush 1 card in your Life Cloth." until end of turn.</text>
 		</card>
 		<card>
 			<name>Water Lily, Natural Plant Princess</name>
@@ -44304,7 +44304,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<text>(Accessory) (This card may be attached to SIGNI on your field as an [Accessory] by your card effects.)
 			
 [Constant]: While "Code Eat Ice Cake" is attached to this SIGNI as an [Accessory], this SIGNI gets "[Auto]: At the beginning of your Attack Phase, draw 1 card. Then, you may discard 1 Cooking SIGNI from your hand. If you do, vanish 1 SIGNi on your opponent's field."
-[Constant]: When a SIGNI attached with this card as an [Accessory] would be banished, put this card into the trash instead.
+[Constant]: When a SIGNI attached with this card as an [Accessory] would be vanished, put this card into the trash instead.
 
 [Life Burst]: Add up to 2 Cooking SIGNI from your trash to your hand.</text>
 		</card>
@@ -45096,7 +45096,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<type>KEY - (KS)</type>
 			<tablerow>0</tablerow>
 			<text>[Constant]: At the beginning of your Main Phase, [Ener Charge 1].
-[Action] [Attack Phase] Put this KEY from your field into the LRIG Trash, and put all cards in your Ener Zone into the trash: If you put 1 or more cards into your trash to use this ability, the power of 1 SIGNI on your opponent's field becomes 1 until end of turn. If you put 5 or more cards into your trash to use this ability, the power of all SIGNI on your opponent's field become 1 until end of turn. If you put 9 or more cards into your trash to use this ability, all SIGNI on your opponent's field get "When this SIGNI is banished, crush 1 card in your Life Cloth." until end of turn.</text>
+[Action] [Attack Phase] Put this KEY from your field into the LRIG Trash, and put all cards in your Ener Zone into the trash: If you put 1 or more cards into your trash to use this ability, the power of 1 SIGNI on your opponent's field becomes 1 until end of turn. If you put 5 or more cards into your trash to use this ability, the power of all SIGNI on your opponent's field become 1 until end of turn. If you put 9 or more cards into your trash to use this ability, all SIGNI on your opponent's field get "When this SIGNI is vanished, crush 1 card in your Life Cloth." until end of turn.</text>
 		</card>
 		<card>
 			<name>Water Lily, Natural Plant Princess (alt)</name>
@@ -45153,7 +45153,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<text>(Accessory) (This card may be attached to SIGNI on your field as an [Accessory] by your card effects.)
 			
 [Constant]: While "Code Eat Ice Cake" is attached to this SIGNI as an [Accessory], this SIGNI gets "[Auto]: At the beginning of your Attack Phase, draw 1 card. Then, you may discard 1 Cooking SIGNI from your hand. If you do, vanish 1 SIGNi on your opponent's field."
-[Constant]: When a SIGNI attached with this card as an [Accessory] would be banished, put this card into the trash instead.
+[Constant]: When a SIGNI attached with this card as an [Accessory] would be vanished, put this card into the trash instead.
 
 [Life Burst]: Add up to 2 Cooking SIGNI from your trash to your hand.</text>
 		</card>
@@ -47369,7 +47369,7 @@ Choose one:
 			<type>SIGNI - Living Spirit: Dragon Beast (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, 1 SIGNI on your opponent's field gets −8000 power until end of turn.</text>
+			<text>[Auto]: When this SIGNI is vanished, 1 SIGNI on your opponent's field gets −8000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Dramagi, Phantom Dragon</name>
@@ -47872,7 +47872,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<tablerow>2</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, if there is a [[Charm]] on the field, choose one. If there are 3 or more [[Charm]] on the field, choose up to two instead:
 - 1 SIGNI on the field gets +3000 power and [Lancer] until end of turn.
-- 1 SIGNI on the field gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on the field gets "This SIGNI cannot be vanished." until end of turn.
 - If there are 3 [[Charm]] on your field, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Add up to 2 Bacteria SIGNI from your trash to your hand.</text>
@@ -47931,7 +47931,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, if you have a Myu LRIG, add 1 level 1 black SIGNI from your trash to your hand.
-[Auto]: When this SIGNI is banished, you may have 1 SIGNI on the field's level become 1 until the end of your next turn.
+[Auto]: When this SIGNI is vanished, you may have 1 SIGNI on the field's level become 1 until the end of your next turn.
 [Enter] {B}{B}: Vanish 1 level 4 SIGNI on your opponent's field.
 
 [Life Burst]: 1 SIGNI on your opponent's field gets −10000 power until end of turn.</text>
@@ -48072,7 +48072,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<type>SIGNI - Nature Spirit: Bacteria (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: At the beginning of your opponent's Attack Phase, if this SIGNI has a [[Charm]] attached to it, this SIGNI gets "This SIGNI cannot be banished." until end of turn.
+			<text>[Auto]: At the beginning of your opponent's Attack Phase, if this SIGNI has a [[Charm]] attached to it, this SIGNI gets "This SIGNI cannot be vanished." until end of turn.
 [Auto]: At the end of your opponent's turn, [Ener Charge 1], then if this SIGNI has a [[Charm]] attached to it, draw 1 card.</text>
 		</card>
 		<card>
@@ -48449,7 +48449,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<type>SIGNI|LB - Nature Spirit: Bacteria - Mel Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When a SIGNI on your field with a [[Charm]] attached to it is banished, draw 1 card or [Ener Charge 1].
+			<text>[Auto] [1/Turn]: When a SIGNI on your field with a [[Charm]] attached to it is vanished, draw 1 card or [Ener Charge 1].
 
 [Life Burst]: Choose one:
 - Draw 1 card. 
@@ -48738,7 +48738,7 @@ Choose one. If you have a Ril or Mel LRIG, choose up to two instead:
 			<tablerow>2</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, if there is a [[Charm]] on the field, choose one. If there are 3 or more [[Charm]] on the field, choose up to two instead:
 - 1 SIGNI on the field gets +3000 power and [Lancer] until end of turn.
-- 1 SIGNI on the field gets "This SIGNI cannot be banished." until end of turn.
+- 1 SIGNI on the field gets "This SIGNI cannot be vanished." until end of turn.
 - If there are 3 [[Charm]] on your field, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]: Add up to 2 Bacteria SIGNI from your trash to your hand.</text>
@@ -50671,7 +50671,7 @@ Choose one:
 			<type>SIGNI|LB - Machine Spirit: Electronics - Piruluk Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When a "Remodeling Parts" is used on this SIGNI, if there are 2 or more Electronics SIGNI of each level from 1 to 4 in your Ener Zone, this SIGNI gets "This SIGNI cannot be banished." and "This SIGNI is unaffected by the effects of your opponent's ARTS with total cost 1 or less." until end of turn.
+			<text>[Auto]: When a "Remodeling Parts" is used on this SIGNI, if there are 2 or more Electronics SIGNI of each level from 1 to 4 in your Ener Zone, this SIGNI gets "This SIGNI cannot be vanished." and "This SIGNI is unaffected by the effects of your opponent's ARTS with total cost 1 or less." until end of turn.
 [Auto]: When you use a "Remodeling Parts", add 1 Electronics SIGNI from your Ener Zone to your hand.
 
 [Life Burst]: Add up to 2 «Electric Machine» SIGNI from your trash to your hand.</text>
@@ -52126,7 +52126,7 @@ Your LRIG gets the following abilities until end of turn:
 			<type>SIGNI|LB - Nature Spirit: Cosmos - Myu Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: If an opponent's level 1 or lower SIGNI is banished, it is put into the trash instead of being put into the Ener Zone.
+			<text>[Constant]: If an opponent's level 1 or lower SIGNI is vanished, it is put into the trash instead of being put into the Ener Zone.
 [Action] [1/Turn] {B}: Reveal the top card of your deck. Decrease the level of 1 SIGNI on your opponent's field by a number equal to the level of any SIGNI revealed this way, then add the revealed card to your hand. 
 (Levels cannot be lower than 0.)
 
@@ -52143,7 +52143,7 @@ Your LRIG gets the following abilities until end of turn:
 			<tablerow>2</tablerow>
 			<text>(Rise): 1 Weapon SIGNI
 			
-[Auto]: When this SIGNI is banished, add 1 Weapon SIGNI that was under this SIGNI from your trash to your hand.
+[Auto]: When this SIGNI is vanished, add 1 Weapon SIGNI that was under this SIGNI from your trash to your hand.
 [Action] [1/Turn] Put 2 cards under your SIGNI into the trash: The power of 1 SIGNI on your opponent's field becomes 0 until end of turn.
 
 [Life Burst]: The power of 1 SIGNI on your opponent's field becomes 0 until end of turn.</text>
@@ -52816,7 +52816,7 @@ Choose one. Repeat this effect a number of times equal to your LRIG's level. (Yo
 "[Action] [Attack Phase] {Exceed 4}: Skip your opponent's next SIGNI attack step.
 [Action] [Attack Phase] {Exceed 4}: Skip your opponent's next LRIG attack step."
 
-[Enter]: 1 SIGNI on your field gets "This SIGNI cannot be banished" until end of turn. 
+[Enter]: 1 SIGNI on your field gets "This SIGNI cannot be vanished" until end of turn. 
 [Action] Put this KEY from your field into your LRIG Trash: Search your deck 1 SIGNI, reveal it, then add it to your hand. Shuffle your deck.</text>
 		</card>
 		<card>
@@ -53271,7 +53271,7 @@ Choose up to four:
 			<type>SIGNI|LB - Machine Spirit: Electronics (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]: When a SIGNI on your field whose level is lower than this SIGNI's level is banished, you may put that SIGNI from the Ener Zone onto your field.
+			<text>[Auto] [1/Turn]: When a SIGNI on your field whose level is lower than this SIGNI's level is vanished, you may put that SIGNI from the Ener Zone onto your field.
 [Auto] [1/Turn]: After this SIGNI attacks, if that attack did not damage your opponent, up 1 SIGNI on your field whose level is lower than this SIGNI's level.
 [Enter] {1}{W}: Put 1 level 3 or lower SIGNI from your trash onto your field.
 
@@ -53301,7 +53301,7 @@ Choose up to four:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: Cards in your opponent's Ener Zone lose [Multi Ener] and are unaffected by your opponent's card effects.
-[Auto] [1/Turn]: When a SIGNI on your opponent's field is banished, vanish 1 SIGNI on your opponent's field whose power is lower than that SIGNI's power.
+[Auto] [1/Turn]: When a SIGNI on your opponent's field is vanished, vanish 1 SIGNI on your opponent's field whose power is lower than that SIGNI's power.
 [Action] [1/Turn] {R}: Put 1 level 3 or lower red SIGNI from your trash onto your field.
 
 [Life Burst]: Add 2 SIGNI that share a color with each other from your trash to your hand.</text>
@@ -53585,7 +53585,7 @@ Choose up to four:
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets +1000 power for each [Charm] on the field.
 [Auto]: At the beginning of each Attack Phase, attach 1 card from your opponent's trash to 1 SIGNI on your opponent's field as a [Charm].
-[Auto] [1/Turn]: When a SIGNI with a [Charm] attached to it is banished, put 1 SIGNI with lower power than that SIGNI from your opponent's field into the Ener Zone.</text>
+[Auto] [1/Turn]: When a SIGNI with a [Charm] attached to it is vanished, put 1 SIGNI with lower power than that SIGNI from your opponent's field into the Ener Zone.</text>
 		</card>
 		<card>
 			<name>Blajack, Medium Trap</name>
@@ -53646,7 +53646,7 @@ Choose up to four:
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 7 or more cards in your LRIG Trash, this SIGNI gets +5000 power.
-[Auto]: When the SIGNI in front of this SIGNI is banished, you may pay {1}{B}. If you do, up this SIGNI.</text>
+[Auto]: When the SIGNI in front of this SIGNI is vanished, you may pay {1}{B}. If you do, up this SIGNI.</text>
 		</card>
 		<card>
 			<name>Servant ZZ</name>
@@ -53670,7 +53670,7 @@ Choose up to four:
 			<type>SIGNI|LB - War Spirit: Playground Equipment (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNi is banished, reveal the top card of your deck. If it is a SIGNI with power lower than this SIGNI's power, you may put it onto your field.
+			<text>[Auto]: When this SIGNi is vanished, reveal the top card of your deck. If it is a SIGNI with power lower than this SIGNI's power, you may put it onto your field.
 [Enter] Discard 1 card from your hand, {W}: Return 1 level 3 or lower SIGNI on your opponent's field to its owner's hand.
 
 [Life Burst]: Add 1 white SIGNI from your trash to your hand.</text>
@@ -54928,7 +54928,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<type>SIGNI|LB - Living Tone: Terra Beast (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, draw 1 card.
+			<text>[Auto]: When this SIGNI is vanished, draw 1 card.
 [Enter]: Discard 1 card from your hand.
 
 [Life Burst]: Target 1 SIGNI on your opponent's field with 12000 power or lower, and you may pay {1}{R}. If you do, vanish that SIGNI.</text>
@@ -55387,8 +55387,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 Search your deck for 1 SIGNI, reveal it and add it to your hand. Shuffle your deck. If your opponent's center LRIG is level 3 or higher, your opponent puts 3 cards from their Ener Zone into the trash. (If there are less than 3, they all are put into the trash.)</text>
 		</card>
 		<card>
-			<name>Silent Assassin</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/SILENT%20ASSASIN.jpg">WXi-01</set>
+			<name>Silent Assassin </name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Silent%20Assassin.jpg">WXi-01</set>
 			<color>RG</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -55404,7 +55404,7 @@ Target up to 2 SIGNI on your field, and they get "[Constant]: This SIGNI gets [A
 		</card>
 		<card>
 			<name>Great! Re-ver-sal!</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Great!%20Turn!%20About!.jpg">WXi-01</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Great!%20Re-ver-sal!.jpg">WXi-01</set>
 			<color>UW</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
@@ -55652,7 +55652,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -55665,7 +55665,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>W</color>
 			<manacost>2 - 3</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Nove [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Nove [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -55679,7 +55679,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>W</color>
 			<manacost>2 - 4</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -55692,7 +55692,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -55705,7 +55705,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>G</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -55719,7 +55719,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>G</color>
 			<manacost>2 - 7</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -55812,7 +55812,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 		<card>
 			<name>Arcgwyn, Blessed Angel Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-033[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D08-023.jpg">WDi-08</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-033[EN].jpg">WDi-08</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -55873,7 +55873,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<type>SIGNI - Nature Tone: Jewel [No Limit] (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Team On-Play] {R}{R}: Target 1 SIGNI on your opponent's field with 12000 power or lower, and vanish it.
+			<text>[Team Enter] {R}{R}: Target 1 SIGNI on your opponent's field with 12000 power or lower, and vanish it.
 [Auto]: When this SIGNI attacks, you may discard 2 cards from your hand. If you do, draw 2 cards.</text>
 		</card>
 		<card>
@@ -55882,7 +55882,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - Idle Tone: Demon [Universe's Beginning] (DS)</type>
+			<type>SIGNI - Idle Tone: Demon [UCHU NO HAJIMARI] (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Team Auto]: At the beginning of your Attack Phase, your opponent discards 1 card from their hand.
@@ -55971,7 +55971,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 		<card>
 			<name>Haniel, Blessed Angel</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-045[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D08-014.jpg">WDi-08</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-045[EN].jpg">WDi-08</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -56034,7 +56034,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 		<card>
 			<name>Bow, High Armed</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-050[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D08-017.jpg">WDi-08</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-050[EN].jpg">WDi-08</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -56278,7 +56278,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<type>SIGNI|LB - Idle Tone: Brave(DS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, target 1 Brave SIGNI in your Ener Zone, then you may pay {1}. If you do, add that SIGNI to your hand.
+			<text>[Auto]: When this SIGNI is vanished, target 1 Brave SIGNI in your Ener Zone, then you may pay {1}. If you do, add that SIGNI to your hand.
 			
 [Life Burst]: Target 1 SIGNi on your opponent's field, and you may pay {G}{G}. If you do, vanish that SIGNI.</text>
 		</card>
@@ -56821,7 +56821,7 @@ Choose one:
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -56832,7 +56832,7 @@ Choose one:
 			<color>G</color>
 			<manacost>2 - G</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -56843,10 +56843,10 @@ Choose one:
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Team On-Play]: Your opponent puts 1 SIGNI from their field into the Ener Zone.
+			<text>[Team Enter]: Your opponent puts 1 SIGNI from their field into the Ener Zone.
 [Auto]: At the beginning of your Attack Phase, if there are 5 or more cards under this LRIG, [Ener Charge 1]. If there are 7 or more, target 1 level 3 green SIGNI on your field, and it gets [Lancer] until end of turn.
 [Action] [1/Game] {0}: Put all cards from under all other LRIGs on your field under this LRIG. </text>
 		</card>
@@ -56856,7 +56856,7 @@ Choose one:
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -56869,7 +56869,7 @@ Choose one:
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -56882,7 +56882,7 @@ Choose one:
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -56896,7 +56896,7 @@ Choose one:
 			<color>U</color>
 			<manacost>2 - 6</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -56989,7 +56989,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Enter]: All SIGNI on your opponent's field get "[Auto]: When this SIGNI is banished, put cards from the top of your deck into the trash equal to twice this SIGNI's level." until end of turn.
+[Enter]: All SIGNI on your opponent's field get "[Auto]: When this SIGNI is vanished, put cards from the top of your deck into the trash equal to twice this SIGNI's level." until end of turn.
 [Enter] {3}: Target 1 SIGNI on your opponent's field, and vanish it. Target 1 SIGNI in your trash with the same level as that vanished SIGNI, and put it onto your field.</text>
 		</card>
 		<card>
@@ -57123,7 +57123,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<type>SIGNI|LB - Nature Tone: Plant (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may put this SIGNI from your Ener Zone on the bottom of your deck. If you do, reveal the top card of your deck. If it is a level 3 SIGNI, put it onto your field downed.
+			<text>[Auto]: When this SIGNI is vanished, you may put this SIGNI from your Ener Zone on the bottom of your deck. If you do, reveal the top card of your deck. If it is a level 3 SIGNI, put it onto your field downed.
 [Auto]: At the end of your turn, target 1 SIGNI in your Ener Zone, and add it to your hand.
 
 [Life Burst]: Target 1 SIGNI on your opponent's field with 7000 power or higher, and vanish it.</text>
@@ -57138,7 +57138,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: When this SIGNI attacks, target 1 level 1 Angel SIGNI in your trash, and add it to your hand.
-[Auto]: When this SIGNI is banished, you may discard 2 Angel SIGNI from your hand. If you do, put this SIGNI from your Ener Zone onto your field downed.
+[Auto]: When this SIGNI is vanished, you may discard 2 Angel SIGNI from your hand. If you do, put this SIGNI from your Ener Zone onto your field downed.
 
 [Life Burst]: Target 1 SIGNI without [Guard] in your trash, and it to your hand or put it onto your field.</text>
 		</card>
@@ -57267,7 +57267,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<type>SIGNI - Idle Tone: Angel (DS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When another Angel SIGNI on your field is banished, target 1 SIGNI on your field, and it gets +5000 power until end of turn.</text>
+			<text>[Auto]: When another Angel SIGNI on your field is vanished, target 1 SIGNI on your field, and it gets +5000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Zepar, Crimson Devil</name>
@@ -57931,7 +57931,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>2</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -57942,7 +57942,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>W</color>
 			<manacost>2 - W</manacost>
 			<cmc>2</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>5</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -57953,10 +57953,10 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Team On-Play]: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.
+			<text>[Team Enter]: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.
 [Auto]: When this LRIG attacks, if there are 5 or more cards under this LRIG, target 1 SIGNI with [Guard] in your trash, and put it on top of your deck. Then if there are 7 or more cards under this LRIG, draw 1 card.
 [Action] [1/Game] {0}: Put all cards from under your other LRIGs under this LRIG.</text>
 		</card>
@@ -57966,7 +57966,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>W</color>
 			<manacost>2 - 3</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
@@ -57981,7 +57981,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -57995,7 +57995,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -58009,7 +58009,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<color>G</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
-			<type>LRIG|Assist - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG|Assist - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>+1</loyalty>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -58119,7 +58119,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<text>(Harmony): 1 green LRIG (When this SIGNI is put onto the field, down it unless you down 1 upped green LRIG on your field.)
 			
 [Auto]: When a white LRIG on your field attacks, you may down 2 upped SIGNI on your field and pay {1}{W}. If you do, up that LRIG and that LRIG loses its abilities until end of turn.
-[Auto]: When this upped SIGNI is banished, you may pay {2}{W}. If you do, put this SIGNI from your Ener Zone onto your field downed.</text>
+[Auto]: When this upped SIGNI is vanished, you may pay {2}{W}. If you do, put this SIGNI from your Ener Zone onto your field downed.</text>
 		</card>
 		<card>
 			<name>Code Heart P Enlight</name>
@@ -58217,7 +58217,7 @@ Target 1 SIGNI on your opponent's field, and vanish it. If you paid {Exceed 4}, 
 			<text>(Harmony): 1 blue LRIG (When this SIGNI is put onto your field, down it unless you down 1 upped blue LRIG on your field.)
 			
 [Auto]: At the beginning of your Attack Phase, if there are 3 or more colors among SIGNI on your field and this SIGNI is upped, target 1 other SIGNI on your field, and you may pay {1}{G}. If you do, that SIGNI gets [Lancer] until end of turn.
-[Auto] [1/Turn]: When another SIGNI on your field is banished, [Ener Charge 1].</text>
+[Auto] [1/Turn]: When another SIGNI on your field is vanished, [Ener Charge 1].</text>
 		</card>
 		<card>
 			<name>Code Labyrinth Giroppon</name>
@@ -58534,7 +58534,7 @@ Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: At the end of your opponent's turn, target 1 SIGNI on your opponent's field, and freeze it.
-[Auto]: When this SIGNI is banished, target 1 SIGNI on your opponent's field, and down and freeze it.
+[Auto]: When this SIGNI is vanished, target 1 SIGNI on your opponent's field, and down and freeze it.
 
 (Frozen SIGNI do not up during its user's next Up Phase.)</text>
 		</card>
@@ -58931,7 +58931,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: When this LRIG attacks, you may put 1 card from under this LRIG into the LRIG Trash. If you do, discard 1 card from your opponent's hand at random.
@@ -59337,7 +59337,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]: When your opponent draws a card during the Main Phase or Attack Phase, your opponent discards 1 card from their hand.
-[Auto]: When this SIGNI is banished, you may discard 2 cards from your hand. If you do, put this SIGNI from your Ener Zone onto your field downed.
+[Auto]: When this SIGNI is vanished, you may discard 2 cards from your hand. If you do, put this SIGNI from your Ener Zone onto your field downed.
 
 [Life Burst]: Target 1 SIGNI on your opponent's field, and you may discard 2 cards from your hand. If you do, vanish that SIGNI.</text>
 		</card>
@@ -59427,7 +59427,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<type>SIGNI - Mech Tone: Electronics (DS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may reveal 2 SPELLs in your hand. If you do, draw 1 card.
+			<text>[Auto]: When this SIGNI is vanished, you may reveal 2 SPELLs in your hand. If you do, draw 1 card.
 [Auto]: At the beginning of your Main Phase, reveal the top card of your deck. If it is a SPELL, draw 1 card.</text>
 		</card>
 		<card>
@@ -59704,7 +59704,7 @@ Put 2 Demon SIGNI on your field into the trash. If you do, you get the following
 			<type>SIGNI|LB - Idle Tone: Demon (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, draw 1 card.
+			<text>[Auto]: When this SIGNI is vanished, draw 1 card.
 [Enter]: Discard 1 card from your hand.
 
 [Life Burst]: Target 1 LRIG or SIGNI on your opponent's field. The next time that SIGNI or LRIG attacks this turn, disable that attack unless your opponent discards 3 cards from their hand.</text>
@@ -60147,7 +60147,7 @@ Choose one:
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: When this LRIG attacks, target 1 card in your trash, and you may put 1 card from under this LRIG into the LRIG Trash. If you do, put the targeted card on the top of your deck.
@@ -60943,7 +60943,7 @@ Choose one:
 			<type>SIGNI|LB - Idle Tone: Demon (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, [Ener Charge 1].
+			<text>[Auto]: When this SIGNI is vanished, [Ener Charge 1].
 [Enter]: Your opponent does [Ener Charge 1].
 
 [Life Burst]: Target 1 SIGNI on your opponent's field, and you may pay {2}. If you do, vanish that SIGNI.</text>
@@ -61034,7 +61034,7 @@ Choose one:
 			<type>SIGNI - Idle Tone: Demon (DS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may discard 2 Demon SIGNI from your hand. If you do, put this SIGNI from your Ener Zone on your field downed.</text>
+			<text>[Auto]: When this SIGNI is vanished, you may discard 2 Demon SIGNI from your hand. If you do, put this SIGNI from your Ener Zone on your field downed.</text>
 		</card>
 		<card>
 			<name>Timerbomb, Explosive Natural Star</name>
@@ -61374,7 +61374,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, you may put 1 card from under this LRIG into the LRIG Trash. If you do, [Ener Charge 1].
@@ -61389,7 +61389,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>6</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]: At the beginning of your Attack Phase, you may put 1 card from under this LRIG into the LRIG Trash. If you do, [Ener Charge 1].
@@ -62709,7 +62709,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 [Auto] [1/Turn]: When a RESONA is put onto your field during your turn, choose one:
 - Draw 1 card, then [Ener Charge 1].
 - Return 1 SIGNI on your opponent's field to its owner's hand.
-- That RESONA gets "This card cannot be banished." until end of turn.
+- That RESONA gets "This card cannot be vanished." until end of turn.
 [Action] [Attack Phase] Pay 2 Coins: All SIGNI on your opponent's field get "This SIGNI cannot attack unless you pay {2}." until end of turn.</text>
 		</card>
 		<card>
@@ -62871,7 +62871,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<tablerow>0</tablerow>
 			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
 [Auto] [1/Turn]: When a RESONA is put onto your field during your turn, put up to 2 cards that were put into the trash to pay for that RESONA's (Play Condition) from your trash into your Ener Zone.
-[Action] [Attack Phase] Pay 1 Coin: 1 RESONA on your field gets "This card cannot be banished." until end of turn.</text>
+[Action] [Attack Phase] Pay 1 Coin: 1 RESONA on your field gets "This card cannot be vanished." until end of turn.</text>
 		</card>
 		<card>
 			<name>Mel=Gin Tonic</name>
@@ -63208,7 +63208,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 10 or more Atom SIGNI with different names in your trash, all Atom SIGNI on your field are unaffected by the effects of your opponent's SIGNI. While there are 15 or more Atom SIGNI with different names in your trash, all Atom SIGNI on your field are unaffected by the effects of your opponent's LRIG.
-[Auto]: When this SIGNI is banished, if there are 5 or more Atom SIGNI with different names in your trash, your opponent discards 1 card from their hand.
+[Auto]: When this SIGNI is vanished, if there are 5 or more Atom SIGNI with different names in your trash, your opponent discards 1 card from their hand.
 
 [Life Burst]: Down and freeze 2 SIGNI on your opponent's field.</text>
 		</card>
@@ -63252,7 +63252,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]: At the beginning of each player's Attack Phase, put up to 1 Beautiful Technique SIGNI from your Ener Zone onto your field.
-[Auto]: When a Beautiful Technique SIGNI on your field is banished, you may discard 1 Beautiful Technique SIGNI from your hand. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
+[Auto]: When a Beautiful Technique SIGNI on your field is vanished, you may discard 1 Beautiful Technique SIGNI from your hand. If you do, return 1 SIGNI on your opponent's field to its owner's hand.
 
 [Life Burst]: [Ener Charge 1]. If a Beautiful Technique SIGNI was put into your Ener Zone this way, return 1 SIGNI on your opponent's field to its owner's hand.</text>
 		</card>
@@ -63686,7 +63686,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While there are 15 or more cards in your trash, this SIGNI gets +6000 power and [Lancer].
-[Constant]: While there are 30 or more cards in your trash, this SIGNI gets "This SIGNI cannot be banished." during your turn.
+[Constant]: While there are 30 or more cards in your trash, this SIGNI gets "This SIGNI cannot be vanished." during your turn.
 [Enter]: Each player puts the top 3 cards of their deck into the trash.</text>
 		</card>
 		<card>
@@ -63818,7 +63818,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>LRIG - Hanayo</type>
 			<loyalty>12</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Constant]: Gem SIGNI on your field get [Double Crush] and "This SIGNI cannot be banished." during your turn.
+			<text>[Constant]: Gem SIGNI on your field get [Double Crush] and "This SIGNI cannot be vanished." during your turn.
 [Action] Discard 1 Ore SIGNI from your hand: 1 red SIGNI on your field gets [Assassin] until end of turn.
 [Action] [Attack Phase] {Exceed 5}: Vanish all SIGNI on your opponent's field. Then add a number of Gem or Ore SIGNI up to the number of SIGNI vanished this way from your trash to your hand.</text>
 		</card>
@@ -64075,7 +64075,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Constant]: During your Attack Phase, each infected SIGNI on your opponent's field get −2000 power multiplied by its own level.
-[Auto]: When a SIGNI on your opponent's field becomes banished, put 1 [Virus] on 1 SIGNI Zone on your opponent's field.
+[Auto]: When a SIGNI on your opponent's field becomes vanished, put 1 [Virus] on 1 SIGNI Zone on your opponent's field.
 [Action] [1/Game] ((Blind)) Pay 2 Coins: During this turn and the next player's turn, all Bacteria SIGNI on your field get [Shadow].</text>
 		</card>
 		<card>
@@ -64246,7 +64246,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SIGNI|LB - Machine Spirit: Riding Machine - Layla Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Drive Constant]: This SIGNI cannot be banished.
+			<text>[Drive Constant]: This SIGNI cannot be vanished.
 [Drive Auto]: When this SIGNI attacks, vanish all SIGNI on your opponent's field.
 [Enter] {R}: Search your deck for up to 2 level 4 or lower Riding Machine SIGNI and put them onto the field. Shuffle your deck.
 
@@ -64352,7 +64352,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SIGNI|LB - War Spirit: Playground Equipment - Aiyai Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, put up to 1 level 3 or lower Playground Equipment SIGNI from your Ener Zone onto the field.
+			<text>[Auto]: When this SIGNI is vanished, put up to 1 level 3 or lower Playground Equipment SIGNI from your Ener Zone onto the field.
 [Auto] [1/Turn]: When this SIGNI attacks, add up to 2 Playground Equipment SIGNI from your Ener Zone to your hand.
 [Enter] {G}: This SIGNI becomes a cheer girl.
 
@@ -64383,7 +64383,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: During the Attack Phase, all your cards' (Wisdom) abilities condition may treat this SIGNI's level as if it was any level from 0-4.
-[Constant] (Wisdom = 15): This SIGNI cannot be banished.
+[Constant] (Wisdom = 15): This SIGNI cannot be vanished.
 [Enter] {G}: This SIGNI becomes a cheer girl.
 [Action] [1/Turn] {G}: Search your deck for up to 2 SIGNI with different levels and put them onto the field. Shuffle your deck.
 
@@ -64568,7 +64568,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SIGNI|LB - War Spirit: Weapon - Hanayo Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI would be banished, you may vanish another Weapon SIGNI on your field instead.
+			<text>[Constant]: When this SIGNI would be vanished, you may vanish another Weapon SIGNI on your field instead.
 [Auto] [1/Turn]: When this SIGNI attacks, up another Weapon SIGNI on your field.
 [Enter] {R}: This SIGNI becomes a cheer girl.
 
@@ -64770,7 +64770,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SIGNI|LB - War Spirit: Venom - Iona Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: During your Attack Phase, if a SIGNI on your opponent's field would be banished, it is put into the trash instead of the Ener Zone.
+			<text>[Constant]: During your Attack Phase, if a SIGNI on your opponent's field would be vanished, it is put into the trash instead of the Ener Zone.
 [Auto]: When this SIGNI attacks, add 1 Venom SIGNI other than "Vier=Oxygen" from your trash to your hand or put it onto the field.
 [Enter] {B}: This SIGNI becomes a cheer girl.
 
@@ -65048,7 +65048,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>LRIG - Nanashi</type>
 			<loyalty>12</loyalty>
 			<tablerow>0</tablerow>
-			<text>[Constant]: When an infected SIGNI on your opponent's field is banished, it is put into the trash instead of the Ener Zone.
+			<text>[Constant]: When an infected SIGNI on your opponent's field is vanished, it is put into the trash instead of the Ener Zone.
 [Enter]: Add 2 SIGNI from your trash to your hand.
 [Action] {Down}: Put 1 [Virus] on all SIGNI Zones on your opponent's field.
 [Action] [Attack Phase] Pay 1 Coin: 1 infected SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn. </text>
@@ -66067,7 +66067,7 @@ Draw 3 cards, then discard 2 cards from your hand.</text>
 			<type>SIGNI|LB - Nature Spirit: Atom - Milulun Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {U}. If you do, search your deck for a card named "Flourine, Natural Source", reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {U}. If you do, search your deck for a card named "Flourine, Natural Source", reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -66298,7 +66298,7 @@ Return all SIGNI with power equal to the highest power among them to their owner
 			<type>SIGNI|LB - Image Spirit: Beautiful Technique - Anne Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for a card named "Surrelis, Unresolved Deviation", reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Constant]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for a card named "Surrelis, Unresolved Deviation", reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -66493,7 +66493,7 @@ When your card's [Life Burst] would trigger this turn, it triggers twice instead
 			<pt>18000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets −2000 power for each card in your Life Cloth.
-[Constant]: While there are 0 cards in your Life Cloth, this SIGNI cannot be banished.
+[Constant]: While there are 0 cards in your Life Cloth, this SIGNI cannot be vanished.
 [Enter]: Look at the top card of your Life Cloth. You may crush it.
 
 [Life Burst]: If you have 0 cards in your Life Cloth, add the top card of your deck to your Life Cloth, then draw 1 card. </text>
@@ -67211,7 +67211,7 @@ Search your deck for a card whose limiting condition includes the type of your L
 
 Choose one:
 - Search your deck for up to 10 Angel SIGNI with different names and put them into the trash. Shuffle your deck.
-- If it is your opponent's turn, all Angel SIGNI on your field get "This SIGNI cannot be banished." until end of turn.</text>
+- If it is your opponent's turn, all Angel SIGNI on your field get "This SIGNI cannot be vanished." until end of turn.</text>
 		</card>
 		<card>
 			<name>Ancient Wave</name>
@@ -67678,7 +67678,7 @@ Put any number of black SIGNI from your field into the trash. Then apply the fol
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Enter] Pay 1 Coin: Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
-[Action] [1/Turn] {R}{R}{R}: 1 SIGNI with (Rise) on your field gets "When the SIGNI in front of this SIGNI is banished, up this SIGNI." until end of turn. </text>
+[Action] [1/Turn] {R}{R}{R}: 1 SIGNI with (Rise) on your field gets "When the SIGNI in front of this SIGNI is vanished, up this SIGNI." until end of turn. </text>
 		</card>
 		<card>
 			<name>Ril, Memory of the Blue Sky (SP23)</name>
@@ -68048,7 +68048,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 			<type>SIGNI|LB - War Spirit: Armed</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, reveal the top 3 cards of your deck. You may put 1 Armed SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order.
+			<text>[Auto]: When this SIGNI is vanished, reveal the top 3 cards of your deck. You may put 1 Armed SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order.
 [Enter]: Reveal the top 3 cards of your deck. You may put 1 Weapon SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order.
 
 [Life Burst]: Search your deck for 1 Arm or Weapon SIGNI, reveal it, then add it to your hand. Shuffle your deck. </text>
@@ -68062,7 +68062,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 			<type>SIGNI|LB - Living Spirit: Aquatic Beast - Eldora Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {U}. If you do, reveal cards from the top of your deck until you reveal a Aquatic Beast SIGNI. Either add that SIGNI to your hand or put it onto your field. Then put the rest of the revealed cards on the bottom of your deck in a random order.
+			<text>[Auto]: When this SIGNI is vanished, you may pay {U}. If you do, reveal cards from the top of your deck until you reveal a Aquatic Beast SIGNI. Either add that SIGNI to your hand or put it onto your field. Then put the rest of the revealed cards on the bottom of your deck in a random order.
 			
 [Life Burst]: Draw 1 card. </text>
 		</card>
@@ -68479,7 +68479,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: This SIGNI gets +1000 power for each other Armed SIGNI on your field.
-[Auto] When an Armed SIGNI on your field is banished, up or down 1 SIGNI on the field.
+[Auto] When an Armed SIGNI on your field is vanished, up or down 1 SIGNI on the field.
 [Enter] {W}: Search your deck for 1 SIGNI with "Fist" in its card name, reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Return 1 SIGNI on your opponent's field to its owner's hand.</text>
@@ -68541,7 +68541,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<tablerow>2</tablerow>
 			<text>(Cross): "Dora, Roaring Left Gun" Right and "Doslaf, Roaring Right Gun" Left
 			
-[Constant]: When this SIGNI would be banished, it loses this ability until end of turn instead.
+[Constant]: When this SIGNI would be vanished, it loses this ability until end of turn instead.
 [Cross Auto] [1/Turn]: When this SIGNI reaches [Heaven], up all SIGNI on your field.
 
 [Life Burst]: Add up to 2 SIGNI with (Cross) from your trash to your hand. </text>
@@ -68747,7 +68747,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<type>SIGNI|LB - Image Spirit: Angel</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When an Angel SIGNI on your field is banished, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
+			<text>[Auto]: When an Angel SIGNI on your field is vanished, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
 [Enter] {B}{B}: Put 1 Angel SIGNI from your trash onto the field.
 [Action] [1/Turn] [Main Phase] [Attack Phase] {B}: Vanish 1 other Angel SIGNI on your field. If you do, 1 SIGNI on your opponent's field gets -3000 power until end of turn.
 
@@ -72786,7 +72786,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -72797,7 +72797,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -72808,7 +72808,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -72969,7 +72969,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -73143,7 +73143,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -73154,7 +73154,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>W</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Nova [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -73165,7 +73165,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>G</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Bang [Universe's Beginning] (DS)</type>   
+			<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>   
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -73281,7 +73281,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>U</color>
 			<manacost>0 - 0</manacost>
 			<cmc>0</cmc>
-			<type>LRIG - Tamago [Universe's Beginning] (DS)</type> 
+			<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type> 
 			<loyalty>0</loyalty>
 			<tablerow>0</tablerow>
 			<text></text>
@@ -73339,7 +73339,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 		<!-- SPDi08S -->
 		
 		<card>
-			<name>Arcgain, Holy Angel Princess (SPDi08S)</name>
+			<name>Arcgwyn, Blessed Angel Queen (SPDi08S)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Arcgain%2C%20Holy%20Angel%20Princess%20(SPDi08S).jpg">SPDi08S</set>
 			<color>W</color>
 			<manacost>3</manacost>
@@ -74631,7 +74631,7 @@ Put up to 2 RESONA from your LRIG Deck onto your field, ignoring their (Play Con
 			<tablerow>0</tablerow>
 			<text>Use Timing [Spell Cut-In]
 		
-1 SIGNI on your field gets "This SIGNI cannot be banished." until end of turn. </text>
+1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn. </text>
 		</card>
 		<card>
 			<name>Last Select (PR156)</name>
@@ -75643,7 +75643,7 @@ Choose one:
 			<type>SIGNI|LB - Living Spirit: Dragon Beast</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 2 Dragon Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
+			<text>[Auto]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 2 Dragon Beast SIGNI, reveal it, then add it to your hand. Shuffle your deck.
 
 [Life Burst]: Draw 1 card.</text>
 		</card>
@@ -75842,7 +75842,7 @@ Choose one:
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: All Beautiful Technique SIGNI with (Cross) on your field cannot be vanished by your opponent's card effects.
-[Auto]: When this SIGNI is banished, you may pay {G}. If you do, search your deck for 1 level 3 or lower Beautiful Technique SIGNI other than "Cellon, Rotation of the End", reveal it, then either put it onto your field or add it to your hand. Shuffle your deck. </text>
+[Auto]: When this SIGNI is vanished, you may pay {G}. If you do, search your deck for 1 level 3 or lower Beautiful Technique SIGNI other than "Cellon, Rotation of the End", reveal it, then either put it onto your field or add it to your hand. Shuffle your deck. </text>
 		</card>
 		<card>
 			<name>Pure Treasured Sword (PR284)</name>
@@ -76091,7 +76091,7 @@ Use 1 of your LRIG's {Exceed X} abilities without paying its cost and ignoring i
 			<tablerow>2</tablerow>
 			<text>(Rise) 1 level 1 red SIGNI. (This SIGNI cannot be put onto the field unless you put it on top of 1 level 1 red SIGNI on your field.)
 			
-[Auto]: At the beginning of each player's Attack Phase, 1 other red SIGNI on your field gets "This SIGNI cannot be banished." until end of turn.
+[Auto]: At the beginning of each player's Attack Phase, 1 other red SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.
 
 [Life Burst]: Draw 1 card. </text>
 		</card>
@@ -77197,7 +77197,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<type>SIGNI - War Spirit: Playground Equipment</type>
 			<pt>7867/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI with 0 power or lower is banished, you lose the game.
+			<text>[Auto]: When this SIGNI with 0 power or lower is vanished, you lose the game.
 [Auto]: At the end of your turn, if this SIGNI has 10000 power or higher, put this SIGNI from your field into the trash, then draw 3 cards. </text>
 		</card>
 		<card>
@@ -77222,7 +77222,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<type>SIGNI - War Spirit: Playground Equipment</type>
 			<pt>7867/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI with 0 power or lower is banished, you lose the game.
+			<text>[Auto]: When this SIGNI with 0 power or lower is vanished, you lose the game.
 [Auto]: At the end of your turn, if this SIGNI has 10000 power or higher, put this SIGNI from your field into the trash, then draw 3 cards. </text>
 		</card>
 		<card>
@@ -77274,7 +77274,7 @@ Search your deck for 1 level 4 or lower white or black SIGNI and put it onto you
 			<type>SIGNI - War Spirit: Playground Equipment</type>
 			<pt>7867/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI with 0 power or lower is banished, you lose the game.
+			<text>[Auto]: When this SIGNI with 0 power or lower is vanished, you lose the game.
 [Auto]: At the end of your turn, if this SIGNI has 10000 power or higher, put this SIGNI from your field into the trash, then draw 3 cards. </text>
 		</card>
 		<card>
@@ -77302,7 +77302,7 @@ Choose one. If you have 2 or less cards in your Life Cloth, choose two instead:
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]: While this SIGNI is on your center SIGNI Zone, this SIGNI gets "Other SIGNI on your field get +3000 power and are unaffected by the effects of your opponent's SIGNI that do not have [Life Burst]."
-[Auto]: When this SIGNI is banished, you may pay {R}{R}. If you do, put this SIGNI from your Ener Zone onto your field. </text>
+[Auto]: When this SIGNI is vanished, you may pay {R}{R}. If you do, put this SIGNI from your Ener Zone onto your field. </text>
 		</card>
 		<card>
 			<name>Servant A</name>
@@ -78894,7 +78894,7 @@ Choose one. If you bet, choose two instead:
 			<type>SIGNI|LB - War Spirit: Armeded (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]: When this SIGNI is banished, you may pay {B}. If you do, vanish 1 SIGNI on your opponent's field.
+			<text>[Auto]: When this SIGNI is vanished, you may pay {B}. If you do, vanish 1 SIGNI on your opponent's field.
 [Action] {B}, Put this SIGNI from your field into the trash: 1 SIGNI on your field gets +3000 power and "[Auto]: When this SIGNI attacks, 1 SIGNI on your opponent's field loses power equal to this SIGNI's power until end of turn."
 
 [Life Burst]: Vanish 1 SIGNI on your opponent's field that attacked this turn.</text>

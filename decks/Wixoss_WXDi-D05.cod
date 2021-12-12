@@ -3,28 +3,29 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Servant # "/>
-        <card number="4" name="Shark Spear, Azure Devil"/>
-        <card number="4" name="Purson, Holy Devil"/>
-        <card number="4" name="Screw Carmilla, Azure Devil"/>
-        <card number="4" name="Captain Hook, Azure Devil"/>
-        <card number="4" name="Shinpachi, Azure General"/>
-        <card number="4" name="Draconids, Natural Star"/>
-        <card number="4" name="Procyos, Natural Star"/>
-        <card number="4" name="Sirios, Natural Star"/>
-        <card number="4" name="RANDOM BAD"/>
+        <card number="4" name="Servant #"/>
+        <card number="4" name="Sharkspeare, Azure Evil"/>
+        <card number="4" name="Curson, Blessed Evil"/>
+        <card number="4" name="Carmilla Screw, Azure Evil"/>
+        <card number="4" name="Captain Hook, Azure Evil"/>
+        <card number="4" name="Shimpachi, Azure General"/>
+        <card number="4" name="Giacobinids, Natural Planet"/>
+        <card number="4" name="RANDOM DRAIN"/>
+        <card number="4" name="Procyon A, Natural Planet"/>
+        <card number="4" name="Sirius, Natural Planet (DS)"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Dr. Tamago, Newborn"/>
-        <card number="1" name="Dr. Tamago, Let's Go"/>
-        <card number="1" name="Dr. Tamago, Fight"/>
-        <card number="1" name="Dr. Tamago, Guts"/>
-        <card number="1" name="Nova, Newborn"/>
-        <card number="1" name="Nova=Dirty"/>
-        <card number="1" name="Nova=Chopper"/>
-        <card number="1" name="Bang, Newborn"/>
-        <card number="1" name="Bang=Crescendo"/>
-        <card number="1" name="Bang=Repeat"/>
-        <card number="1" name="Staggering★Destruction"/>
+        <card number="1" name="Newborn Dr. Tamago"/>
+        <card number="1" name="Let's Go! Dr. Tamago"/>
+        <card number="1" name="You Can Do It! Dr. Tamago"/>
+        <card number="1" name="Never Give Up! Dr. Tamago"/>
+        <card number="1" name="Newborn Nova"/>
+        <card number="1" name="Nova =Dirty="/>
+        <card number="1" name="Nova =Chopper="/>
+        <card number="1" name="Newborn Bang"/>
+        <card number="1" name="Bang =Crescendo="/>
+        <card number="1" name="Bang =Repeat="/>
+        <card number="1" name="Hanpanai★Destruction"/>
+        <card number="1" name="Great! Re-ver-sal!"/>
     </zone>
 </cockatrice_deck>

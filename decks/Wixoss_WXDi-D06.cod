@@ -2,29 +2,30 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="main">
-        <card number="4" name="Servant # "/>
-        <card number="4" name="Code Maze Bear Park"/>
-        <card number="4" name="Helium Gas, Natural Source"/>
-        <card number="4" name="Gaap, Wicked Angel"/>
-        <card number="4" name="Germanium, Natural Source"/>
-        <card number="4" name="Drei=Rikabuto"/>
-        <card number="4" name="Anna Mirage, Wicked Devil"/>
-        <card number="4" name="Ein-Green Gas"/>
-        <card number="4" name="Tick-Tock, Azure Wicked Devil"/>
-        <card number="4" name="Downer Sound"/>
-    </zone>
     <zone name="side">
         <card number="1" name="Muzica START"/>
-        <card number="1" name="Muzica, VOGUE 1"/>
-        <card number="1" name="Muzica, VOGUE 2"/>
-        <card number="1" name="Muzica, VOGUE 3"/>
+        <card number="1" name="Muzica, Vogue 1"/>
+        <card number="1" name="Muzica, Vogue 2"/>
+        <card number="1" name="Muzica, Vogue 3"/>
         <card number="1" name="Madoka START"/>
         <card number="1" name="Madoka//Float"/>
-        <card number="1" name="Madoka//Dove"/>
+        <card number="1" name="Madoka//Dub"/>
         <card number="1" name="Sanga START"/>
-        <card number="1" name="Sanga//Air"/>
+        <card number="1" name="Sanga//Aerial"/>
         <card number="1" name="Sanga//Shake"/>
-        <card number="1" name="salvage the future"/>
+        <card number="1" name="Salvage the Future"/>
+        <card number="1" name="●Tap Down Tap●"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Noboribetsu, Code: Maze"/>
+        <card number="4" name="He, Natural Element"/>
+        <card number="4" name="Gaap, Doomed Angel"/>
+        <card number="4" name="Ge, Natural Element"/>
+        <card number="4" name="Aconis Type: Drei"/>
+        <card number="4" name="Anna Mirage, Doomed Evil"/>
+        <card number="4" name="Enervating Melody"/>
+        <card number="4" name="Tick-Tock, Azure Doomed Evil"/>
+        <card number="4" name="Green Gas Type: Eins"/>
+        <card number="4" name="Servant #"/>
     </zone>
 </cockatrice_deck>

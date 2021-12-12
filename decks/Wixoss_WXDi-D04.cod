@@ -3,28 +3,29 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Servant # "/>
-        <card number="4" name="Code Art F Lashli"/>
-        <card number="4" name="Michael, Holy Angel"/>
-        <card number="4" name="Amazones, Verdant General"/>
-        <card number="4" name="Athena, Holy Angel"/>
-        <card number="4" name="Code Art C Handelier"/>
-        <card number="4" name="Hare Hare, Phantom Beast"/>
-        <card number="4" name="Code Maze Triumphal Arc"/>
-        <card number="4" name="Code Maze Babetower"/>
+        <card number="4" name="Servant #"/>
+        <card number="4" name="F-Lite, Code: Art"/>
+        <card number="4" name="Amazoness, Jade General"/>
+        <card number="4" name="Chandelier, Code: Art"/>
+        <card number="4" name="Flopsy, Phantom Terra Beast"/>
         <card number="4" name="Good Dig"/>
+        <card number="4" name="Michael, Blessed Angel"/>
+        <card number="4" name="Athena, Blessed Angel"/>
+        <card number="4" name="Triomphe, Code: Maze"/>
+        <card number="4" name="Babel, Code: Maze (DS)"/>
     </zone>
     <zone name="side">
-        <card number="1" name="MC.LION - standby"/>
-        <card number="1" name="MC.LION - 1st Verse"/>
-        <card number="1" name="MC.LION - 2nd Verse"/>
-        <card number="1" name="MC.LION - 3rd Verse"/>
-        <card number="1" name="DJ.LOVIT - standby"/>
-        <card number="1" name="DJ.LOVIT - SCRATCH"/>
-        <card number="1" name="DJ.LOVIT - MIX"/>
-        <card number="1" name="VJ.WOLF - standby"/>
-        <card number="1" name="VJ.WOLF - CUE"/>
-        <card number="1" name="VJ.WOLF - SYNC"/>
-        <card number="1" name="ENDLESS－PUNCHLINE"/>
+        <card number="1" name="MC LION - Standby"/>
+        <card number="1" name="MC LION - 1st Verse"/>
+        <card number="1" name="MC LION - 2nd Verse"/>
+        <card number="1" name="MC LION - 3rd Verse"/>
+        <card number="1" name="DJ LOVIT - Standby"/>
+        <card number="1" name="DJ LOVIT - SCRATCH"/>
+        <card number="1" name="DJ LOVIT - MIX"/>
+        <card number="1" name="VJ WOLF - Standby"/>
+        <card number="1" name="VJ WOLF - CUE"/>
+        <card number="1" name="VJ WOLF - SYNC"/>
+        <card number="1" name="Endless Punchline"/>
+        <card number="1" name="Silent Assassin "/>
     </zone>
 </cockatrice_deck>

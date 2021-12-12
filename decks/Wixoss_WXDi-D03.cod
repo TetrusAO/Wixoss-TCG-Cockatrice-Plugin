@@ -3,28 +3,28 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Servant # "/>
-        <card number="4" name="Romail, Small Equipment"/>
+        <card number="4" name="Servant #"/>
         <card number="4" name="Lancelot, Crimson General"/>
-        <card number="4" name="Volcanic, Natural Stone"/>
+        <card number="4" name="Volcanic, Natural Crystal"/>
         <card number="4" name="Kagutsuchi, Crimson Angel"/>
-        <card number="4" name="Tlet, Great Profit Equipment"/>
-        <card number="4" name="Adamasphere, Natural Stone"/>
-        <card number="4" name="Roaring Fireball"/>
-        <card number="4" name="Bronze, Natural Stone"/>
-        <card number="4" name="Silvarna, Natural Stone"/>
+        <card number="4" name="Adamanthia, Natural Crystal"/>
+        <card number="4" name="Deafening Inferno"/>
+        <card number="4" name="Romail, Romail, Lightly Armed"/>
+        <card number="4" name="Letti, Heavy Armed"/>
+        <card number="4" name="Bronze, Natural Crystal"/>
+        <card number="4" name="Silvana, Natural Crystal"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Hirana, One Step Towards the Fragment"/>
-        <card number="1" name="Hirana, One Step Towards the Miracle"/>
-        <card number="1" name="Hirana, One Step Towards the Truth"/>
-        <card number="1" name="Hirana, One Step Towards the Top"/>
-        <card number="1" name="Akino, Advancing Towards the Future"/>
-        <card number="1" name="Rei, Soaring Towards Tomorrow"/>
+        <card number="1" name="Hirana, a Spark of Hope"/>
+        <card number="1" name="Hirana, a Dream of a Miracle"/>
+        <card number="1" name="Hirana, a Glimpse of the Truth"/>
+        <card number="1" name="Hirana, a Step Towards the Top"/>
+        <card number="1" name="Akino, Bound for the Future"/>
+        <card number="1" name="Akino＊Rock"/>
+        <card number="1" name="Akino＊Paper"/>
+        <card number="1" name="Rei, On the Wings of Tomorrow"/>
+        <card number="1" name="Rei＊Flash Blade"/>
+        <card number="1" name="Rei＊Empty Blade"/>
         <card number="1" name="Glory Grow"/>
-        <card number="1" name="Akino∗Rock"/>
-        <card number="1" name="Akino∗Paper"/>
-        <card number="1" name="Rei∗One Cut"/>
-        <card number="1" name="Rei∗Selfless Cut"/>
     </zone>
 </cockatrice_deck>
