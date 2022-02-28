@@ -82954,7 +82954,7 @@ Choose one.  If you bet, choose two instead:
 		</card>
 		<card>
 			<name>Endless Punchline (PR-Di005)</name>
-			<set picURL="hhttps://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Endless%20Punchline%20(PR-Di005).jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Endless%20Punchline%20(PR-Di005).jpg">PR</set>
 			<color>WRG</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
