@@ -82954,7 +82954,7 @@ Choose one.  If you bet, choose two instead:
 		</card>
 		<card>
 			<name>Endless Punchline (PR-Di005)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di005.jpg">PR</set>
+			<set picURL="hhttps://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Endless%20Punchline%20(PR-Di005).jpg">PR</set>
 			<color>WRG</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -82970,7 +82970,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 		</card>
 		<card>
 			<name>Glory Grow (PR-Di006)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di006.jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Glory%20Grow%20(PR-Di006).jpg">PR</set>
 			<color>RWU</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -82986,7 +82986,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 		</card>
 		<card>
 			<name>We Are Wixoss!</name>
-			<set picURL="">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/We%20Are%20Wixoss!.jpg">PR</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -83026,7 +83026,7 @@ Your opponent may shake your hand.  If they do, both players draw 3 cards.  If t
 		</card>
 		<card>
 			<name>Salvage the Future (PR-Di011)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di010.jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Salvage%20the%20Future%20(PR-Di011).jpg">PR</set>
 			<color>BUG</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -83043,7 +83043,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 		</card>
 		<card>
 			<name>Xeno Cluster (PR-Di012)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Xeno%20Cluster.jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Xeno%20Cluster%20(PR-Di012).jpg">PR</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -83056,6 +83056,21 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 Choose one:
 = Draw 1 card.  If a card was put from your hand into the trash by your opponent's effect this turn, draw 3 cards instead.
 = [Ener Charge 1].  If a card was put from your Ener Zone into the trash by your opponent's effect this turn, [Ener Charge 3] instead.</text>
+		</card>
+		<card>
+			<name>Rapid Accumulation</name>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di013.jpg">PR</set>
+			<color></color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>SPELL - (DS)</type>
+			<tablerow>3</tablerow>
+			<text>You may pay an additional {Exceed 4} as you use this SPELL.
+			
+Choose one. If you paid an additional {Exceed 4}, choose two instead.  Your center LRIG gets the chosen abilities below until end of turn:
+= "[Auto] [1/Turn]:  When this LRIG attacks, draw a card."
+= "[Auto] [1/Turn]:  When this LRIG attacks, [Ener Charge 1]."
+= "[Auto] [1/Turn]:  When this LRIG attacks, target 1 SIGNI on your opponent's field, and put it into the trash." </text>
 		</card>
 		<card>
 			<name>Servant # (PR-Di016)</name>
