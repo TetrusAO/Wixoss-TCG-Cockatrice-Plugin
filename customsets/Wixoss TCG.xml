@@ -4553,7 +4553,7 @@ Vanish 1 SIGNI on your opponent's field.
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 If you bet, this ARTS costs {0} to use.
 Vanish all SIGNI on your opponent's field.</text>
 		</card>
@@ -4568,7 +4568,7 @@ Vanish all SIGNI on your opponent's field.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Vanish 1 SIGNI on your opponent's field with 7000 power or lower.  If you bet, vanish 1 SIGNI on your opponent's field with 20000 power or lower instead.  </text>
 		</card>
 		<card>
@@ -4806,7 +4806,7 @@ All Cooking SIGNI on your field get "When this SIGNI attacks, vanish 1 SIGNI on 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Add up to 3 green cards from your Ener Zone to your hand.  Then, if you bet, put up to 3 green SIGNI from your hand onto the field.  The [Enter] abilities of those SIGNI do not activate.  </text>
 		</card>
 		<card>
@@ -4820,7 +4820,7 @@ Add up to 3 green cards from your Ener Zone to your hand.  Then, if you bet, put
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 All SIGNI on your field get +2000 power until end of turn.  Then, if you bet, 1 SIGNI on your field gets "This SIGNI is unaffected by your opponent's card effects during your opponent's turn." until end of turn."</text>
 		</card>
 		<card>
@@ -5036,7 +5036,7 @@ All SIGNI on your field get +2000 power until end of turn.  Then, if you bet, 1 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 All SIGNI on your opponent's field get −7000 power until end of turn.  If you bet, they get −12000 power until end of turn instead.</text>
 		</card>
 		<card>
@@ -5049,7 +5049,7 @@ All SIGNI on your opponent's field get −7000 power until end of turn.  If you 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Remove 1 [Virus] on the same SIGNI Zone as an infected SIGNI on your opponent's field.  That SIGNI gets −8000 power until end of turn.  If you bet, it gets −15000 power until end of turn instead.  </text>
 		</card>
 		<card>
@@ -5257,7 +5257,7 @@ Add 1 level 3 or lower black SIGNI from your trash to your hand.  </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 2 SIGNI on your opponent's field and 2 cards from their Ener Zone into the trash.  Then your opponent discards 2 cards from their hand.  Then add the top card of your deck to your Life Cloth.
 If you activate this ARTS during your opponent's turn and you did not bet, skip your next turn.  </text>
 		</card>
@@ -5271,7 +5271,7 @@ If you activate this ARTS during your opponent's turn and you did not bet, skip 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 If you bet, this ARTS costs {0} to use.
 Add the top card of your deck to your Life Cloth.  </text>
 		</card>
@@ -5502,7 +5502,7 @@ Vanish 1 SIGNI on your opponent's field with 15000 power or lower.  If you do, p
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, repeat this card effect once: (You may choose the same option a second time.)
 - 1 SIGNI on the field gets [Assassin] until end of turn.
 - 1 SIGNI on the field gets [Lancer] until end of turn.
@@ -5838,7 +5838,7 @@ Choose up to two.  If you have a Guzuko LRIG, choose up to three:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] 
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Put 1 level 2 or lower SIGNI on your opponent's field into the trash and put 1 level 2 or lower Playground Equipment SIGNI from your trash onto your field.  If you bet, put 1 SIGNI on your opponent's field into the trash and put 1 Playground Equipment SIGNI from your trash onto your field instead.  </text>
 		</card>
 		<card>
@@ -5862,7 +5862,7 @@ Put 1 level 2 or lower SIGNI on your opponent's field into the trash and put 1 l
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 1 black SIGNI from your trash onto your field.  If you bet, put 2 black SIGNI from your trash onto your field instead.  </text>
 		</card>
 		<card>
@@ -6417,7 +6417,7 @@ Down up to 2 SIGNI on your opponent's field.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  3 Coins.  (You may pay 3 Coins as you use this ARTS.)
+[Bet]: 3 Coins.  (You may pay 3 Coins as you use this ARTS.)
 Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you bet, add the top card of your deck to your Life Cloth.  </text>
 		</card>
 		<card>
@@ -6591,7 +6591,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Down 2 SIGNI on your opponent's field.
@@ -6605,7 +6605,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]:  When your card's [Trap] ability triggers, up or down 1 SIGNI on the field.
@@ -6620,12 +6620,12 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {U}{U}: Search your deck for up to 3 cards and set them on your SIGNI Zones as Traps.  Shuffle your deck.
-[Action] [Attack Phase] Put 1 Trick SIGNI on your field into the trash: Draw 1 card.
-[Trap]:  You may discard 2 Trick SIGNI from your hand.  If you do, vanish 1 SIGNI on your opponent's field.
+[Action] [Attack Phase] Put 1 Trickster SIGNI on your field into the trash: Draw 1 card.
+[Trap]:  You may discard 2 Trickster SIGNI from your hand.  If you do, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]:  Add 2 SIGNI with [Trap] from your trash to your hand.  </text>
 		</card>
@@ -6635,7 +6635,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Look at the top 2 cards of your deck.  Set 1 of them on 1 of your SIGNI Zones as a Trap, then add the rest into your hand.
@@ -6648,7 +6648,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Draw 1 card, or set 1 card from your hand on 1 of your SIGNI Zones as a Trap.  
@@ -6660,7 +6660,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is a Trap on your field, draw 1 card.</text>
@@ -6671,7 +6671,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Freeze all SIGNI on your opponent's field.
@@ -6685,7 +6685,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is no Trap on your field, look at the top 2 cards of your deck.  You may set 1 card from among them on 1 of your SIGNI Zones as a Trap.  Then put the rest on the bottom of your deck in any order.  
@@ -6697,11 +6697,11 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  As long as there is a Trap on the same SIGNI Zone as this SIGNI, this SIGNI's power becomes 5000.
-[Trap]:  You may pay {U}{U}.  If you do, search your deck for 1 level 2 or lower Trick SIGNI then put it onto your field.  Shuffle your deck.
+[Trap]:  You may pay {U}{U}.  If you do, search your deck for 1 level 2 or lower Trickster SIGNI then put it onto your field.  Shuffle your deck.
 
 [Life Burst]:  Draw 1 card.</text>
 		</card>
@@ -6714,8 +6714,8 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<type>SPELL - Aya Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- Vanish 1 Trick SIGNI on your field.  If you do, look at the top 3 cards of your deck.  You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
-- Vanish 1 Trick SIGNI on your field.  If you do, add 1 Trap from your field into your hand.</text>
+- Vanish 1 Trickster SIGNI on your field.  If you do, look at the top 3 cards of your deck.  You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+- Vanish 1 Trickster SIGNI on your field.  If you do, add 1 Trap from your field into your hand.</text>
 		</card>
 		<card>
 			<name>Lure, Large Water Trap</name>
@@ -6723,7 +6723,7 @@ Draw 2 cards, then put 1 card from your hand on top of your deck.  Then, if you 
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Living Spirit: Aquatic Beast / War Spirit: Trick - Eldora / Aya Limited</type>
+			<type>SIGNI|LB - Living Spirit: Aquatic Beast / War Spirit: Trickster - Eldora / Aya Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Shuffle 4 blue SIGNI with different levels from your trash into your deck.  If you do, look at the top 2 cards of your deck.  Add 1 of them to your hand and return the other to the top of your deck.
@@ -6855,7 +6855,7 @@ Vanish 2 SIGNI on your opponent's field.  (This ARTS cannot be used unless there
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS's cost becomes {0}.
 1 SIGNI in [Drive] on your field gets [Double Crush] until end of turn.  If that SIGNI is level 3 or higher, it gets [Triple Crush] instead.
 (If a SIGNI with [Double Crush] deals damage with an attack, it crushes 2 cards in your opponent's Life Cloth instead of 1.  If it has [Triple Crush], it crushes 3.)</text>
@@ -6904,7 +6904,7 @@ Vanish 1 SIGNI on your opponent's field, then discard 2 cards from your hand.</t
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Add up to 3 SIGNI with different levels that share a color with your LRIG from your trash to your hand.  If you bet, add up to 4 SIGNI with different levels that share a color with your LRIG from your trash to your hand instead.  </text>
 		</card>
 		<card>
@@ -7124,7 +7124,7 @@ Discard 3 cards from your opponent's hand at random.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Down 1 SIGNI on your opponent's field.  If you bet, down 2 SIGNI on your opponent's field instead.</text>
 		</card>
 		<card>
@@ -7354,7 +7354,7 @@ Put all SIGNI on your opponent's field into the trash.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 If you bet, this ARTS costs {0} to use.
 Add the top card of your deck to your Life Cloth.  </text>
 		</card>
@@ -7368,7 +7368,7 @@ Add the top card of your deck to your Life Cloth.  </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS's cost becomes {0}.
 Vanish 1 level 4 SIGNI on your opponent's field.</text>
 		</card>
@@ -7561,7 +7561,7 @@ All SIGNI on your opponent's field get -12000 power until end of turn.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 1 Coin as you use this ARTS.)
 Put 1 SIGNI on your field into the trash.  If you do, vanish 1 level 4 or lower SIGNI on your opponent's field.  If you bet, vanish 1 more SIGNI on your opponent's field.  </text>
 		</card>
 		<card>
@@ -7583,7 +7583,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] [1/Turn] {B}: Reveal the top card of your deck.  If it is a SIGNI with an even-numbered level, add it to your hand.  If it is a SIGNI with an odd-numbered level, put it into the trash, then 1 SIGNI on your opponent's field gets -8000 power until end of turn.
@@ -7596,7 +7596,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Reveal the top card of your deck.  If it is a SIGNI with an even-numbered level, put it into your Ener Zone.  </text>
@@ -7607,7 +7607,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Look at the top 3 cards of your deck.  Put any number of them into the trash, then return the rest to the top of your deck in any order.  (If there are 2 or less cards in your deck, look at all of them.)</text>
@@ -7618,7 +7618,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if this SIGNI is on your center SIGNI Zone, reveal the top card of your deck, then you may put that card on the bottom of your deck.  If the card revealed this way was a SIGNI with an odd-numbered level, this SIGNI gets +5000 power and [Lancer] until end of turn.
@@ -7632,7 +7632,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Reveal the top card of your deck, then you may put it on the bottom of your deck.  If the card revealed this way was a SIGNI with an odd-numbered level, you may pay {B}.  If you do, until end of turn, this SIGNI gets +7000 power and "[Auto]:  When this SIGNI attacks, 1 SIGNI on your opponent's field gets −2000 power until end of turn." </text>
@@ -7643,7 +7643,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -7654,7 +7654,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Look at the top 3 cards of your deck, then return them to the top of your deck in any order.  (If there are 2 or less cards in your deck, look at all of them.)
@@ -7670,7 +7670,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<type>SPELL - Guzuko Limited (KS)</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- Put 1 Trick SIGNI from your field into the trash.  If you do, add 1 Trick SIGNI from your trash to your hand.
+- Put 1 Trickster SIGNI from your field into the trash.  If you do, add 1 Trickster SIGNI from your trash to your hand.
 - [Ener Charge 1] (Put the top card of your deck into the Ener Zone)</text>
 		</card>
 		
@@ -7973,7 +7973,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 1 SIGNI on your opponent's field loses its abilities until end of turn.  If you bet, all SIGNI on your opponent's field lose their abilities instead.
 (Abilities gained and abilities of SIGNI that were put onto the field after this ARTS was used are not lost.)</text>
 		</card>
@@ -8003,7 +8003,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose two instead:
 - 1 SIGNI on your opponent's gets "This SIGNI cannot attack." until end of turn.  Discard 2 cards from your hand.  (If there are less than 2 cards in your hand, discard all of them.)
 - Add 1 SIGNI from your trash to your hand.</text>
@@ -8389,7 +8389,7 @@ All SIGNI on your field get [Assassin] while the SIGNI in front of it has 12000 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin has you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin has you use this ARTS.)
 If you bet, this ARTS's cost becomes {1}{R}.
 Vanish 1 SIGNI on your opponent's field.  Add 1 red SIGNI from your trash to your hand.</text>
 		</card>
@@ -8403,7 +8403,7 @@ Vanish 1 SIGNI on your opponent's field.  Add 1 red SIGNI from your trash to you
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose two instead:
 - Vanish 1 SIGNI on your opponent's field with power lower than the power of a SIGNI with (Rise) on your field.
 - Search your deck for 1 SIGNI with (Rise) and 1 Armed SIGNI, reveal them, then add them to your hand.  Shuffle your deck.</text>
@@ -8817,7 +8817,7 @@ Return 2 SIGNI on your opponent's field to their owner's hand.
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS's cost becomes {W}.
 Bloom 1 [Seed] on 1 of your SIGNI Zones.  If there is a SIGNI on that SIGNI Zone, return that SIGNI to its owner's hand, then bloom that [Seed] instead.  Then look at the top 4 cards of your deck.  You may place 1 card from among them on 1 of your SIGNI Zones facedown as a [Seed], then put the rest on the bottom of your deck in a random order.
 
@@ -8833,7 +8833,7 @@ Bloom 1 [Seed] on 1 of your SIGNI Zones.  If there is a SIGNI on that SIGNI Zone
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 1 SIGNI on your opponent's field loses its abilities until end of turn.  1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.  If you bet, your opponent's LRIG gets "This LRIG cannot attack" until end of turn.</text>
 		</card>
 		<card>
@@ -9050,7 +9050,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  4 Coins.  (You may pay 4 Coins as you use this ARTS.)
+[Bet]: 4 Coins.  (You may pay 4 Coins as you use this ARTS.)
 Vanish 1 SIGNI on your opponent's field with 10000 power or lower.  If you bet, vanish all SIGNI on your opponent's field instead.</text>
 		</card>
 		<card>
@@ -9234,7 +9234,7 @@ Vanish 1 SIGNI on your opponent's field with 10000 power or lower.  If you bet, 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS's cost becomes {G}.
 Put 1 Aquatic Beast SIGNI from your Ener Zone onto your field.  That SIGNI gets +10000 power until end of turn.</text>
 		</card>
@@ -9248,7 +9248,7 @@ Put 1 Aquatic Beast SIGNI from your Ener Zone onto your field.  That SIGNI gets 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Reveal 1 SIGNI from your hand.  Vanish 1 SIGNI on your opponent's field with lower than or equal to the power of the SIGNI revealed this way.  If you bet, instead put 1 SIGNI on your opponent's field with power lower than or equal to the power of the SIGNI revealed this way into the Ener Zone, then [Ener Charge 1].</text>
 		</card>
 		<card>
@@ -9686,7 +9686,7 @@ Exactly 2 SIGNI on your opponent's field get -15000 power until end of turn.</te
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Exclude 3 cards in your opponent's trash from the game.  If those cards share a common color with each other, add up to 2 black SIGNI from your trash to your hand.  If you bet, add up to 4 black SIGNI from your trash to your hand instead.</text>
 		</card>
 		<card>
@@ -10152,7 +10152,7 @@ When your opponent attacks with a SIGNI or LRIG, if it is the first or second at
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, choose two instead:
 - Attach 1 Bacteria SIGNI from your trash to 1 SIGNI on your field as a [[Charm]].  All SIGNI on your field with [[Charm]]s attached to them get "This SIGNI cannot be vanished during your opponent's turn." until end of turn.
 - Put all [[Charm]s] on your field into the trash.  Draw X cards, then [Ener Charge X], where X is the number of [[Charm]]s put into the trash this way.</text>
@@ -10354,7 +10354,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then if there i
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-[Bet]:  1 Coin.  [You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  [You may pay 1 Coin as you use this ARTS.)
 Vanish up to 2 SIGNI on your opponent's field whose total combined level equals 5 or lower.  If you bet, vanish up to 2 SIGNI on your opponent's field whose total combined level equals 7 or lower instead.</text>
 		</card>
 		<card>
@@ -10753,7 +10753,7 @@ Look at the top 4 cards of your deck.  Add 1 card from among them to your hand, 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS costs {B}{B} less to use.
 Put 1 Weapon SIGNI from your trash onto your field, then put up to 2 SIGNI from your trash under that SIGNI.</text>
 		</card>
@@ -11376,7 +11376,7 @@ Put 1 SIGNI on your opponent's field into the trash.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  2 Coins (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins (You may pay 2 Coins as you use this ARTS.)
 Put 1 SIGNI from your opponent's trash onto your field puppeteered.  If you bet, put 2 SIGNI from your opponent's trash onto your field puppeteered instead.
 
 (If a puppeteered SIGNI would leave the field, it is put into its owner's trash instead.)</text>
@@ -11744,7 +11744,7 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			<name>Water Buffalo, Phantom Aquatic Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-018[EN].jpg">WDi-01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-087.jpg">WXi-00</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-094.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-094[EN].jpg">WXi-02</set>
 			<color>UG</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -11757,7 +11757,7 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			<name>Koalala, Phantom Terra Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-019[EN].jpg">WDi-01</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-086.jpg">WXi-00</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-093.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-093[EN].jpg">WXi-02</set>
 			<color>RG</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -11775,7 +11775,7 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-020[EN].jpg">WDi-05</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D06-020[EN].jpg">WDi-06</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-099[EN].jpg">WXi-01</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-096.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-096[EN].jpg">WXi-02</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -12654,7 +12654,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 		<!-- WDi-05 -->
 		
 		<card>
-			<name>Newborn Dr.  Tamago</name>
+			<name>Newborn Dr. Tamago</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-001[EN].jpg">WDi-05</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
@@ -12665,7 +12665,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<text></text>
 		</card>
 		<card>
-			<name>Let's Go! Dr.  Tamago</name>
+			<name>Let's Go! Dr. Tamago</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-002[EN].jpg">WDi-05</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
@@ -12676,7 +12676,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<text></text>
 		</card>
 		<card>
-			<name>You Can Do It! Dr.  Tamago</name>
+			<name>You Can Do It! Dr. Tamago</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-003[EN].jpg">WDi-05</set>
 			<color>U</color>
 			<manacost>2 - U</manacost>
@@ -12687,7 +12687,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<text></text>
 		</card>
 		<card>
-			<name>Never Give Up! Dr.  Tamago</name>
+			<name>Never Give Up! Dr. Tamago</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-004[EN].jpg">WDi-05</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
@@ -28459,7 +28459,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand.  If
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Search your deck for 1 SIGNI with (Rise), put it onto your field, then shuffle your deck.  That SIGNI's [Enter] abilities are not triggered.  Then vanish 1 SIGNI on your opponent's field with power equal to or lower than the power of the SIGNI put onto the field this way.  If you bet, vanish all SIGNI on your opponent's field with power equal to or lower than the power of the SIGNI put onto the field this way instead.  </text>
 		</card>
 		<card>
@@ -28473,7 +28473,7 @@ Search your deck for 1 SIGNI with (Rise), put it onto your field, then shuffle y
 			<text>Use Timing [Attack Phase] 
 		
 This ARTS cannot be used unless it is during your opponent's turn.
-[Bet]:  1 Coin.  (You may pay 1 coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 coin as you use this ARTS.)
 When a SIGNI on your field is vanished this turn, if it was not by your own card effect, vanish 1 SIGNI on your opponent's field, then if you bet, additionally add the top card of your deck to your Life Cloth.</text>
 		</card>
 		<card>
@@ -28576,7 +28576,7 @@ Vanish all SIGNI on your opponent's field with 1000 power or lower.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  2 Coins (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins (You may pay 2 Coins as you use this ARTS.)
 Draw 2 cards.  If you bet, draw 4 cards instead.  </text>
 		</card>
 		<card>
@@ -28646,7 +28646,7 @@ Flip 1 Trap on your field face-up then trigger its Trap ability if any.  (Put th
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)		
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)		
 
 Vanish 1 SIGNI on your opponent's field with 15000 power or higher.  If you bet, vanish 1 more SIGNI on your opponent's field with 12000 power or higher.  </text>
 		</card>
@@ -28705,7 +28705,7 @@ Search your deck for 1 SIGNI with (Accessory) and put it into the Ener Zone.  Sh
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 1 black SIGNI from your trash onto your field.  If you bet, put 2 black SIGNI from your trash onto your field instead.  </text>
 		</card>
 		<card>
@@ -28742,7 +28742,7 @@ Remove any number of [Virus]es from your opponent's field.  Then add 1 black SIG
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.  If you bet, add up to 2 SIGNI that shares a color with your LRIG from your trash to your hand instead.  </text>
 		</card>
 		<card>
@@ -28755,7 +28755,7 @@ Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.  If
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] 
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put the top card of your deck into your Ener Zone.  If you bet, put the top 2 cards of your deck into your Ener Zone instead.</text>
 		</card>
 		<card>
@@ -28824,7 +28824,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, flip 1 Trap on the same SIGNI Zone as this SIGNI face-up, then trigger its [Trap] ability if any.  (Put the Trap into the trash after it resolves its [Trap] effect if any.)
@@ -28990,7 +28990,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Draw 1 card, or set 1 card from your hand on 1 of your SIGNI Zones as a Trap.  
@@ -29002,7 +29002,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is a Trap on your field, draw 1 card.</text>
@@ -29013,7 +29013,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick- Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster- Aya Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is no Trap on your field, look at the top 2 cards of your deck.  You may set 1 card from among them on 1 of your SIGNI Zones as a Trap.  Then put the rest on the bottom of your deck in any order.  
@@ -29405,7 +29405,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Down 2 SIGNI on your opponent's field.
@@ -29419,7 +29419,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Look at the top 2 cards of your deck.  Set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
@@ -29431,7 +29431,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Look at the top 2 cards of your deck.  Set 1 of them on 1 of your SIGNI Zones as a Trap, then add the rest into your hand.
@@ -29444,7 +29444,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished, look at the top card of your deck.  You may set that card or 1 card from your hand on 1 of your SIGNI Zones as a Trap.</text>
@@ -29455,7 +29455,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Freeze all SIGNI on your opponent's field.
@@ -29469,7 +29469,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished, look at the top card of your deck.  You may set that card on 1 of your SIGNI Zones as a Trap.
@@ -29481,7 +29481,7 @@ Choose one.  If you removed 2 or more [Virus]es as you used this SPELL, choose t
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Discard 1 card from your opponent's hand at random.
@@ -30083,7 +30083,7 @@ All SIGNI on your field get "While the SIGNI in front of this SIGNI is frozen, t
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 		
-[Bet]:  1 Coin or 2 Coins.  (You may pay 1 Coin or 2 Coins as you use this ARTS.)
+[Bet]: 1 Coin or 2 Coins.  (You may pay 1 Coin or 2 Coins as you use this ARTS.)
 Down 1 SIGNI on your opponent's field.  If you bet, down 1 additional SIGNI on your opponent's field.  If you bet 2 Coins, your LRIG gets "If you would reveal the top card of your deck by the effect of ((Holograph)), look at the top 3 cards of your deck, put them back in any order, then reveal the top card of your deck instead." until end of turn.  </text>
 		</card>
 		<card>
@@ -30096,7 +30096,7 @@ Down 1 SIGNI on your opponent's field.  If you bet, down 1 additional SIGNI on y
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-[Bet]:  2 Coins (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, choose up to three instead:
 - Vanish 1 SIGNI on your opponent's field whose level is lower than or equal to the number of [Virus]es on the field.
 - Put 1 SIGNI whose level is equal to or lower than the number of [Virus]es on the field from your trash onto your field.  That SIGNI's [Enter] abilities do not activate.
@@ -30162,7 +30162,7 @@ Choose up to two:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Search your deck for 1 Outcast SIGNI, put it onto your field, then shuffle your deck.  If you bet, search your deck for up to 2 Outcast SIGNI, put them onto your field, then shuffle your deck instead.  </text>
 		</card>
 		<card>
@@ -30175,7 +30175,7 @@ Search your deck for 1 Outcast SIGNI, put it onto your field, then shuffle your 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Return 1 level 3 or lower SIGNI from your opponent's field to its owner's hand.  If you bet, return 1 SIGNI from your opponent's field to its owner's hand instead.  </text>
 		</card>
 		<card>
@@ -30245,7 +30245,7 @@ Each player discards a number of cards from their hand equal to the highest leve
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 		
-Return any number of SIGNI with [Trap] or Trick SIGNI from your field to your hand.  Then set 1 card from your hand on 1 of your SIGNI Zones as a Trap for each SIGNI with [Trap] returned to your hand this way.  </text>
+Return any number of SIGNI with [Trap] or Trickster SIGNI from your field to your hand.  Then set 1 card from your hand on 1 of your SIGNI Zones as a Trap for each SIGNI with [Trap] returned to your hand this way.  </text>
 		</card>
 		<card>
 			<name>Mama♥3</name>
@@ -30389,7 +30389,7 @@ As you use this ARTS, you may remove up to 2 [Virus]es from your opponent's fiel
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may put the top card of your deck into the trash.  If the card put into the trash this way has [Trap], return 1 SIGNI in front of this SIGNI to its owner's hand.
@@ -30402,14 +30402,14 @@ As you use this ARTS, you may remove up to 2 [Virus]es from your opponent's fiel
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB- War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB- War Spirit: Trickster - Aya Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished during your opponent's turn, you may set this card from your Ener Zone on 1 of your SIGNI Zones facedown as a Trap.
 		
-[Trap]:  You may discard 1 Trick SIGNI from your hand.  If you do, 1 attacking SIGNI does not damage you this attack.
+[Trap]:  You may discard 1 Trickster SIGNI from your hand.  If you do, 1 attacking SIGNI does not damage you this attack.
 
-[Life Burst]:  Search your deck for 1 Trick SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
+[Life Burst]:  Search your deck for 1 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
 		</card>
 		<card>
 			<name>#Schröde#, Mysterious Box of Logical Wisdom</name>
@@ -30556,7 +30556,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When your card's [Trap] ability is triggered, you may pay {U}.  If you do, put this SIGNI from your trash onto your field.  Exclude this SIGNI from the game at the end of the turn or when this SIGNI would leave the field.
@@ -30569,10 +30569,10 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] Discard 1 card with [Trap] from your hand: Search your deck for 1 Trick SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
+			<text>[Enter] Discard 1 card with [Trap] from your hand: Search your deck for 1 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
 		
 [Trap]:  Put 1 SIGNI on your opponent's field with 15000 power or higher on top of its owner's deck.
 
@@ -30828,7 +30828,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put 1 Trap from your field into the trash.  If you do, look at the top 3 cards of your deck, set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.  </text>
@@ -30839,7 +30839,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Return 1 level 3 SIGNI on your opponent's field to its owner's hand.
@@ -30854,7 +30854,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Add 1 Trap from your field to its owner's hand.  </text>
@@ -30865,7 +30865,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Vanish all SIGNI on your opponent's field with 2000 power or lower.
@@ -31470,7 +31470,7 @@ If there are 0 SIGNI on your field, put 3 SIGNI from your trash onto your field.
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose two.  If you bet, choose four instead.  You may choose the same effect multiple times:
 - Return 1 SIGNI on your opponent's field to its owner's hand.  Discard 1 card from your hand.
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.
@@ -31502,7 +31502,7 @@ Choose one.  If you have a Ril or Mel LRIG, choose up to two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 1 SIGNI on your opponent's field becomes "Servant ZERO" until end of turn.  If you bet, all SIGNI on your opponent's field become "Servant ZERO" until end of turn instead.
 ("Servant ZERO" is a level 1 colorless Origin Spirit SIGNI with 1000 power and no other abilities.)</text>
 		</card>
@@ -31516,7 +31516,7 @@ Choose one.  If you have a Ril or Mel LRIG, choose up to two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Put 1 SIGNI on your field into the trash.  If you do, when a SIGNI on your opponent's field attacks this turn, if it is the first or second attack this turn, disable that attack.  If you bet, if your opponent's LRIG attacks this turn, disable that attack.  </text>
 		</card>
 		<card>
@@ -31562,7 +31562,7 @@ Put 1 SIGNI on your field into the trash.  If you do, when a SIGNI on your oppon
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Search your deck for 1 white SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  If you bet, search your deck for 1 more SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
 		</card>
 		<card>
@@ -31666,7 +31666,7 @@ Look at the top 4 cards of your deck, return them to the top of your deck in any
 			<tablerow>0</tablerow>
 			<text>Use Timing [Spell Cut-In] 
 		
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, the cost to use this ARTS becomes {0}.
 
 Cancel the effect of 1 SPELL being used.  </text>
@@ -31720,7 +31720,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 1 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 1 Coins as you use this ARTS.)
 Put 1 SIGNI on your field into the trash.  If you do, vanish 1 level 4 or lower SIGNI on your opponent's field.  If you bet, vanish 1 more SIGNI on your opponent's field.  </text>
 		</card>
 		<card>
@@ -31804,7 +31804,7 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  At the end of your opponent's turn, you may vanish this SIGNI.  If you do, look at the top 4 cards of your deck, set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
@@ -31969,7 +31969,7 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down]:  Look at the top 3 cards of your deck.  You may set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
@@ -32240,7 +32240,7 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] [Attack Phase] Put this SIGNI from your field into the trash: You may change the SIGNI Zones of any Traps on your field, then draw 1 card.  </text>
@@ -32251,7 +32251,7 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {0}: Shuffle up to 3 SIGNI with [Trap] other than "Plasbomb, Medium Trap" from your trash into your deck.
@@ -32266,10 +32266,10 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI is vanished, you may pay {U}.  If you do, search your deck for 1 level 2 Trick SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
+			<text>[Auto]:  When this SIGNI is vanished, you may pay {U}.  If you do, search your deck for 1 level 2 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
 		</card>
 		<card>
 			<name>§Takaashi§, Phantom Insect </name>
@@ -32910,7 +32910,7 @@ Vanish exactly 3 SIGNI on the field with the same power as each other.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.</text>
@@ -32925,7 +32925,7 @@ Choose one.  If you bet, choose up to two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 
-[Bet]:  3 Coins.  (You may pay 3 Coins as you use this ARTS.)
+[Bet]: 3 Coins.  (You may pay 3 Coins as you use this ARTS.)
 Down 1 SIGNI on your opponent's field, then draw 1 card.
 If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead.  </text>
 		</card>
@@ -32939,7 +32939,7 @@ If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead.  <
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose up to two.  If you bet, choose up to three instead:
 - Vanish all SIGNI with 15000 power or higher.
 - Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
@@ -33295,13 +33295,13 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may discard 2 SIGNI with [Trap] from your hand.  If you do, vanish 1 SIGNI on your opponent's field.
 [Enter]:  Add 1 SIGNI with [Trap] other than "Gijidou, Super Trap" from your trash to your hand.
 
-[Trap]:  You may pay {U}{U}.  If you do, put 1 Trick SIGNI from your Ener Zone onto your field.
+[Trap]:  You may pay {U}{U}.  If you do, put 1 Trickster SIGNI from your Ener Zone onto your field.
 
 [Life Burst]:  If there is a Trap on your field, draw 2 cards.  </text>
 		</card>
@@ -33495,10 +33495,10 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Reveal the top card of your deck.  If it is a Trick SIGNI, add it to your hand.
+			<text>[Action] {Down}: Reveal the top card of your deck.  If it is a Trickster SIGNI, add it to your hand.
 			
 [Life Burst]:  Draw 1 card.</text>
 		</card>
@@ -34043,7 +34043,7 @@ Choose up to two.  If you have a Urith LRIG, choose up to three instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.</text>
@@ -34058,7 +34058,7 @@ Choose one.  If you bet, choose up to two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 
-[Bet]:  3 Coins.  (You may pay 3 Coins as you use this ARTS.)
+[Bet]: 3 Coins.  (You may pay 3 Coins as you use this ARTS.)
 Down 1 SIGNI on your opponent's field, then draw 1 card.
 If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead.  </text>
 		</card>
@@ -34072,7 +34072,7 @@ If you bet, down 3 SIGNI on your opponent's field, then draw 3 cards instead.  <
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose up to two.  If you bet, choose up to three instead:
 - Vanish all SIGNI with 15000 power or higher.
 - Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
@@ -34280,7 +34280,7 @@ Choose up to two.  If you bet, choose up to three instead:
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick- Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster- Aya Limited</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is no Trap on your field, look at the top 2 cards of your deck.  You may set 1 card from among them on 1 of your SIGNI Zones as a Trap.  Then put the rest on the bottom of your deck in any order.  
@@ -34463,7 +34463,7 @@ Choose up to two:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose up to two.  If you bet, choose up to three instead:
 - Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If there are 4 or more cards in your opponent's Ener Zone, your opponent puts 2 cards from their Ener Zone into the trash.
@@ -34480,7 +34480,7 @@ Choose up to two.  If you bet, choose up to three instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - Put 1 level 4 or higher SIGNI on your opponent's field into the trash.
 - Add 1 card of your opponent's choice from your trash to your Life Cloth.
@@ -34713,7 +34713,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, look at the top 3 cards of your deck.  Put 1 card with [Trap] from among them onto your Check Zone, then put the rest on the bottom of your deck in any order.  Trigger the [Trap] ability of the card put into the Check Zone this way.  (Put that card into the trash after its ability resolves.)
@@ -34880,7 +34880,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Add up to 3 Traps from your field to your hand.  </text>
@@ -35135,7 +35135,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}: Flip 1 Trap on the same SIGNI Zone as this SIGNI face-up then trigger its [Trap] ability if any.  (Put the Trap into the trash afterwards.)</text>
@@ -35146,7 +35146,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick</type>
+			<type>SIGNI|LB - War Spirit: Trickster</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Trap]:  Draw 2 cards.
@@ -35451,7 +35451,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose up to two.  If you bet, choose up to three instead:
 - Vanish 1 SIGNI on your opponent's field with 12000 power or lower.
 - If there are 4 or more cards in your opponent's Ener Zone, your opponent puts 2 cards from their Ener Zone into the trash.
@@ -35468,7 +35468,7 @@ Choose up to two.  If you bet, choose up to three instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - Put 1 level 4 or higher SIGNI on your opponent's field into the trash.
 - Add 1 card of your opponent's choice from your trash to your Life Cloth.
@@ -36259,7 +36259,7 @@ Choose up to two:
 [Life Burst]:  Search your deck for up to 1 white Beautiful Technique SIGNI and up to 1 green Beautiful Technique SIGNI, reveal them, then add them to your hand.  Shuffle your deck.  </text>
 		</card>
 		<card>
-			<name>⁑Hacka Doll No.  1⁑, Great Knowledge Play</name>
+			<name>⁑Hacka Doll No. 1⁑, Great Knowledge Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-034-CB.jpg">WX20</set>
 			<color>W</color>
 			<manacost>1</manacost>
@@ -36327,8 +36327,8 @@ Choose up to two:
 [Life Burst]:  Vanish 1 SIGNI on your opponent's field.  </text>
 		</card>
 		<card>
-			<name>≡Hacka Doll No.  2≡, Red Play</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WX20/WX20-039-CB.jpg">WX20</set>
+			<name>≡Hacka Doll No. 2≡, Red Play</name>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-039-CB.jpg">WX20</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -36343,14 +36343,14 @@ Choose up to two:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While there is a Trap on your field, this SIGNI gets +2000 power.
 [Auto]:  When this SIGNI attacks, if there are 3 or more Traps on your field, put the top card of your deck into your Ener Zone.  </text>
 		</card>
 		<card>
-			<name>§Hacka Doll No.  3§, 3-Play</name>
+			<name>§Hacka Doll No. 3§, 3-Play</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX20/WX20-041-CB.jpg">WX20</set>
 			<color>U</color>
 			<manacost>3</manacost>
@@ -36619,7 +36619,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Search your deck for 1 card with "Honeytra" in its card name, reveal it, then add it to your hand.  Shuffle your deck.
@@ -37679,13 +37679,13 @@ Choose one:
 			<color>U</color>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When a SIGNI is put onto an opponent's SIGNI Zone with a Trap on it, put both that SIGNI and that Trap into the trash.
 [Enter]:  Set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.  (Flip that SIGNI facedown.  It is now considered a Trap on the field.)
 
-[Trap]:  You may discard 2 Trick SIGNI from your hand or pay {U}{U}.  If you do, set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.
+[Trap]:  You may discard 2 Trickster SIGNI from your hand or pay {U}{U}.  If you do, set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.
 
 [Life Burst]:  Set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.  </text>
 		</card>
@@ -37767,7 +37767,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Ultimate Nipako</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/library/images/card/WX21/WX21-031-CB.jpg">WX21</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-031-CB.jpg">WX21</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -37790,7 +37790,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Miyo Asato</name>
-			<set picURL="http://www.takaratomy.co.jp/products/wixoss/library/images/card/WX21/WX21-033-CB.jpg">WX21</set>
+			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-033-CB.jpg">WX21</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -37837,7 +37837,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished, you may set this SIGNI from your Ener Zone on 1 of your SIGNI Zones as a Trap.
@@ -38098,7 +38098,7 @@ Choose up to two:
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished, you may set 1 card from your hand on 1 of your SIGNI Zones as a Trap.
@@ -38961,7 +38961,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 	
-[Bet]:  Any number of Coins.  (You may pay any number of Coins as you use this ARTS.)
+[Bet]: Any number of Coins.  (You may pay any number of Coins as you use this ARTS.)
 Choose one for each Coin you bet.  You may choose the same option multiple times.
 - This ARTS costs {B}{B}{B} less to use.
 - Repeat the following effect of this ARTS once.
@@ -40145,7 +40145,7 @@ All Ore and Gem SIGNI on your field get [Double Crush] until end of turn.
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Reveal the top card of your deck.  If it is a SIGNI with an odd-numbered level, draw 2 cards.
-[Action] {Down}: Put 1 Trick SIGNI from your trash on top of your deck.
+[Action] {Down}: Put 1 Trickster SIGNI from your trash on top of your deck.
 [Action] [1/Game] ((Direct)) Pay 2 Coins: During this turn, this LRIG deals damage 3 times with its attack.  (Your opponent may [Guard] for each damage that would be dealt to them.)</text>
 		</card>
 		<card>
@@ -40236,7 +40236,7 @@ Choose up to two:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 
 Vanish 1 SIGNI on your opponent's field with 7000 power or lower.  If you bet, vanish 1 SIGNI on your opponent's field with 20000 power or lower instead.  </text>
 		</card>
@@ -40496,7 +40496,7 @@ Vanish 1 level 3 or lower SIGNI on your opponent's field.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 If you bet, this ARTS's cost becomes {B}.
 1 SIGNI on your opponent's field gets -15000 power until end of turn.</text>
 		</card>
@@ -40637,7 +40637,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, declare 1 number, then put the top card of your deck into the trash.  If it is a SIGNI with the same level as the declared number, 1 SIGNI on your opponent's field gets -10000 power until end of turn.
@@ -40651,7 +40651,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may pay {B}.  If you do, vanish 1 SIGNI on your opponent's field that was put onto the field this turn.
@@ -40891,7 +40891,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, put the top 2 cards of your deck into the trash, then 1 SIGNI on your opponent's field gets -1000 power multiplied by the total combined level of the SIGNI put into the trash this way until end of turn.
@@ -40906,11 +40906,11 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  All Trick SIGNI on your field get +1000 power.
-[Auto] [1/Turn]:  When a card is put from your deck into the trash, all Trick SIGNI on your field get +2000 power until end of turn.  </text>
+			<text>[Constant]:  All Trickster SIGNI on your field get +1000 power.
+[Auto] [1/Turn]:  When a card is put from your deck into the trash, all Trickster SIGNI on your field get +2000 power until end of turn.  </text>
 		</card>
 		<card>
 			<name>Tsunawata, Medium Trap</name>
@@ -40918,7 +40918,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  The original power of 1 level 3 or lower SIGNI on your opponent's field becomes 2000 until end of turn.  </text>
@@ -40929,7 +40929,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is put from your deck into the trash, if it is your turn, 1 SIGNI on your opponent's field gets -2000 power until end of turn.
@@ -40942,10 +40942,10 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is a Trick SIGNI, put it into your Ener Zone.
+			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is a Trickster SIGNI, put it into your Ener Zone.
 
 [Life Burst]:  [Ener Charge 1]</text>
 		</card>
@@ -41313,7 +41313,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>15000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -41324,7 +41324,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Draw 3 cards, then put 3 cards from your hand on top of your deck in any order.  (If you have 2 or less cards in your deck, draw all of them.)</text>
@@ -41335,7 +41335,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -41346,7 +41346,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is put from your deck into the trash, if it is currently your Main Phase, you may put this SIGNI from the trash onto your field.  </text>
@@ -41357,7 +41357,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -41368,7 +41368,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top 2 cards of your deck into the trash.  Then, if 2 SIGNI with even-numbered levels were put into the trash this way, put 1 level 2 or lower SIGNI from your trash onto your field.  </text>
@@ -41379,7 +41379,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top card of your deck into the trash.  Then, if it is a SIGNI with an even-numbered level, you may pay {B}.  If you do, vanish 1 level 2 or lower SIGNI on your opponent's field.  </text>
@@ -41390,7 +41390,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top 2 cards of your deck into the trash.</text>
@@ -41401,10 +41401,10 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter]:  Put up to 1 level 2 or lower Trick SIGNI from your trash on the top of your deck.  </text>
+			<text>[Enter]:  Put up to 1 level 2 or lower Trickster SIGNI from your trash on the top of your deck.  </text>
 		</card>
 		<card>
 			<name>Bad Switch</name>
@@ -41582,7 +41582,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, declare 1 number, then put the top card of your deck into the trash.  If it is a SIGNI with the same level as the declared number, 1 SIGNI on your opponent's field gets -10000 power until end of turn.
@@ -41658,7 +41658,7 @@ Your LRIG gets "[Auto]:  At the beginning of your LRIG attack step, put any numb
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.
 - Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.</text>
@@ -43284,7 +43284,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  All SIGNI on your opponent's field with odd-numbered levels get "This SIGNI cannot attack."
@@ -43333,7 +43333,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 		</card>
 		<card>
 			<name>White Pearl Hope, Benevolent Play</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-032-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-032-CB.jpg">WXK03</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -43443,7 +43443,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 		</card>
 		<card>
 			<name>Cyclone Interceptor, 2-Play</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-041-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-041-CB.jpg">WXK03</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -43510,7 +43510,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there are 3 SIGNI with odd-numbered levels on your field, you may pay {B}.  If you do, 1 SIGNI on your opponent's field gets -12000 power until end of turn.</text>
@@ -43521,11 +43521,11 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] Discard 1 level 1 SIGNI from your hand: Search your deck for 1 level 3 Trick SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
-[Enter] Discard 1 level 2 Trick SIGNI from your hand: Search your deck for 1 level 4 Trick SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
+			<text>[Enter] Discard 1 level 1 SIGNI from your hand: Search your deck for 1 level 3 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
+[Enter] Discard 1 level 2 Trickster SIGNI from your hand: Search your deck for 1 level 4 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.
 
 [Life Burst]:  Draw 1 card.</text>
 		</card>
@@ -43608,7 +43608,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 		</card>
 		<card>
 			<name>Ena Toyosaki, Great Attire</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-054-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-054-CB.jpg">WXK03</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -43619,7 +43619,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 		</card>
 		<card>
 			<name>Maria Teruyasu, Medium Attire</name>
-			<set picURL="hhttps://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK03/WXK03-055-CB.jpg">WXK03</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK03/WXK03-055-CB.jpg">WXK03</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -43908,7 +43908,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter] {B}: Vanish 1 SIGNI on your opponent's field with an odd-numbered level.</text>
@@ -43919,10 +43919,10 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter]:  If it is your turn, put the top card of your deck into the trash.  If it is a Trick SIGNI with an odd-numbered level, put it from the trash onto your field.</text>
+			<text>[Enter]:  If it is your turn, put the top card of your deck into the trash.  If it is a Trickster SIGNI with an odd-numbered level, put it from the trash onto your field.</text>
 		</card>
 		<card>
 			<name>Watch Rabbit, Medium Trap</name>
@@ -43930,7 +43930,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top card of your deck into the trash.  If it is a SIGNI with an even-numbered level, up to 2 SIGNI on your opponent's field get -1000 power.
@@ -43944,7 +43944,7 @@ Discard 1 card from your hand, then draw 1 card.  If you put 2 or more cards fro
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>1000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top card of your deck into the trash.  If it is a SIGNI with an odd-numbered level, 1 SIGNI on your opponent's field gets -1000 power until end of turn.
@@ -44172,7 +44172,7 @@ Look at the top 4 cards of your deck.  You may place up to 2 cards from among th
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one: If you bet, choose two instead:
 - Draw 4 cards, then discard 2 cards from your hand unless you discard 1 Vermilion SIGNI.
 - You cannot be damaged by your opponent's LRIG until end of turn.
@@ -44238,7 +44238,7 @@ Choose one: If you bet, choose two instead:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS).
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS).
 Prevent the next damage that you would take this turn.  If you bet, prevent the next damage you would take this turn twice instead.</text>
 		</card>
 		<card>
@@ -45404,7 +45404,7 @@ Shuffle all cards in your trash into your deck.  Draw 3 cards, [Ener Charge 4], 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Choose one.  If you bet, choose up to two instead:
 - Put 1 level 4 or higher SIGNI on your opponent's field into the trash.
 - Add 1 card of your opponent's choice from your trash to your Life Cloth.
@@ -45656,7 +45656,7 @@ Put up to 2 green SIGNI from your Ener Zone onto your field.  Those SIGNIs' [Ent
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick</type>
+			<type>SIGNI - War Spirit: Trickster</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While your LRIG's level is 4 or higher, this SIGNI gets +4000 power during your turn.
@@ -46237,10 +46237,10 @@ Choose one:
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] {B}: Reveal the top card of your deck.  If it is a Trick SIGNI, add it to your hand.</text>
+			<text>[Enter] {B}: Reveal the top card of your deck.  If it is a Trickster SIGNI, add it to your hand.</text>
 		</card>
 		<card>
 			<name>Xun Yu, Lord's Advisor of the Wei Army</name>
@@ -47627,7 +47627,7 @@ Your LRIG gets "[Auto]:  At the beginning of your Attack Phase, declare 1 number
 			<name>Innumerable Changes</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-002.jpg">WXK07</set>
 			<color>G</color>
-			<manacost>GGG</manacost>
+			<manacost>1GGG</manacost>
 			<cmc>4</cmc>
 			<type>ARTS - (KS)</type>
 			<tablerow>0</tablerow>
@@ -47636,7 +47636,7 @@ Your LRIG gets "[Auto]:  At the beginning of your Attack Phase, declare 1 number
 If you have a Mel LRIG, this ARTS costs {G}{G} less to use.
 Choose up to two:
 - Vanish 1 SIGNI on your opponent's field with 12000 power or higher.
-- Vanish 1 SIGNI on your opponent's field with [Assassin] or [Double Crush].
+- Vanish 1 SIGNI on the field with [Assassin] or [Double Crush].
 - Reveal the top 3 cards of your deck.  Add all green cards from among them to your hand, then put the rest on the bottom of your deck in any order.
 - The next time you would take damage this turn, you do not take any damage instead.</text>
 		</card>
@@ -48293,7 +48293,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Miss Life B, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK07/WXK07-054-CB.jpg">WXK07</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-054-CB.jpg">WXK07</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -48305,7 +48305,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 		</card>
 		<card>
 			<name>Miss Life R, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/WXK07/WXK07-055-CB.jpg">WXK07</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-055-CB.jpg">WXK07</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -48747,7 +48747,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster (KS)</type>
 			<pt>4000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if the levels of all SIGNI on your field are even-numbered, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
@@ -48764,7 +48764,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 1 Armed SIGNI from your hand onto your field.  If you bet, put 1 more Armed SIGNI from your hand onto your field.</text>
 		</card>
 		<card>
@@ -48777,7 +48777,7 @@ Put 1 Armed SIGNI from your hand onto your field.  If you bet, put 1 more Armed 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 
 Use the following effect once.  If you bet, use the following effect twice instead.
 Put the top card of your deck into the trash.  If it was a SIGNI with an odd-numbered level, put it onto your field.  If it was a SIGNI with an even-numbered level, 1 SIGNI on your opponent's field gets -12000 power until end of turn.  </text>
@@ -51892,7 +51892,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - Living Spirit: Dragon Beast / War Spirit: Weapon / War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - Living Spirit: Dragon Beast / War Spirit: Weapon / War Spirit: Trickster (KS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may discard 1 black SIGNI from your hand.  If you do, vanish 1 SIGNI on your opponent's field whose power is different from its printed power.
@@ -51946,7 +51946,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - Image Spirit: Wisdom / War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - Image Spirit: Wisdom / War Spirit: Trickster (KS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may put this SIGNI from the field into the trash.  If you do, put 1 level 3 SIGNI from your hand onto the field.
@@ -52612,11 +52612,11 @@ Your LRIG gets the following abilities until end of turn:
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a Trick SIGNI on your field with an odd-numbered level attacks, 1 SIGNI with an even-numbered level on your opponent's field gets −1000 power multiplied by the level of the attacking SIGNI until end of turn.
-[Auto]:  When a Trick SIGNI with an even-numbered level attacks, 1 SIGNI with an odd-numbered level on your opponent's field gets −1000 power multiplied by the level of the attacking SIGNI until end of turn.
+			<text>[Auto]:  When a Trickster SIGNI on your field with an odd-numbered level attacks, 1 SIGNI with an even-numbered level on your opponent's field gets −1000 power multiplied by the level of the attacking SIGNI until end of turn.
+[Auto]:  When a Trickster SIGNI with an even-numbered level attacks, 1 SIGNI with an odd-numbered level on your opponent's field gets −1000 power multiplied by the level of the attacking SIGNI until end of turn.
 [Action] [1/Turn] {0}: Decrease this SIGNI's level by 1 until end of turn.</text>
 		</card>
 		<card>
@@ -52625,7 +52625,7 @@ Your LRIG gets the following abilities until end of turn:
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Put the top 2 cards of your deck into the trash.  If the total combined level of the SIGNI put into the trash this way equals 4, 1 SIGNI on your opponent's field gets −2000 power until end of turn.  If their total combined level is 6, [Ener Charge 1].
@@ -53594,7 +53594,7 @@ Choose up to four:
 [Life Burst]:  Your opponent discards 1 card from their hand.</text>
 		</card>
 		<card>
-			<name>Dr.  Demeni, Professor of Fish Wisdom</name>
+			<name>Dr. Demeni, Professor of Fish Wisdom</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-036.jpg">WXK11</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -53680,7 +53680,7 @@ Choose up to four:
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  Your opponent cannot newly put SIGNI onto the field by their SIGNI effects.
@@ -53792,7 +53792,7 @@ Choose up to four:
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Machine Spirit: Electronics / War Spirit: Trick (KS)</type>
+			<type>SIGNI - Machine Spirit: Electronics / War Spirit: Trickster (KS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if there are 2 or more colors among SIGNI on your field, return 1 level 2 or lower SIGNI on your opponent's field to its owner's hand.
@@ -54046,7 +54046,7 @@ Exclude this card from the game.
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When a SIGNI is put onto your opponent's field, you may put this SIGNI from your field into the trash.  If you do, put that SIGNI into the trash.
@@ -55334,7 +55334,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<name>Bronze, Natural Crystal</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-091[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D03-018[EN].jpg">WDi-03</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-090.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-090[EN].jpg">WXi-02</set>
 			<color>RU</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55347,7 +55347,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			<name>Silvana, Natural Crystal</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-092[EN].jpg">WXi-00</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D03-019[EN].jpg">WDi-03</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-091.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-091[EN].jpg">WXi-02</set>
 			<color>RU</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -55359,7 +55359,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		<card>
 			<name>Pandada, Phantom Terra Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-093[EN].jpg">WXi-00</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-092.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-092[EN].jpg">WXi-02</set>
 			<color>RG</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -55371,7 +55371,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		<card>
 			<name>Tree Froggy, Phantom Aquatic Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-096[EN].jpg">WXi-00</set>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-095.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-095[EN].jpg">WXi-02</set>
 			<color>UG</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -56630,8 +56630,8 @@ If there are 25 or more cards in your trash, target 1 SIGNI without [Guard] in y
 		<!-- WXi-02 --> 
 		
 		<card>
-			<name>Illusions and Lightning Flashes</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Illusions%20and%20Lightning%20Flashes.jpg">WXi-02</set>
+			<name>Illusions and Lightning</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Illusions%20and%20Lightning.jpg">WXi-02</set>
 			<color>WG</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -56664,8 +56664,8 @@ Choose up to two:
 = Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Bluish Black GAIA</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Bluish%20Black%20GAIA.jpg">WXi-02</set>
+			<name>Azure Black GAIA</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Azure%20Black%20GAIA.jpg">WXi-02</set>
 			<color>UB</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -56675,7 +56675,7 @@ Choose up to two:
 			
 (Use Condition): There is a blue LRIG and a black LRIG on your field.
 
-Discard 2 cards from your opponent's hand at random.  Target up to 2 SIGNI without [Guard] in your trash whose total combined levels are equal to the total combined level of the SIGNI discard by this effect, and add them to your hand.</text>
+Discard 2 cards from your opponent's hand at random.  Target up to 2 SIGNI without [Guard] in your trash whose total combined levels are equal to the total combined level of the SIGNI discarded by this effect, and add them to your hand.</text>
 		</card>
 		<card>
 			<name>Heaven's Door</name>
@@ -56692,8 +56692,8 @@ Discard 2 cards from your opponent's hand at random.  Target up to 2 SIGNI witho
 Target 1 SIGNI on your opponent's field, and put it into the trash.  Draw 2 cards.</text>
 		</card>
 		<card>
-			<name>Xeno Cluster</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Xeno%20Cluster.jpg">WXi-02</set>
+			<name>Zeno Cluster</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Zeno%20Cluster.jpg">WXi-02</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -56708,7 +56708,7 @@ Choose one:
 = [Ener Charge 1].  If a card was put from your Ener Zone into the trash by your opponent's effect this turn, [Ener Charge 3] instead.</text>
 		</card>
 		<card>
-			<name>END OF THE TURN</name>
+			<name>End of the Turn</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/END%20OF%20THE%20TURN.jpg">WXi-02</set>
 			<color></color>
 			<manacost>0</manacost>
@@ -56724,8 +56724,8 @@ Choose one:
 = Target 1 SIGNI without [Guard] in your trash, and add it to your hand.</text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards Emotions</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-007.jpg">WXi-02</set>
+			<name>Akino, Bound for Dreams</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-007[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56735,8 +56735,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards Brilliance</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-008.jpg">WXi-02</set>
+			<name>Akino, Bound for Brightness</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-008[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2 - W</manacost>
 			<cmc>2</cmc>
@@ -56746,8 +56746,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards Courage</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-009.jpg">WXi-02</set>
+			<name>Akino, Bound for Valor</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-009[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
 			<cmc>3</cmc>
@@ -56759,8 +56759,8 @@ Choose one:
 [Action] [1/Game] Down 2 upped level 2 LRIGs on your field: Target up to 2 SIGNI on your opponent's field, and you may discard 1 card with [Guard] from your hand.  If you do, return those SIGNI to their owners' hands.</text>
 		</card>
 		<card>
-			<name>Hirana＊Stage</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-010.jpg">WXi-02</set>
+			<name>Hirana＊On-Stage</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-010[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56772,8 +56772,8 @@ Choose one:
 [Enter]:  Target 1 level 2 or lower SIGNI on your opponent's field, and vanish it.</text>
 		</card>
 		<card>
-			<name>Hirana＊Growin'</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-011.jpg">WXi-02</set>
+			<name>Hirana＊Glowing</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-011[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56786,8 +56786,8 @@ Choose one:
 [Enter]:  Target 1 card in your opponent's Ener Zone that does not share a color with your opponent's center LRIG, and put it into the trash.</text>
 		</card>
 		<card>
-			<name>Hirana＊Straight</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-012.jpg">WXi-02</set>
+			<name>Hirana＊Honest and Earnest</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-012[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -56800,8 +56800,8 @@ Choose one:
 [Enter] {5}: Target 1 level 3 SIGNI on your opponent's field, and vanish it.</text>
 		</card>
 		<card>
-			<name>Hirana＊Power-On</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-013.jpg">WXi-02</set>
+			<name>Hirana＊Power On</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-013[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
@@ -56814,8 +56814,8 @@ Choose one:
 [Enter]:  Target 1 SIGNI on your opponent's field, and vanish it.</text>
 		</card>
 		<card>
-			<name>DJ.LOVIT - 1st Verse</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-014.jpg">WXi-02</set>
+			<name>DJ LOVIT - 1st Verse</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-014[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56825,8 +56825,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>DJ.LOVIT - 2nd Verse</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-015.jpg">WXi-02</set>
+			<name>DJ LOVIT - 2nd Verse</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-015[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2 - R</manacost>
 			<cmc>2</cmc>
@@ -56836,8 +56836,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>DJ.LOVIT - 3rd Verse</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-016.jpg">WXi-02</set>
+			<name>DJ LOVIT - 3rd Verse</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-016[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>3 - RR</manacost>
 			<cmc>3</cmc>
@@ -56849,8 +56849,8 @@ Choose one:
 [Action] [1/Game] {0}: This LRIG gets "[Action] Down 1 upped level 2 LRIG on your field: Up this LRIG." until end of turn.</text>
 		</card>
 		<card>
-			<name>MC.LION - DIG</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-017.jpg">WXi-02</set>
+			<name>MC LION - DIG</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-017[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56862,8 +56862,8 @@ Choose one:
 [Enter]:  Look at the top 5 cards of your deck.  Reveal up to 1 SIGNI that shares a color with your center LRIG and up to 1 SIGNI that shares a color with any of your LRIGs other than your center LRIG from them, add them to your hand, then put the rest on the bottom of your deck in any order.  </text>
 		</card>
 		<card>
-			<name>MC.LION - STANDUP</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-018.jpg">WXi-02</set>
+			<name>MC LION - STANDUP</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-018[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56875,8 +56875,8 @@ Choose one:
 [Enter]:  Target 1 level 1 SIGNI on your field, and it gets "[Auto] [1/Turn]:  When this SIGNI vanishes a SIGNI on your opponent's field by battle, up this SIGNI." until end of turn.</text>
 		</card>
 		<card>
-			<name>MC.LION - DISRESPECT</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-019.jpg">WXi-02</set>
+			<name>MC LION - DISRESPECT</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-019[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2 - 2</manacost>
 			<cmc>2</cmc>
@@ -56890,8 +56890,8 @@ Choose one:
 [Enter] {2}{W}: Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.</text>
 		</card>
 		<card>
-			<name>MC.LION - DOPE</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-020.jpg">WXi-02</set>
+			<name>MC LION - DOPE</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-020[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2 - 5</manacost>
 			<cmc>2</cmc>
@@ -56903,8 +56903,8 @@ Choose one:
 [Enter]:  Look at the top 5 cards of your deck.  From among them, add 1 card to your hand, put up to 2 SIGNI onto the field, then put the rest on the bottom of your deck in any order.  Those SIGNI's [Enter] abilities do not activate.  </text>
 		</card>
 		<card>
-			<name>Bang, Singing in the Sky</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-021.jpg">WXi-02</set>
+			<name>Bang, Singer of Melodies</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-021[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56914,8 +56914,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Bang, Standing Ahead</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-022.jpg">WXi-02</set>
+			<name>Bang, Front and Center</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-022[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>2 - G</manacost>
 			<cmc>2</cmc>
@@ -56925,8 +56925,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Bang, Advancing to Battle</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-023.jpg">WXi-02</set>
+			<name>Bang, Read to Fight</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-023[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>3 - GG</manacost>
 			<cmc>3</cmc>
@@ -56938,8 +56938,8 @@ Choose one:
 [Action] [1/Game] {0}: Put all cards from under all other LRIGs on your field under this LRIG.  </text>
 		</card>
 		<card>
-			<name>Tamago=Double Stroke</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-024.jpg">WXi-02</set>
+			<name>Tamago =Double Stroke Roll=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-024[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56951,8 +56951,8 @@ Choose one:
 [Enter]:  Draw 2 cards.</text>
 		</card>
 		<card>
-			<name>Tamago=Beating</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-025.jpg">WXi-02</set>
+			<name>Tamago =Beating=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-025[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -56964,8 +56964,8 @@ Choose one:
 [Enter]:  Target 1 level 1 SIGNI on your opponent's field, and put it on the bottom of its owners' deck.</text>
 		</card>
 		<card>
-			<name>Tamago=Jetstick</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-026.jpg">WXi-02</set>
+			<name>Tamago =Jet Stick=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-026[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -56978,8 +56978,8 @@ Choose one:
 [Enter] {1}: Draw 2 cards.</text>
 		</card>
 		<card>
-			<name>Tamago=Drumroll </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-027.jpg">WXi-02</set>
+			<name>Tamago =Drumroll=</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-027[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2 - 6</manacost>
 			<cmc>2</cmc>
@@ -56991,8 +56991,8 @@ Choose one:
 [Enter]:  Down all SIGNI on your opponent's field.</text>
 		</card>
 		<card>
-			<name>Madoka, VOGUE 1</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-028.jpg">WXi-02</set>
+			<name>Madoka, Vogue 1</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-028[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -57002,8 +57002,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Madoka, VOGUE 2</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-029.jpg">WXi-02</set>
+			<name>Madoka, Vogue 2</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-029[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2 - U</manacost>
 			<cmc>2</cmc>
@@ -57013,8 +57013,8 @@ Choose one:
 			<text></text>
 		</card>
 		<card>
-			<name>Madoka, VOGUE 3</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-030.jpg">WXi-02</set>
+			<name>Madoka, Vogue 3</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-030[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
 			<cmc>3</cmc>
@@ -57027,7 +57027,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Muzica//Dolphin</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-031.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-031[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -57040,7 +57040,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Muzica//Power Move</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-032.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-032[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>1 - 0</manacost>
 			<cmc>1</cmc>
@@ -57052,8 +57052,8 @@ Choose one:
 Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Muzica//Split</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-033.jpg">WXi-02</set>
+			<name>Muzica//Splits</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-033[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>2 - 1</manacost>
 			<cmc>2</cmc>
@@ -57067,7 +57067,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Muzica//Groovy</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-034.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-034[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>2 - 0</manacost>
 			<cmc>2</cmc>
@@ -57080,8 +57080,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Enter] {3}: Target 1 SIGNI on your opponent's field, and vanish it.  Target 1 SIGNI in your trash with the same level as that vanished SIGNI, and put it onto your field.</text>
 		</card>
 		<card>
-			<name>Yaekiri, Great Equipment</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-035.jpg">WXi-02</set>
+			<name>Yaekiri, Full Armed</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-035[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57094,8 +57094,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  When this SIGNI attacks, target 1 SIGNI with [Guard] in your trash, and you may pay {1}{W}.  If you do, add that SIGNI to your hand.</text>
 		</card>
 		<card>
-			<name>Cassiopeia, Natural Star Princess</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-036.jpg">WXi-02</set>
+			<name>Casseopeia, Natural Planet Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-036[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57106,8 +57106,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  At the beginning of your Main Phase, target 1 SIGNI on your opponent's field, and you may pay {1}{W}.  If you do, return that SIGNI to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Daji, Crimson Devil Princess</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-037.jpg">WXi-02</set>
+			<name>Daji, Crimson Evil Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-037[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57121,8 +57121,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.</text>
 		</card>
 		<card>
-			<name>Phoenix, Natural Star Princess</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-038.jpg">WXi-02</set>
+			<name>Phoenix, Natural Planet Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-038[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57135,8 +57135,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  At the end of your turn, if your opponent put a total of 2 or more cards from their Ener Zone into the trash by your cards' effects this turn, draw 1 card.</text>
 		</card>
 		<card>
-			<name>Buffalo, Phantom Beast Deity</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-039.jpg">WXi-02</set>
+			<name>Buffalo, Phantom Terra Beast God</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-039[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57147,8 +57147,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  At the beginning of your Attack Phase, all SIGNI on your field with 20000 power or higher get "[Auto]:  When this SIGNI attacks, target 1 SIGNI in front of it with 12000 power or lower, and you may pay {1}{R}.  If you do, vanish that SIGNI." until end of turn.  </text>
 		</card>
 		<card>
-			<name>Amabie, Azure Angel Princess</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-040.jpg">WXi-02</set>
+			<name>Amabie, Azure Angel Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-040[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57161,8 +57161,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 level 2 Angel SIGNI and 1 level 1 Angel SIGNI in your trash, and add that level 2 SIGNI to your hand and put that level 1 SIGNI onto your field.</text>
 		</card>
 		<card>
-			<name>Royal Blue, Natural Pyroxene</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-041.jpg">WXi-02</set>
+			<name>Royal Blue, Natural Crystal Brilliance</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-041[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57174,8 +57174,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 LRIG and 1 SIGNI on your opponent's field, and freeze them.</text>
 		</card>
 		<card>
-			<name>Zirconia, Natural Source Princess</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-042.jpg">WXi-02</set>
+			<name>ZrO2, Natural Element Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-042[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57188,8 +57188,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Enter] {U}: Draw 1 card or discard 1 card from your opponent's hand at random.</text>
 		</card>
 		<card>
-			<name>Drei=Influ Type D</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-043.jpg">WXi-02</set>
+			<name>Influen D Type: Drei</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-043[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57202,8 +57202,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto] [1/Turn]:  When this SIGNI is targeted by your opponent's ability or card effect, draw 1 card and [Ener Charge 1].</text>
 		</card>
 		<card>
-			<name>Gauche Agnese, Natural Plant Princess </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-044.jpg">WXi-02</set>
+			<name>Gauche Agnese, Natural Plant Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-044[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57216,8 +57216,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI on your opponent's field with 7000 power or higher, and vanish it.</text>
 		</card>
 		<card>
-			<name>Valkyrie, Wicked Angel Princess </name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-045.jpg">WXi-02</set>
+			<name>Valkyrie, Doomed Angel Queen</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-045[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57230,8 +57230,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI without [Guard] in your trash, and it to your hand or put it onto your field.</text>
 		</card>
 		<card>
-			<name>Code Ancients Phalaris</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-046.jpg">WXi-02</set>
+			<name>Phalaris, Code: Ancients</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-046[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57243,8 +57243,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  When this SIGNI vanishes a SIGNI on your opponent's field by battle, put the top 10 cards of your opponent's deck into the trash.</text>
 		</card>
 		<card>
-			<name>Pele, Holy Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-047.jpg">WXi-02</set>
+			<name>Pele, Blessed Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-047[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57254,8 +57254,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Action] {1}, {Down}: Target 1 other Angel SIGNI on your field, and return it to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Kogitsunemaru, Small Equipment</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-048.jpg">WXi-02</set>
+			<name>Kogitsunemaru, Lightly Armed</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-048[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57267,8 +57267,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI on your opponent's field with 8000 power or lower, and you may pay {W}.  If you do, return that SIGNI to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Code Maze Totorisa</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-049.jpg">WXi-02</set>
+			<name>Totorisa, Code: Maze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-049[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57278,8 +57278,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto] [1/Turn]:  When a SIGNI is put from your opponent's field into the trash, [Ener Charge 1].</text>
 		</card>
 		<card>
-			<name>Circe, Holy Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-050.jpg">WXi-02</set>
+			<name>Circe, Blessed Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-050[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57289,8 +57289,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Life Burst]:  Target 1 SIGNI with [Guard] in your trash, and add it to your hand.  Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Circinus, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-051.jpg">WXi-02</set>
+			<name>Circinus, Natural Planet</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-051[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57300,8 +57300,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter] {1}: Look at the top 5 cards of your deck.  Reveal 1 level 1 SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.</text>
 		</card>
 		<card>
-			<name>Code Maze Symphos</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-052.jpg">WXi-02</set>
+			<name>Symphorce, Code: Maze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-052[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57313,8 +57313,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.  Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Code Maze Dekasanbashi</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-053.jpg">WXi-02</set>
+			<name>Dekasanbashi, Code: Maze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-053[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57325,8 +57325,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Auto]:  At the end of your opponent's turn, target 1 SIGNI on your opponent's field, and you may pay {W}{W}.  If you do, return that SIGNI to its owner's hand.</text>
 		</card>
 		<card>
-			<name>White Betta, Water Phantom</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-054.jpg">WXi-02</set>
+			<name>White Betta, Phantom Aquatic Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-054[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57336,8 +57336,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Constant]:  While there are 4 or more cards in your hand, this SIGNI gets +2000 power and [Shadow (SIGNI)] during your opponent's turn.</text>
 		</card>
 		<card>
-			<name>Brave Shade</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-055.jpg">WXi-02</set>
+			<name>A Shade of Bravery</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-055[EN].jpg">WXi-02</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<cmc>1</cmc>
@@ -57346,8 +57346,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>Target 1 SIGNI on your field, and until the end of your opponent's next turn, it loses its abilites and gets +5000 power, [Shadow], and "[Constant]:  Can't attack." </text>
 		</card>
 		<card>
-			<name>Apehuchi, Crimson Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-056.jpg">WXi-02</set>
+			<name>Kamuy-huci, Crimson Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-056[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57357,8 +57357,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto]:  When an Angel SIGNI on your field is vanished, target 1 SIGNI on your field, and it gets +5000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Zepar, Crimson Devil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-057.jpg">WXi-02</set>
+			<name>Zepar, Crimson Evil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-057[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57368,21 +57368,21 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter] Put 1 other red SIGNI on your field into the trash: Target 1 SIGNI on your opponent's field with 3000 power or lower, and vanish it.</text>
 		</card>
 		<card>
-			<name>Tebulasan, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-058.jpg">WXi-02</set>
+			<name>Mensah, Natural Planet</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-058[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>SIGNI|LB - Nature Tone: Cosmos (DS)</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Put this SIGNI on top of your deck.
+			<text>[Action] {Down}: Put this SIGNI on top of its owner's deck.
 
 [Life Burst]:  Target 1 SIGNI on your opponent's field with 8000 power or lower, and you may pay {R}.  If you do, vanish that SIGNI.</text>
 		</card>
 		<card>
-			<name>Nuncha, Medium Equipment</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-059.jpg">WXi-02</set>
+			<name>Nuncha, High Armed</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-059[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57392,8 +57392,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Life Burst]:  Target 1 card in your opponent's Ener Zone, and put it into the trash.  Draw 1 card.</text>
 		</card>
 		<card>
-			<name>Code Art S Tove</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-060.jpg">WXi-02</set>
+			<name>S-Tove, Code: Art</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-060[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57406,8 +57406,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 (When a SIGNI with [Assassin] attacks, it damages your opponent with its attack without battling the SIGNI in front of it.)</text>
 		</card>
 		<card>
-			<name>Hamster, Phantom Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-061.jpg">WXi-02</set>
+			<name>Hamster, Phantom Terra Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-061[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57418,7 +57418,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Boudica, Crimson General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-062.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-062[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57428,8 +57428,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Constant]:  While this SIGNI is on your center SIGNI Zone, this SIGNI gets +5000 power.</text>
 		</card>
 		<card>
-			<name>Harmony of Noise</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-063.jpg">WXi-02</set>
+			<name>In Perfect Harmony</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-063[EN].jpg">WXi-02</set>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<cmc>2</cmc>
@@ -57441,7 +57441,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Heqet, Azure Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-064.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-064[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57451,8 +57451,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter]:  Look at the top 3 cards of your deck.  Put any number of them on the bottom of your deck in any order, then put the rest on top of your deck in any order.</text>
 		</card>
 		<card>
-			<name>Code Maze Snomu</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-065.jpg">WXi-02</set>
+			<name>Snow Myu, Code: Maze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-065[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57463,8 +57463,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Enter]:  Target 1 SIGNI on your opponent's center SIGNI Zone, and freeze it.</text>
 		</card>
 		<card>
-			<name>Spotted Garden Eel, Water Phantom</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-066.jpg">WXi-02</set>
+			<name>Hassi, Phantom Aquatic Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-066[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57477,7 +57477,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Gaghiel, Azure Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-067.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-067[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57491,7 +57491,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Hijikata, Azure General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-068.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-068[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57502,8 +57502,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Constant]:  If you discarded 2 or more cards from your hand this turn, this SIGNI gets "[Auto]:  When this SIGNI vanishes a SIGNI on your opponent's field by battle, discard 1 card from your opponent's hand at random."</text>
 		</card>
 		<card>
-			<name>Dorado, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-069.jpg">WXi-02</set>
+			<name>Dorado, Natural Planet</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-069[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57513,19 +57513,19 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Life Burst]:  Draw 2 cards.  Your opponent discards 1 card from their hand.</text>
 		</card>
 		<card>
-			<name>Water Scam, Great Trap</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-070.jpg">WXi-02</set>
+			<name>Con Aqua, Master Trickster</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-070[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Tone: Trick (DS)</type>
+			<type>SIGNI - War Tone: Trickster (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  If there is a facedown card on a SIGNI Zone on your field, draw 1 card.</text>
 		</card>
 		<card>
-			<name>SPINNING HARMONY</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-071.jpg">WXi-02</set>
+			<name>Spinning Harmony</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-071[EN].jpg">WXi-02</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<cmc>1</cmc>
@@ -57535,7 +57535,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Kamapua'a, Verdant Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-072.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-072[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57545,8 +57545,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto]:  When this SIGNI attacks, you may put 2 Angel SIGNI from your Ener Zone into the trash.  If you do, [Ener Charge 3].</text>
 		</card>
 		<card>
-			<name>Ophiuchus, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-073.jpg">WXi-02</set>
+			<name>Ophiuchus, Natural Planet</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-073[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57558,8 +57558,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  [Ener Charge 2].  Target up to 1 SIGNI in your Ener Zone, then add it to your hand.</text>
 		</card>
 		<card>
-			<name>Parajulis, Water Phantom</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-074.jpg">WXi-02</set>
+			<name>Parajulis, Phantom Aquatic Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-074[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57569,8 +57569,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto]:  When this SIGNI attacks, if a card was put from your deck into your Ener Zone this turn, target 1 SIGNI on your opponent's field with 8000 power or lower, and you may pay {1}{G}.  If you do, vanish that SIGNI.  </text>
 		</card>
 		<card>
-			<name>Sitri, Verdant Devil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-075.jpg">WXi-02</set>
+			<name>Sitri, Jade Evil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-075[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57580,8 +57580,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Life Burst]:  [Ener Charge 1].  Target up to 1 SIGNI in your Ener Zone, and add it to your hand or put it onto your field.</text>
 		</card>
 		<card>
-			<name>Zwei=Cowbane</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-076.jpg">WXi-02</set>
+			<name>Cicuta Virosa Type: Zwei</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-076[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57591,8 +57591,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Action] {1}{G}{B}, Put this SIGNI from your field into the trash: Target 1 SIGNI on your opponent's field, and vanish it.</text>
 		</card>
 		<card>
-			<name>Prairie Sphagnum, Water Phantom</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-077.jpg">WXi-02</set>
+			<name>Palustre, Phantom Aquatic Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-077[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57604,8 +57604,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 (When a SIGNI with [Lancer] vanishes a SIGNI on its opponent's field by battle, it crushes 1 card in your opponent's Life Cloth.)</text>
 		</card>
 		<card>
-			<name>Code Maze Fujisapa</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-078.jpg">WXi-02</set>
+			<name>Fujisapa, Code: Maze</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-078[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57615,8 +57615,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Action] {2}{G}: Target 1 SIGNI on your opponent's field with 10000 power or higher, and put it and this SIGNI on the bottom of their owners' decks.</text>
 		</card>
 		<card>
-			<name>Fennec, Phantom Beast</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-079.jpg">WXi-02</set>
+			<name>Fennec, Phantom Terra Beast</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-079[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57629,8 +57629,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  [Ener Charge 1].  The next time a SIGNI attacks this turn, disable that attack.</text>
 		</card>
 		<card>
-			<name>Concerted Performance</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-080.jpg">WXi-02</set>
+			<name>Heterophony</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-080[EN].jpg">WXi-02</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<cmc>2</cmc>
@@ -57639,8 +57639,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Ener Charge 3]</text>
 		</card>
 		<card>
-			<name>Nyx, Wicked Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-081.jpg">WXi-02</set>
+			<name>Nyx, Doomed Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-081[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57650,8 +57650,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter]:  If there are 3 or more Angel SIGNI on your field, target 1 SIGNI on your opponent's field, and it gets -2000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Gamigin, Wicked Devil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-082.jpg">WXi-02</set>
+			<name>Gamigin, Doomed Evil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-082[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57661,8 +57661,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto] When this SIGNI is put from your deck into the trash, if it is your turn, target 1 SIGNI on your opponent's field, and you may pay {B}.  If you do, that SIGNI gets -3000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Molybdenum, Natural Source</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-083.jpg">WXi-02</set>
+			<name>Mo, Natural Element</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-083[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -57674,8 +57674,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 SIGNI on your opponent's field, and you may pay {B}.  If you do, that SIGNi gets -8000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Erebus, Wicked Angel</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-084.jpg">WXi-02</set>
+			<name>Erebus, Doomed Angel</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-084[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57685,8 +57685,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter]:  All SIGNI on your opponent's field get -1000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Chen Gong, Wicked General</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-085.jpg">WXi-02</set>
+			<name>Chen Gong, Doomed General</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-085[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57696,8 +57696,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Life Burst]:  Target up to 2 SIGNI without [Guard] in your trash, and add them to your hand.</text>
 		</card>
 		<card>
-			<name>Agares, Wicked Devil</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-086.jpg">WXi-02</set>
+			<name>Agares, Doomed Evil</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-086[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -57709,8 +57709,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 [Life Burst]:  Target 1 black SIGNI in your trash, and add it to your hand.  Target 1 SIGNI on your opponent's field, and it gets -3000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Tucana, Natural Star</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-087.jpg">WXi-02</set>
+			<name>Tucana, Natural Planet</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-087[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57720,8 +57720,8 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Enter] {2}: Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.</text>
 		</card>
 		<card>
-			<name>Code Art E Arpho</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-088.jpg">WXi-02</set>
+			<name>E-Fone, Code: Art</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-088[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -57733,7 +57733,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 		</card>
 		<card>
 			<name>Search Light</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P02-089.jpg">WXi-02</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-089[EN].jpg">WXi-02</set>
 			<color>B</color>
 			<manacost>B</manacost>
 			<cmc>1</cmc>
@@ -59013,7 +59013,7 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 [Action] [1/Game] {0}: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Dr.  Tamago, Nonstop</name>
+			<name>Dr. Tamago, Nonstop</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-P04-009.jpg">WXi-04</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
@@ -59588,7 +59588,7 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			<type>SIGNI - War Tone: Armed (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a LRIG on your field attacks, you may down 3 upped level 3 white SIGNI on your field and pay {W}.  If you do, up that attacking LRIG, and that LRIG loses its abilities until end of turn.</text>
+			<text>[Auto]:  When a LRIG on your field attacks, you may down 3 upped white SIGNI on your field and pay {W}.  If you do, up that attacking LRIG, and that LRIG loses its abilities until end of turn.</text>
 		</card>
 		<card>
 			<name>Rebirth Return</name>
@@ -60599,7 +60599,7 @@ Choose one:
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Tone: Trick (DS)</type>
+			<type>SIGNI - War Tone: Trickster (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, your opponent may discard 2 cards from their hand.  If they do, disable this SIGNI's attack.
@@ -60924,7 +60924,7 @@ Choose one:
 			<pt>2000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, your opponent draws 1 card, then discards 1 card from their hand at random.
-[Enter] {U}: If there is a "Zirconia, Natural Source Princess" on your field, target 1 SIGNI on your opponent's field, and it gets -4000 power until end of turn.</text>
+[Enter] {U}: If there is a "ZrO2, Natural Element Queen" on your field, target 1 SIGNI on your opponent's field, and it gets -4000 power until end of turn.</text>
 		</card>
 		<card>
 			<name>Hauynite, Natural Stone</name>
@@ -61949,7 +61949,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<type>SIGNI|LB - Idle Tone: Beautiful Technique (DS)</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a card in your Ener Zone moves to another zone by a card effect, [Ener Charge 1].
+			<text>[Auto] [1/Turn]:  When a card in your Ener Zone moves to another zone by a card effect, [Ener Charge 1].
 [Enter] {W}: This SIGNI gets +2000 power and [Shadow (level 3 or higher SIGNI)] until the end of your opponent's next turn.</text>
 		</card>
 		<card>
@@ -63472,7 +63472,7 @@ If you have not gotten any Coins yet this game, you get 5 Coins.  You cannot get
 			<type>SIGNI - War Tone: Venom (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Enter] {G}: Target 1 card in your Ener Zone, and add it to your hand.
+			<text>[Enter] {G}: Target 1 SIGNI in your Ener Zone, and add it to your hand.
 [Enter] {B}: Target 1 green SIGNI in your trash, and put it onto your field.
 [Action] [1/Turn] {1}, this SIGNI gets -10000 power until end of turn: Target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn.  This ability cannot be used unless this SIGNI has 20000 power or higher.</text>
 		</card>
@@ -63707,7 +63707,7 @@ If you have not gotten any Coins yet this game, you get 5 Coins.  You cannot get
 			<cmc>1</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>[Bet]:  1 Coin 
+			<text>[Bet]: 1 Coin 
 
 Draw 1 card, then declare 1 color.  Target 1 SIGNI on your field, and it gets (1) until the end of your opponent's next turn.  If you bet, that SIGNI gets (2) instead.
 (1): [Constant]:  This SIGNI gets [Shadow: SIGNI of the declared color] during your opponent's turn.
@@ -63836,7 +63836,7 @@ Draw 1 card, then declare 1 color.  Target 1 SIGNI on your field, and it gets (1
 			<cmc>1</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>[Bet]:  2 Coins 
+			<text>[Bet]: 2 Coins (You may pay an additional 2 Coins as you use this SPELL.)
 
 Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.  If you bet, instead target 1 SIGNI on your opponent's field, and vanish it.
 
@@ -63932,7 +63932,7 @@ Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Tone: Trick (DS)</type>
+			<type>SIGNI - War Tone: Trickster (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, your opponent discards 1 card from their hand.
@@ -63947,7 +63947,7 @@ Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.
 			<cmc>0</cmc>
 			<type>SPELL|LB - (DS)</type>
 			<tablerow>3</tablerow>
-			<text>[Bet]:  1 Coin
+			<text>[Bet]: 1 Coin
 
 Draw 2 cards, then discard 2 cards from your hand.  If you bet, draw 3 cards, then discard 2 cards from your hand instead.
 You cannot use SPELLs for the rest of this turn.
@@ -64834,7 +64834,7 @@ Draw 1 card.  All SIGNI on your opponent's field lose their abilities until end 
 			<color>W</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Tone: Trick (DS)</type>
+			<type>SIGNI|LB - War Tone: Trickster (DS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is vanished, you may put 1 card from your Life Cloth into the trash.  If you do, add this SIGNI from your Ener Zone into your Life Cloth.
@@ -65105,7 +65105,7 @@ Draw 1 card.  All SIGNI on your opponent's field lose their abilities until end 
 			<type>SIGNI|LB - Nature Tone: Cosmos (DS)</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  At the beginning of your Attack Phase, target up to 1 level 2 or lower SIGNI on your opponent's field, and you may return this SIGNI its owner's hand.  If you do, that targeted SIGNI gets "[Constant]:  Can't attack."  until end of turn.
+			<text>[Auto]:  At the beginning of your opponent's Attack Phase, target up to 1 level 2 or lower SIGNI on your opponent's field, and you may return this SIGNI its owner's hand.  If you do, that targeted SIGNI gets "[Constant]:  Can't attack."  until end of turn.
 			
 [Life Burst]:  Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.  Draw 1 card.</text>
 		</card>
@@ -65516,7 +65516,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<type>SIGNI - Idle Tone: Demon (DS)</type>
 			<pt>5000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI is put from the field into the trash to pay the cost of an ability, [Ener Charge 1].</text>
+			<text>[Auto]:  When this SIGNI is put from the field into the trash by an ability or to pay the cost of an ability, [Ener Charge 1].</text>
 		</card>
 		<card>
 			<name>Mamushi Type: Zwei</name>
@@ -66138,7 +66138,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]:  When you place a Trap on your field, draw 1 card or [Ener Charge 1].
@@ -66456,7 +66456,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<text>[Auto] When this SIGNI attacks, you may discard 1 Misfortune Insect SIGNI from your hand.  1 SIGNI on your opponent's field gets -2000 power multiplied by the level of the SIGNI discarded this way until end of turn.</text>
 		</card>
 		<card>
-			<name>Dr.  Fish, Water Phantom</name>
+			<name>Dr. Fish, Water Phantom</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX1/WXEX1-65.jpg">WXEX1</set>
 			<color>U</color>
 			<manacost>2</manacost>
@@ -66486,7 +66486,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
 			<pt>7000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may pay {U}.  If you do, return 1 SIGNI on your opponent's field whose level is equal to or lower than the number of Traps on your field to its owner's hand.
@@ -66849,7 +66849,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<loyalty>11</loyalty>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, you may turn 1 [Trap] on your field face-up and activate its [Trap] ability.  If you do, look at the top 3 cards of your deck.  You may set 1 of those cards on 1 SIGNI Zone on your field as a [Trap], then put the rest on the bottom of your deck in any order.
-[Action] [1/Turn] [Attack Phase] ((Holograph)) Pay 1 Coin: Draw 1 card, then reveal the top card of your deck.  If it is a Trick SIGNI, the next time you would be damaged this turn, you are not damaged instead.</text>
+[Action] [1/Turn] [Attack Phase] ((Holograph)) Pay 1 Coin: Draw 1 card, then reveal the top card of your deck.  If it is a Trickster SIGNI, the next time you would be damaged this turn, you are not damaged instead.</text>
 		</card>
 		<card>
 			<name>Midoriko, Opening Type Five</name>
@@ -67223,13 +67223,13 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI attacks, activate the [Trap] ability of 1 Trick SIGNI on your field.  (That SIGNI remains on the field.)
+			<text>[Auto]:  When this SIGNI attacks, activate the [Trap] ability of 1 Trickster SIGNI on your field.  (That SIGNI remains on the field.)
 [Enter] {U}: This SIGNI becomes a cheer girl.
 
-[Trap]:  You may discard 1 Trick SIGNI from your hand, then put 1 SIGNI on your opponent's field whose level is equal to the level of the SIGNI discarded this way on top of its owner's deck.
+[Trap]:  You may discard 1 Trickster SIGNI from your hand, then put 1 SIGNI on your opponent's field whose level is equal to the level of the SIGNI discarded this way on top of its owner's deck.
 
 [Life Burst]:  Discard 1 card from your hand.  Put 1 SIGNI on your opponent's field on top of its owner's deck.</text>
 		</card>
@@ -67568,7 +67568,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<color>U</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>8000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  Trick cards without [Trap] abilities in all of your zones get "[Trap]:  Draw 1 card or [Ener Charge 1]."
@@ -71099,7 +71099,7 @@ Choose one:
 			<color>U</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI - Living Spirit: Aquatic Beast / War Spirit: Trick</type>
+			<type>SIGNI - Living Spirit: Aquatic Beast / War Spirit: Trickster</type>
 			<pt>3000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  All other blue SIGNI on your field get +2000 power.
@@ -71517,7 +71517,7 @@ Add 1 ARTS other than "Spirit Salvage" from your LRIG Trash to your LRIG Deck.</
 			<color>U</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Aya Limited</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, flip 1 Trap on the same SIGNI Zone as this SIGNI face-up, then trigger its [Trap] ability if any.  (Put the Trap into the trash after it resolves its [Trap] effect if any.)
@@ -73094,16 +73094,16 @@ Choose up to two:
 			<color>B</color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-			<type>SIGNI|LB - War Spirit: Trick - Guzuko Limited (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster - Guzuko Limited (KS)</type>
 			<loyalty>5</loyalty>
 			<pt>12000/*</pt>
 			<tablerow>2</tablerow>
 			<text>(This SIGNI consumes 5 limit regardless of this SIGNI's level.)
 			
 [Auto]:  When this SIGNI attacks, reveal the top 5 cards of your deck, then 1 SIGNI on your opponent's field gets -2000 power for each SIGNI with an odd-numbered level revealed this way until end of turn.
-[Enter] {B}{B}: Add 1 Trick SIGNI with an odd-numbered level from your trash to your hand, except "Heart Queen, Large Trap".
+[Enter] {B}{B}: Add 1 Trickster SIGNI with an odd-numbered level from your trash to your hand, except "Heart Queen, Large Trap".
 
-[Life Burst]:  Put 1 level 1 Trick SIGNI from your trash onto your field and add 1 level 3 Trick SIGNI from your trash to your hand.</text>
+[Life Burst]:  Put 1 level 1 Trickster SIGNI from your trash onto your field and add 1 level 3 Trickster SIGNI from your trash to your hand.</text>
 		</card>
 		<card>
 			<name>Skunk Cabbage, Natural Plant</name>
@@ -73848,7 +73848,7 @@ Put up to 2 Demon SIGNI from your trash onto your field, then discard all cards 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 1 Armed SIGNI from your hand onto your field.  If you bet, put 1 more Armed SIGNI from your hand onto your field.</text>
 		</card>
 		<card>
@@ -73861,7 +73861,7 @@ Put 1 Armed SIGNI from your hand onto your field.  If you bet, put 1 more Armed 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 
 Use the following effect once.  If you bet, use the following effect twice instead.
 Put the top card of your deck into the trash.  If it was a SIGNI with an odd-numbered level, put it onto your field.  If it was a SIGNI with an even-numbered level, 1 SIGNI on your opponent's field gets -12000 power until end of turn.  </text>
@@ -74319,7 +74319,7 @@ Choose one.  Repeat this effect a number of times equal to your LRIG's level.  (
 		
 		<card>
 			<name>Servant Q4 (SPK11)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-01-A1.jpg">SPK11</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK11/SPK11-01-A1.jpg">SPK11</set>
 			<color></color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
@@ -74333,7 +74333,7 @@ Choose one.  Repeat this effect a number of times equal to your LRIG's level.  (
 		</card>
 		<card>
 			<name>Servant T4 (SPK11)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-02-A1.jpg">SPK11</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK11/SPK11-02-A1.jpg">SPK11</set>
 			<color></color>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
@@ -74347,7 +74347,7 @@ Choose one.  Repeat this effect a number of times equal to your LRIG's level.  (
 		</card>
 		<card>
 			<name>Servant D4 (SPK11)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-03-A1.jpg">SPK11</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK11/SPK11-03-A1.jpg">SPK11</set>
 			<color></color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
@@ -74361,7 +74361,7 @@ Choose one.  Repeat this effect a number of times equal to your LRIG's level.  (
 		</card>
 		<card>
 			<name>Servant O4 (SPK11)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/library/images/card/SPK11/SPK11-04-A1.jpg">SPK11</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK11/SPK11-04-A1.jpg">SPK11</set>
 			<color></color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
@@ -75064,7 +75064,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<color>B</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-			<type>SIGNI - War Spirit: Trick (KS)</type>
+			<type>SIGNI - War Spirit: Trickster (KS)</type>
 			<pt>10000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Enter]:  Draw 3 cards, then put 3 cards from your hand on top of your deck in any order.  (If you have 2 or less cards in your deck, draw all of them.)</text>
@@ -75701,7 +75701,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Newborn Dr.  Tamago (SPDi01)</name>
+			<name>Newborn Dr. Tamago (SPDi01)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi01/SPDi01-13.jpg">SPDi01</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
@@ -76143,7 +76143,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Newborn Dr.  Tamago (SPDi01S)</name>
+			<name>Newborn Dr. Tamago (SPDi01S)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Dr.%20Tamago%2C%20Newborn%20(SPDi01S).jpg">SPDi01S</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
@@ -76656,7 +76656,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<text></text>
 		</card>
 		<card>
-			<name>Newborn Dr.  Tamago (SPDi05)</name>
+			<name>Newborn Dr. Tamago (SPDi05)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi05/SPDi05-04.jpg">SPDi05</set>
 			<color>U</color>
 			<manacost>0 - 0</manacost>
@@ -76732,7 +76732,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: This LRIG gets "[Auto]:  When this LRIG attacks, you may down 2 upped LRIGs on your field.  If you do, damage your opponent unless they discard 1 card with [Guard] from their hand."</text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards Courage (SPDi07)</name>
+			<name>Akino, Bound for Valor (SPDi07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi07/SPDi07-02.jpg">SPDi09</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
@@ -76742,7 +76742,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 			<tablerow>0</tablerow>
 			<text>[Team Constant]:  The SIGNI on your center SIGNI Zone gets +2000 power during your opponent's turn.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
-[Action] [1/Game] Down 2 upped LRIGs on your field: Target up to 2 SIGNI on your opponent's field, and you may discard 1 card with [Guard] from your hand.  If you do, return those SIGNI to their owners' hands.</text>
+[Action] [1/Game] Down 2 upped level 2 LRIGs on your field: Target up to 2 SIGNI on your opponent's field, and you may discard 1 card with [Guard] from your hand.  If you do, return those SIGNI to their owners' hands.</text>
 		</card>
 		<card>
 			<name>Rei, Soaring Towards Supremacy (SPDi07)</name>
@@ -76770,7 +76770,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: This LRIG gets "[Auto]:  When this LRIG attacks and does not damage your opponent after the attack, you may down 1 upped level 2 LRIG on your field.  If you do, up this LRIG."</text>
 		</card>
 		<card>
-			<name>DJ.LOVIT - 3rd Verse (SPDi07)</name>
+			<name>DJ LOVIT - 3rd Verse (SPDi07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi07/SPDi07-05.jpg">SPDi07</set>
 			<color>R</color>
 			<manacost>3 - RR</manacost>
@@ -76796,7 +76796,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: This LRIG gets "[Action] Down 1 upped level 2 LRIG on your field: Up this LRIG." until end of turn.</text>
 		</card>
 		<card>
-			<name>Never Give Up! Dr.  Tamago (SPDi07)</name>
+			<name>Never Give Up! Dr. Tamago (SPDi07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi07/SPDi07-07.jpg">SPDi07</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
@@ -76822,7 +76822,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: Put all cards from under your other LRIGs under this LRIG.</text>
 		</card>
 		<card>
-			<name>Bang, Advancing to Battle (SPDi07)</name>
+			<name>Bang, Read to Fight (SPDi07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi07/SPDi07-09.jpg">SPDi07</set>
 			<color>G</color>
 			<manacost>3 - GG</manacost>
@@ -76848,7 +76848,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: Target 1 level 1 LRIG on [DIAGRAM] on your field, and return it to the LRIG Deck.</text>
 		</card>
 		<card>
-			<name>Madoka, VOGUE 3 (SPDi07)</name>
+			<name>Madoka, Vogue 3 (SPDi07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi07/SPDi07-11.jpg">SPDi07</set>
 			<color>U</color>
 			<manacost>3 - UU</manacost>
@@ -76910,7 +76910,7 @@ Any number of SIGNI on the field get a total of +20000 power until end of turn, 
 [Action] [1/Game] {0}: This LRIG gets "[Auto]:  When this LRIG attacks, you may down 2 upped LRIGs on your field.  If you do, damage your opponent unless they discard 1 card with [Guard] from their hand."</text>
 		</card>
 		<card>
-			<name>Akino, Advancing Towards Courage (SPDi09)</name>
+			<name>Akino, Bound for Valor (SPDi09)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi09/SPDi09-02.jpg">SPDi09</set>
 			<color>W</color>
 			<manacost>3 - WW</manacost>
@@ -80297,8 +80297,8 @@ Vanish 1 SIGNI on your opponent's field with 15000 power or higher.  If your LRI
 			<type>SPELL - Aya Limited</type>
 			<tablerow>3</tablerow>
 			<text>Choose one:
-- Vanish 1 Trick SIGNI on your field.  If you do, look at the top 3 cards of your deck.  You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
-- Vanish 1 Trick SIGNI on your field.  If you do, add 1 Trap from your field into your hand.</text>
+- Vanish 1 Trickster SIGNI on your field.  If you do, look at the top 3 cards of your deck.  You may set 1 card from among them onto 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+- Vanish 1 Trickster SIGNI on your field.  If you do, add 1 Trap from your field into your hand.</text>
 		</card>
 		<card>
 			<name>Code Eat Unadon (PR332)</name>
@@ -80466,7 +80466,7 @@ Vanish 1 SIGNI on your opponent's field with 15000 power or higher.  If your LRI
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] 
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put the top card of your deck into your Ener Zone.  If you bet, put the top 2 cards of your deck into your Ener Zone instead.</text>
 		</card>
 		<card>
@@ -80479,7 +80479,7 @@ Put the top card of your deck into your Ener Zone.  If you bet, put the top 2 ca
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Add 1 SIGNI that shares a color with your LRIG from your trash to your hand.  If you bet, add up to 2 SIGNI that shares a color with your LRIG from your trash to your hand instead.  </text>
 		</card>
 		<card>
@@ -80683,7 +80683,7 @@ Put all white, red, blue, green, and black cards from your opponent's Ener Zone 
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 		
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Put 1 black SIGNI from your trash onto your field.  If you bet, put 2 black SIGNI from your trash onto your field instead.  </text>
 		</card>
 		<card>
@@ -80816,7 +80816,7 @@ Add up to 1 ARTS and up to 1 RESONA that each share a color with the color of en
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 All SIGNI on your opponent's field get −7000 power until end of turn.  If you bet, they get −12000 power until end of turn instead.</text>
 		</card>
 		<card>
@@ -80892,7 +80892,7 @@ Vanish all SIGNI on your opponent's field with 1000 power or lower.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Search your deck for 1 level 4 or lower white or black SIGNI and put it onto your field downed.  Shuffle your deck.  Then, if you bet, put 1 SIGNI with a card name that is listed on the (Cross) condition of the SIGNI that entered the field this way from your trash onto your field.  </text>
 		</card>
 		<card>
@@ -81650,7 +81650,7 @@ Choose up to two:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 If you bet, this ARTS costs {0} to use.
 Add the top card of your deck to your Life Cloth.  </text>
 		</card>
@@ -81809,7 +81809,7 @@ Your opponent's LRIG gets "This LRIG cannot attack." until end of turn.  1 SIGNI
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose up to three instead:
 - If a SIGNI left your field by your opponent's card effect this turn, vanish 1 SIGNI on your opponent's field.
 - If a card was put from your Ener Zone into the trash by your opponent's card effect this turn, put the top 3 cards of your deck into your Ener Zone.
@@ -82095,7 +82095,7 @@ Look at the top card of your Life Cloth.  If it is a SIGNI, you may put that SIG
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] [Spell Cut-In]
 
-[Bet]:  2 Coins.  (You may pay 1 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 1 Coins as you use this ARTS.)
 
 Put 1 SIGNI on your field into the trash.  If you do, vanish 1 level 4 or lower SIGNI on your opponent's field.  If you bet, vanish 1 more SIGNI on your opponent's field.  </text>
 		</card>
@@ -82171,7 +82171,7 @@ Put 1 SIGNI on your field into the trash.  If you do, vanish 1 level 4 or lower 
 			<color>B</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-			<type>SIGNI|LB - War Spirit: Trick (KS)</type>
+			<type>SIGNI|LB - War Spirit: Trickster (KS)</type>
 			<pt>4000/*</pt>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if the levels of all SIGNI on your field are even-numbered, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
@@ -82250,7 +82250,7 @@ Draw 4 cards.</text>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
-[Bet]:  1 Coin.  (You may pay 1 Coin as you use this ARTS.)
+[Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Add up to 3 SIGNI with different levels that share a color with your LRIG from your trash to your hand.  If you bet, add up to 4 SIGNI with different levels that share a color with your LRIG from your trash to your hand instead.  </text>
 		</card>
 		<card>
@@ -82505,7 +82505,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase]
 			
-[Bet]:  2 Coins.  (You may pay 2 Coins as you use this ARTS.)
+[Bet]: 2 Coins.  (You may pay 2 Coins as you use this ARTS.)
 Down 1 SIGNI on your opponent's field.  If you bet, down 2 SIGNI on your opponent's field instead.</text>
 		</card>
 		<card>
@@ -82814,7 +82814,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
 			
-[Bet]:  1 Coin.
+[Bet]: 1 Coin.
 Choose one.  If you bet, choose two instead:
 - Down 1 SIGNI on your opponent's field.  Draw 1 card.
 - Put 1 Cooking SIGNI from your hand onto the field.  It loses its abilities until end of turn.  Then search your deck for 1 Cooking SIGNI and attach it to 1 Cooking SIGNI on your field as an [Accessory].  Shuffle your deck.</text>
@@ -83042,8 +83042,8 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 = Target up to 3 SIGNI without [Guard] in your trash, and add them to your hand."</text>
 		</card>
 		<card>
-			<name>Xeno Cluster (PR-Di012)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Xeno%20Cluster%20(PR-Di012).jpg">PR</set>
+			<name>Zeno Cluster (PR-Di012)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Zeno%20Cluster%20(PR-Di012).jpg">PR</set>
 			<color></color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
