@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Tlet, Thousand-Gauntlet Guanyin"/>
+        <card number="1" name="Tlet UNIVERSE, Huge Karakuri"/>
+        <card number="1" name="Tlet, Gauntlet Miko"/>
+        <card number="1" name="Tlet, Ultimate Swordsmanship"/>
+        <card number="1" name="Tlet (WXP03)"/>
+        <card number="1" name="I Alone Gain and Lose Throughout Heaven and Earth"/>
+        <card number="1" name="Koban Defense"/>
+        <card number="1" name="One Action, Two Profits"/>
+        <card number="1" name="Tatami Reversal"/>
+        <card number="1" name="Bright Yellow Candy"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Tlet, Ruffian"/>
+        <card number="4" name="Tlet, Demon King of the Sixth Heaven"/>
+        <card number="4" name="Bolshack Yamatolet"/>
+        <card number="4" name="Koi-Koi Tlet"/>
+        <card number="4" name="♡Tlet♡, Goldfish Scooping "/>
+        <card number="4" name="♡Tlet♡, Bizarre Summer Series "/>
+        <card number="4" name="Dango Tlet"/>
+        <card number="4" name="Tlet, Soldier"/>
+        <card number="4" name="Servant D (WXP)"/>
+        <card number="4" name="Servant O (WXP)"/>
+    </zone>
+</cockatrice_deck>

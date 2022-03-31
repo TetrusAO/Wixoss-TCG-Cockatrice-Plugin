@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Tlet"/>
+        <card number="1" name="Tlet, Infinite Summer Vacation"/>
+        <card number="1" name="The Tlet I Thought Was the Strongest"/>
+        <card number="1" name="Midsummer Tlet"/>
+        <card number="1" name="Early Summer Tlet"/>
+        <card number="1" name="Breaking Helmet Armor"/>
+        <card number="1" name="Launching Tlet"/>
+        <card number="1" name="Death Barbecue"/>
+        <card number="1" name="Wild Dancing of Divine Wind"/>
+        <card number="1" name="Romail, White Swimsuit"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Tlet, Celestial Maiden of the Pool"/>
+        <card number="4" name="Tlet Summer, Apple Rejection"/>
+        <card number="4" name="Romail, Summer Vacation"/>
+        <card number="4" name="Leguas, Swimming in the Ocean"/>
+        <card number="4" name="Tlet, Goldfish Scooping"/>
+        <card number="4" name="Tlet, Bizarre Summer Series"/>
+        <card number="4" name="Ordinary Tlet (WXP-02)"/>
+        <card number="4" name="SMP Headphone (WXP-02)"/>
+        <card number="4" name="Servant D (WXP)"/>
+        <card number="4" name="Servant O (WXP)"/>
+    </zone>
+</cockatrice_deck>
