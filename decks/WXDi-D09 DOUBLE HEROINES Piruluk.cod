@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Code Piruluk xi (WDi-09)"/>
+        <card number="1" name="Code Piruluk (WXi-06)"/>
+        <card number="1" name="Code Piruluk K (WXi-06)"/>
+        <card number="1" name="Code Piruluk M (WXi-06)"/>
+        <card number="1" name="Dona START (WXi-07)"/>
+        <card number="1" name="Dona &quot;I'm Rooting For You!&quot;"/>
+        <card number="1" name="Dona &quot;Go, Go!&quot;"/>
+        <card number="1" name="Madoka START"/>
+        <card number="1" name="Madoka//Float"/>
+        <card number="1" name="Madoka//Clap"/>
+        <card number="1" name="Summer Live Blues"/>
+        <card number="1" name="Burning Curiosity (WDi-08)"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Exia, Blessed Angel Queen"/>
+        <card number="2" name="Yukime//Memoria, Blessed General Queen"/>
+        <card number="2" name="Orochimaru, Blessed Evil Queen"/>
+        <card number="2" name="Firefly Squid, Aquatic Phantom Deity"/>
+        <card number="1" name="Brynhildr, Azure Angel Queen"/>
+        <card number="2" name="Mikomiko//Memoria, Natural Bacteria Queen"/>
+        <card number="4" name="Audomula, Azure Angel"/>
+        <card number="2" name="Bruno, Azure General"/>
+        <card number="4" name="Heqet, Azure Angel"/>
+        <card number="4" name="Focalor, Azure Evil"/>
+        <card number="4" name="Manomin, Azure Evil"/>
+        <card number="4" name="Servant # (WXi-06)"/>
+        <card number="2" name="Call Out"/>
+        <card number="4" name="RANDOM DRAIN (WDi-09)"/>
+        <card number="2" name="RECOVERY"/>
+    </zone>
+</cockatrice_deck>

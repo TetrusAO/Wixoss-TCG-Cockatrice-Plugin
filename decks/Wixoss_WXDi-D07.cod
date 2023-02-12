@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Ex Zero"/>
+        <card number="1" name="Ex One"/>
+        <card number="1" name="Ex Two"/>
+        <card number="1" name="Ex Three"/>
+        <card number="1" name="Deus Zero"/>
+        <card number="1" name="Deus Drive"/>
+        <card number="1" name="Deus Shield"/>
+        <card number="1" name="TRIGGER OF VICTORY"/>
+        <card number="1" name="Chime of the Blessed Key (WXDi-07)"/>
+        <card number="1" name="Machina Zero"/>
+        <card number="1" name="Machina Wing Slash"/>
+        <card number="1" name="Machina Smash"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Cargo, Code: Ride"/>
+        <card number="4" name="Baphomet, Doomed Evil"/>
+        <card number="4" name="Lancelot, Crimson General (WXDi-07)"/>
+        <card number="4" name="Musca, Natural Planet"/>
+        <card number="4" name="Gull-Wing, Code: Accel"/>
+        <card number="4" name="Devil Stinger, Phantom Aquatic Beast"/>
+        <card number="4" name="Obelisk, Code: Anti"/>
+        <card number="4" name="Eckesachs, Lightly Armed"/>
+        <card number="4" name="Servant # (WXDi-07)"/>
+        <card number="4" name="Burning Calamity"/>
+    </zone>
+</cockatrice_deck>

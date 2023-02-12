@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Letti, Heavy Armed"/>
+        <card number="4" name="Romail, Lightly Armed"/>
+        <card number="4" name="Michael, Blessed Angel"/>
+        <card number="4" name="Athena, Blessed Angel"/>
+        <card number="4" name="Arc Athena, Holy Angel"/>
+        <card number="4" name="Servant # (WDi-08)"/>
+        <card number="4" name="Get Big Bible"/>
+        <card number="1" name="Arcgwyn, Blessed Angel Queen"/>
+        <card number="4" name="Haniel, Blessed Angel"/>
+        <card number="4" name="Bow, High Armed"/>
+        <card number="4" name="Aglaea, Blessed Angel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tamayorihime, Crescent Moon Miko (WDi-08)"/>
+        <card number="1" name="Tamayorihime, Half Moon Miko (WDi-08)"/>
+        <card number="1" name="Tamayorihime, Musical Moon Miko"/>
+        <card number="1" name="Hanayo, Zero (WDi-08)"/>
+        <card number="1" name="Hanayo, Camellia"/>
+        <card number="1" name="Hanayo, Orchid"/>
+        <card number="1" name="Midoriko, Battle Girl (WDi-08)"/>
+        <card number="1" name="Midoriko, Gemmation"/>
+        <card number="1" name="Midoriko, Reinforcement"/>
+        <card number="1" name="Go to the Top! (WDi-08)"/>
+        <card number="1" name="Tamayorihime, New Moon Miko (WDi08)"/>
+        <card number="1" name="Burning Curiosity (WDi-08)"/>
+    </zone>
+</cockatrice_deck>

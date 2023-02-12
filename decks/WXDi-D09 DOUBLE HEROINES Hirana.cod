@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Hirana, a Dream of a Miracle"/>
+        <card number="1" name="Hirana, a Glimpse of the Truth"/>
+        <card number="1" name="Hirana, a Step Towards the Top (WDi-09)"/>
+        <card number="1" name="Hirana, a Spark of Hope"/>
+        <card number="1" name="Tamayorihime, New Moon Miko (WDi08)"/>
+        <card number="1" name="Tama Loud Voice"/>
+        <card number="1" name="Tama Aura"/>
+        <card number="1" name="Machina Zero"/>
+        <card number="1" name="Machina Wing Slash"/>
+        <card number="1" name="Machina Smash"/>
+        <card number="1" name="Go to the Top!"/>
+        <card number="1" name="Entwined Supremacy"/>
+    </zone>
+    <zone name="main">
+        <card number="2" name="Nobunaga, Crimson General Queen"/>
+        <card number="1" name="Diabride, Natural Engagement Crystal"/>
+        <card number="2" name="Hanayo//Memoria, Natural Crystal Brilliance"/>
+        <card number="2" name="Halberd, Full Armed"/>
+        <card number="2" name="Flathro Commander, Roaring Flame"/>
+        <card number="1" name="Ereshkigal, Doomed Evil Queen"/>
+        <card number="4" name="Hera, Crimson Evil"/>
+        <card number="2" name="Fornax, Natural Planet"/>
+        <card number="2" name="Yuzuki//Memoria, Phantom Dragon"/>
+        <card number="4" name="Decarabia, Crimson Evil"/>
+        <card number="2" name="Tristan, Crimson General"/>
+        <card number="2" name="Samidare, Lightly Armed"/>
+        <card number="2" name="Eckesachs, Lightly Armed"/>
+        <card number="4" name="Romail, Lightly Armed"/>
+        <card number="2" name="Lancelot, Crimson General (WDi-09)"/>
+        <card number="4" name="Servant #"/>
+        <card number="2" name="Scythe of the Flame God"/>
+    </zone>
+</cockatrice_deck>
