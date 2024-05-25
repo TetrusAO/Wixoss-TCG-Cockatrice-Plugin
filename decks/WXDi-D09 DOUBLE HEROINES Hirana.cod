@@ -19,7 +19,7 @@
     <zone name="main">
         <card number="2" name="Nobunaga, Crimson General Queen"/>
         <card number="1" name="Diabride, Natural Engagement Crystal"/>
-        <card number="2" name="Hanayo//Memoria, Natural Crystal Brilliance"/>
+        <card number="2" name="Hanayo//Memoria, Natural Pyroxene"/>
         <card number="2" name="Halberd, Full Armed"/>
         <card number="2" name="Flathro Commander, Roaring Flame"/>
         <card number="1" name="Ereshkigal, Doomed Evil Queen"/>
@@ -33,6 +33,6 @@
         <card number="4" name="Romail, Lightly Armed"/>
         <card number="2" name="Lancelot, Crimson General (WDi-09)"/>
         <card number="4" name="Servant #"/>
-        <card number="2" name="Scythe of the Flame God"/>
+        <card number="2" name="Vulcanic Scythe"/>
     </zone>
 </cockatrice_deck>

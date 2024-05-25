@@ -7,11 +7,11 @@
         <card number="4" name="Servant D4"/>
         <card number="4" name="Highmail, Ultimate Attire"/>
         <card number="4" name="Tonfa, Ultimate Attire"/>
-        <card number="4" name="Sansetsukon, Great Attire"/>
-        <card number="4" name="Tlet, Great Attire"/>
-        <card number="4" name="Flambe, Medium Attire"/>
-        <card number="4" name="Kukri, Small Attire"/>
-        <card number="4" name="Nuncha, Small Attire"/>
+        <card number="4" name="Sansetsukon, Fully Armed"/>
+        <card number="4" name="Tlet, Fully Armed"/>
+        <card number="4" name="Flambe, High Armed"/>
+        <card number="4" name="Kukri, Lightly Armed"/>
+        <card number="4" name="Nuncha, Lightly Armed"/>
         <card number="4" name="Sword Line Ascertainment"/>
     </zone>
     <zone name="side">

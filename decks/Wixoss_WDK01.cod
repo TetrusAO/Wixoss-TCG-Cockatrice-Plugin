@@ -3,7 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" name="Crushing Your Own Bones to Ash"/>
+        <card number="1" name="Until My Bones Burn and My Body Breaks"/>
         <card number="1" name="Burning and Simmering Tension (WDK01)"/>
         <card number="1" name="Phantom Garden"/>
         <card number="1" name="With Fortitude and Roaring Vigor"/>
@@ -12,7 +12,7 @@
         <card number="1" name="Layla=Brake"/>
         <card number="1" name="Layla=Corner"/>
         <card number="1" name="Layla=Clutch"/>
-        <card number="1" name="Layla=Neutral"/>
+        <card number="1" name="Layla =Neutral="/>
     </zone>
     <zone name="main">
         <card number="4" name="Code Ride Futsuji"/>

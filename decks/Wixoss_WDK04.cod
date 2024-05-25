@@ -3,11 +3,11 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" name="Guzuko, Useless Princess (WDK04)"/>
-        <card number="1" name="Guzuko, Useless Princess of Mercy"/>
-        <card number="1" name="Guzuko, Useless Princess of Returning"/>
-        <card number="1" name="Guzuko, Useless Princess of Sorrow (WDK04)"/>
-        <card number="1" name="Guzuko, Useless Princess of the Next Dream"/>
+        <card number="1" name="Guzuko, Worthless Queen (WDK04)"/>
+        <card number="1" name="Guzuko, Worthless Queen of Mercy"/>
+        <card number="1" name="Guzuko, Worthless Queen of Returning"/>
+        <card number="1" name="Guzuko, Worthless Queen of Sorrow (WDK04)"/>
+        <card number="1" name="Guzuko, Worthless Queen of the Next Dream"/>
         <card number="1" name="Grave Awake (WDK04)"/>
         <card number="1" name="Bloody Out (WDK04)"/>
         <card number="1" name="Bad Bomber"/>
@@ -15,13 +15,13 @@
         <card number="1" name="Phantom Garden"/>
     </zone>
     <zone name="main">
-        <card number="4" name="Barabara, Large Trap"/>
-        <card number="4" name="Cheshire, Small Trap"/>
-        <card number="4" name="Clown Cannon, Small Trap"/>
-        <card number="4" name="Daisharin, Super Trap"/>
-        <card number="4" name="Dark Alice, Super Trap"/>
-        <card number="4" name="Jabberwock, Large Trap"/>
-        <card number="4" name="Mad Hatter, Medium Trap"/>
+        <card number="4" name="Barabara, Master Trickster"/>
+        <card number="4" name="Cheshire, Small Trickster"/>
+        <card number="4" name="Clown Cannon, Small Trickster"/>
+        <card number="4" name="Daisharin, Super Trickster"/>
+        <card number="4" name="Dark Alice, Super Trickster"/>
+        <card number="4" name="Jabberwock, Master Trickster"/>
+        <card number="4" name="Mad Hatter, Medium Trickster"/>
         <card number="4" name="Servant D (WX07)"/>
         <card number="4" name="Servant O4"/>
         <card number="4" name="Witch Niche"/>
