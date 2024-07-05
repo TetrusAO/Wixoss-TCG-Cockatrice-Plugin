@@ -16,7 +16,7 @@ Instructions are Windows-only and this will completely remove all Magic: the Gat
 
 6. In this GitHub webpage that contains the Wixoss plugin, click the "Wixoss TCG.xml" file in the file list.
 
-7. Right click the "Download" button, then select "Save Link As..." and save it to anywhere you can easily access later.
+7. On the right side of the screen, click the button that says "Download raw file" when hovered over using the cursor, then save the file.
 
 2. Open Start Menu, type "Folder Options", then open the "File Explorer Options" program that appears.
 
