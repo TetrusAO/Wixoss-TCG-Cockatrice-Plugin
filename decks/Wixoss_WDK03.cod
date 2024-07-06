@@ -6,19 +6,19 @@
         <card number="4" name="Connection"/>
         <card number="4" name="Servant O"/>
         <card number="4" name="Servant D4"/>
-        <card number="4" name="Tinbell, Phantom Apparition"/>
-        <card number="4" name="Peter, Phantom Apparition"/>
-        <card number="4" name="Nekomusu, Phantom Apparition"/>
-        <card number="4" name="Kyuuso, Phantom Apparition"/>
-        <card number="4" name="Nurikabe, Phantom Apparition"/>
-        <card number="4" name="Ittanmomen, Phantom Apparition"/>
-        <card number="4" name="Goblin, Phantom Apparition"/>
+        <card number="4" name="Tinbell, Phantom Spirit"/>
+        <card number="4" name="Peter, Phantom Spirit"/>
+        <card number="4" name="Nekomusu, Phantom Spirit"/>
+        <card number="4" name="Kyuuso, Phantom Spirit"/>
+        <card number="4" name="Nurikabe, Phantom Spirit"/>
+        <card number="4" name="Ittanmomen, Phantom Spirit"/>
+        <card number="4" name="Goblin, Phantom Spirit"/>
     </zone>
     <zone name="side">
         <card number="1" name="Midoriko, Golden Girl Type Two"/>
         <card number="1" name="Midoriko, Golden Girl Type One"/>
         <card number="1" name="Midoriko, Golden Combat Girl Type Three"/>
-        <card number="1" name="Midoriko, Combat Girl (WDK03)"/>
+        <card number="1" name="Midoriko, Battle Girl (WDK03)"/>
         <card number="1" name="Midoriko, Bond Girl Type Four"/>
         <card number="1" name="Hanayo, Acting in Perfect Harmony"/>
         <card number="1" name="Realization of a Great Ambition"/>
