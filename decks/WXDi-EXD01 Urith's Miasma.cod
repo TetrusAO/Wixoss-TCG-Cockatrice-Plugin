@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Urith, Enma (WXi-06)"/>
+        <card number="1" name="Urith, Burning Enma (WXi-06)"/>
+        <card number="1" name="Urith, Fatal Enma (WXi-06)"/>
+        <card number="1" name="Urith, Maniacal Enma (WXDi-EXD01)"/>
+        <card number="1" name="Akino, Bound for the Future"/>
+        <card number="1" name="Akino＊Rock"/>
+        <card number="1" name="Akino＊Bye-Bye!"/>
+        <card number="1" name="Newborn Dr. Tamago"/>
+        <card number="1" name="Tamago =Beating="/>
+        <card number="1" name="Tamago =Cymbal Roll="/>
+        <card number="1" name="Miasma Labyrinth"/>
+        <card number="1" name="Never Surrender"/>
+    </zone>
+    <zone name="main">
+        <card number="2" name="Phalaris, Code: Ancients (WXDi-EXD01)"/>
+        <card number="2" name="Dark Energie, Full Armed"/>
+        <card number="2" name="Dragon Maid, Phantom Dragon Queen"/>
+        <card number="2" name="Izo, Doomed General"/>
+        <card number="2" name="Anna Mirage, Doomed Evil"/>
+        <card number="3" name="Curson, Blessed Evil"/>
+        <card number="2" name="Brutus, Doomed General"/>
+        <card number="2" name="Caesar, Wicked General"/>
+        <card number="2" name="Typhon, Doomed Evil"/>
+        <card number="3" name="Buckler, High Armed"/>
+        <card number="4" name="Ronove, Azure Evil"/>
+        <card number="2" name="Karasawa, Doomed General"/>
+        <card number="4" name="Baphomet, Doomed Evil"/>
+        <card number="2" name="Mastema, Blessed Doomed Angel"/>
+        <card number="4" name="Servant # (Urith)"/>
+        <card number="2" name="Reticle Digger"/>
+    </zone>
+</cockatrice_deck>
