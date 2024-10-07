@@ -3,11 +3,11 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" name="Carnival †QA† "/>
-        <card number="1" name="Carnival †TA† "/>
-        <card number="1" name="Carnival †SA† "/>
-        <card number="1" name="Carnival †PA† "/>
-        <card number="1" name="Carnival †0† "/>
+        <card number="1" name="Carnival †QA†"/>
+        <card number="1" name="Carnival †TA†"/>
+        <card number="1" name="Carnival †SA†"/>
+        <card number="1" name="Carnival †PA†"/>
+        <card number="1" name="Carnival †0†"/>
         <card number="1" name="Fate Struggle"/>
         <card number="1" name="Bad End"/>
         <card number="1" name="Tactical Punish"/>
