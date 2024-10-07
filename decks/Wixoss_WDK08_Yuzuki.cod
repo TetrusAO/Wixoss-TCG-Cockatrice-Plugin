@@ -5,13 +5,13 @@
     <zone name="main">
         <card number="4" name="Servant D4"/>
         <card number="4" name="Servant O (WD15)"/>
-        <card number="4" name="Spino, Water Phantom"/>
-        <card number="4" name="Dunkleteus, Water Phantom"/>
-        <card number="4" name="Kababan, Water Phantom"/>
-        <card number="4" name="Glasses Crocodile, Water Phantom"/>
-        <card number="4" name="Amakero, Water Phantom"/>
-        <card number="4" name="Water Buffalo, Water Phantom"/>
-        <card number="4" name="Keromodoki, Water Phantom"/>
+        <card number="4" name="Spino, Phantom Aquatic Beast"/>
+        <card number="4" name="Dunkleteus, Phantom Aquatic Beast"/>
+        <card number="4" name="Kababan, Phantom Aquatic Beast"/>
+        <card number="4" name="Glasses Crocodile, Phantom Aquatic Beast"/>
+        <card number="4" name="Tree Ribbit, Phantom Aquatic Beast"/>
+        <card number="4" name="Water Buffalo, Phantom Aquatic Beast"/>
+        <card number="4" name="Keromodoki, Phantom Aquatic Beast"/>
         <card number="4" name="Cutting Stab"/>
     </zone>
     <zone name="side">
