@@ -6,7 +6,7 @@ Welcome, and thank you for downloading this package for Wixoss TCG. This downloa
 
 I do not own anything related to the Wixoss franchise, including its anime series, trading card game, manga, and any other form of product or service. This is a package containing information that is readily available through multiple public sources on the internet. Everything included here is done without profit and solely to help bring personal enjoyment and spread awareness of the great game that is Wixoss TCG.
 
-**Directions for first time install [Cockatrice](https://cockatrice.github.io/):**
+**Directions for install [Cockatrice](https://cockatrice.github.io/):**
 
 Instructions are Windows-only and this will completely remove all Magic: the Gathering card data from the program. If you want to keep MTG around, follow the official Cockatrice Wiki [article](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) for custom set functionality, under the "to add custom sets follow these steps" section.  
 
@@ -14,55 +14,17 @@ Instructions are Windows-only and this will completely remove all Magic: the Gat
 
 2. Open Cockatrice.  If the program tells you it's going to run Oracle, let it do so.
 
-6. In this GitHub webpage that contains the Wixoss plugin, click the "Wixoss TCG.xml" file in the file list.
+3. In Oracle, click next until you reach "Source Selection".
 
-7. On the right side of the screen, click the button that says "Download raw file" when hovered over using the cursor, then save the file.
+4. Clear/Empty the "Download URL" field
 
-2. Open Start Menu, type "Folder Options", then open the "File Explorer Options" program that appears.
+5. Copy this URL, and paste it into the now empty "Download URL" field:  "https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/refs/heads/master/customsets/Wixoss%20TCG.xml"
 
-3. Click the "View" tab, then under the "Hidden files and folders" section, select "Show hidden files, folders, and drives."
+6. Click next until Oracle finishes.
 
-4. Close File Explorer Options.
+7. Wixoss is now added to Cockatrice. Enjoy!
 
-5. In Cockatrice, head to Card Database -> Manage Sets.  You should see a bunch of sets for Magic: the Gathering listed.
-
-6. Click "Disable all sets",  then click a checkbox on exactly one set in the set list to re-enable it. Make a note of what you enabled here.
-
-7. Close the "Manage Sets" window.
-
-8. Go back into Card Database, then "Open custom sets folder."
-
-9. Move the Wixoss TCG.xml file you downloaded from this GitHub page into this folder.
-
-10. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
-
-11. Delete cards.xml
-
-12. Close Cockatrice, then reopen it. It will show a new prompt showing a bunch of sets being added and is asking if you want to enable them or not. Click yes to that.
-
-13. Go to Card Database -> Manage Sets.  Find the set you re-enabled in step 6 and disable it again.  Close the window.
-
-13. Wixoss is fully added to Cockatrice. Enjoy! 
-
--- **Directions for updating the plugin for new content updates:** --
-
-1. In this GitHub webpage that contains the Wixoss plugin, click the "Wixoss TCG.xml" file in the file list.
-
-2. Right click the "Download" button, then select "Save Link As..." and save it to anywhere you can easily access later.
-
-3. In Cockatrice, go to Card Database -> Open Custom Sets folder
-
-4. Move the newly downloaded Wixoss TCG.xml you got from step 2 into this folder.  If it asks you to replace the old Wixoss TCG.xml with it, say yes.
-
-5. Close the custom sets window.
-
-6. Back in Cockatrice, go into Card Database -> Open custom image folder.
-
-7. Click "pics" on the address bar above the folder contents. You should see two folders names "CUSTOM" and "downloadedPics"
-
-8. Delete "downloadedPics".  This will tell Cockatrice to redownload these images upon encountering them in the client again, letting you see any new changes to the image files I made on my end.
-
-9. Your Wixoss plugin is now fully updated.  Enjoy the new cards and images!
+Note:  This process will still download a tokens.xml file in addition to the Wixoss file.  If this is not desired, click Cancel instead of Next when Oracle asks to download tokens.  If tokens.xml was already downloaded, the file can be deleted within Cockatrice's folder.  This can be accessed through the Cockatrice client by Card Database -> Open Custom Sets Folder, then going back one folder.  tokens.xml will be located there and can be deleted as you like.
 
 
 -- **Some useful functions to help operate Wixoss TCG on Cockatrice** --
